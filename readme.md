@@ -9,6 +9,25 @@ R2Smesh developed in KIT/INR in 2005 (?) -- 2014.
 A short recipe how to start calculations can be found in the
 [recipe](doc/recipe.rst) and [deploy](/deploy.rst).
 
+# Examples
+
+## Artificial neutron flux distribution
+Test only the driver. The DGS distribution must repeat the neutron flux intensity profile. Consider several sets that differ only with mesh size.
+
+Purpose: Verify that different mesh configurations (equi-distant, with changing mesh element sizes, with non-coincident intensity and spectra meshes) provide the saem result
+
+
+## Inventory calcs with steady-state
+
+Test inventory calculations.
+  
+  2. Simple irradiation scenario (long irradiation with constant flux where isotopic composition reaches steady-state that can be solved as an algebraic equation, followed by enough after-shutdown time to see exponential decay)
+  
+  3. Single material with simple isotopic content to minimize number of isotopes to take into account for the steady-state calcs
+
+Neutron flux is spatially homogeneous, only one non-zero energy group flux.
+
+
 
 
 # Note for collaborators
