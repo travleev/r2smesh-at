@@ -102,10 +102,10 @@ module meshtal
             character (len=50):: l
 
             ! find where the next tally starts
-            l = get_line(fn, 'Mesh Tally Number', len(l))
-            i = index(l, 'r')
+            l = get_line(fn, 'Mesh Tally Number', len(l))  ! get line with tally number
+            i = index(l, 'r')                              ! get position of the tally number
             if (i > 0) then
-                read(l(i+1:), *) n
+                read(l(i+1:), *) n                         ! read tally number
             else
                 write(*, *) 'Cannot read tally number from line'
                 write(*, *) l
@@ -113,7 +113,7 @@ module meshtal
             end if
 
             ! read bin boundaries
-            l = get_line(fn, 'Tally bin boun', 50)
+            l = get_line(fn, 'Tally bin boun', len(l))
             x = read_bin_boundaries(fn, 'X direction', 10000)
             y = read_bin_boundaries(fn, 'Y direction', 10000)
             z = read_bin_boundaries(fn, 'Z direction', 10000)
