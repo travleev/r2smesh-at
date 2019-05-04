@@ -7,10 +7,10 @@ scr="$r2s_scratch"/r2s_r                 # Scratch foder, where resulting tab4 f
 scw="$r2s_scratch"/r2s_w                 # Scratch foder, where parts of the inventory input are written by the driver 
 
 
-rm "$scr"/tab4.$1.$2.$3
-rm -rf "$wdr"
-rm "$scw"/mat.content.$1.$2.$3 \
-   "$scw"/scenario.$1.$2.$3 
+[ -z "$r2s_debug" ] && rm "$scr"/tab4.$1.$2.$3
+[ -z "$r2s_debug" ] && rm -rf "$wdr"
+[ -z "$r2s_debug" ] && rm "$scw"/mat.content.$1.$2.$3 
+[ -z "$r2s_debug" ] && rm "$scw"/scenario.$1.$2.$3 
 
 
 exit 0

@@ -133,6 +133,13 @@ export r2s_collapse_s2=$r2s_scripts/collapse_s2.sh
 export r2s_inventory_s1=$r2s_scripts/inventory_s1.sh
 export r2s_inventory_s2=$r2s_scripts/inventory_s2.sh
 
+# The above scripts remove temporary files by default. If the content of the temporary
+# files is needed after completion of the adriver, set the r2s_debug variable to any non-zero
+# string.
+r2s_debug=""     # no debugging. Temporary files will be deleted
+# r2s_debug="yes"  # temporary files will remain.
+export r2s_debug
+
 # Path to scratch folders. 
 # The driver communicates with fispact via external files. Parts of fispact
 # input files (neutorn flux, material composition, irradiation scenario) are
@@ -263,7 +270,7 @@ r2s_scratch=`realpath $r2s_scratch`
 # script.
 # TODO: add ``run_adriver.sh`` script that has two steps: sources this file and runs adriver.
 mkdir -p $r2s_scratch
-r2s_scratch=`mktemp -d --tmpdir=$r2s_scratch -t r2s.XXXX`
+r2s_scratch=`mktemp -du --tmpdir=$r2s_scratch -t r2s.XXXX`
 
 
 
