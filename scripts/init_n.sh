@@ -23,12 +23,13 @@ cp -v "$(realpath ./cond/arrayx)"   "$r2s_scratch"/r2s_r/arrayx          >> init
 
 cp -rv "$r2s_fispact_data"          "$r2s_scratch"/r2s_r/fispact-data    >> init_n.$n.log
 
-cp -v "$r2s_collapse_files"         "$r2s_scratch"/r2s_r/collapse_files  >> init_n.$n.log
-cp -v "$r2s_collapse_input"         "$r2s_scratch"/r2s_r/collapse_input  >> init_n.$n.log
+cp -v "$r2s_collapse_files"         "$r2s_scratch"/r2s_r/collapse_files    >> init_n.$n.log
+cp -v "$r2s_collapse_input_1"       "$r2s_scratch"/r2s_r/collapse_input_1  >> init_n.$n.log
+cp -v "$r2s_collapse_input_2"       "$r2s_scratch"/r2s_r/collapse_input_2  >> init_n.$n.log
 
 cp -v "$r2s_inventory_files"         "$r2s_scratch"/r2s_r/inventory_files  >> init_n.$n.log
 cp -v "$r2s_inventory_input_header"  "$r2s_scratch"/r2s_r/header           >> init_n.$n.log
-cp -v "$r2s_inventory_input_footer" "$r2s_scratch"/r2s_r/footer            >> init_n.$n.log
+cp -v "$r2s_inventory_input_footer"  "$r2s_scratch"/r2s_r/footer            >> init_n.$n.log
 
 exit 0
 

@@ -115,7 +115,8 @@ export r2s_fispact_data
 # before material composition and irradiation scenario) is problem-independent. 
 export r2s_condense_input=$r2s_root/files/condense_input
 export r2s_condense_files=$r2s_root/files/condense_files
-export r2s_collapse_input=$r2s_root/files/collapse_input
+export r2s_collapse_input_1=$r2s_root/files/collapse_input_1
+export r2s_collapse_input_2=$r2s_root/files/collapse_input_2
 export r2s_collapse_files=$r2s_root/files/collapse_files
 export r2s_inventory_input_header=$r2s_root/files/inventory_input_header
 export r2s_inventory_files=$r2s_root/files/inventory_files

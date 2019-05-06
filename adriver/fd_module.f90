@@ -5,7 +5,7 @@ module fispactdriver
     use proc
     use matcomp
     use matall
-    use meshtal, only: vf, vc
+    use meshtal, only: vf, ec, vc
     use gen, only: to_lower, read_line, get_line, get_file_name
    
     character (len=2), dimension(112), parameter:: f_name =            & 
@@ -323,12 +323,20 @@ module fispactdriver
 
         n = size(vc(:, i, j, k, 1))
         ! standard spectrum filename
-        fname = r2s_scratch // ijk2str('/r2s_w/fluxes', ".", (/i, j, k/))
+        fname = r2s_scratch // ijk2str('/r2s_w/arb_flux', ".", (/i, j, k/))
         call report_file_name('Writing spectrum to', fname)
         open(pr_scw, file=fname)
+        write(pr_scw, *) (ec(l) * 1e6, l = n, 1, -1)          ! arb_flux contains N+1 entries (N number of groups), the highest first, in eV. 
         write(pr_scw, *) (vc(l, i, j, k, 1), l = n-1, 1, -1)  ! vc contains also the total value, which is not needed here
         write(pr_scw, *) 1.0          ! First wall loading. Does not matter (?)
         write(pr_scw, *) 'Spectrum for ', i, j, k, ' written' 
+        close(pr_scw)
+
+        ! Part of collapse input with GRPCONVERT keyword
+        fname = r2s_scratch // ijk2str('/r2s_w/grpconvert', ".", (/i, j, k/))
+        call report_file_name('Writing spectrum to', fname)
+        open(pr_scw, file=fname)
+        write(pr_scw, *) 'GRPCONVERT ', n-1, ' 175'   ! the use of 175 groups fusion XS is currently hardcoded
         close(pr_scw)
 
         ! Prepare the script command:

@@ -5,6 +5,9 @@ MONITOR 1
 
 PROJECTILE 1
 
+<< TODO: how to put here number of custom neutron groups? >>
+GRPCONVERT __ 175
+
 GETXS 1 175 
 
 FISPACT

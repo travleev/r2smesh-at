@@ -4,6 +4,7 @@ crossec  ./fispact-data/EAF2010data/eaf_n_gxs_175_fus_20100
 crossunc ./fispact-data/EAF2010data/eaf_un_20100
 
 # This name is currently hardcoded. Do not change
+arb_flux arb_flux
 fluxes fluxes 
 
 collapxo collapx
