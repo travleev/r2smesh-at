@@ -244,12 +244,19 @@ module meshtal
                 allocate(bl(0))
                 return
             else
+                ! read all boundaries
                 i = index(ll, ':') + 1
+                ! Boundaries are alwyas given in increasing order, therefore for the 1-st
+                ! boundary V,  V-1 will never appear in the list of boundaries. This fact
+                ! is used to find the number of bin boundaries actually read by ``*`` format
+                ! untill the IO error. 
                 read(ll(i:), *) dummy
                 dummy = dummy - 1.0
                 lbl = dummy
                 read(ll(i:), *, iostat=j) lbl
                 n = count(lbl /= dummy)
+                ! TODO: n == Nmax means that Nmax was not enough. Can one in this case call
+                ! read_bin_boundaries recursively?
                 allocate(bl(n))
                 bl(:n) = lbl(:n)
                 return
