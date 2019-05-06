@@ -1,0 +1,13 @@
+ Mesh Tally Number        14
+ This is a neutron mesh tally.
+
+ Tally bin boundaries:
+    X direction:    -10.00     10.00
+    Y direction:    -10.00     10.50
+    Z direction:    -10.00     10.00
+    Energy bin boundaries: 0.00E+00 1.00E-07  1.96E+01
+
+   Energy         X         Y         Z     Result     Rel Error
+  1.000E-07     0.000     0.000     0.000 1.00000E+00 0.00000E+00
+  1.960E+01     0.000     0.000     0.000 1.00000E+00 0.00000E+00
+   Total        0.000     0.000     0.000 1.00000E+00 0.00000E+00
