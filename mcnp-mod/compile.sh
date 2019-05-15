@@ -71,6 +71,17 @@ case $host in
         module load compiler/intel/17.0 mpi/impi/2017
         export FOPT="-shared-intel" 
         ;;
+    "localX220")
+        # Local ubuntu with intel fortran
+        export MPIFC=`which mpif90`
+        export MPICC=`which mpicc`
+        export OMPI_FLAGS=""
+        export FOPT="-shared-intel"
+        export FC=`which ifort`
+        export CC=`which icc`
+        export CONFIG="mpi omp  plot intel"
+        export premake="premake2"
+        ;; 
     *)
         # unknown cluster. 
         export CONFIG=""
@@ -84,6 +95,8 @@ if [[ -n $CONFIG ]]; then
 
     # Store current module configuration to log
     module list 2>&1 | tee $log
+    # Dump all make variables
+    make build -pn    2>&1 | tee -a $log
     # run make
     make  build "$@"  2>&1 | tee -a $log
 
