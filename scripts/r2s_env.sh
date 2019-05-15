@@ -249,9 +249,11 @@ export r2s_inventory_input_footer=$r2s_input/inventory_input_footer
 
 # All default values can be changed in the local script, which is sourced here
 echo "************************************************************"
-if [ -r ./r2s_env_local.sh ]; then
-    source ./r2s_env_local.sh
-    echo "Local configuration file is sourced: `realpath ./r2s_env_local.sh`"
+local=`realpath ${1:-"./r2s_env_local.sh"}`
+if [ -r "$local" ]; then
+    shift
+    source "$local" $@
+    echo "Local configuration file is sourced: $local $@" 
 fi    
 
 # Ensure that absolute path for scratch is used
