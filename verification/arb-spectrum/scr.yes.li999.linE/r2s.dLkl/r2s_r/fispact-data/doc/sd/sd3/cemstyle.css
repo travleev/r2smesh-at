@@ -1,0 +1,91 @@
+/* 
+  ================================================
+  based on css fromn www.projectseven.com
+  ================================================
+*/
+body {
+	background-color: #ddeeff;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	margin: 50px 8% 0 264px;
+	padding: 0px;
+}
+#sidebar {
+	position: absolute;
+	left: 40px;
+	top: 105px;
+	width: 150px;
+	font-size: 1.0em;
+}
+#sidebar h3 {
+	font-size: 1.2em;
+}
+#logoDiv {
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	z-index: 1;
+}
+
+#contentdiv {
+	line-height: 1.5;
+        padding-top: 20px;
+	font-size: 1.0em;
+        color: #445566;
+}
+#contentdiv p {
+        font-weight: bolder;
+}
+h1, h2, h3 {
+	margin: 0 0 6px;
+	color: #0000b0;
+}
+h3 {
+	margin-top: 16px;	
+}
+p {
+	margin: 0px 0px 16px;
+}
+dt { font-weight:bold;
+	color: #0000b0;
+ }
+#footer {
+	font-size: .6em;
+	margin-top: 36px;
+        text-align: right;
+}
+/*
+menu bar STYLES Begin here:
+*/
+#navlist {
+        margin: 0; /*removes indent IE and Opera*/
+        padding: 0; /*removes indent Mozilla and NN7*/
+        list-style-type: none; /*turns off display of bullet*/
+}
+#navlist a, #navlist a:visited {
+	display: block; /*make entire box clickable */
+	padding: 2px 2px 2px 24px; /* space around text */
+	border: 2px solid; /* button border */
+	border-color: #ddd #000 #000 #ddd;
+	background-color: #b9dbd7;
+	background-image:  url(cem_down.jpg);
+	background-repeat: no-repeat;
+	background-position: 0% 50%;
+	color: #0000b0;
+	text-decoration: none;
+}
+#navlist a:hover {
+	background-color: #0000b0;
+	background-image:  url(cem_over.jpg);
+	color: #b9dbd7;
+}
+#sidebar #navlist .cemlink {
+	background-color: #0000b0;
+	background-image:  url(cem_over.jpg);
+	background-repeat: no-repeat;
+	background-position: 0% 50%;
+	color: #b9dbd7 !important;
+	font-weight: bold;
+	cursor: default;
+}
+

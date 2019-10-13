@@ -1,0 +1,15 @@
+#!/bin/bash
+# filter to convert fortran carriage controls 0 to lf and 1 to ff
+# and to remove leading space character
+
+# converts arg file to ps and write to stdout
+
+# to use this filter to convert file my.out to postscript my.ps type
+# fp myout|cat > my.ps
+
+# to print file on postscript printer clj
+# fp my.out | lpr -Pclj
+
+sed -e 's/^ //' -e 's/^1/\cL/' -e 's/^0/\cJ/' < $1| \
+a2ps --prol=fixed --columns=1 --rows=1 -l 150 -L 66 -M a4 \
+--center-title=$1 --footer="Fispact-II output" -o -

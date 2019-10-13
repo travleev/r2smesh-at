@@ -1,0 +1,98 @@
+
+ LOG FILE: condense.log
+
+ 13:31:32 22 May 2019            
+
+ Log  : FILES file = files
+ Log  : fileroot   = condense
+
+
+ ------------------------------------------------------------------
+ Files specified by the FILES file and fileroot for this run.
+ ------------------------------------------------------------------
+ The numbers after the unit names are the internal unit numbers.
+
+ input( 5)       condense.i
+ asscfy( 8)      ./fispact-data/EAF2010data/eaf_n_asscfy_20100
+ fissyld( 9)     ./fispact-data/EAF2007data/eaf_n_fis_20070
+ graph(10)       condense.gra
+ arrayx(13)      arrayx
+ gnuplot(15)     condense.plt
+ decay(16)       ./fispact-data/EAF2010data/eaf_dec_20100.001
+                 ./fispact-data/EAF2010data/eaf_dec_20100.002
+                 ./fispact-data/EAF2010data/eaf_dec_20100.003
+                 ./fispact-data/EAF2010data/eaf_dec_20100.004
+                 ./fispact-data/EAF2010data/eaf_dec_20100.005
+                 ./fispact-data/EAF2010data/eaf_dec_20100.006
+                 ./fispact-data/EAF2010data/eaf_dec_20100.007
+                 ./fispact-data/EAF2010data/eaf_dec_20100.008
+                 ./fispact-data/EAF2010data/eaf_dec_20100.009
+                 ./fispact-data/EAF2010data/eaf_dec_20100.010
+ ind_nuc(18)     ./fispact-data/EAF2010data/eaf_index_20100
+ output(38)      condense.out
+ tab1(44)        condense.tab1
+ tab2(45)        condense.tab2
+ tab3(46)        condense.tab3
+ tab4(47)        condense.tab4
+ runlog(48)      condense.log
+ sens(50)        condense.sens
+ xs_endfb(55)    condense.bin
+ ------------------------------------------------------------------
+
+
+ CLOBBER
+ MONITOR 1
+ SAVELINES
+ NOFISS
+ NOHEADER
+ GETDECAY 1
+ FISPACT
+ * Condense decay data
+  load decay data
+  run reset cross-section
+ END
+ * Condense calculations
+  run closedown
+  deallocate and closedown
+
+
+ ------------------------------------------------------------------
+ Files that have been opened during this run.
+ ------------------------------------------------------------------
+ The numbers after the unit names are the internal unit numbers.
+
+ input( 5)       condense.i
+ arrayx(13)      arrayx
+ decay(16)       ./fispact-data/EAF2010data/eaf_dec_20100.001
+                 ./fispact-data/EAF2010data/eaf_dec_20100.002
+                 ./fispact-data/EAF2010data/eaf_dec_20100.003
+                 ./fispact-data/EAF2010data/eaf_dec_20100.004
+                 ./fispact-data/EAF2010data/eaf_dec_20100.005
+                 ./fispact-data/EAF2010data/eaf_dec_20100.006
+                 ./fispact-data/EAF2010data/eaf_dec_20100.007
+                 ./fispact-data/EAF2010data/eaf_dec_20100.008
+                 ./fispact-data/EAF2010data/eaf_dec_20100.009
+                 ./fispact-data/EAF2010data/eaf_dec_20100.010
+ ind_nuc(18)     ./fispact-data/EAF2010data/eaf_index_20100
+ output(38)      condense.out
+ runlog(48)      condense.log
+ ------------------------------------------------------------------
+
+
+ Log  :                 fispact run time  =  0.93328     secs
+ Log  :                 rateeq_init_flux  =  0.10000E-05 secs
+ Log  :                rateeq_irrad_step  =  0.10000E-05 secs
+ Log  :                 rateeq_cool_step  =  0.10000E-05 secs
+ Log  :            output_inventory_step  =  0.10000E-05 secs
+ Log  :                    pathways_step  =  0.10000E-05 secs
+ Log  :                 sensitivity_step  =  0.10000E-05 secs
+
+
+  Error Summary 
+ ------------- 
+  total number of errors/warnings   =      0
+  number of serious errors/warnings =      0
+ 13:31:33 22 May 2019            
+
+ END OF LOG FILE
+

@@ -1,0 +1,83 @@
+
+ LOG FILE: collapse.log
+
+ 14:13:14 22 May 2019            
+
+ Log  : FILES file = files
+ Log  : fileroot   = collapse
+
+
+ ------------------------------------------------------------------
+ Files specified by the FILES file and fileroot for this run.
+ ------------------------------------------------------------------
+ The numbers after the unit names are the internal unit numbers.
+
+ arb_flux( 3)    arb_flux
+ input( 5)       collapse.i
+ crossunc( 7)    ./fispact-data/EAF2010data/eaf_un_20100
+ graph(10)       collapse.gra
+ gnuplot(15)     collapse.plt
+ collapxo(17)    collapx
+ ind_nuc(18)     ./fispact-data/EAF2010data/eaf_index_20100
+ crossec(19)     ./fispact-data/EAF2010data/eaf_n_gxs_175_fus_20100
+ fluxes(20)      fluxes
+ output(38)      collapse.out
+ tab1(44)        collapse.tab1
+ tab2(45)        collapse.tab2
+ tab3(46)        collapse.tab3
+ tab4(47)        collapse.tab4
+ runlog(48)      collapse.log
+ sens(50)        collapse.sens
+ xs_endfb(55)    collapse.bin
+ ------------------------------------------------------------------
+
+
+ CLOBBER
+ MONITOR 1
+ PROJECTILE 1
+ GRPCONVERT 1001 175
+ GETXS 1 175
+ FISPACT
+ * Collapse with spectrum
+  load cross-sections
+  run reset cross-section
+ END
+ * End of collapsing
+  run closedown
+  deallocate and closedown
+
+
+ ------------------------------------------------------------------
+ Files that have been opened during this run.
+ ------------------------------------------------------------------
+ The numbers after the unit names are the internal unit numbers.
+
+ arb_flux( 3)    arb_flux
+ input( 5)       collapse.i
+ crossunc( 7)    ./fispact-data/EAF2010data/eaf_un_20100
+ collapxo(17)    collapx
+ ind_nuc(18)     ./fispact-data/EAF2010data/eaf_index_20100
+ crossec(19)     ./fispact-data/EAF2010data/eaf_n_gxs_175_fus_20100
+ fluxes(20)      fluxes
+ output(38)      collapse.out
+ runlog(48)      collapse.log
+ ------------------------------------------------------------------
+
+
+ Log  :                 fispact run time  =   1.4543     secs
+ Log  :                 rateeq_init_flux  =  0.10000E-05 secs
+ Log  :                rateeq_irrad_step  =   0.0000     secs
+ Log  :                 rateeq_cool_step  =   0.0000     secs
+ Log  :            output_inventory_step  =   0.0000     secs
+ Log  :                    pathways_step  =   0.0000     secs
+ Log  :                 sensitivity_step  =   0.0000     secs
+
+
+  Error Summary 
+ ------------- 
+  total number of errors/warnings   =      0
+  number of serious errors/warnings =      0
+ 14:13:15 22 May 2019            
+
+ END OF LOG FILE
+

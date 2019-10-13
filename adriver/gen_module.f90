@@ -133,7 +133,7 @@ module gen
             character (len=:), allocatable:: l
 
             integer i, n
-            character (len=10000)::  c
+            character (len=20000)::  c  ! Original length of 1e4 is not enough for 999 energy groups
             ! get the line length
             n = 1
             i = 0

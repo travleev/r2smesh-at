@@ -1,0 +1,1021 @@
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<!-- page search metainformation  -->
+<meta name="author" content="Culham Electromagnetics Limited" />
+<meta name="description" content="CEM/120504/sd/sd5/Issue 7, Culham Electromagnetics Limited, Culham Science Centre, Abingdon, Oxfordshire, OX14 3DB, UK" />
+<meta name="keywords" content="Culham Electromagnetics software" />
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+<link href="./doc/sd/sd3/ccfe.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="./doc/sd/sd3/cempage.js"></script>
+<!--[if IE 5]>
+<style>#navlist a {float: left; clear: both; width: 100%;}</style>
+<![endif]-->
+<!--[if lte IE 6]>
+<style>#navlist a {height: 1%;}</style>
+<![endif]-->
+    <title>EASY-II Release-2-20</title>
+<script type="text/javascript">
+function bigImg(x)
+{
+x.style.height="550px";
+x.style.width="900px";
+}
+
+function normalImg(x)
+{
+x.style.height="32px";
+x.style.width="50px";
+}
+
+function overImg(x)
+{
+x.style.height="48px";
+x.style.width="75px";
+}
+</script>
+  </head>
+
+  <body>
+<!-- ==================================================================== -->
+<!-- revision information -->
+<!--      $Date: 2014/09/11 17:20:10 $ -->
+<!--      $Name: Release-2-20-01 $ -->
+<!--      $RCSfile: index.html,v $ -->
+<!--      $Revision: 1.32 $ -->
+<!-- ==================================================================== -->
+
+<!--              Main page panel                                    -->      
+<!-- Title banner-->
+<div style="width:100%">
+<img  src="./doc/sd/sd3/Authoritycol.jpg" width="170" alt="UKAEA Logo" />
+
+<img  src="./doc/sd/sd3/CCFElowres.jpg" width="250" alt="CCFE Logo" align="right" />
+</div>
+
+<div>
+      <center>
+      <hr />
+      <h1>
+        <font face="Helvetica, Arial, sans-serif">
+EASY-II Release-2-20-01
+      </font> </h1>
+<h2>James Eastwood<br />Guy Morgan</h2>
+
+<h3><a href="http://www.culhamem.co.uk">Culham Electromagnetics Limited</a>, <br />
+Culham Science Centre, Abingdon, Oxfordshire, OX14 3DB, UK</h3>
+<h3><a href="mailto:james.eastwood@culhamem.co.uk">James.Eastwood@CulhamEM.co.uk</a>
+<br />
+<a href="mailto:guy.morgan@culhamem.co.uk">Guy.Morgan@CulhamEM.co.uk</a><br />&nbsp;
+      </h3>
+
+<h2>Jean-Christophe Sublet</h2>
+<h3><a href="http://www.ccfe.ac.uk/EASY.aspx">UK Atomic Energy Authority</a>, <br />
+Culham Science Centre, Abingdon, Oxfordshire, OX14 3DB, UK </h3>
+<h3>
+Tel: +44 1235 466400<br />
+<a href="mailto:Jean-Christophe.Sublet@ccfe.ac.uk">Jean-Christophe.Sublet@ccfe.ac.uk</a>
+</h3>
+<h3> August 2014</h3>
+</center>
+
+
+<hr />
+<pre>
+!begin rubric
+!******************************************************************************
+!*                          COMMERCIAL IN CONFIDENCE                          *
+!*                         UK Atomic Energy Authority                         *
+!*                                   and                                      *
+!*                         Culham Electromagnetics Ltd                        *
+!*                                                                            *
+!*                                FISPACT-II                                  *
+!*                                                                            *
+!******************************************************************************
+!*                                                                            *
+!* This is an unpublished work created in 2009-14, any copyright in which     *
+!* vests in the UK Atomic Energy Authority, Culham Centre for Fusion Energy   *
+!* (CCFE) and in Culham Electromagnetics Limited (CEM). All rights reserved.  *
+!*                                                                            *
+!* The information contained in this software is proprietary to CCFE and CEM. *
+!* Unless stated otherwise it is made available in confidence; it must not be *
+!* used or disclosed without the express written consent of CCFE and CEM.     *
+!* This document may not be copied in whole or in part in any form without    *
+!* the express written consent of CCFE and CEM.                               *
+!*                                                                            *
+!* Authors: James Eastwood and Guy Morgan                                     *
+!* James.Eastwood@CulhamEM.co.uk, Guy.Morgan@CulhamEM.co.uk,                  *
+!* Copyright (c) 2009-14, CCFE and Culham Electromagnetics Ltd.               *
+!******************************************************************************
+!
+!--------------------------------------------------------------------------
+!! *Revision Information*
+!!
+!!     - $Date: 2014/09/11 17:20:10 $
+!!     - $Name:  Release-2-20-01 $
+!!     - $RCSfile: index.html,v $
+!!     - $Revision: 1.32 $
+!!
+
+!--------------------------------------------------------------------------
+!end rubric
+</pre>
+<hr  />
+      
+</div>
+<!--=================================================================-->  
+<div align="left">
+<h2>Introduction</h2>
+
+<p> This medium contains an export of the Release-2-20 tagged version
+of EASY-II, and comprises nuclear data libraries, the FISPACT-II
+program for inventory and transmutation calculations, some support
+programs and scripts and a set of sample input and output data
+sets. This export contains the latest versions of the program
+executables for Unix, Linux, Windows and Mac-OSX systems, example test
+programs and reference results for those tests.
+</p>
+
+<p>
+Release-2-20 differs from the Release-2-10 code in that
+</p>
+<ul>
+<li> the code can read the TENDL-2013, ENDF/B-VII.1, JEFF-3.2 and JENDL-4.0u 
+	  nuclear data libraries including covariance as well as the
+     TENDL-2012, and the older EAF-2010, EAF-2007 and EAF-2003 libraries</li>
+<li> the code can read compressed binary versions the above ENDF format 
+libraries that are created by the
+subsidiary code <tt>compress_xs_endf</tt> </li>
+<li> some new keywords have been added </li>
+<li> some new tests for the TENDL-2013, ENDF/B-VII.1, JEFF-3.2 and JENDL-4.0u 
+ data libraries have been added</li>
+<li> amendments and bug fixes have been made to the documentation
+     and code in response to developer and user feedback</li>
+</ul>
+
+<p>
+FISPACT-II contains modules to
+</p>
+<ul>
+<li> log errors</li>
+<li> measure and report cpu usage</li>
+<li> read and syntax check the INPUT files </li>
+<li> read, collapse and store cross-section data from the EAF or TENDL libraries</li>
+<li> read, process and store decay and fission data from the EAF or TENDL libraries</li>
+<li> read and store the collapsed cross-section data from COLLAPX </li>
+<li> read and store condensed decay and fission data from ARRAYX </li>
+<li> read and store regulatory data (transport, hazards and clearance)</li>
+<li> act on all of the keywords from INPUT (<em>Note that some new keywords have been
+added and the actions of some of the old keywords have been changed in response to
+changes in physical approximations and numerical algorithms. See below for further
+details.</em>) </li>
+<li> assemble and solve the rate equations, <em>including</em> 
+     a fully self-consistent treatment of the evolution of the inventory 
+     of actinides</li>
+<li> print all of the PRINTLIB tables</li>
+<li> print inventory-by-nuclide and total inventory tables </li>
+<li> print composition by element, gamma spectrum and dominant nuclide tables </li>
+<li> compute and output uncertainties, pathways and generic pathways</li>
+<li> perform sensitivity analysis runs</li>
+<li> generate a nuclide index from nuclides on significant pathways and
+  undertake inventory calculations using this reduced set</li>
+<li> undertake self-shielding calculations using probability tables</li>
+<li> undertake self-shielding calculations using the universal sigmoid curve
+  approximation for various target geometries</li>
+<li> output kerma, dpa and gas appm</li>
+<li> output spectral lines using a new PRINTLIB option</li>
+</ul>
+
+
+  <h2><a name="contents" />Contents</h2>
+    
+
+The contents of the distribution medium are organised as follows
+      <ol>
+	<li>
+<a href="./doc"  target="doc"><strong>doc</strong></a> - Directory containing user documentation<br />
+The file <a href="./doc/CCFE-R(11)11.pdf" target="doc">CCFE-R(11)11.pdf</a> contains the
+<a href="./doc/CCFE-R(11)11.pdf" target="doc">FISPACT-II User Manual</a>
+</li>
+
+ <li>The directory <a href="./fispact"
+ target="doc"><strong>fispact</strong></a> containing the
+ FISPACT-II software. Its directory structure is as follows:
+
+    <ul>
+     <li><strong><a href="./fispact/source"  target="doc">
+		  source</a></strong> - software source directory
+</li>
+	    <li><strong><a href="./fispact/exec"  target="doc">
+		    exec</a></strong> - directory containing prebuilt executables 
+</li>
+ 
+</ul>
+</li>
+
+<li> The software test data directories:
+      <ul>
+	<li><a href="./getting_started"  target="doc">
+		    getting_started</a> - Tutorial examples described in the User Manual</li>
+	<li><a href="./fispQA"  target="doc">
+		    fispQA</a> - Validation tests for FISPACT-II using ENDF format TENDL-2013, ENDF/B-VII.1, JENDL-4.0u and JEFF-3.2 nuclear data</li>
+	<li><a href="./fispQA2012"  target="doc">
+		    fispQA2012</a> - Validation tests for FISPACT-II using ENDF format TENDL-2012 nuclear data</li>
+	<li><a href="./fispQA2010"  target="doc">
+		    fispQA2010</a> - Validation tests for FISPACT-II using EAF2010 format nuclear data</li>
+	<li><a href="./fispQA2007"  target="doc">
+		    fispQA2007</a> - Validation tests for FISPACT-II using EAF2007 format nuclear data and old style INPUT files</li>
+	<li><a href="./fispQA2003"  target="doc">
+		    fispQA2003</a> - Validation tests for FISPACT-II using EAF2003 format nuclear data and old style INPUT files</li>
+      </ul>
+</li>
+<li> The nuclear data directories:
+      <ul>
+	<li><a href="./EAF2003data"  target="doc">
+		    EAF2003data</a> - EAF 2003 library data</li>
+	<li><a href="./EAF2007data"  target="doc">
+		    EAF2007data</a> - EAF 2007 library data</li>
+	<li><a href="./EAF2010data"  target="doc">
+		    EAF2010data</a> - EAF 2010 library data</li>
+	<li><a href="./ENDFdata"  target="doc">
+		    ENDFdata</a> - data libraries in ENDF format</li>
+	<li><a href="./ENDFdata/decay"  target="doc">
+		    decay</a> - decay data and master nuclide index</li>
+	<li><a href="./ENDFdata/EAF2010data"  target="doc">
+		    EAF2010data</a> - EAF 2010 cross-section library in ENDF format</li>
+	<li><a href="./ENDFdata/ENDFB71data"  target="doc">
+		    ENDFB71data</a> - ENDF/B-VII.1 libraries and nuclide index</li>
+	<li><a href="./ENDFdata/JEFF32data"  target="doc">
+		    JEFF32data</a> - JEFF-3.2 libraries and nuclide index</li>
+	<li><a href="./ENDFdata/JENDL4data"  target="doc">
+		    JENDL4data</a> - JENDL-4.0u libraries and nuclide index</li>
+	<li><a href="./ENDFdata/TENDL2012data"  target="doc">
+		    TENDL2012data</a> - TENDL-2012 libraries</li>
+	<li><a href="./ENDFdata/TENDL2013data"  target="doc">
+		    TENDL2013data</a> - TENDL-2013 libraries</li>
+	<li><a href="./ENDFbin"  target="doc">
+		    ENDFbin</a> - binary compressed versions of ENDF libraries. Note that this is empty in the distribution and is filled as 
+<a href="#compress">described below</a>.</li>
+        </ul>
+</li>
+<li> The Utility directory
+     <ul>
+	<li><a href="./Utility"  target="doc">
+		    Utility</a> - PREPRO plotting of cross-sections</li>
+     </ul>
+</li>
+</ol>
+<p>
+Click on a directory name to view its contents. Click on the document
+name to view the document. <i>Note that these alternative views are
+opened in a separate tab (or window) of your browser.</i>
+</p>
+
+<h2><a name="linux" />Linux and Unix Installation</h2>
+
+
+<p>
+A short guide to  installation  is:
+</p>
+
+<ol>
+
+<li> Create your EASY-II directory. You may give it any name you like, but here we shall assume that it is <tt>EASY-II</tt> in your home directory:
+<pre>
+cd ~
+mkdir EASY-II
+</pre>
+</li>
+
+<li>Set the pwd to the target directory:
+<pre>
+cd ~/EASY-II
+</pre>
+</li>
+
+<li>Copy the contents of the distribution medium into your workspace and set user
+write permission (Note that the path to the medium may be different on
+your machine):
+<pre>
+cp -R /media/FISPACT-II/* .
+chmod -R u+w *
+</pre>
+</li>
+
+<li>Uncompress the data libraries using the script <tt>libdatauncompress</tt> 
+<pre>
+chmod +x libdatauncompress
+./libdatauncompress
+</pre>
+This will uncompressing all the EAF and ENDF libraries. If you have restricted space, then you can
+uncompress only those data libraries that you wish to use. For example,
+if you require the ENDF dacay and TENDL2013 libraries then
+go to subdirectory
+<tt>./ENDFdata</tt> and extract the ENDF decay and TENDL2013 libraries:
+<pre>
+tar xjvf decay.tar.bz2
+rm  decay.tar.bz2
+tar xjvf TENDL2013data.tar.bz2
+rm TENDL2013data.tar.bz2
+</pre>
+<i>Note:</i> Uncompressing the nuclear data libraries increases the storage requirements by ~42 Gb.
+</li>
+
+<li>Uncompress the regression test directories using the script <tt>fispQAuncompress</tt> 
+<pre>
+chmod +x fispQAuncompress
+./fispQAuncompress
+</pre>
+This will uncompressing all the fispQA directories. If you have restricted space, then you can
+uncompress only those directories  that you wish to use. For example,
+if you require the fispQA2010 directory only then type
+<pre>
+tar xjvf fispQA2010.tar.bz2
+rm  fispQA2010.tar.bz2
+</pre>
+<i>Note:</i> Uncompressing the fispQA directories increases the storage requirements by ~1 Gb.
+</li>
+
+</ol>
+
+<p><strong><i>Note:</i> Relative path names are used to link the
+fispQA tests to the relevant data libraries. If you use different
+relative storage locations for test runs and library data then you
+will need to edit the various 'files' files in the test directories to
+run the test cases.</strong>
+</p>
+
+<p>
+You now have all that you need on your computer for running
+FISPACT-II. The simplest next step is to use one of the prebuilt
+executables that are included in the <tt>fispact/exec</tt> directory
+tree. If for some reason this does not work, then you can compile your
+own executable from the source provided in the <tt>fispact/source</tt>
+tree. Instructions for these two options are included in the next two subsections.
+</p>
+
+<h3><a name="precompiled" />Using prebuilt executables</h3>
+
+<p>The FISPACT-II distribution contains prebuilt executables for
+Solaris, Linux and Mac-OSX variants of Unix systems (There are also
+prebuilt executables suitable for running on Windows systems - see <a
+href="#windowsprecompiled">Windows executables
+</a>below). <tt>fispact</tt> is the main Fispact-II executable, and
+<tt>compress_xs_endf</tt> is a program for converting the ASCII ENDF
+cross-section libraries into compressed binary files that allows the
+collapse runs to execute about five times faster.
+To use them one
+simply has to put them on your path. This may be achieved as
+follows:</p>
+
+<ol>
+ <li>
+Change directory to your <tt>bin</tt> directory
+<pre>
+cd ~/bin
+</pre>
+ </li>
+
+<li>
+Either copy the executables or make a symbolic link to it. The
+following examples show this for the Linux 64-bit executables compiled
+using Intel Fortran: 
+<pre>
+cp ~/EASY-II/fispact/exec/OpenSUSE-12.2-X86/ifort/fispact .
+cp ~/EASY-II/fispact/exec/OpenSUSE-12.2-X86/ifort/compress_xs_endf .
+</pre>
+or 
+<pre>
+ln -s ~/EASY-II/fispact/exec/OpenSUSE-12.2-X86/ifort/fispact
+ln -s ~/EASY-II/fispact/exec/OpenSUSE-12.2-X86/ifort/compress_xs_endf
+</pre>
+Similarly, for MacOSX system
+<pre>
+cp ~/EASY-II/fispact/exec/Mac-OSX-Maverick-X86/ifort/fispact .
+cp ~/EASY-II/fispact/exec/Mac-OSX-Maverick-X86/ifort/compress_xs_endf .
+</pre>
+The list of prebuild executable can be found in <a href="./fispact/exec/README">~/EASY-II/fispact/exec/README</a>.
+</p>
+</li>
+
+<li> Also provided are scripts <tt>fp</tt> and <tt>fisprint</tt> for
+use in printing the output from a <tt>fispact</tt> run. These may be
+copied into your <tt>bin</tt> directory as follows:
+<pre>
+cp ~/EASY-II/fispact/source/build/fp .
+cp ~/EASY-II/fispact/source/build/fisprint .
+</pre>
+Note that these scripts require the <tt>a2ps</tt> Unix command.
+</li>
+
+</ol>
+
+<p>
+The validation tests in directories <tt>fispQA</tt>, <tt>fispQA2012</tt>,
+<tt>fispQA2011</tt>, <tt>fispQA2010</tt>, <tt>fispQA2007</tt> and <tt>fispQA2003</tt> use an environment
+variables <tt>fispact</tt> and <tt>compress</tt> to locate the executable (This is done to
+allow easy switching between executables without changing the
+validation scripts). For example, to set the environment variable to
+point to the 64-bit <tt>ifort</tt> executables, type
+</p>
+<pre>
+fispact=~/EASY-II/fispact/exec/OpenSUSE-12.2-X86/ifort/fispact; export fispact
+compress=~/EASY-II/fispact/exec/OpenSUSE-12.2-X86/ifort/compress_xs_endf; export compress
+</pre>
+<p>
+If you want the environment variable to remain available whenever you
+log in, then add these line to your <tt>.bashrc</tt> file.
+</p>
+
+<p> The <tt>README</tt> files in the <tt>exec</tt> subdirectories
+summarise the compiler, compiler options and operating systems used to
+compile the executables in those subdirectories.
+</p>
+
+<p> You are now ready to run <tt>fispact</tt>, skip to the <a href="#run">Running the
+program</a> section below to see how to do this.
+</p>
+
+<h3><a name="run" />Running the program</h3>
+
+<p> <tt>fispact</tt> may be run with 0, 1 or 2 arguments:</p>
+<dl>
+  <dt><strong>No arguments</strong></dt> 
+<dd> 
+<tt>fispact</tt> searches in turn for the files <tt>files</tt>,
+<tt>Files</tt> and <tt>FILES</tt> in the present working directory and
+uses the first one it finds to specify all the I/O files used for the
+run. If none of the required files is found then the run terminates with a
+fatal error.
+</dd>
+  <dt><strong>One argument</strong></dt> 
+<dd>
+<tt>fispact</tt> uses the argument as a file
+  root for the I/O files not specified in the files file
+  <tt>files</tt>, <tt>Files</tt> or <tt>FILES</tt>, and uses the files
+  file for the remaining file specifications. The files whose names may be 
+  derived from the file root <tt>fileroot</tt> are
+<ul>
+<li>input:  <tt>fileroot.i</tt></li>  
+<li>output: <tt>fileroot.out</tt></li>  
+<li>runlog:  <tt>fileroot.log</tt></li>  
+<li>graph:   <tt>fileroot.gra</tt></li>  
+<li>tabn:  <tt>fileroot.tabn</tt>, where n=1-4</li>  
+<li>gnuplot: <tt>fileroot.plt</tt></li>  
+<li>sensitivity: <tt>fileroot.sens</tt></li>  
+</ul>
+</dd>
+
+  <dt><strong>Two arguments</strong></dt>
+    <dd>
+The first argument is the file root name, and the second argument is
+the name of the files file, both of which should be in the pwd.
+    </dd>
+</dl>
+
+<p>
+Test files for the program are in subdirectories of</p>
+<p>
+<tt>fispQA2003</tt>, <tt>fispQA2007</tt>, <tt>fispQA2010</tt>, <tt>fispQA2012</tt> and <tt>fispQA</tt>
+</p>
+<p>
+The files for the examples shown below are in the subdirectory 
+<tt>fispQA2010/Tst_211</tt> and it is assumed that this is the pwd for 
+the examples below.
+</p>
+
+<ol>
+ <li>The command <pre>fispact allrun files.allrun</pre> creates the
+  <tt>COLLAPX</tt> and <tt>ARRAYX</tt> files for the 211 energy group
+  cross-section data in the EAF2010 library, and writes the
+  <tt>printlib.out</tt> summary tables. The outputs from this run are
+<ul>
+  <li> the <tt>ARRAYX</tt> file</li>
+  <li> the <tt>COLLAPX</tt> file</li>
+ <li> the run log file <tt>allrun.log</tt></li>
+ <li> the printlib output file <tt>printlib.out</tt> (file name is specified in <tt>files.allrun</tt>)</li>	    
+</ul>
+<br />
+</li>
+
+ <li>
+To print the <tt>printlib.out</tt> file on the default postscript
+printer for the <tt>a2ps</tt> command, type
+<pre>fisprint printlib.out</pre>
+
+</li>
+<li> To convert the Fortran carriage control characters in
+<tt>printlib.out</tt> to newlines and newpages and to write the result in A4 landscape to file <tt>printlib.ps</tt>, type
+<pre>fp printlib.out|cat >printlib.ps</pre></li>
+
+<li> To run test81, type
+<pre>fispact test81</pre>
+
+This example uses the <tt>files</tt> file in the <tt>Tst_211</tt>
+directory.  Printing of the main output from this <tt>test81.out</tt>
+follows the same method as used for <tt>printlib.out</tt>. To convert
+the output graphics file <tt>test81.gra</tt> into a postscript file of
+the plotted graphs <tt>test81.gra.ps</tt>, type
+
+<pre>gnuplot test81.plt</pre> 
+
+Note that a recent version of gnuplot must be used to plot the
+half-life point labels correctly. gnuplot may be downloaded from
+<a href="http://www.gnuplot.info" target="doc"> www.gnuplot.info</a>.
+</li>
+
+<li> Other examples can be generated following the same pattern. To run all the test cases in the directory, use the script:
+<pre>./fisprun</pre>
+</li>
+</ol>
+
+
+<h3><a name="tests" />Running the getting_started and validation tests</h3>
+
+<p>
+The tutorial examples in the <tt>getting_started</tt> directory are
+described in the "Getting Started" section of the <a
+href="./doc/SSFE-R(11)11.pdf" target="doc">User Manual</a>.
+</p>
+
+<p>
+The test scripts provided with the validation tests use the
+environment variables <tt>fispact</tt> and <tt>compress</tt> so that
+the tests may be run using different versions of the executable
+without changing the test scripts. Before any of the validation test
+scripts are run, you need to set these variables. In bash, this is done
+using</p>
+<pre>
+fispact=&lt;path to executable&gt;/fispact; export fispact
+</pre>
+
+
+<p>
+The validation tests in subdirectories of directories
+<tt>fispQA2003</tt>, <tt>fispQA2007</tt>, <tt>fispQA2010</tt>, <tt>fispQA2012</tt> and <tt>fispQA</tt> may be
+performed for all runs in the particular <tt>Tst_xxx</tt> directory by
+executing the script <tt>fisprun</tt> in each of those
+directories. Alternatively, all the test run cases may be executed in
+one go by using the master scripts in <tt>fispQA2003</tt>, in <tt>fispQA2007</tt>, in
+<tt>fispQA2010</tt>, in <tt>fispQA2012</tt> and in <tt>fispQA</tt>. The first script removes old
+files that may be in the way:
+</p>
+<pre>./runallclean</pre>
+<p> and the second one runs all the tests</p>
+<pre>./runalltests your.times >&amp; your.log</pre> 
+<p>
+The argument <tt>your.times</tt> is a file name for the file to which the
+run times of the test runs are written. 
+</p>
+
+<p>
+Each of the <tt>Tst_xxx</tt> directories has a sub-directory
+<tt>testresults</tt> containing reference results against which the
+test results on your computer may be compared. The date, time and QA
+data will lead to differences from the reference results.  The choice
+of floating-point rounding may also lead to minor differences in the
+results obtained, depending on the compilers and compiler options
+used. The output from the test runs may be compared against the
+reference data using diff:
+</p>
+<pre>diff test81.out testresults/. </pre>
+<p>
+<strong>Note that some of the supplied test cases will issue error
+warnings and fatal errors. These have been included to illustrate the
+error messages issued when incorrect input data are used.</strong> If
+you see error messages from one of the standard test runs, check it
+against the reference test data to see if it is correct
+<strong>before</strong> reporting a problem.
+</p>
+
+<h3><a name="refdata" />Reference Test Data</h3>
+<p>
+The executable used to create the test data sets was compiled using the Intel Fortran
+compiler ifort version 13.1.0 20130121 using compiler settings
+<tt>F90FLAGS</tt> for the Fortran-95 modules and <tt>F77FLAGS</tt> for
+the Fortran-77 odepack subprograms. The flag settings were
+</p>
+<pre> 
+# Fortran compiler flags
+F90FLAGS = -O -std03 -unroll -fp-model source -diag-disable 8291,8577
+F77FLAGS = -O  -fp-model source
+</pre>
+<p>
+The test runs were performed on a MESH pc with the 8-core   
+processor
+(Intel Core(TM) i7 CPU 860 @ 2.80GHz),
+had 7.8GB total memory
+and used the following operating system:
+</p>
+<pre>
+  Linux 3.4.63-2.44-desktop x86_64
+  System:  openSUSE 12.2 (x86_64)
+  KDE:  4.8.5 (4.8.5) "release 2"
+</pre>
+
+<h3> <a name="compress" />Using the Compressed Binary Versions of ENDF Libraries</h3>
+<p>
+The TENDL nuclear data libraries are large - they contain many gigabytes of data.
+If a sequence of Fispact-II runs uses the same incident particle spectrum, then the
+time for a single collapse run may be spread over many runs by using a preliminary
+collapse run. However, if the sequence of runs uses different flux
+spectra in each run, then the computational time for the collapses becomes significant,
+particularly if data are accessed across a network. To speed up calculations in these
+cases, three capabilities have been added to Fispact-II. The first, described in this
+section, is to preprocess the ENDF libraries and store only those data used by Fispact-II in
+a single compressed binary file. The second is to store the cross-sections versus energy
+in Fispact-II and then perform a number of collapses without re-reading the ENDF
+data. The third approach to speedup is to use a reduced master index.
+</p>
+
+<p>
+A separate executable <tt>compress_xs_endf</tt> is used to convert the ASCII ENDF libraries
+into a compressed binary file. It has up to five arguments, in the following order:
+</p>
+ <ul>
+<li><i>the fileroot name:</i> used to construct binary output and log file names (default
+<tt>compress_xs_endf</tt>);
+</li>
+<li><i>the projectile:</i> a letter that denotes the projectile used for the reaction data.
+Valid values are n, p, d, a, g (default n);
+</li>
+<li><i>the bin-size:</i> number of energy bins in cross-section data. For TENDL
+data this make take values 709 or 162 (default 709);
+</li>
+<li><i> the save type:</i> This takes a value 0-5 that specifies what data are to be saved
+(default 1);
+</li>
+<li><i>the name of the 'files' file:</i> defaults to  'files'.
+</li>
+ </ul>
+<p>The save types are</p>
+<ol start="0">
+<li>cross-section only</li>
+<li>cross-section and variance</li>
+<li>cross-section, variance and covariance</li>
+<li>resonances and cross-section</li>
+<li>resonances, cross-section and variance</li>
+<li>resonances, cross-section, variance and covariance</li>
+</ol>
+<p>
+An example of the use of <tt>compress_xs_endf</tt> that creates a binary compressed library
+<tt>tal2013-n.bin</tt> containing 709-group cross-sections and variance  data for
+neutron irradiating flux using the TENDL2013 library is as follows:</p>
+<pre>compress_xs_endf tal2013-n n 709 2</pre>
+<p>The fifth argument is not present and so will take its default value <tt>files</tt>. The <tt>files</tt> file
+must contain the mappings for <tt>ind_nuc</tt> and for <tt>xs_endf</tt>. For example:</p>
+<pre>
+# index of nuclides to be included
+ind_nuc ../../ENDFdata/TENDL2013data/tendl13_decay12_index
+# Library cross section data
+xs_endf ../../ENDFdata/TENDL2013data/tal2013-n/gxs-709
+</pre>
+<p>Only those nuclides listed in the <tt>ind_nuc</tt> file are included in the compressed library.
+</p>
+<p>
+Included in the <tt>compress_xs_endf</tt> directory is a script
+<tt>compressrun</tt> that creates compressed files for neutron
+irradiation for the TENDL2013 (<tt>tal2013-n.bin</tt>), ENDF/B-VII.1
+(<tt>endfb71-n.bin</tt>), JENDL4 (<tt>jendl4-n.bin</tt>), and JEFF-3.2
+(<tt>jeff32-n.bin</tt>) and for TENDL2013 with alpha
+(<tt>tal2013-a.bin</tt>), deuteron (<tt>tal2013-d.bin</tt>), gamma
+(<tt>tal2013-g.bin</tt>) and proton (<tt>tal2013-p.bin</tt>)
+irradiation. These files are stored in the <tt>ENDFbin</tt> directory.
+</p>
+<p> Typical the collapse calculation using binary is about five times faster than using the  ASCII nuclear data files.
+</p>
+
+
+<h2><a name="windows" />Running the program on a Windows machine</h2>
+
+<p>
+The recommended way of running FISPACT-II on a computer using the
+Windows operating system is to install Cygwin (download from <a
+href="http://www.cygwin.com"
+target="doc">http://www.cygwin.com</a>). Cygwin contains native
+Windows programs and dll's that emulate Unix/Linux commands and allow
+the same commands to be used in Windows as in other operating systems.
+Statically prebuilt executables for running in both Cygwin and
+command prompt windows are also provided.
+</p>
+<p>
+You can add all the Linux/Unix capabilities by selecting
+the appropriate Cygwin packages. Once this is done, then you can work in
+exactly the same manner as described in the previous section for
+running the code, and for printing and plotting output.
+</p>
+
+<p>
+Once Cygwin is installed (see below) and you have logged into it, then
+copy EASY-II to your home directory as described above for <a
+href="#linux">Linux and Unix</a>.  If the DVD drive on the Windows
+machine is <tt>d:</tt>, then copy EASY-II using the command:
+</p>
+<pre>
+cp -R /cygdrive/d/* .
+</pre>
+
+<h3>Installing Cygwin</h3>
+
+<p> To install Cygwin, do the following </p>
+<ol>
+<li> 
+download the installation program <tt>setup.exe</tt> from the Cygwin website 
+</li>
+
+<li>
+run <tt>setup.exe</tt>, selecting download from internet, installation
+file directory and mirror. The default installation for all users only
+contains a minimal set of packages, and you need to add the following
+<ul>
+<li>
+<tt>make</tt>: the GNU make utility
+</li>
+<li>
+<tt>gcc4-fortran</tt>: the GNU compilers
+</li>
+<li>
+<tt>binutils</tt>: utilities
+</li>
+<li>
+<tt>csh</tt>: the c-shell
+</li>
+<li>
+<tt>a2ps</tt>: the print utility
+</li>
+<li>
+your favourite editor (e.g., <tt>vim</tt>, <tt>emacs</tt> or <tt>xemacs</tt>)
+</li>
+</ul>
+</li>
+
+<li>
+It is recommended that you also include the following packages in your
+Cygwin environment, so you have X11 terminal windows (<tt>xterm</tt>)
+and are able to plot and view your graphs:
+<ul>
+<li>
+<tt>xinit</tt>: X11 initialisation package
+</li>
+<li>
+<tt>gnuplot</tt>: plotting program
+</li>
+<li>
+<tt>xpdf</tt>: pdf viewer
+</li>
+<li>
+<tt>ghostscript</tt>: postscript processing program
+</li>
+</ul>
+Note that when you select packages, the Cygwin installer will add
+extra packages needed to satisfy dependencies. Say yes to installing
+these extra packages.
+</li>
+
+<li>
+If you want an alternative compiler, then <tt>g95</tt> for Cygwin may be installed.
+</li>
+
+</ol>
+
+<p>
+If you select the gcc compiler collection, you will get the
+<tt>gfortran</tt> compiler installed. Self extracting files containing binaries for <tt>g95</tt> to
+run under Cygwin are available for download from <a
+href="http://www.g95.org/downloads.shtml" target="doc">
+http://www.g95.org/downloads.shtml</a>.
+</p>
+
+<h3>Setting environment variables</h3>
+
+<p>
+Environment variables that put the FISPACT-II executable on
+<tt>PATH</tt> and that point to the executable used in the
+<tt>fispQA</tt> test scripts are needed for the usage to be as
+described in the User Manual. Different ways of setting these are
+described below; Cygwin will use environment variables from Windows,
+<tt>.bash_profile</tt>, <tt>.bashrc</tt> or the command line.
+</p>
+
+<p> For the purposes of illustration, we shall assume that Cygwin is
+installed in <tt>c:\cygwin</tt> and that the <tt>fispact.exe</tt>
+executable we wish to use is stored in the directory
+<tt>c:\cygwin\home\wuser\bin</tt>, where <tt>wuser</tt> is the login
+name of the Windows user. For the executable stored elsewhere, change
+the path accordingly.
+</p>
+
+<p>
+The above assumes that the <tt>wuser</tt> home directory exists.  Open
+a Cywin window by double clicking on the desktop icon, change to
+<tt>/home</tt> and list files by type the following in the Cygwin terminal
+</p>
+<pre>
+cd /cygdrive/c/home
+ls
+</pre>
+<p>
+If the home directory for <tt>wuser</tt> does not exist, then type the
+following</p>
+<pre>
+mkdir wuser
+cd wuser
+cp /cygdrive/c/etc/skel/.bash_profile .
+cp /cygdrive/c/etc/skel/.bashrc .
+mkdir bin
+</pre>
+<p>
+and copy the required version of <tt>fispact.exe</tt> into <tt>~/bin</tt>.
+</p>
+
+<h4>Setting environment variables using Windows</h4>
+<p>
+The GUI for setting environment variables in Windows 7 can be found at</p>
+<pre>Control Panel|System and Security|System|Change Settings|Advanced|Environment Variables
+</pre> 
+<p>and on Windows XP at</p>
+<pre>
+Control Panel|System|Advanced tab;Environment Variables
+</pre>
+<p>
+Select the <tt>New</tt> or <tt>Add</tt> button for the user and add
+variables and settings:
+</p>
+<pre>
+HOME c:\cygwin\home\wuser
+PATH %HOME%\bin
+fispact %HOME%\bin\fispact.exe
+</pre>
+
+<h4>Setting environment variables using <tt>.bashrc</tt></h4>
+<p>
+Add the following lines to the <tt>.bashrc</tt> file for <tt>wuser</tt>:
+</p>
+<pre>
+PATH=$HOME/bin;$PATH
+fispact=$HOME/bin/fispact.exe; export fispact
+</pre>
+<p>To invoke these, after opening the Cygwin window, log in as <tt>wuser</tt>:</p>
+<pre>
+login wuser
+Password: **********
+</pre>
+<p>where the password is the same as the Windows password for <tt>wuser</tt>.
+</p>
+<p>
+If, after logging in <tt>wuser</tt> invokes X11 to get <tt>xterm</tt>:
+</p>
+<pre>startxwin</pre>
+<p>
+then the child <tt>xterm</tt> windows will inherit the environment variables.
+</p>
+
+<h4>Setting environment variables in a Cygwin or <tt>xterm</tt> window</h4>
+<p>
+To set environment variables that last the lifetime of the window, enter
+</p>
+<pre>
+PATH=$HOME/bin;$PATH
+fispact=$HOME/bin/fispact.exe; export fispact
+</pre>
+<p>
+in the window.
+</p>
+
+<h3><a name="windowsprecompiled" />Using prebuilt Windows executables</h3>
+
+<p>Two types of Windows executable are provided; statically linked
+ones and those using cygwin1.dll. Executing the <tt>setup.exe</tt> for
+Cygwin automatically installs the Cygwin dynamically linked library,
+and it appears on the path if you use a Cygwin or xterm window. If you
+wish to run the Cygwin executables from a Windows Command window, then
+you need to add the directory containing <tt>cygwin1.dll</tt> to your
+path. The statically linked Windows executables will run from either
+Windows, Cygwin or xterm command windows. The Cygwin or xterm windows
+are recommended because they allow line width greater than 80
+characters, provide all the familiar UNIX commands and the subsidiary
+commands such as <tt>fp</tt>, <tt>fisprint</tt> and <tt>gnuplot</tt>
+can be run from them.
+</p>
+
+<p>
+Once you have opened a Cygwin or <tt>xterm</tt> window and logged in,
+then using prebuilt Windows executables follows the same pattern as
+for <a href="#precompiled"> Linux and Unix prebuilt executables</a> as
+described above, but with the path pointing to a Windows or a Windows
+Cygwin executable.
+</p>
+
+
+<p>
+Once the Linux system is running on the virtual machine, then install
+the gcc compiler collection and the other Linux commands listed for
+Cygwin and proceed as described above for the <a href="#linux">Linux and
+Unix installation</a>.
+</p>
+
+<h3><a name="windowsrun" />Running validation tests on Windows</h3>
+
+<p> If Cygwin is installed, running the program on a Windows machine
+is exactly the same as running it on a Linux or Unix machine.
+</p>
+
+<p> If a virtual Linux machine is used, then the above instructions
+for Linux and Unix apply.</p>
+
+<p> A limited number of batch files named fisprun.bat are also provided</p>
+
+<h2><a name="macrun" />Running the program on a Mac-OSX machine</h2>
+
+<p> Mac-OSX is a Unix variant, and X11 comes as part of the standard
+software.  Almost all open source software available in Linux can be
+ported to Mac machines using fink, MacPorts or HomeBrew.
+</p>
+<p>
+If you use <a href="http://www.finkproject.org" target="doc">fink</a>,
+then follow the instructions on the <a
+href="http://www.finkproject.org/download" target="doc"> fink download</a> page to
+get X11, Xcode Tools and fink commander installed. All the the
+necessary Unix software to run FISPACT-II may then be downloaded
+using <tt>fink commander</tt>. The software required is (apart from
+<tt>xinit</tt>) the same as that listed for Cygwin in the <a
+href="#windows"> Running on Windows section</a> above.  See <a
+href="http://www.finkproject.org"
+target="doc">http://www.finkproject.org</a> for more information.
+</p>
+
+<p>If you like the Mac user interface, then the best choice of editor is the 
+<a href="http://aquamacs.org/" target="doc">Aquamacs Emacs</a> port of emacs to Mac OSX.
+</p>
+
+<p>For information on installing <a
+href="http://www.macports.org" target="doc">MacPorts</a>, go to <a
+href="http://www.macports.org/install.php" target="doc">
+http://www.macports.org/install.php</a>.
+</p>
+
+<p>For information on installing <a
+href="https://github.com/mxcl/homebrew" target="doc">HomeBrew</a>, go to <a
+href="https://github.com/mxcl/homebrew/wiki/Installation" target="doc">https://github.com/mxcl/homebrew/wiki/Installation</a>.
+</p>
+
+<p>
+Once you have installed the relevant Unix software using one of the above, open an X11 xterm window and follow the instructions given in the <a href="#linux">Linux and Unix Installation</a> section above.
+</p>
+
+<h3>Using a Virtual Linux machine</h3>
+
+<p> An alternative approach on any specific operating system is to download a virtual machine
+player ( e.g., VmWare Player, from <a
+href="http://downloads.vmware.com/d/" target="doc"> http://www.vmware.com/</a> or VirtualBox from <a href="http://www.virtualbox.org/wiki/Downloads" target="doc">http://www.virtualbox.org/wiki/Downloads</a> ) 
+and install an operating system (e.g., Linux) for which an executable is
+provided.
+</p>
+
+
+<h2>Keyword changes</h2>
+
+<p> Some of the keywords used in FISPACT-2007 have become obsolete,
+and there have been some new ones added to deal with the new
+algorithms used in computing inventories, pathways and self-shielding
+corrections. All the old keywords are recognised by the new program,
+but where their use has changed error messages are written to the log
+file. Note that the keyword reader will recognise a truncated keyword
+if the three or more leading letters of the keyword given uniquely
+identify it. The reader will <em>not</em> recognise keywords that have
+extra letters at the end (e.g., GRAPHS will not be recognised as
+GRAPH).</p>
+
+<p> For details of the keywords recognised by FISPACT-II see the 
+<a href="./doc/CCFE-R(11)11.pdf" target="doc">User Manual.</a>
+</p>
+
+</div>
+<hr />
+<div align="right"><small> <a
+href="mailto:james.eastwood@culhamem.com">James Eastwood</a>&nbsp;&nbsp; 
+<!-- Created: Wed Sep 16 13:39:58 BST 2009--> 
+<!-- hhmts start -->
+Last modified: Thu Sep 11 18:19:32 BST 2014
+<!-- hhmts end -->
+<br />
+Source CVS Tag: $Name: Release-2-20-01 $
+</small>
+<p>
+    <img
+        src="./doc/sd/sd3/valid-xhtml10-blue.png"
+        alt="Valid XHTML 1.0 Transitional" height="31" width="88" />
+  </p>
+</div></body>
+</html>
+
+<!--  LocalWords:  Cygwin gcc gfortran Culham FISPACT CCFE CEM PRINTLIB ENDF cd
+ -->
+<!--  LocalWords:  TENDL EAF cpu COLLAPX ARRAYX appm dpa kerma pdf fispact OSX
+ -->
+<!--  LocalWords:  prebuilt Sparc config fispQA ENDFdata mkdir pwd cp chmod ln
+ -->
+<!--  LocalWords:  xjvf fp fisprint ifort distclean fileroot runlog
+ -->

@@ -1,0 +1,364 @@
+                          r2s_natab: /home/anton/work/gh/r2smesh-at/files/natural.txt
+                    r2s_condense_s1: /home/anton/work/gh/r2smesh-at/scripts/condense_s1.sh
+                    r2s_condense_s2: /home/anton/work/gh/r2smesh-at/scripts/condense_s2.sh
+                    r2s_collapse_s1: /home/anton/work/gh/r2smesh-at/scripts/collapse_s1.sh
+                    r2s_collapse_s2: /home/anton/work/gh/r2smesh-at/scripts/collapse_s2.sh
+                   r2s_inventory_s1: /home/anton/work/gh/r2smesh-at/scripts/inventory_s1.sh
+                   r2s_inventory_s2: /home/anton/work/gh/r2smesh-at/scripts/inventory_s2.sh
+                  r2s_matallocation: /home/anton/work/gh/r2smesh-at/verification/arb-flux/input/fine_mesh_content
+               r2s_neutronintensity: nf/meshtal_fine
+                 r2s_neutronspectra: nf/ln005.leth
+                 r2s_matcomposition: /home/anton/work/gh/r2smesh-at/verification/arb-flux/input/mat_table
+                 r2s_cellsmaterials: /home/anton/work/gh/r2smesh-at/verification/arb-flux/input/cmi_table
+                      r2s_cgiheader: :undefined:
+                        r2s_scratch: /home/anton/work/gh/r2smesh-at/verification/arb-flux/scr.yes.ln005.leth/r2s.Yjyj
+                            r2s_out: out.yes.ln005.leth
+                         r2s_init_1: /home/anton/work/gh/r2smesh-at/scripts/init_1.sh
+                         r2s_init_n: /home/anton/work/gh/r2smesh-at/scripts/init_n.sh
+                     r2s_finalize_1: /home/anton/work/gh/r2smesh-at/scripts/finalize_1.sh
+                     r2s_finalize_n: /home/anton/work/gh/r2smesh-at/scripts/finalize_n.sh
+                            r2s_log: log.yes.ln005.leth
+ ========== 2019/05/22 13:34:38 Reading /home/anton/work/gh/r2smesh-at/verification/arb-flux/input/mat_table ... 
+ ========== 2019/05/22 13:34:38 Reading /home/anton/work/gh/r2smesh-at/files/natural.txt ... 
+ Material compositions:
+           1
+       26054       26056
+  6.6667E-01  3.3333E-01
+ Natural abundancies
+ Element Z=           1
+           1           2
+  9.9989E-01  1.1500E-04
+ Element Z=           2
+           3           4
+  1.3400E-06  1.0000E+00
+ Element Z=           3
+           6           7
+  7.5900E-02  9.2410E-01
+ Element Z=           4
+           9
+  1.0000E+00
+ Element Z=           5
+          10          11
+  1.9900E-01  8.0100E-01
+ Element Z=           6
+          12          13
+  9.8930E-01  1.0700E-02
+ Element Z=           7
+          14          15
+  9.9636E-01  3.6400E-03
+ Element Z=           8
+          16          17          18
+  9.9757E-01  3.8000E-04  2.0500E-03
+ Element Z=           9
+          19
+  1.0000E+00
+ Element Z=          10
+          20          21          22
+  9.0480E-01  2.7000E-03  9.2500E-02
+ Element Z=          11
+          23
+  1.0000E+00
+ Element Z=          12
+          24          25          26
+  7.8990E-01  1.0000E-01  1.1010E-01
+ Element Z=          13
+          27
+  1.0000E+00
+ Element Z=          14
+          28          29          30
+  9.2223E-01  4.6850E-02  3.0920E-02
+ Element Z=          15
+          31
+  1.0000E+00
+ Element Z=          16
+          32          33          34          36
+  9.4990E-01  7.5000E-03  4.2500E-02  1.0000E-04
+ Element Z=          17
+          35          37
+  7.5760E-01  2.4240E-01
+ Element Z=          18
+          36          38          40
+  3.3360E-03  6.2900E-04  9.9603E-01
+ Element Z=          19
+          39          40          41
+  9.3258E-01  1.1700E-04  6.7302E-02
+ Element Z=          20
+          40          42          43          44          46          48
+  9.6941E-01  6.4700E-03  1.3500E-03  2.0860E-02  4.0000E-05  1.8700E-03
+ Element Z=          21
+          45
+  1.0000E+00
+ Element Z=          22
+          46          47          48          49          50
+  8.2500E-02  7.4400E-02  7.3720E-01  5.4100E-02  5.1800E-02
+ Element Z=          23
+          50          51
+  2.5000E-03  9.9750E-01
+ Element Z=          24
+          50          52          53          54
+  4.3450E-02  8.3789E-01  9.5010E-02  2.3650E-02
+ Element Z=          25
+          55
+  1.0000E+00
+ Element Z=          26
+          54          56          57          58
+  5.8450E-02  9.1754E-01  2.1190E-02  2.8200E-03
+ Element Z=          27
+          59
+  1.0000E+00
+ Element Z=          28
+          58          60          61          62          64
+  6.8077E-01  2.6223E-01  1.1399E-02  3.6346E-02  9.2550E-03
+ Element Z=          29
+          63          65
+  6.9150E-01  3.0850E-01
+ Element Z=          30
+          64          66          67          68          70
+  4.9170E-01  2.7730E-01  4.0400E-02  1.8450E-01  6.1000E-03
+ Element Z=          31
+          69          71
+  6.0108E-01  3.9892E-01
+ Element Z=          32
+          70          72          73          74          76
+  2.0570E-01  2.7450E-01  7.7500E-02  3.6500E-01  7.7300E-02
+ Element Z=          33
+          75
+  1.0000E+00
+ Element Z=          34
+          74          76          77          78          80          82
+  8.9000E-03  9.3700E-02  7.6300E-02  2.3770E-01  4.9610E-01  8.7300E-02
+ Element Z=          35
+          79          81
+  5.0690E-01  4.9310E-01
+ Element Z=          36
+          78          80          82          83          84          86
+  3.5500E-03  2.2860E-02  1.1593E-01  1.1500E-01  5.6987E-01  1.7279E-01
+ Element Z=          37
+          85          87
+  7.2170E-01  2.7830E-01
+ Element Z=          38
+          84          86          87          88
+  5.6000E-03  9.8600E-02  7.0000E-02  8.2580E-01
+ Element Z=          39
+          89
+  1.0000E+00
+ Element Z=          40
+          90          91          92          94          96
+  5.1450E-01  1.1220E-01  1.7150E-01  1.7380E-01  2.8000E-02
+ Element Z=          41
+          93
+  1.0000E+00
+ Element Z=          42
+          92          94          95          96          97          98         100
+  1.4530E-01  9.1500E-02  1.5840E-01  1.6670E-01  9.6000E-02  2.4390E-01  9.8200E-02
+ Element Z=          44
+          96          98          99         100         101         102         104
+  5.5400E-02  1.8700E-02  1.2760E-01  1.2600E-01  1.7060E-01  3.1550E-01  1.8620E-01
+ Element Z=          45
+         103
+  1.0000E+00
+ Element Z=          46
+         102         104         105         106         108         110
+  1.0200E-02  1.1140E-01  2.2330E-01  2.7330E-01  2.6460E-01  1.1720E-01
+ Element Z=          47
+         107         109
+  5.1839E-01  4.8161E-01
+ Element Z=          48
+         106         108         110         111         112         113         114         116
+  1.2500E-02  8.9000E-03  1.2490E-01  1.2800E-01  2.4130E-01  1.2220E-01  2.8730E-01  7.4900E-02
+ Element Z=          49
+         113         115
+  4.2900E-02  9.5710E-01
+ Element Z=          50
+         112         114         115         116         117         118         119         120         122         124
+  9.7000E-03  6.6000E-03  3.4000E-03  1.4540E-01  7.6800E-02  2.4220E-01  8.5900E-02  3.2580E-01  4.6300E-02  5.7900E-02
+ Element Z=          51
+         121         123
+  5.7210E-01  4.2790E-01
+ Element Z=          52
+         120         122         123         124         125         126         128         130
+  9.0000E-04  2.5500E-02  8.9000E-03  4.7400E-02  7.0700E-02  1.8840E-01  3.1740E-01  3.4080E-01
+ Element Z=          53
+         127
+  1.0000E+00
+ Element Z=          54
+         124         126         128         129         130         131         132         134         136
+  9.5200E-04  8.9000E-04  1.9102E-02  2.6401E-01  4.0710E-02  2.1232E-01  2.6909E-01  1.0436E-01  8.8573E-02
+ Element Z=          55
+         133
+  1.0000E+00
+ Element Z=          56
+         130         132         134         135         136         137         138
+  1.0600E-03  1.0100E-03  2.4170E-02  6.5920E-02  7.8540E-02  1.1232E-01  7.1698E-01
+ Element Z=          57
+         138         139
+  8.8810E-04  9.9911E-01
+ Element Z=          58
+         136         138         140         142
+  1.8500E-03  2.5100E-03  8.8450E-01  1.1114E-01
+ Element Z=          59
+         141
+  1.0000E+00
+ Element Z=          60
+         142         143         144         145         146         148         150
+  2.7152E-01  1.2174E-01  2.3798E-01  8.2930E-02  1.7189E-01  5.7560E-02  5.6380E-02
+ Element Z=          62
+         144         147         148         149         150         152         154
+  3.0700E-02  1.4990E-01  1.1240E-01  1.3820E-01  7.3800E-02  2.6750E-01  2.2750E-01
+ Element Z=          63
+         151         153
+  4.7810E-01  5.2190E-01
+ Element Z=          64
+         152         154         155         156         157         158         160
+  2.0000E-03  2.1800E-02  1.4800E-01  2.0470E-01  1.5650E-01  2.4840E-01  2.1860E-01
+ Element Z=          65
+         159
+  1.0000E+00
+ Element Z=          66
+         156         158         160         161         162         163         164
+  5.6000E-04  9.5000E-04  2.3290E-02  1.8889E-01  2.5475E-01  2.4896E-01  2.8260E-01
+ Element Z=          67
+         165
+  1.0000E+00
+ Element Z=          68
+         162         164         166         167         168         170
+  1.3900E-03  1.6010E-02  3.3503E-01  2.2869E-01  2.6978E-01  1.4910E-01
+ Element Z=          69
+         169
+  1.0000E+00
+ Element Z=          70
+         168         170         171         172         173         174         176
+  1.2300E-03  2.9820E-02  1.4090E-01  2.1680E-01  1.6103E-01  3.2026E-01  1.2996E-01
+ Element Z=          71
+         175         176
+  9.7401E-01  2.5990E-02
+ Element Z=          72
+         174         176         177         178         179         180
+  1.6000E-03  5.2600E-02  1.8600E-01  2.7280E-01  1.3620E-01  3.5080E-01
+ Element Z=          73
+         180         181
+  1.2010E-04  9.9988E-01
+ Element Z=          74
+         180         182         183         184         186
+  1.2000E-03  2.6500E-01  1.4310E-01  3.0640E-01  2.8430E-01
+ Element Z=          75
+         185         187
+  3.7400E-01  6.2600E-01
+ Element Z=          76
+         184         186         187         188         189         190         192
+  2.0000E-04  1.5900E-02  1.9600E-02  1.3240E-01  1.6150E-01  2.6260E-01  4.0780E-01
+ Element Z=          77
+         191         193
+  3.7300E-01  6.2700E-01
+ Element Z=          78
+         190         192         194         195         196         198
+  1.2000E-04  7.8200E-03  3.2860E-01  3.3780E-01  2.5210E-01  7.3560E-02
+ Element Z=          79
+         197
+  1.0000E+00
+ Element Z=          80
+         196         198         199         200         201         202         204
+  1.5000E-03  9.9700E-02  1.6870E-01  2.3100E-01  1.3180E-01  2.9860E-01  6.8700E-02
+ Element Z=          81
+         203         205
+  2.9520E-01  7.0480E-01
+ Element Z=          82
+         204         206         207         208
+  1.4000E-02  2.4100E-01  2.2100E-01  5.2400E-01
+ Element Z=          83
+         209
+  1.0000E+00
+ Element Z=          90
+         232
+  1.0000E+00
+ Element Z=          91
+         231
+  1.0000E+00
+ Element Z=          92
+         234         235         238
+  5.4000E-05  7.2040E-03  9.9274E-01
+ ========== 2019/05/22 13:34:38 Read nf/meshtal_fine ... 
+ ========== 2019/05/22 13:34:38 Read nf/ln005.leth ... 
+ ========== 2019/05/22 13:34:38 Writing out.yes.ln005.leth/dgs.header ... 
+ ========== 2019/05/22 13:34:38 Fine   meshtally:
+ Mesh tally number           4
+  X boundaries:    2 -1.0000E+00---  1.0000E+00 -1.0000E+00  1.0000E+00
+  Y boundaries:    2 -1.0000E+00---  1.0000E+00 -1.0000E+00  1.0000E+00
+  Z boundaries:    2 -1.0000E+00---  1.0000E+00 -1.0000E+00  1.0000E+00
+  E boundaries:    2  0.0000E+00---  1.0000E+36  0.0000E+00  1.0000E+36
+ Shape of v:           1           1           1           1           2
+    Sum v(:, :, :, :, :)  1.0001E+00
+    Sum v(l, :, :, :, :)  0.0000E+00
+    Sum v(r, :, :, :, :)  1.0001E+00
+    Sum v(:, l, :, :, :)  0.0000E+00
+    Sum v(:, r, :, :, :)  1.0001E+00
+    Sum v(:, :, l, :, :)  0.0000E+00
+    Sum v(:, :, r, :, :)  1.0001E+00
+    Sum v(:, :, :, l, :)  0.0000E+00
+    Sum v(:, :, :, r, :)  1.0001E+00
+    Sum v(:, :, :, :, l)  1.0000E+00
+    Sum v(:, :, :, :, r)  1.0000E-04
+ ========== 2019/05/22 13:34:38 Coarse meshtally:
+ Mesh tally number           4
+  X boundaries:    2 -1.0000E+00---  1.0000E+00 -1.0000E+00  1.0000E+00
+  Y boundaries:    2 -1.0000E+00---  1.0000E+00 -1.0000E+00  1.0000E+00
+  Z boundaries:    2 -1.0000E+00---  1.0000E+00 -1.0000E+00  1.0000E+00
+  E boundaries:    8  0.0000E+00---  1.9640E+01  1.0100E-05  2.9741E+01
+ Shape of v:           8           1           1           1           2
+    Sum v(:, :, :, :, :)  5.7313E+01
+    Sum v(l, :, :, :, :)  1.8821E+01
+    Sum v(r, :, :, :, :)  3.8492E+01
+    Sum v(:, l, :, :, :)  0.0000E+00
+    Sum v(:, r, :, :, :)  5.7313E+01
+    Sum v(:, :, l, :, :)  0.0000E+00
+    Sum v(:, :, r, :, :)  5.7313E+01
+    Sum v(:, :, :, l, :)  0.0000E+00
+    Sum v(:, :, :, r, :)  5.7313E+01
+    Sum v(:, :, :, :, l)  5.6612E+01
+    Sum v(:, :, :, :, r)  7.0100E-01
+ ========== 2019/05/22 13:34:38 Reading /home/anton/work/gh/r2smesh-at/verification/arb-flux/input/cmi_table ... 
+ ========== 2019/05/22 13:34:38 Cell/matetial indices, names and densities:
+Cell names          :                1           2
+Cell mat. indices   :                1           0
+Cell densities      :       1.0000E+00  0.0000E+00
+Cell concentrations :       1.0031E-01  0.0000E+00
+Material names      :                0           1
+ ========== 2019/05/22 13:34:38 Reading /home/anton/work/gh/r2smesh-at/verification/arb-flux/input/fine_mesh_content ... 
+ Material allocation:
+ i:            1           1           1
+ j:            1           1           1
+ k:            1           1           1
+    1    1    1       1        1
+                            1687
+ ========== 2019/05/22 13:34:38 Checking fne_mesh_content ... 
+ ========== 2019/05/22 13:34:38 Range of cell and material indices, found in the mesh:
+           1           1
+           1           1
+  Cell_index    Cell_vol   Cell_mass
+           1 8.00000E+00 8.00000E+00
+   Mat_index     Mat_vol    Mat_mass
+           1 8.00000E+00 8.00000E+00
+      2019/05/22 13:34:38 Running script: /home/anton/work/gh/r2smesh-at/scripts/condense_s1.sh #  2019/05/22 13:34:38 exit status 0
+      2019/05/22 13:34:38 Running script: /home/anton/work/gh/r2smesh-at/scripts/condense_s2.sh #  2019/05/22 13:34:38 exit status 127
+        Writing neutron energy groups to: cond/arb_flux_energy
+           Writing grpconvert keyword to: cond/grpconvert
+      2019/05/22 13:34:38 Running script: /home/anton/work/gh/r2smesh-at/scripts/init_n.sh 0 localX220 #  2019/05/22 13:34:57 exit status 0
+ ========== 2019/05/22 13:34:57 Initialization completed.
+ ========== 2019/05/22 13:34:57 Computing number of inventory runs ...
+ ========== 2019/05/22 13:34:57 Number of collapse  runs: 1
+ ========== 2019/05/22 13:34:57 Number of inventory runs: 1
+ ========== 2019/05/22 13:34:57 Starting coarse element     1    1    1. Completed fispact inventory runs:        0   0.0000 %
+Fine mesh indices:         1    1         1    1         1    1
+Fine mesh element:      1     1     1 (in coarse mesh element     1    1    1)  contains   1 materials at flux   1.0000E+00
+                     Writing spectrum to: /home/anton/work/gh/r2smesh-at/verification/arb-flux/scr.yes.ln005.leth/r2s.Yjyj/r2s_w/arb_flux.1.1.1
+      2019/05/22 13:34:57 Running script: /home/anton/work/gh/r2smesh-at/scripts/collapse_s1.sh  1 1 1 #  2019/05/22 13:34:58 exit status 0
+                 Writing composition to : /home/anton/work/gh/r2smesh-at/verification/arb-flux/scr.yes.ln005.leth/r2s.Yjyj/r2s_w/mat.content.1.1.1
+                     Writing scenario to: /home/anton/work/gh/r2smesh-at/verification/arb-flux/scr.yes.ln005.leth/r2s.Yjyj/r2s_w/scenario.1.1.1
+      2019/05/22 13:34:58 Running script: /home/anton/work/gh/r2smesh-at/scripts/inventory_s1.sh  1 1 1 1 1 1 #  2019/05/22 13:35:00 exit status 0
+               Read gamma intensity from: /home/anton/work/gh/r2smesh-at/verification/arb-flux/scr.yes.ln005.leth/r2s.Yjyj/r2s_r/tab4.1.1.1 , last time interval: 11
+      2019/05/22 13:35:00 Running script: /home/anton/work/gh/r2smesh-at/scripts/inventory_s2.sh  1 1 1 #  2019/05/22 13:35:00 exit status 0
+             Writing gamma intensity to : /home/anton/work/gh/r2smesh-at/verification/arb-flux/scr.yes.ln005.leth/r2s.Yjyj/r2s_w/cgi.1.1.1
+      2019/05/22 13:35:00 Running script: /home/anton/work/gh/r2smesh-at/scripts/collapse_s2.sh  1 1 1 #  2019/05/22 13:35:00 exit status 0
+ Number of  collapse runs:           1
+ Number of inventory runs:           1
+ ========== 2019/05/22 13:35:00 Program completed

@@ -1,0 +1,12 @@
+System Configuration: 
+Mesh Computers desktop PC
+Intel(R) Core(TM) i7 CPU 860 @ 2.80GHz (8 Cores)
+Memory 7.8GB
+
+GNU Fortran (SUSE Linux) 4.7.1 20120723 [gcc-4_7-branch revision 189773]
+Linux 3.4.33-2.24-desktop x86_64
+System:  openSUSE 12.2 (x86_64)
+KDE:  4.8.5 (4.8.5) "release 2"
+
+F90FLAGS = -O  -static-libgfortran -ffree-form  -ffloat-store -fno-sign-zero -std=f2003
+F77FLAGS = -O  -ffloat-store -fno-sign-zero 

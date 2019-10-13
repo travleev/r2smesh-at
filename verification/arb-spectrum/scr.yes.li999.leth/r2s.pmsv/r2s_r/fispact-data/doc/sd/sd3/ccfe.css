@@ -1,0 +1,37 @@
+/* 
+  ================================================
+  Style for including f90doc pages into cem web page
+  ================================================
+*/
+body {
+	background-color: #ffffff;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	margin: 32px 8% 0 20px;
+	padding: 0px;
+}
+h1, h2, h3, h4 {
+	margin: 0 0 6px;
+	color: #f48901;
+}
+h3 {
+	margin-top: 16px;	
+}
+p {
+	margin: 0px 0px 16px;
+}
+hr { 
+        border: 0px;
+ 	color: #f48901;
+        background-color:#f48901;
+        height: 5px;
+ }
+dt { font-weight:bold;
+	color: #f48901;
+ }
+#footer {
+	font-size: .6em;
+	margin-top: 36px;
+        text-align: right;
+}
+

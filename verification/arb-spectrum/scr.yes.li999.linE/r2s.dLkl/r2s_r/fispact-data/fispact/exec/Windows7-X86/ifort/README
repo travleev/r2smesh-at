@@ -1,0 +1,11 @@
+System Configuration: 
+VirtualBox on MacPro
+2.7 GHz 12-Core Intel Xeon E5
+32 GB 1867 MHZ DDR3
+
+Windows 7 Professional SP1
+ifort: Intel Parallel Studio XE 2013
+Intel 64 Visual Studio
+
+f90flags= /Ob2 /stand:f03  /nowarn /F10000000 
+f77flags= /Ob2 /nowarn /F10000000 

@@ -1,0 +1,12 @@
+System Configuration: 
+Mesh Computers desktop PC
+Intel(R) Core(TM) i7 CPU 860 @ 2.80GHz (8 Cores)
+Memory 7.8GB
+
+gfortran: cygwin GNU Fortran (GCC) 4.5.3
+Windows 7 Home Premium SP1 64-bit
+
+F90FLAGS = -O  -ffree-form  -ffloat-store -fno-sign-zero -std=f2003
+F77FLAGS = -O  -ffloat-store -fno-sign-zero 
+
+

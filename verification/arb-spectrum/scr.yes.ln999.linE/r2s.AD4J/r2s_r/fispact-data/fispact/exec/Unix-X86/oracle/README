@@ -1,0 +1,11 @@
+System Configuration: 
+VirtualBox on MacPro
+Quad-Core Intel Xeon 2x2.26GhZ
+Memory size 16 GB 1066 MHZ DDR3
+ 
+SunOS solaris 5.11 snv_151a i86pc i386 i86pc Solaris
+f90: Sun Fortran 95 8.5 SunOS_i386 Aten 2010/05/10 
+
+F90FLAGS = -Bstatic -fstore -O3 
+F77FLAGS = -Bstatic -fstore -O3 
+

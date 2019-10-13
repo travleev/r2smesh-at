@@ -19,7 +19,9 @@ mkdir -vp $r2s_scratch/r2s_c >> init_n.$n.log
 mkdir -vp $r2s_scratch/r2s_i >> init_n.$n.log
 
 # Copy some often-used files to the nodes
-cp -v "$(realpath ./cond/arrayx)"   "$r2s_scratch"/r2s_r/arrayx          >> init_n.$n.log
+cp -v "$(realpath ./cond/arrayx)"            "$r2s_scratch"/r2s_r/arrayx          >> init_n.$n.log
+cp -v "$(realpath ./cond/arb_flux_energy)"   "$r2s_scratch"/r2s_w/arb_flux_energy >> init_n.$n.log
+cp -v "$(realpath ./cond/grpconvert)"        "$r2s_scratch"/r2s_w/grpconvert      >> init_n.$n.log
 
 cp -rv "$r2s_fispact_data"          "$r2s_scratch"/r2s_r/fispact-data    >> init_n.$n.log
 

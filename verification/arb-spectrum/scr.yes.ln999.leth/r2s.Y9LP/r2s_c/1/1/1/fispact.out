@@ -1,0 +1,13 @@
+ MONITOR 1
+ PROJECTILE 1
+ GRPCONVERT 1001 175
+ GETXS 1 175
+ FISPACT
+ * Collapse with spectrum
+  load cross-sections
+  run reset cross-section
+ END
+ * End of collapsing
+  run closedown
+  deallocate and closedown
+ collapse: cpu time =  1.55     secs.   No errors/warnings

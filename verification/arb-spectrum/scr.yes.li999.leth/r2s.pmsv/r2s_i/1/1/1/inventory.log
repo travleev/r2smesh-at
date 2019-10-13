@@ -1,0 +1,148 @@
+
+ LOG FILE: inventory.log
+
+ 14:12:50 22 May 2019            
+
+ Log  : FILES file = files
+ Log  : fileroot   = inventory
+
+
+ ------------------------------------------------------------------
+ Files specified by the FILES file and fileroot for this run.
+ ------------------------------------------------------------------
+ The numbers after the unit names are the internal unit numbers.
+
+ input( 5)       inventory.i
+ graph(10)       inventory.gra
+ collapxi(12)    collapx
+ arrayx(13)      arrayx
+ gnuplot(15)     inventory.plt
+ ind_nuc(18)     ./fispact-data/EAF2010data/eaf_index_20100
+ output(38)      inventory.out
+ absorp(39)      ./fispact-data/EAF2007data/eaf_abs_20070
+ tab1(44)        inventory.tab1
+ tab2(45)        inventory.tab2
+ tab3(46)        inventory.tab3
+ tab4(47)        inventory.tab4
+ runlog(48)      inventory.log
+ sens(50)        inventory.sens
+ xs_endfb(55)    inventory.bin
+ ------------------------------------------------------------------
+
+
+ CLOBBER
+ MONITOR 1
+ GETXS 0
+ GETDECAY 0
+ FISPACT
+ * Inventory calculations for XXX
+  load cross-sections
+  load decay data
+  collapse fission yields
+  run reset cross-section
+ TAB4 10
+ DENSITY 1.000000
+ FUEL 2
+ Fe054 5.3497874E+23
+ Fe056 2.6748937E+23
+ UNCERTAINTY 0
+ SPECTRUM
+  load initial values
+  run output inventory
+ FLUX 1.0000000E+19
+ TIME 2
+  fill rate equation matrix for cooling
+  fill rate equation matrix for irradiation
+  initialise dominant analysis
+  test for gas, kerma and dpa data
+ YEARS
+ SPECTRUM
+  run irradiation init
+  run irradiation step
+  run output inventory
+ FLUX 0.0000000E+00
+ ZERO
+ TIME 0
+ SPECTRUM
+  run cooling step
+  run output inventory
+ TIME 1
+ DAYS
+ SPECTRUM
+  run cooling step
+  run output inventory
+ TIME 11
+ DAYS
+ SPECTRUM
+  run cooling step
+  run output inventory
+ TIME 18
+ DAYS
+ SPECTRUM
+  run cooling step
+  run output inventory
+ TIME 30
+ DAYS
+ SPECTRUM
+  run cooling step
+  run output inventory
+ TIME 122.625
+ DAYS
+ SPECTRUM
+  run cooling step
+  run output inventory
+ TIME 0.5
+ YEARS
+ SPECTRUM
+  run cooling step
+  run output inventory
+ TIME 1
+ YEARS
+ SPECTRUM
+  run cooling step
+  run output inventory
+ TIME 8
+ YEARS
+ SPECTRUM
+  run cooling step
+  run output inventory
+ END
+ * END of irradiation scenario for arb-flux test
+  run output summary
+  run closedown
+  deallocate and closedown
+
+
+ ------------------------------------------------------------------
+ Files that have been opened during this run.
+ ------------------------------------------------------------------
+ The numbers after the unit names are the internal unit numbers.
+
+ input( 5)       inventory.i
+ collapxi(12)    collapx
+ arrayx(13)      arrayx
+ ind_nuc(18)     ./fispact-data/EAF2010data/eaf_index_20100
+ output(38)      inventory.out
+ absorp(39)      ./fispact-data/EAF2007data/eaf_abs_20070
+ tab4(47)        inventory.tab4
+ runlog(48)      inventory.log
+ ------------------------------------------------------------------
+
+
+ Log  :                 fispact run time  =  0.83694     secs
+ Log  :                 rateeq_init_flux  =  0.17800E-03 secs
+ Log  :                rateeq_irrad_step  =  0.32252     secs
+ Log  :                 rateeq_cool_step  =  0.33525     secs
+ Log  :            output_inventory_step  =  0.33505E-01 secs
+ Log  :                    pathways_step  =  0.20000E-05 secs
+ Log  :                 sensitivity_step  =  0.20000E-05 secs
+
+
+  Error Summary 
+ ------------- 
+  total number of errors/warnings   =      0
+  number of serious errors/warnings =      0
+ 14:12:51 22 May 2019            
+
+ END OF LOG FILE
+

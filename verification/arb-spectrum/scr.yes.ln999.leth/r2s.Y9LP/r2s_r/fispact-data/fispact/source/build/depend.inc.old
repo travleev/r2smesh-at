@@ -1,0 +1,125 @@
+# DO NOT DELETE THIS LINE - used by make depend
+clock_m.o: const_kind_m.mod files_m.mod log_m.mod
+const_math_m.o: const_kind_m.mod
+const_phys_m.o: const_kind_m.mod const_math_m.mod
+date_time_m.o: const_kind_m.mod
+decay_m.o: const_kind_m.mod const_phys_m.mod decay_type_m.mod endf_m.mod
+decay_m.o: energy_bounds_m.mod files_m.mod log_m.mod zai_m.mod
+decay_type_m.o: const_kind_m.mod log_m.mod
+digraph_m.o: const_kind_m.mod const_phys_m.mod log_m.mod
+dominant_m.o: const_kind_m.mod const_phys_m.mod decay_m.mod files_m.mod
+dominant_m.o: gamma_dose_m.mod inventory_m.mod log_m.mod nuclide_m.mod
+dominant_m.o: rundata_m.mod zai_m.mod
+element_m.o: const_kind_m.mod const_phys_m.mod files_m.mod log_m.mod
+endf_m.o: const_kind_m.mod log_m.mod
+endfmat_m.o: const_kind_m.mod const_math_m.mod const_phys_m.mod endf_m.mod
+endfmat_m.o: energy_bounds_m.mod files_m.mod log_m.mod reaction_type_m.mod
+endfmat_m.o: zai_m.mod
+energy_bounds_m.o: const_kind_m.mod log_m.mod
+files_m.o: const_kind_m.mod log_m.mod
+fischoose_m.o: const_kind_m.mod fission_m.mod log_m.mod nuclide_m.mod
+fission_m.o: const_kind_m.mod const_phys_m.mod endf_m.mod files_m.mod flux_m.mod
+fission_m.o: log_m.mod zai_m.mod
+flux_m.o: const_kind_m.mod energy_bounds_m.mod files_m.mod log_m.mod
+fp_ii_m.o: files_m.mod
+gamma_dose_m.o: const_kind_m.mod const_math_m.mod const_phys_m.mod decay_m.mod
+gamma_dose_m.o: element_m.mod energy_bounds_m.mod inventory_m.mod log_m.mod
+gamma_dose_m.o: nuclide_m.mod zai_m.mod
+inventory_m.o: const_kind_m.mod const_phys_m.mod element_m.mod files_m.mod
+inventory_m.o: log_m.mod nuclide_m.mod rundata_m.mod zai_m.mod
+keyword_m.o: const_kind_m.mod log_m.mod
+log_m.o: const_kind_m.mod date_time_m.mod
+mfi_m.o: clock_m.mod const_kind_m.mod date_time_m.mod element_m.mod files_m.mod
+mfi_m.o: flux_m.mod inventory_m.mod log_m.mod nuclide_m.mod output_m.mod
+mfi_m.o: rateeq_m.mod rundata_m.mod
+nuclide_m.o: const_kind_m.mod const_math_m.mod const_phys_m.mod date_time_m.mod
+nuclide_m.o: decay_m.mod decay_type_m.mod element_m.mod endf_m.mod endfmat_m.mod
+nuclide_m.o: energy_bounds_m.mod files_m.mod fission_m.mod flux_m.mod log_m.mod
+nuclide_m.o: ptable_m.mod reaction_m.mod reaction_type_m.mod regulatory_m.mod
+nuclide_m.o: resonance_m.mod rundata_m.mod spectrum_type_m.mod zai_m.mod
+odesolve_m.o: const_kind_m.mod log_m.mod
+output_m.o: const_kind_m.mod const_phys_m.mod date_time_m.mod decay_m.mod
+output_m.o: decay_type_m.mod dominant_m.mod element_m.mod energy_bounds_m.mod
+output_m.o: files_m.mod flux_m.mod fp_ii_m.mod gamma_dose_m.mod inventory_m.mod
+output_m.o: log_m.mod nuclide_m.mod pathstep_m.mod pathways_m.mod printlib_m.mod
+output_m.o: rateeq_m.mod reaction_m.mod reaction_type_m.mod regulatory_m.mod
+output_m.o: rundata_m.mod zai_m.mod
+path_m.o: const_kind_m.mod const_phys_m.mod digraph_m.mod fischoose_m.mod
+path_m.o: log_m.mod pathstep_m.mod
+pathstep_m.o: const_kind_m.mod const_phys_m.mod files_m.mod fission_m.mod
+pathstep_m.o: inventory_m.mod log_m.mod nuclide_m.mod rateeq_m.mod
+pathstep_m.o: reaction_m.mod reaction_type_m.mod rundata_m.mod zai_m.mod
+pathways_m.o: const_kind_m.mod decay_m.mod decay_type_m.mod files_m.mod
+pathways_m.o: fischoose_m.mod fission_m.mod inventory_m.mod log_m.mod
+pathways_m.o: nuclide_m.mod path_m.mod pathstep_m.mod reaction_m.mod
+pathways_m.o: reaction_type_m.mod rundata_m.mod zai_m.mod
+printlib_m.o: const_kind_m.mod const_phys_m.mod decay_m.mod decay_type_m.mod
+printlib_m.o: energy_bounds_m.mod files_m.mod fission_m.mod flux_m.mod log_m.mod
+printlib_m.o: nuclide_m.mod reaction_m.mod reaction_type_m.mod rundata_m.mod
+printlib_m.o: spectrum_type_m.mod zai_m.mod
+ptable_m.o: const_kind_m.mod energy_bounds_m.mod files_m.mod log_m.mod
+ptable_m.o: rundata_m.mod zai_m.mod
+random_m.o: const_kind_m.mod const_math_m.mod log_m.mod
+rateeq_m.o: const_kind_m.mod const_phys_m.mod decay_m.mod decay_type_m.mod
+rateeq_m.o: files_m.mod fission_m.mod inventory_m.mod log_m.mod nuclide_m.mod
+rateeq_m.o: odesolve_m.mod reaction_m.mod reaction_type_m.mod rundata_m.mod
+rateeq_m.o: zai_m.mod
+reaction_m.o: const_kind_m.mod const_phys_m.mod endf_m.mod endfmat_m.mod
+reaction_m.o: energy_bounds_m.mod files_m.mod flux_m.mod log_m.mod
+reaction_m.o: reaction_type_m.mod zai_m.mod
+reaction_type_m.o: const_kind_m.mod log_m.mod
+regulatory_m.o: const_kind_m.mod files_m.mod log_m.mod
+resonance_m.o: const_kind_m.mod const_math_m.mod endfmat_m.mod log_m.mod
+resonance_m.o: rundata_m.mod
+rundata_m.o: const_kind_m.mod const_phys_m.mod element_m.mod energy_bounds_m.mod
+rundata_m.o: files_m.mod flux_m.mod log_m.mod token_m.mod zai_m.mod
+sensitivity_m.o: const_kind_m.mod const_phys_m.mod date_time_m.mod
+sensitivity_m.o: dominant_m.mod files_m.mod fission_m.mod inventory_m.mod
+sensitivity_m.o: log_m.mod nuclide_m.mod pathstep_m.mod random_m.mod
+sensitivity_m.o: reaction_m.mod rundata_m.mod zai_m.mod
+spectrum_type_m.o: const_kind_m.mod log_m.mod
+token_m.o: const_kind_m.mod const_phys_m.mod element_m.mod files_m.mod
+token_m.o: keyword_m.mod log_m.mod zai_m.mod
+zai_m.o: const_kind_m.mod element_m.mod log_m.mod
+clock_m.mod: clock_m.o
+const_kind_m.mod: const_kind_m.o
+const_math_m.mod: const_math_m.o
+const_phys_m.mod: const_phys_m.o
+date_time_m.mod: date_time_m.o
+decay_m.mod: decay_m.o
+decay_type_m.mod: decay_type_m.o
+digraph_m.mod: digraph_m.o
+dominant_m.mod: dominant_m.o
+element_m.mod: element_m.o
+endf_m.mod: endf_m.o
+endfmat_m.mod: endfmat_m.o
+energy_bounds_m.mod: energy_bounds_m.o
+files_m.mod: files_m.o
+fischoose_m.mod: fischoose_m.o
+fission_m.mod: fission_m.o
+flux_m.mod: flux_m.o
+fp_ii_m.mod: fp_ii_m.o
+gamma_dose_m.mod: gamma_dose_m.o
+inventory_m.mod: inventory_m.o
+keyword_m.mod: keyword_m.o
+log_m.mod: log_m.o
+mfi_m.mod: mfi_m.o
+nuclide_m.mod: nuclide_m.o
+odesolve_m.mod: odesolve_m.o
+output_m.mod: output_m.o
+path_m.mod: path_m.o
+pathstep_m.mod: pathstep_m.o
+pathways_m.mod: pathways_m.o
+printlib_m.mod: printlib_m.o
+ptable_m.mod: ptable_m.o
+random_m.mod: random_m.o
+rateeq_m.mod: rateeq_m.o
+reaction_m.mod: reaction_m.o
+reaction_type_m.mod: reaction_type_m.o
+regulatory_m.mod: regulatory_m.o
+resonance_m.mod: resonance_m.o
+rundata_m.mod: rundata_m.o
+sensitivity_m.mod: sensitivity_m.o
+spectrum_type_m.mod: spectrum_type_m.o
+token_m.mod: token_m.o
+zai_m.mod: zai_m.o

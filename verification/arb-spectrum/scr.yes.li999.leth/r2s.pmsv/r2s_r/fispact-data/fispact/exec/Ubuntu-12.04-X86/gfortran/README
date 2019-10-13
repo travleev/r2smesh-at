@@ -1,0 +1,10 @@
+System Configuration: 
+VirtualBox on MacPro
+2.7 GHz 12-Core Intel Xeon E5
+32 GB 1867 MHZ DDR3
+
+Ubuntu 12.04 LTS
+gcc version 4.6.3 
+
+F90FLAGS = -O  -static-libgfortran -ffree-form  -ffloat-store -fno-sign-zero -std=f2003
+F77FLAGS = -O  -ffloat-store -fno-sign-zero 

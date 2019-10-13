@@ -1,0 +1,26 @@
+(10, 24)
+out.no.vj.leth/cgi.1.1.1                  0.00000e+00
+
+out.yes.li003.leth/cgi.1.1.1              9.60509e-11
+out.yes.li005.leth/cgi.1.1.1              1.20093e-10
+out.yes.li009.leth/cgi.1.1.1              2.63950e-10
+out.yes.li017.leth/cgi.1.1.1              1.91840e-10
+out.yes.li101.leth/cgi.1.1.1              1.91840e-10
+out.yes.li201.leth/cgi.1.1.1              2.40034e-10
+out.yes.li301.leth/cgi.1.1.1              2.63950e-10
+out.yes.li401.leth/cgi.1.1.1              2.15996e-10
+out.yes.li999.leth/cgi.1.1.1              1.91841e-10
+
+out.yes.ln001.leth/cgi.1.1.1              7.20181e-11
+out.yes.ln003.leth/cgi.1.1.1              1.92080e-10
+out.yes.ln005.leth/cgi.1.1.1              1.92080e-10
+out.yes.ln009.leth/cgi.1.1.1              2.63950e-10
+out.yes.ln017.leth/cgi.1.1.1              5.75217e-10
+out.yes.ln101.leth/cgi.1.1.1              1.92074e-10
+out.yes.ln201.leth/cgi.1.1.1              9.60447e-11
+out.yes.ln301.leth/cgi.1.1.1              4.81063e-11
+out.yes.ln401.leth/cgi.1.1.1              7.20217e-11
+out.yes.ln999.leth/cgi.1.1.1              2.63960e-10
+
+out.yes.vj0.leth/cgi.1.1.1                2.63957e-10
+out.yes.vj.leth/cgi.1.1.1                 4.35068e-01

@@ -1,0 +1,14 @@
+ MONITOR 1
+ SAVELINES
+ NOFISS
+ NOHEADER
+ GETDECAY 1
+ FISPACT
+ * Condense decay data
+  load decay data
+  run reset cross-section
+ END
+ * Condense calculations
+  run closedown
+  deallocate and closedown
+ condense: cpu time = 0.933     secs.   No errors/warnings

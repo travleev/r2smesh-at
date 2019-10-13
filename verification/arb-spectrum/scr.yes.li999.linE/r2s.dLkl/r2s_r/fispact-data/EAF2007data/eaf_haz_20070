@@ -1,0 +1,2006 @@
+Nuclide ZA No     CEDE(ing)(Sv/Bq)CEDE(inh) Source
+2004 Nuclides in the data file.
+H -  3   10030    4.2E-11         2.6E-10  ICRP72    
+HE-  6   20060    1.5E-11         7.3E-12  Calculated
+LI-  5   30050    2.6E-35         1.6E-35  Calculated
+LI-  8   30080    1.0E-13         6.2E-14  Calculated
+LI-  9   30090    2.1E-15         1.3E-15  Calculated
+BE-  6   40060    4.4E-34         3.8E-34  Calculated
+BE-  7   40070    2.8E-11         5.5E-11  ICRP72    
+BE-  8   40080    4.1E-31         3.5E-31  Calculated
+BE- 10   40100    1.1E-09         3.5E-08  ICRP72    
+BE- 11   40110    3.0E-13         2.6E-13  Calculated
+BE- 12   40120    8.4E-16         7.3E-16  Calculated
+BE- 13   40130    2.3E-23         2.0E-23  Calculated
+B -  8   50080    2.2E-12         1.1E-12  Calculated
+B -  9   50090    1.3E-31         6.2E-32  Calculated
+B - 12   50120    3.8E-15         1.9E-15  Calculated
+B - 13   50130    3.3E-15         1.7E-15  Calculated
+B - 14   50140    4.8E-15         2.4E-15  Calculated
+B - 15   50150    1.0E-16         5.2E-17  Calculated
+C -  9   60090    9.2E-14         6.9E-14  Calculated
+C - 10   60100    6.9E-13         5.2E-13  Calculated
+C - 11   60110    2.4E-11         1.8E-11  ICRP72    
+C - 14   60140    5.8E-10         5.8E-09  ICRP72    
+C - 15   60150    2.2E-13         1.7E-13  Calculated
+C - 16   60160    3.1E-13         2.3E-13  Calculated
+C - 17   60170    9.1E-14         6.9E-14  Calculated
+N - 11   70110    2.4E-34         1.8E-34  Calculated
+N - 12   70120    1.4E-15         1.1E-15  Calculated
+N - 13   70130    1.3E-11         9.5E-12  Calculated
+N - 16   70160    7.3E-13         5.5E-13  Calculated
+N - 17   70170    1.2E-12         8.6E-13  Calculated
+N - 18   70180    8.0E-14         6.0E-14  Calculated
+N - 19   70190    6.1E-14         4.6E-14  Calculated
+N - 20   70200    7.6E-14         5.7E-14  Calculated
+O - 14   80140    4.0E-12         3.0E-12  Calculated
+O - 15   80150    3.0E-12         2.3E-12  Calculated
+O - 19   80190    1.0E-12         7.7E-13  Calculated
+O - 20   80200    1.2E-12         9.0E-13  Calculated
+O - 21   80210    4.0E-13         3.0E-13  Calculated
+O - 22   80220    3.7E-13         2.8E-13  Calculated
+F - 15   90150    8.4E-35         1.0E-34  Calculated
+F - 16   90160    8.3E-34         1.0E-33  Calculated
+F - 17   90170    6.9E-13         8.3E-13  Calculated
+F - 18   90180    4.9E-11         5.9E-11  ICRP72    
+F - 20   90200    2.7E-13         3.3E-13  Calculated
+F - 21   90210    7.3E-14         8.8E-14  Calculated
+F - 22   90220    2.1E-13         2.5E-13  Calculated
+F - 23   90230    9.9E-14         1.2E-13  Calculated
+F - 24   90240    3.4E-14         4.1E-14  Calculated
+NE- 17  100170    9.5E-11         4.7E-11  Calculated
+NE- 18  100180    7.4E-11         3.7E-11  Calculated
+NE- 19  100190    4.0E-10         2.0E-10  Calculated
+NE- 23  100230    8.9E-10         4.4E-10  Calculated
+NE- 24  100240    1.4E-08         7.1E-09  Calculated
+NE- 25  100250    4.0E-11         2.0E-11  Calculated
+NE- 26  100260    1.3E-11         6.3E-12  Calculated
+NE- 27  100270    5.7E-12         2.8E-12  Calculated
+NA- 20  110200    5.6E-15         3.4E-15  Calculated
+NA- 21  110210    8.5E-14         5.2E-14  Calculated
+NA- 22  110220    3.2E-09         1.3E-09  ICRP72    
+NA- 24  110240    4.3E-10         2.7E-10  ICRP72    
+NA- 24M 110241    8.7E-20         5.2E-20  Calculated
+NA- 25  110250    2.0E-13         1.2E-13  Calculated
+NA- 26  110260    1.1E-14         6.4E-15  Calculated
+NA- 27  110270    3.4E-15         2.1E-15  Calculated
+NA- 28  110280    4.8E-16         2.9E-16  Calculated
+NA- 29  110290    2.0E-15         1.2E-15  Calculated
+NA- 30  110300    3.1E-15         1.9E-15  Calculated
+MG- 21  120210    4.6E-15         2.3E-15  Calculated
+MG- 22  120220    2.5E-13         1.2E-13  Calculated
+MG- 23  120230    5.5E-13         2.7E-13  Calculated
+MG- 27  120270    1.8E-11         9.2E-12  Calculated
+MG- 28  120280    2.2E-09         1.2E-09  ICRP72    
+MG- 29  120290    1.8E-13         9.1E-14  Calculated
+MG- 30  120300    7.1E-14         3.5E-14  Calculated
+MG- 31  120310    6.4E-14         3.2E-14  Calculated
+AL- 23  130230    1.3E-13         9.0E-14  Calculated
+AL- 24  130240    5.4E-13         3.8E-13  Calculated
+AL- 24M 130241    3.5E-14         2.5E-14  Calculated
+AL- 25  130250    4.1E-13         2.9E-13  Calculated
+AL- 26  130260    3.5E-09         2.0E-08  ICRP72    
+AL- 26M 130261    3.5E-13         2.5E-13  Calculated
+AL- 28  130280    9.2E-12         6.6E-12  Calculated
+AL- 29  130290    2.1E-11         1.5E-11  NRPB-M    
+AL- 30  130300    4.8E-13         3.4E-13  Calculated
+AL- 31  130310    6.9E-14         4.9E-14  Calculated
+AL- 32  130320    4.9E-15         3.5E-15  Calculated
+AL- 33  130330    1.4E-14         1.0E-14  Calculated
+AL- 34  130340    2.7E-14         1.9E-14  Calculated
+SI- 25  140250    3.7E-14         1.8E-14  Calculated
+SI- 26  140260    3.4E-13         1.7E-13  Calculated
+SI- 27  140270    3.3E-13         1.6E-13  Calculated
+SI- 31  140310    1.6E-10         7.9E-11  ICRP72    
+SI- 32  140320    5.6E-10         1.1E-07  ICRP72    
+SI- 33  140330    7.6E-13         3.7E-13  Calculated
+SI- 34  140340    3.9E-13         1.9E-13  Calculated
+SI- 35  140350    2.2E-13         1.1E-13  Calculated
+SI- 36  140360    1.7E-13         8.2E-14  Calculated
+P - 28  150280    5.3E-14         1.3E-13  Calculated
+P - 29  150290    3.6E-13         8.9E-13  Calculated
+P - 30  150300    7.6E-12         1.9E-11  Calculated
+P - 32  150320    2.4E-09         3.4E-09  ICRP72    
+P - 33  150330    2.4E-10         1.5E-09  ICRP72    
+P - 34  150340    6.7E-13         1.7E-12  Calculated
+P - 35  150350    2.6E-12         6.4E-12  Calculated
+P - 36  150360    9.4E-13         2.3E-12  Calculated
+P - 37  150370    2.8E-13         6.8E-13  Calculated
+P - 38  150380    1.0E-13         2.5E-13  Calculated
+P - 39  150390    6.7E-14         1.7E-13  Calculated
+P - 40  150400    6.9E-14         1.7E-13  Calculated
+S - 29  160290    2.2E-13         2.3E-13  Calculated
+S - 30  160300    6.4E-13         6.9E-13  Calculated
+S - 31  160310    6.9E-13         7.5E-13  Calculated
+S - 35  160350    7.7E-10         1.9E-09  ICRP72    
+S - 37  160370    1.5E-11         1.3E-11  NRPB-M    
+S - 38  160380    6.0E-10         3.6E-10  NRPB-M    
+S - 39  160390    4.8E-12         4.9E-12  Calculated
+S - 40  160400    6.7E-12         7.2E-12  Calculated
+S - 41  160410    2.0E-12         2.1E-12  Calculated
+CL- 32  170320    9.7E-14         7.4E-14  Calculated
+CL- 33  170330    3.1E-13         2.4E-13  Calculated
+CL- 34  170340    1.9E-13         1.4E-13  Calculated
+CL- 34M 170341    9.7E-11         7.4E-11  NRPB-M    
+CL- 36  170360    9.3E-10         7.3E-09  ICRP72    
+CL- 38  170380    1.2E-10         4.5E-11  ICRP72    
+CL- 38M 170381    5.8E-14         2.9E-14  Calculated
+CL- 39  170390    8.5E-11         4.6E-11  ICRP72    
+CL- 40  170400    1.8E-11         1.4E-11  Calculated
+CL- 41  170410    8.6E-12         6.5E-12  Calculated
+CL- 42  170420    1.7E-12         1.3E-12  Calculated
+CL- 43  170430    1.0E-12         8.0E-13  Calculated
+CL- 44  170440    3.5E-13         2.7E-13  Calculated
+CL- 45  170450    3.5E-13         2.7E-13  Calculated
+AR- 33  180330    3.6E-12         1.8E-12  Calculated
+AR- 34  180340    6.3E-11         3.2E-11  Calculated
+AR- 35  180350    6.8E-11         3.4E-11  Calculated
+AR- 37  180370    9.9E-09         3.8E-08  Calculated
+AR- 39  180390    1.1E-06         3.8E-05  Calculated
+AR- 41  180410    1.3E-07         6.7E-08  Calculated
+AR- 42  180420    4.0E-06         1.6E-04  Calculated
+AR- 43  180430    1.1E-08         6.2E-09  Calculated
+AR- 44  180440    5.4E-08         2.7E-08  Calculated
+AR- 45  180450    2.0E-09         1.1E-09  Calculated
+AR- 46  180460    8.4E-10         4.2E-10  Calculated
+AR- 47  180470    7.4E-11         3.7E-11  Calculated
+K - 36  190360    5.1E-14         1.2E-14  Calculated
+K - 37  190370    6.9E-14         1.7E-14  Calculated
+K - 38  190380    3.3E-11         7.9E-12  Calculated
+K - 38M 190381    5.1E-14         1.2E-14  Calculated
+K - 40  190400    6.2E-09         2.1E-09  ICRP72    
+K - 42  190420    4.3E-10         1.2E-10  ICRP72    
+K - 43  190430    2.5E-10         1.4E-10  ICRP72    
+K - 44  190440    8.4E-11         2.0E-11  ICRP72    
+K - 45  190450    5.4E-11         1.5E-11  ICRP72    
+K - 46  190460    8.6E-12         2.1E-12  Calculated
+K - 47  190470    1.3E-12         3.1E-13  Calculated
+K - 48  190480    1.0E-12         2.4E-13  Calculated
+CA- 37  200370    3.0E-14         6.8E-14  Calculated
+CA- 38  200380    1.6E-13         3.7E-13  Calculated
+CA- 39  200390    1.6E-13         3.6E-13  Calculated
+CA- 41  200410    1.9E-10         1.8E-10  ICRP72    
+CA- 45  200450    7.1E-10         3.7E-09  ICRP72    
+CA- 47  200470    1.6E-09         2.1E-09  ICRP72    
+CA- 48  200480    2.1E-08         1.1E-07  Calculated
+CA- 49  200490    1.1E-10         2.5E-10  Calculated
+SC- 40  210400    1.0E-11         3.9E-12  Calculated
+SC- 41  210410    1.1E-11         4.3E-12  Calculated
+SC- 42  210420    1.3E-11         4.9E-12  Calculated
+SC- 42M 210421    1.8E-09         6.9E-10  Calculated
+SC- 43  210430    1.9E-10         1.1E-10  ICRP72    
+SC- 44  210440    3.5E-10         1.8E-10  ICRP72    
+SC- 44M 210441    2.4E-09         1.4E-09  ICRP72    
+SC- 45M 210451    1.5E-14         5.9E-15  Calculated
+SC- 46  210460    1.5E-09         6.8E-09  ICRP72    
+SC- 46M 210461    1.4E-11         5.4E-12  Calculated
+SC- 47  210470    5.4E-10         7.3E-10  ICRP72    
+SC- 48  210480    1.7E-09         1.1E-09  ICRP72    
+SC- 49  210490    8.2E-11         4.0E-11  ICRP72    
+SC- 50  210500    2.6E-09         1.0E-09  Calculated
+SC- 50M 210501    9.3E-12         3.6E-12  Calculated
+SC- 51  210510    3.5E-10         1.4E-10  Calculated
+SC- 52  210520    3.9E-10         1.5E-10  Calculated
+TI- 41  220410    1.3E-17         9.3E-18  Calculated
+TI- 42  220420    5.3E-14         3.9E-14  Calculated
+TI- 43  220430    6.8E-14         5.0E-14  Calculated
+TI- 44  220440    5.8E-09         1.2E-07  ICRP72    
+TI- 45  220450    1.5E-10         9.3E-11  ICRP72    
+TI- 51  220510    1.5E-11         1.1E-11  NRPB-M    
+TI- 52  220520    1.2E-11         8.2E-12  Calculated
+TI- 53  220530    6.2E-12         4.5E-12  Calculated
+TI- 54  220540    4.4E-13         3.2E-13  Calculated
+TI- 55  220550    1.6E-13         1.2E-13  Calculated
+V - 44  230440    2.5E-14         1.8E-14  Calculated
+V - 45  230450    5.7E-14         4.1E-14  Calculated
+V - 46  230460    4.0E-14         2.9E-14  Calculated
+V - 47  230470    6.3E-11         2.9E-11  ICRP72    
+V - 48  230480    2.0E-09         2.4E-09  ICRP72    
+V - 49  230490    1.8E-11         3.4E-11  ICRP72    
+V - 50  230500    6.4E-09         1.1E-08  Calculated
+V - 52  230520    1.4E-11         9.2E-12  NRPB-M    
+V - 53  230530    4.9E-12         3.6E-12  Calculated
+V - 54  230540    6.7E-12         4.9E-12  Calculated
+V - 55  230550    6.8E-13         4.9E-13  Calculated
+V - 56  230560    4.6E-14         3.4E-14  Calculated
+V - 57  230570    8.0E-14         5.8E-14  Calculated
+V - 58  230580    1.2E-13         8.4E-14  Calculated
+CR- 46  240460    1.3E-14         5.5E-15  Calculated
+CR- 47  240470    1.6E-14         6.5E-15  Calculated
+CR- 48  240480    2.0E-10         2.2E-10  ICRP72    
+CR- 49  240490    6.1E-11         3.5E-11  ICRP72    
+CR- 50  240500    1.3E-09         1.3E-09  Calculated
+CR- 51  240510    3.8E-11         3.7E-11  ICRP72    
+CR- 55  240550    1.4E-12         6.2E-13  Calculated
+CR- 56  240560    5.2E-12         2.5E-12  Calculated
+CR- 57  240570    4.6E-13         2.0E-13  Calculated
+CR- 58  240580    2.9E-13         1.3E-13  Calculated
+CR- 59  240590    2.1E-14         9.5E-15  Calculated
+MN- 48  250480    2.3E-14         1.0E-14  Calculated
+MN- 49  250490    4.9E-14         2.4E-14  Calculated
+MN- 50  250500    1.8E-14         7.7E-15  Calculated
+MN- 50M 250501    1.1E-11         4.4E-12  Calculated
+MN- 51  250510    9.3E-11         4.1E-11  ICRP72    
+MN- 52  250520    1.8E-09         1.4E-09  ICRP72    
+MN- 52M 250521    6.9E-11         2.9E-11  ICRP72    
+MN- 53  250530    3.0E-11         5.4E-11  ICRP72    
+MN- 54  250540    7.1E-10         1.5E-09  ICRP72    
+MN- 56  250560    2.5E-10         1.2E-10  ICRP72    
+MN- 57  250570    1.6E-12         6.7E-13  Calculated
+MN- 58  250580    4.2E-12         1.7E-12  Calculated
+MN- 58M 250581    1.2E-13         5.2E-14  Calculated
+MN- 59  250590    1.9E-13         8.2E-14  Calculated
+MN- 60  250600    3.1E-12         1.3E-12  Calculated
+MN- 60M 250601    1.5E-13         6.3E-14  Calculated
+MN- 61  250610    6.1E-14         2.6E-14  Calculated
+MN- 62  250620    1.4E-13         6.1E-14  Calculated
+MN- 63  250630    4.6E-14         1.9E-14  Calculated
+MN- 64  250640    1.9E-14         8.0E-15  Calculated
+FE- 50  260500    1.2E-14         1.1E-14  Calculated
+FE- 51  260510    9.3E-10         9.3E-10  Calculated
+FE- 52  260520    1.4E-09         6.3E-10  ICRP72    
+FE- 52M 260521    2.6E-12         2.6E-12  Calculated
+FE- 53  260530    9.2E-12         9.0E-12  Calculated
+FE- 53M 260531    6.5E-12         6.4E-12  Calculated
+FE- 55  260550    3.3E-10         7.7E-10  ICRP72    
+FE- 59  260590    1.8E-09         4.0E-09  ICRP72    
+FE- 60  260600    1.1E-07         2.8E-07  ICRP72    
+FE- 61  260610    6.9E-12         6.8E-12  Calculated
+FE- 62  260620    2.4E-12         2.4E-12  Calculated
+FE- 63  260630    2.2E-13         2.2E-13  Calculated
+FE- 64  260640    8.8E-14         8.6E-14  Calculated
+FE- 65  260650    9.7E-14         9.5E-14  Calculated
+CO- 52  270520    2.8E-11         2.0E-11  Calculated
+CO- 53  270530    2.8E-11         2.3E-11  Calculated
+CO- 54  270540    1.5E-11         1.2E-11  Calculated
+CO- 54M 270541    9.2E-09         7.6E-09  Calculated
+CO- 55  270550    1.0E-09         5.3E-10  ICRP72    
+CO- 56  270560    2.5E-09         6.7E-09  ICRP72    
+CO- 57  270570    2.1E-10         1.0E-09  ICRP72    
+CO- 58  270580    7.4E-10         2.1E-09  ICRP72    
+CO- 58M 270581    2.4E-11         1.7E-11  ICRP72    
+CO- 60  270600    3.4E-09         3.1E-08  ICRP72    
+CO- 60M 270601    1.7E-12         1.4E-12  ICRP72    
+CO- 61  270610    7.4E-11         5.1E-11  ICRP72    
+CO- 62  270620    5.1E-09         4.2E-09  Calculated
+CO- 62M 270621    4.7E-11         2.1E-11  ICRP72    
+CO- 63  270630    8.1E-10         6.7E-10  Calculated
+CO- 64  270640    1.8E-11         1.5E-11  Calculated
+CO- 65  270650    8.2E-11         6.8E-11  Calculated
+CO- 66  270660    2.8E-11         2.4E-11  Calculated
+CO- 67  270670    3.7E-11         3.1E-11  Calculated
+CO- 68  270680    3.9E-11         3.2E-11  Calculated
+CO- 68M 270681    3.3E-10         2.7E-10  Calculated
+CO- 69  270690    4.8E-11         3.9E-11  Calculated
+NI- 53  280530    6.8E-15         3.4E-15  Calculated
+NI- 54  280540    1.8E-14         9.0E-15  Calculated
+NI- 55  280550    1.6E-14         8.0E-15  Calculated
+NI- 56  280560    8.6E-10         1.0E-09  ICRP72    
+NI- 57  280570    8.7E-10         5.3E-10  ICRP72    
+NI- 58  280580    5.8E-09         6.8E-09  Calculated
+NI- 59  280590    6.3E-11         4.4E-10  ICRP72    
+NI- 63  280630    1.5E-10         1.3E-09  ICRP72    
+NI- 65  280650    1.8E-10         9.0E-11  ICRP72    
+NI- 66  280660    3.0E-09         1.8E-09  ICRP72    
+NI- 67  280670    5.7E-13         3.0E-13  Calculated
+NI- 68  280680    1.9E-12         9.5E-13  Calculated
+NI- 69  280690    1.0E-12         5.0E-13  Calculated
+NI- 69M 280691    3.2E-13         1.6E-13  Calculated
+NI- 70  280700    7.0E-13         3.5E-13  Calculated
+NI- 71  280710    3.9E-13         2.0E-13  Calculated
+CU- 56  290560    4.4E-14         2.8E-14  Calculated
+CU- 57  290570    4.6E-14         2.9E-14  Calculated
+CU- 58  290580    7.1E-13         4.4E-13  Calculated
+CU- 59  290590    1.1E-11         6.7E-12  Calculated
+CU- 60  290600    7.0E-11         3.4E-11  ICRP72    
+CU- 61  290610    1.2E-10         7.8E-11  ICRP72    
+CU- 62  290620    6.1E-11         3.8E-11  Calculated
+CU- 64  290640    1.2E-10         1.2E-10  ICRP72    
+CU- 66  290660    1.6E-11         9.9E-12  NRPB-M    
+CU- 67  290670    3.4E-10         6.1E-10  ICRP72    
+CU- 68  290680    3.5E-12         2.2E-12  Calculated
+CU- 68M 290681    3.5E-11         2.2E-11  Calculated
+CU- 69  290690    1.1E-11         6.8E-12  Calculated
+CU- 70  290700    6.7E-13         4.1E-13  Calculated
+CU- 70M 290701    5.9E-12         3.6E-12  Calculated
+CU- 70N 290702    1.4E-12         8.4E-13  Calculated
+CU- 71  290710    3.6E-12         2.2E-12  Calculated
+CU- 72  290720    1.4E-12         8.4E-13  Calculated
+CU- 73  290730    4.3E-13         2.7E-13  Calculated
+CU- 74  290740    8.4E-13         5.2E-13  Calculated
+CU- 75  290750    6.4E-13         4.0E-13  Calculated
+ZN- 58  300580    4.7E-11         3.7E-11  Calculated
+ZN- 59  300590    6.7E-11         5.3E-11  Calculated
+ZN- 60  300600    2.5E-08         1.9E-08  Calculated
+ZN- 61  300610    1.5E-08         1.2E-08  Calculated
+ZN- 62  300620    9.4E-10         5.5E-10  ICRP72    
+ZN- 63  300630    7.9E-11         3.7E-11  ICRP72    
+ZN- 64  300640    9.3E-06         1.7E-05  Calculated
+ZN- 65  300650    3.9E-09         2.2E-09  ICRP72    
+ZN- 69  300690    3.1E-11         2.8E-11  ICRP72    
+ZN- 69M 300691    3.3E-10         2.7E-10  ICRP72    
+ZN- 71  300710    9.5E-09         7.5E-09  Calculated
+ZN- 71M 300711    2.4E-10         1.6E-10  ICRP72    
+ZN- 72  300720    1.4E-09         1.3E-09  ICRP72    
+ZN- 73  300730    2.2E-09         1.7E-09  Calculated
+ZN- 73M 300731    1.3E-09         1.1E-09  Calculated
+ZN- 73N 300732    7.2E-10         5.7E-10  Calculated
+ZN- 74  300740    2.3E-08         1.8E-08  Calculated
+ZN- 75  300750    2.7E-09         2.1E-09  Calculated
+ZN- 76  300760    1.8E-09         1.4E-09  Calculated
+GA- 63  310630    1.4E-10         7.3E-11  Calculated
+GA- 64  310640    1.0E-09         5.5E-10  Calculated
+GA- 65  310650    3.7E-11         1.7E-11  ICRP72    
+GA- 66  310660    1.2E-09         4.4E-10  ICRP72    
+GA- 67  310670    1.9E-10         2.4E-10  ICRP72    
+GA- 68  310680    1.0E-10         4.9E-11  ICRP72    
+GA- 70  310700    3.1E-11         1.6E-11  ICRP72    
+GA- 72  310720    1.1E-09         5.3E-10  ICRP72    
+GA- 72M 310721    7.0E-15         3.7E-15  Calculated
+GA- 73  310730    2.6E-10         1.4E-10  ICRP72    
+GA- 74  310740    2.5E-09         1.3E-09  Calculated
+GA- 74M 310741    4.9E-11         2.7E-11  Calculated
+GA- 75  310750    3.2E-10         1.7E-10  Calculated
+GA- 76  310760    1.9E-10         1.0E-10  Calculated
+GA- 77  310770    6.3E-11         3.4E-11  Calculated
+GA- 78  310780    4.1E-11         2.2E-11  Calculated
+GA- 79  310790    4.8E-11         2.6E-11  Calculated
+GE- 64  320640    9.5E-12         7.4E-12  Calculated
+GE- 65  320650    2.5E-12         1.9E-12  Calculated
+GE- 66  320660    1.0E-10         9.1E-11  ICRP72    
+GE- 67  320670    6.5E-11         2.5E-11  ICRP72    
+GE- 68  320680    1.3E-09         1.4E-08  ICRP72    
+GE- 69  320690    2.4E-10         2.9E-10  ICRP72    
+GE- 71  320710    1.2E-11         1.1E-11  ICRP72    
+GE- 73M 320731    6.5E-16         5.1E-16  Calculated
+GE- 75  320750    4.6E-11         3.6E-11  ICRP72    
+GE- 75M 320751    5.8E-13         4.5E-13  Calculated
+GE- 76  320760    7.4E-09         1.4E-08  Calculated
+GE- 77  320770    3.3E-10         3.7E-10  ICRP72    
+GE- 77M 320771    1.3E-12         1.0E-12  Calculated
+GE- 78  320780    1.2E-10         9.5E-11  ICRP72    
+GE- 79  320790    1.1E-12         8.6E-13  Calculated
+GE- 79M 320791    2.7E-12         2.1E-12  Calculated
+GE- 80  320800    2.2E-12         1.7E-12  Calculated
+GE- 81  320810    9.4E-13         7.4E-13  Calculated
+GE- 81M 320811    9.1E-13         7.1E-13  Calculated
+AS- 67  330670    5.4E-12         7.0E-12  Calculated
+AS- 68  330680    1.7E-11         2.9E-11  Calculated
+AS- 69  330690    5.7E-11         2.1E-11  ICRP72    
+AS- 70  330700    1.3E-10         6.7E-11  ICRP72    
+AS- 71  330710    4.6E-10         4.0E-10  ICRP72    
+AS- 72  330720    1.8E-09         9.0E-10  ICRP72    
+AS- 73  330730    2.6E-10         1.0E-09  ICRP72    
+AS- 74  330740    1.3E-09         2.1E-09  ICRP72    
+AS- 76  330760    1.6E-09         7.4E-10  ICRP72    
+AS- 77  330770    4.0E-10         3.9E-10  ICRP72    
+AS- 78  330780    2.1E-10         8.9E-11  ICRP72    
+AS- 79  330790    9.4E-12         1.6E-11  Calculated
+AS- 80  330800    8.3E-13         1.4E-12  Calculated
+AS- 81  330810    1.2E-12         2.0E-12  Calculated
+AS- 82  330820    1.4E-12         2.3E-12  Calculated
+AS- 82M 330821    1.4E-12         2.3E-12  Calculated
+AS- 83  330830    1.3E-12         2.2E-12  Calculated
+AS- 84  330840    9.1E-13         1.5E-12  Calculated
+AS- 84M 330841    9.8E-14         1.6E-13  Calculated
+SE- 68  340680    9.1E-08         8.8E-08  Calculated
+SE- 69  340690    5.8E-08         3.7E-08  Calculated
+SE- 70  340700    1.2E-10         7.6E-11  ICRP72    
+SE- 71  340710    2.5E-07         2.4E-07  Calculated
+SE- 72  340720    5.0E-09         4.3E-09  KENDALL   
+SE- 73  340730    2.1E-10         2.1E-10  ICRP72    
+SE- 73M 340731    2.8E-11         2.2E-11  ICRP72    
+SE- 75  340750    2.6E-09         1.3E-09  ICRP72    
+SE- 77M 340771    8.1E-10         7.8E-10  Calculated
+SE- 79  340790    2.9E-09         6.8E-09  ICRP72    
+SE- 79M 340791    3.6E-12         3.5E-12  Calculated
+SE- 81  340810    2.7E-11         1.5E-11  ICRP72    
+SE- 81M 340811    5.3E-11         5.1E-11  ICRP72    
+SE- 82  340820    1.6E-04         3.5E-04  Calculated
+SE- 83  340830    4.7E-11         3.4E-11  ICRP72    
+SE- 83M 340831    4.5E-08         4.4E-08  Calculated
+SE- 84  340840    5.1E-08         4.9E-08  Calculated
+SE- 85  340850    5.0E-08         4.8E-08  Calculated
+BR- 71  350710    1.9E-09         2.1E-09  Calculated
+BR- 72  350720    7.5E-09         8.3E-09  Calculated
+BR- 72M 350721    1.0E-09         1.1E-09  Calculated
+BR- 73  350730    9.5E-09         1.1E-08  Calculated
+BR- 74  350740    8.4E-11         3.8E-11  ICRP72    
+BR- 74M 350741    1.4E-10         6.2E-11  ICRP72    
+BR- 75  350750    7.9E-11         5.3E-11  ICRP72    
+BR- 76  350760    4.6E-10         4.1E-10  ICRP72    
+BR- 76M 350761    7.6E-13         8.5E-13  Calculated
+BR- 77  350770    9.6E-11         8.4E-11  ICRP72    
+BR- 77M 350771    4.5E-10         5.0E-10  Calculated
+BR- 78  350780    1.3E-08         1.5E-08  Calculated
+BR- 79M 350791    1.7E-11         1.9E-11  Calculated
+BR- 80  350800    3.1E-11         9.4E-12  ICRP72    
+BR- 80M 350801    1.1E-10         7.6E-11  ICRP72    
+BR- 82  350820    5.4E-10         6.3E-10  ICRP72    
+BR- 82M 350821    4.8E-10         5.4E-10  Calculated
+BR- 83  350830    4.3E-11         4.8E-11  ICRP72    
+BR- 84  350840    8.8E-11         3.7E-11  ICRP72    
+BR- 84M 350841    2.2E-08         2.5E-08  Calculated
+BR- 85  350850    4.2E-09         4.7E-09  Calculated
+BR- 86  350860    4.8E-09         5.4E-09  Calculated
+BR- 87  350870    1.1E-10         1.2E-10  Calculated
+BR- 88  350880    2.5E-09         2.8E-09  Calculated
+KR- 72  360720    1.7E-09         8.4E-10  Calculated
+KR- 73  360730    2.2E-09         1.1E-09  Calculated
+KR- 74  360740    1.5E-08         7.3E-09  Calculated
+KR- 75  360750    8.5E-09         4.3E-09  Calculated
+KR- 76  360760    2.7E-07         1.3E-07  Calculated
+KR- 77  360770    8.9E-08         4.4E-08  Calculated
+KR- 78  360780    1.4E-05         4.9E-04  Calculated
+KR- 79  360790    4.0E-07         2.1E-07  Calculated
+KR- 79M 360791    2.3E-10         1.2E-10  Calculated
+KR- 81  360810    6.2E-08         2.2E-06  Calculated
+KR- 81M 360811    2.9E-11         1.5E-11  Calculated
+KR- 83M 360831    3.2E-09         1.6E-09  Calculated
+KR- 85  360850    1.1E-06         3.8E-05  Calculated
+KR- 85M 360851    6.0E-08         3.0E-08  Calculated
+KR- 87  360870    1.1E-07         5.6E-08  Calculated
+KR- 88  360880    3.9E-07         2.0E-07  Calculated
+KR- 89  360890    8.4E-09         4.8E-09  Calculated
+KR- 90  360900    2.5E-09         1.2E-09  Calculated
+RB- 77  370770    9.4E-11         1.5E-11  Calculated
+RB- 78  370780    4.7E-10         7.5E-11  Calculated
+RB- 78M 370781    1.5E-10         2.4E-11  Calculated
+RB- 79  370790    5.0E-11         1.6E-11  ICRP72    
+RB- 80  370800    9.3E-12         1.5E-12  Calculated
+RB- 81  370810    5.4E-11         3.4E-11  ICRP72    
+RB- 81M 370811    9.7E-12         7.0E-12  ICRP72    
+RB- 82  370820    1.6E-11         2.6E-12  Calculated
+RB- 82M 370821    1.3E-10         1.1E-10  ICRP72    
+RB- 83  370830    1.9E-09         6.9E-10  ICRP72    
+RB- 84  370840    2.8E-09         1.0E-09  ICRP72    
+RB- 84M 370841    4.9E-11         8.0E-12  Calculated
+RB- 86  370860    2.8E-09         9.3E-10  ICRP72    
+RB- 86M 370861    3.0E-12         4.9E-13  Calculated
+RB- 87  370870    1.5E-09         5.0E-10  ICRP72    
+RB- 88  370880    9.0E-11         1.6E-11  ICRP72    
+RB- 89  370890    4.7E-11         1.4E-11  ICRP72    
+RB- 90  370900    5.4E-11         8.6E-12  Calculated
+RB- 90M 370901    1.0E-10         1.6E-11  Calculated
+RB- 91  370910    2.1E-11         3.3E-12  Calculated
+RB- 92  370920    2.1E-12         3.2E-13  Calculated
+RB- 93  370930    3.9E-12         6.2E-13  Calculated
+RB- 94  370940    1.9E-12         3.0E-13  Calculated
+SR- 78  380780    6.1E-11         4.3E-11  Calculated
+SR- 79  380790    2.3E-11         1.8E-11  Calculated
+SR- 80  380800    3.4E-10         1.4E-10  ICRP72    
+SR- 81  380810    7.7E-11         3.7E-11  ICRP72    
+SR- 82  380820    6.1E-09         1.1E-08  ICRP72    
+SR- 83  380830    4.9E-10         3.4E-10  ICRP72    
+SR- 83M 380831    8.4E-14         5.9E-14  Calculated
+SR- 85  380850    5.6E-10         8.1E-10  ICRP72    
+SR- 85M 380851    6.1E-12         4.3E-12  ICRP72    
+SR- 87M 380871    3.0E-11         2.1E-11  ICRP72    
+SR- 89  380890    2.6E-09         7.9E-09  ICRP72    
+SR- 90  380900    2.8E-08         1.6E-07  ICRP72    
+SR- 91  380910    6.5E-10         4.1E-10  ICRP72    
+SR- 92  380920    4.3E-10         2.3E-10  ICRP72    
+SR- 93  380930    7.0E-11         4.9E-11  Calculated
+SR- 94  380940    8.4E-12         5.9E-12  Calculated
+SR- 95  380950    3.9E-12         2.7E-12  Calculated
+SR- 96  380960    3.2E-13         2.3E-13  Calculated
+Y - 81  390810    3.5E-09         1.6E-09  Calculated
+Y - 82  390820    4.9E-10         2.5E-10  Calculated
+Y - 83  390830    1.4E-08         7.1E-09  Calculated
+Y - 83M 390831    5.2E-09         2.6E-09  Calculated
+Y - 84  390840    1.9E-10         9.7E-11  Calculated
+Y - 84M 390841    1.4E-07         7.2E-08  Calculated
+Y - 85  390850    1.5E-10         1.4E-10  NRPB-M    
+Y - 85M 390851    3.2E-10         2.5E-10  NRPB-M    
+Y - 86  390860    9.6E-10         4.7E-10  ICRP72    
+Y - 86M 390861    5.6E-11         2.8E-11  ICRP72    
+Y - 87  390870    5.5E-10         3.9E-10  ICRP72    
+Y - 87M 390871    2.1E-10         1.9E-10  NRPB-M    
+Y - 88  390880    1.3E-09         4.4E-09  ICRP72    
+Y - 89M 390891    1.6E-10         8.2E-11  Calculated
+Y - 90  390900    2.7E-09         1.5E-09  ICRP72    
+Y - 90M 390901    1.7E-10         1.0E-10  ICRP72    
+Y - 91  390910    2.4E-09         8.9E-09  ICRP72    
+Y - 91M 390911    1.1E-11         1.1E-11  ICRP72    
+Y - 92  390920    4.9E-10         1.8E-10  ICRP72    
+Y - 93  390930    1.2E-09         4.2E-10  ICRP72    
+Y - 93M 390931    7.2E-12         3.6E-12  Calculated
+Y - 94  390940    8.1E-11         2.8E-11  ICRP72    
+Y - 95  390950    4.6E-11         1.6E-11  ICRP72    
+Y - 96  390960    2.0E-10         1.0E-10  Calculated
+Y - 96M 390961    7.1E-10         3.5E-10  Calculated
+Y - 97  390970    2.1E-10         1.0E-10  Calculated
+Y - 97M 390971    7.1E-11         3.5E-11  Calculated
+Y - 97N 390972    1.3E-11         6.6E-12  Calculated
+Y - 98  390980    5.9E-11         2.9E-11  Calculated
+Y - 98M 390981    2.2E-10         1.1E-10  Calculated
+ZR- 82  400820    1.1E-11         5.1E-12  Calculated
+ZR- 83  400830    1.1E-11         5.5E-12  Calculated
+ZR- 84  400840    4.0E-10         1.9E-10  Calculated
+ZR- 85  400850    6.1E-11         2.9E-11  Calculated
+ZR- 85M 400851    1.6E-12         7.5E-13  Calculated
+ZR- 86  400860    8.6E-10         4.3E-10  ICRP72    
+ZR- 87  400870    3.1E-11         2.8E-11  NRPB-M    
+ZR- 87M 400871    2.9E-13         1.7E-13  Calculated
+ZR- 88  400880    4.5E-10         3.6E-09  ICRP72    
+ZR- 89  400890    7.9E-10         5.5E-10  ICRP72    
+ZR- 89M 400891    8.5E-12         4.2E-12  Calculated
+ZR- 90M 400901    8.8E-14         4.2E-14  Calculated
+ZR- 93  400930    1.1E-09         2.5E-08  ICRP72    
+ZR- 94  400940    9.6E-09         1.1E-08  Calculated
+ZR- 95  400950    9.5E-10         5.9E-09  ICRP72    
+ZR- 96  400960    2.8E-08         3.1E-08  Calculated
+ZR- 97  400970    2.1E-09         9.2E-10  ICRP72    
+ZR- 98  400980    4.6E-12         2.2E-12  Calculated
+ZR- 99  400990    4.5E-13         2.2E-13  Calculated
+NB- 86  410860    6.0E-10         9.6E-10  Calculated
+NB- 86M 410861    3.7E-10         5.9E-10  Calculated
+NB- 87  410870    7.9E-10         1.3E-09  Calculated
+NB- 87M 410871    5.8E-10         9.5E-10  Calculated
+NB- 88  410880    6.3E-11         2.8E-11  ICRP72    
+NB- 88M 410881    2.9E-09         4.6E-09  Calculated
+NB- 89  410890    2.7E-10         1.2E-10  ICRP72    
+NB- 89M 410891    1.4E-10         7.1E-11  ICRP72    
+NB- 90  410900    1.2E-09         6.6E-10  ICRP72    
+NB- 90M 410901    3.0E-12         4.4E-12  Calculated
+NB- 91  410910    6.4E-11         4.1E-09  R245      
+NB- 91M 410911    6.3E-10         2.3E-09  R245      
+NB- 92  410920    1.1E-09         3.8E-08  KENDALL   
+NB- 92M 410921    6.0E-10         5.9E-10  R245      
+NB- 93M 410931    1.2E-10         1.8E-09  ICRP72    
+NB- 94  410940    1.7E-09         4.9E-08  ICRP72    
+NB- 94M 410941    2.0E-11         3.2E-11  Calculated
+NB- 95  410950    5.8E-10         1.8E-09  ICRP72    
+NB- 95M 410951    5.6E-10         8.8E-10  ICRP72    
+NB- 96  410960    1.1E-09         6.6E-10  ICRP72    
+NB- 97  410970    6.8E-11         4.5E-11  ICRP72    
+NB- 97M 410971    4.5E-11         7.1E-11  Calculated
+NB- 98  410980    7.4E-12         1.2E-11  Calculated
+NB- 98M 410981    1.1E-10         5.8E-11  ICRP72    
+NB- 99  410990    3.0E-11         5.2E-11  Calculated
+NB- 99M 410991    3.9E-10         6.6E-10  Calculated
+NB-100  411000    5.4E-12         8.7E-12  Calculated
+NB-100M 411001    1.3E-11         2.2E-11  Calculated
+NB-101  411010    3.3E-11         4.9E-11  Calculated
+NB-102  411020    1.1E-11         1.7E-11  Calculated
+NB-102M 411021    3.3E-11         5.3E-11  Calculated
+NB-103  411030    1.0E-11         1.6E-11  Calculated
+NB-104  411040    3.6E-11         5.7E-11  Calculated
+NB-104M 411041    7.0E-12         1.1E-11  Calculated
+MO- 88  420880    1.8E-11         1.3E-11  Calculated
+MO- 89  420890    9.7E-12         7.1E-12  Calculated
+MO- 90  420900    2.2E-10         3.6E-10  ICRP72    
+MO- 91  420910    5.4E-11         4.0E-11  Calculated
+MO- 91M 420911    4.8E-12         3.6E-12  Calculated
+MO- 92  420920    7.0E-09         1.2E-08  Calculated
+MO- 93  420930    3.1E-09         2.3E-09  ICRP72    
+MO- 93M 420931    1.1E-10         1.7E-10  ICRP72    
+MO- 98  420980    4.8E-10         8.3E-10  Calculated
+MO- 99  420990    6.0E-10         9.9E-10  ICRP72    
+MO-100  421000    1.3E-08         2.2E-08  Calculated
+MO-101  421010    4.1E-11         2.6E-11  ICRP72    
+MO-102  421020    3.9E-11         2.9E-11  Calculated
+MO-103  421030    5.1E-12         3.9E-12  Calculated
+MO-104  421040    1.5E-12         1.1E-12  Calculated
+MO-105  421050    4.0E-12         3.1E-12  Calculated
+TC- 90  430900    9.4E-09         9.4E-09  Calculated
+TC- 90M 430901    6.3E-08         6.2E-08  Calculated
+TC- 91  430910    2.4E-07         2.1E-07  Calculated
+TC- 91M 430911    2.3E-07         2.1E-07  Calculated
+TC- 92  430920    2.9E-07         2.6E-07  Calculated
+TC- 93  430930    5.5E-11         3.5E-11  ICRP72    
+TC- 93M 430931    2.5E-11         1.7E-11  ICRP72    
+TC- 94  430940    2.0E-10         1.3E-10  ICRP72    
+TC- 94M 430941    1.0E-10         4.6E-11  ICRP72    
+TC- 95  430950    1.8E-10         1.1E-10  ICRP72    
+TC- 95M 430951    5.6E-10         1.2E-09  ICRP72    
+TC- 96  430960    1.1E-09         7.0E-10  ICRP72    
+TC- 96M 430961    1.2E-11         7.5E-12  ICRP72    
+TC- 97  430970    6.8E-11         1.8E-09  ICRP72    
+TC- 97M 430971    5.5E-10         4.1E-09  ICRP72    
+TC- 98  430980    2.0E-09         4.5E-08  ICRP72    
+TC- 99  430990    6.4E-10         1.3E-08  ICRP72    
+TC- 99M 430991    2.2E-11         2.0E-11  ICRP72    
+TC-100  431000    4.3E-09         3.9E-09  Calculated
+TC-101  431010    1.9E-11         1.2E-11  ICRP72    
+TC-102  431020    2.1E-09         1.9E-09  Calculated
+TC-102M 431021    1.7E-07         1.5E-07  Calculated
+TC-103  431030    1.3E-08         1.2E-08  Calculated
+TC-104  431040    8.0E-11         2.9E-11  ICRP72    
+TC-105  431050    2.0E-07         1.9E-07  Calculated
+TC-106  431060    2.9E-08         2.7E-08  Calculated
+TC-107  431070    1.9E-08         1.7E-08  Calculated
+TC-108  431080    6.4E-09         5.9E-09  Calculated
+TC-109  431090    1.4E-09         1.3E-09  Calculated
+RU- 92  440920    1.1E-10         5.0E-11  Calculated
+RU- 93  440930    1.2E-11         5.6E-12  Calculated
+RU- 93M 440931    2.7E-12         1.3E-12  Calculated
+RU- 94  440940    9.4E-11         4.4E-11  ICRP72    
+RU- 95  440950    5.7E-11         8.2E-11  NRPB-M    
+RU- 96  440960    2.8E-08         3.1E-08  Calculated
+RU- 97  440970    1.5E-10         1.1E-10  ICRP72    
+RU-103  441030    7.3E-10         3.0E-09  ICRP72    
+RU-105  441050    2.6E-10         1.8E-10  ICRP72    
+RU-106  441060    7.0E-09         6.6E-08  ICRP72    
+RU-107  441070    2.6E-11         1.2E-11  Calculated
+RU-108  441080    4.2E-11         2.0E-11  Calculated
+RU-109  441090    8.3E-12         3.8E-12  Calculated
+RU-110  441100    3.3E-12         1.5E-12  Calculated
+RU-111  441110    8.0E-13         3.8E-13  Calculated
+RH- 95  450950    3.2E-11         3.2E-11  Calculated
+RH- 95M 450951    1.5E-11         1.4E-11  Calculated
+RH- 96  450960    8.7E-11         7.8E-11  Calculated
+RH- 96M 450961    1.3E-11         1.2E-11  Calculated
+RH- 97  450970    1.0E-10         9.4E-11  Calculated
+RH- 97M 450971    2.0E-10         1.8E-10  Calculated
+RH- 98  450980    4.9E-11         4.4E-11  Calculated
+RH- 98M 450981    2.1E-11         1.9E-11  Calculated
+RH- 99  450990    5.1E-10         8.7E-10  ICRP72    
+RH- 99M 450991    6.6E-11         4.0E-11  ICRP72    
+RH-100  451000    7.1E-10         3.5E-10  ICRP72    
+RH-100M 451001    3.0E-12         1.6E-12  Calculated
+RH-101  451010    5.5E-10         5.4E-09  ICRP72    
+RH-101M 451011    2.2E-10         2.1E-10  ICRP72    
+RH-102  451020    2.6E-09         1.7E-08  ICRP72    
+RH-102M 451021    1.2E-09         7.1E-09  ICRP72    
+RH-103M 451031    3.8E-12         2.7E-12  ICRP72    
+RH-104  451040    1.3E-12         1.1E-12  Calculated
+RH-104M 451041    8.8E-12         7.9E-12  Calculated
+RH-105  451050    3.7E-10         3.5E-10  ICRP72    
+RH-105M 451051    2.7E-13         2.5E-13  Calculated
+RH-106  451060    1.5E-12         1.3E-12  Calculated
+RH-106M 451061    1.6E-10         1.1E-10  ICRP72    
+RH-107  451070    2.4E-11         1.7E-11  ICRP72    
+RH-108  451080    1.1E-12         9.9E-13  Calculated
+RH-108M 451081    3.6E-11         3.2E-11  Calculated
+RH-109  451090    3.5E-12         3.0E-12  Calculated
+RH-110  451100    3.2E-12         2.9E-12  Calculated
+RH-110M 451101    2.5E-13         2.3E-13  Calculated
+RH-111  451110    1.0E-12         9.3E-13  Calculated
+RH-112  451120    3.0E-13         2.4E-13  Calculated
+RH-112M 451121    1.2E-12         9.7E-13  Calculated
+RH-113  451130    4.9E-13         4.4E-13  Calculated
+RH-114  451140    3.0E-13         2.7E-13  Calculated
+RH-114M 451141    4.2E-13         3.8E-13  Calculated
+PD- 96  460960    4.3E-11         4.7E-11  Calculated
+PD- 97  460970    4.9E-11         5.4E-11  Calculated
+PD- 98  460980    2.1E-10         2.3E-10  Calculated
+PD- 99  460990    1.3E-10         1.4E-10  Calculated
+PD-100  461000    9.4E-10         8.5E-10  ICRP72    
+PD-101  461010    9.4E-11         6.2E-11  ICRP72    
+PD-103  461030    1.9E-10         4.5E-10  ICRP72    
+PD-107  461070    3.7E-11         5.9E-10  ICRP72    
+PD-107M 461071    2.5E-13         2.7E-13  Calculated
+PD-109  461090    5.5E-10         3.7E-10  ICRP72    
+PD-109M 461091    6.0E-12         5.3E-12  Calculated
+PD-110  461100    2.0E-08         5.0E-08  Calculated
+PD-111  461110    7.9E-11         9.4E-11  Calculated
+PD-111M 461111    5.2E-10         4.8E-10  NRPB-M    
+PD-112  461120    6.4E-09         4.9E-09  Calculated
+PD-113  461130    1.2E-11         1.3E-11  Calculated
+PD-113M 461131    4.1E-14         4.6E-14  Calculated
+PD-114  461140    2.4E-11         2.6E-11  Calculated
+PD-115  461150    7.0E-12         7.1E-12  Calculated
+PD-115M 461151    1.3E-11         1.4E-11  Calculated
+PD-116  461160    3.2E-12         3.5E-12  Calculated
+PD-117  461170    1.5E-12         1.6E-12  Calculated
+PD-118  461180    7.9E-13         8.7E-13  Calculated
+AG-100  471000    1.4E-11         8.7E-12  Calculated
+AG-100M 471001    1.3E-11         8.1E-12  Calculated
+AG-101  471010    3.7E-11         2.3E-11  Calculated
+AG-101M 471011    1.9E-13         1.2E-13  Calculated
+AG-102  471020    4.0E-11         1.8E-11  ICRP72    
+AG-102M 471021    3.8E-11         2.2E-11  Calculated
+AG-103  471030    4.3E-11         2.7E-11  ICRP72    
+AG-103M 471031    8.0E-14         5.0E-14  Calculated
+AG-104  471040    6.0E-11         3.7E-11  ICRP72    
+AG-104M 471041    5.4E-11         2.6E-11  ICRP72    
+AG-105  471050    4.7E-10         8.1E-10  ICRP72    
+AG-105M 471051    3.2E-13         2.7E-13  Calculated
+AG-106  471060    3.2E-11         1.6E-11  ICRP72    
+AG-106M 471061    1.5E-09         1.1E-09  ICRP72    
+AG-107M 471071    9.3E-14         6.0E-14  Calculated
+AG-108  471080    6.0E-14         3.8E-14  Calculated
+AG-108M 471081    2.3E-09         3.7E-08  ICRP72    
+AG-109M 471091    7.9E-14         5.0E-14  Calculated
+AG-110  471100    6.8E-13         4.3E-13  Calculated
+AG-110M 471101    2.8E-09         1.2E-08  ICRP72    
+AG-111  471110    1.3E-09         1.7E-09  ICRP72    
+AG-111M 471111    2.2E-13         2.3E-13  Calculated
+AG-112  471120    4.3E-10         1.7E-10  ICRP72    
+AG-113  471130    3.9E-10         2.5E-10  NRPB-M    
+AG-113M 471131    1.6E-12         1.0E-12  Calculated
+AG-114  471140    2.5E-13         1.6E-13  Calculated
+AG-114M 471141    9.0E-17         5.7E-17  Calculated
+AG-115  471150    6.0E-11         2.9E-11  ICRP72    
+AG-115M 471151    7.7E-13         4.6E-13  Calculated
+AG-116  471160    1.4E-11         9.0E-12  Calculated
+AG-116M 471161    7.1E-13         4.5E-13  Calculated
+AG-117  471170    4.5E-12         2.7E-12  Calculated
+AG-117M 471171    2.9E-13         1.8E-13  Calculated
+AG-118  471180    4.7E-13         3.0E-13  Calculated
+AG-118M 471181    2.9E-13         1.8E-13  Calculated
+AG-119  471190    2.9E-13         1.8E-13  Calculated
+AG-119M 471191    9.5E-13         6.0E-13  Calculated
+AG-120  471200    1.8E-13         1.1E-13  Calculated
+AG-121  471210    1.5E-13         9.3E-14  Calculated
+AG-122  471220    1.0E-13         6.4E-14  Calculated
+AG-122M 471221    3.7E-13         2.4E-13  Calculated
+CD-102  481020    1.4E-10         1.7E-10  Calculated
+CD-103  481030    1.2E-10         1.6E-10  Calculated
+CD-104  481040    5.4E-11         3.5E-11  ICRP72    
+CD-105  481050    4.7E-10         6.4E-10  Calculated
+CD-106  481060    4.8E-08         1.5E-07  Calculated
+CD-107  481070    6.2E-11         8.3E-11  ICRP72    
+CD-108  481080    4.7E-09         1.5E-08  Calculated
+CD-109  481090    2.0E-09         8.1E-09  ICRP72    
+CD-111M 481111    1.1E-10         1.5E-10  Calculated
+CD-113  481130    2.5E-08         1.2E-07  ICRP72    
+CD-113M 481131    2.3E-08         1.1E-07  ICRP72    
+CD-114  481140    9.2E-09         2.9E-08  Calculated
+CD-115  481150    1.4E-09         1.1E-09  ICRP72    
+CD-115M 481151    3.3E-09         7.7E-09  ICRP72    
+CD-116  481160    4.8E-08         1.5E-07  Calculated
+CD-117  481170    2.8E-10         1.7E-10  ICRP72    
+CD-117M 481171    2.8E-10         2.1E-10  ICRP72    
+CD-118  481180    6.1E-10         8.2E-10  Calculated
+CD-119  481190    4.0E-11         5.2E-11  Calculated
+CD-119M 481191    5.4E-11         7.2E-11  Calculated
+CD-120  481200    1.5E-11         2.1E-11  Calculated
+CD-121  481210    6.1E-12         8.1E-12  Calculated
+CD-121M 481211    4.2E-12         5.6E-12  Calculated
+CD-122  481220    2.2E-12         3.0E-12  Calculated
+CD-123  481230    1.2E-12         1.6E-12  Calculated
+CD-123M 481231    1.1E-12         1.5E-12  Calculated
+CD-124  481240    6.6E-13         8.8E-13  Calculated
+CD-125  481250    4.9E-13         6.6E-13  Calculated
+IN-106  491060    5.3E-10         3.6E-10  Calculated
+IN-106M 491061    4.5E-10         3.1E-10  Calculated
+IN-107  491070    1.2E-09         7.9E-10  Calculated
+IN-107M 491071    4.1E-11         2.8E-11  Calculated
+IN-108  491080    3.7E-09         2.6E-09  Calculated
+IN-108M 491081    2.6E-09         1.8E-09  Calculated
+IN-109  491090    6.6E-11         4.2E-11  ICRP72    
+IN-109M 491091    1.7E-11         1.2E-11  Calculated
+IN-109N 491092    1.4E-13         9.6E-14  Calculated
+IN-110  491100    2.4E-10         1.3E-10  ICRP72    
+IN-110M 491101    1.0E-10         4.7E-11  ICRP72    
+IN-111  491110    2.9E-10         2.3E-10  ICRP72    
+IN-111M 491111    8.1E-11         5.6E-11  Calculated
+IN-112  491120    1.0E-11         7.4E-12  ICRP72    
+IN-112M 491121    7.6E-11         5.3E-11  Calculated
+IN-113M 491131    2.8E-11         2.0E-11  ICRP72    
+IN-114  491140    1.8E-11         1.2E-11  Calculated
+IN-114M 491141    4.1E-09         9.3E-09  ICRP72    
+IN-115  491150    3.2E-08         3.9E-07  ICRP72    
+IN-115M 491151    8.6E-11         5.9E-11  ICRP72    
+IN-116  491160    6.1E-12         4.2E-12  Calculated
+IN-116M 491161    6.4E-11         4.5E-11  ICRP72    
+IN-116N 491162    1.5E-13         1.1E-13  Calculated
+IN-117  491170    3.1E-11         2.9E-11  ICRP72    
+IN-117M 491171    1.2E-10         7.2E-11  ICRP72    
+IN-118  491180    3.1E-12         2.1E-12  Calculated
+IN-118M 491181    2.9E-10         2.0E-10  Calculated
+IN-118N 491182    9.5E-12         6.5E-12  Calculated
+IN-119  491190    6.3E-11         4.3E-11  Calculated
+IN-119M 491191    4.7E-11         1.7E-11  ICRP72    
+IN-120  491200    2.4E-12         1.7E-12  Calculated
+IN-120M 491201    6.1E-11         4.2E-11  Calculated
+IN-120N 491202    6.1E-11         4.2E-11  Calculated
+IN-121  491210    1.4E-11         9.6E-12  Calculated
+IN-121M 491211    1.2E-10         8.1E-11  Calculated
+IN-122  491220    1.5E-12         1.0E-12  Calculated
+IN-122M 491221    1.7E-11         1.1E-11  Calculated
+IN-122N 491222    1.7E-11         1.1E-11  Calculated
+IN-123  491230    4.6E-12         3.2E-12  Calculated
+IN-123M 491231    3.2E-11         2.2E-11  Calculated
+IN-124  491240    4.6E-12         3.2E-12  Calculated
+IN-124M 491241    6.0E-12         4.1E-12  Calculated
+IN-125  491250    3.0E-12         2.0E-12  Calculated
+IN-125M 491251    1.4E-11         1.0E-11  Calculated
+IN-126  491260    2.6E-12         1.8E-12  Calculated
+IN-126M 491261    2.8E-12         2.0E-12  Calculated
+IN-127  491270    1.6E-12         1.2E-12  Calculated
+IN-127M 491271    7.5E-12         5.2E-12  Calculated
+IN-128  491280    1.5E-12         1.0E-12  Calculated
+IN-128M 491281    1.9E-14         1.3E-14  Calculated
+IN-128N 491282    1.6E-12         1.1E-12  Calculated
+SN-107  501070    1.3E-06         2.0E-06  Calculated
+SN-108  501080    3.6E-06         5.7E-06  Calculated
+SN-109  501090    3.7E-06         6.0E-06  Calculated
+SN-110  501100    3.5E-10         1.6E-10  ICRP72    
+SN-111  501110    2.3E-11         1.3E-11  ICRP72    
+SN-113  501130    7.3E-10         2.7E-09  ICRP72    
+SN-113M 501131    1.3E-07         2.0E-07  Calculated
+SN-117M 501171    7.1E-10         2.4E-09  ICRP72    
+SN-119M 501191    3.4E-10         2.2E-09  ICRP72    
+SN-121  501210    2.3E-10         2.3E-10  ICRP72    
+SN-121M 501211    3.8E-10         4.5E-09  ICRP72    
+SN-123  501230    2.1E-09         8.1E-09  ICRP72    
+SN-123M 501231    3.8E-11         2.7E-11  ICRP72    
+SN-124  501240    5.7E-04         2.1E-03  Calculated
+SN-125  501250    3.1E-09         3.1E-09  ICRP72    
+SN-125M 501251    9.1E-07         1.5E-06  Calculated
+SN-126  501260    4.7E-09         2.8E-08  ICRP72    
+SN-127  501270    2.0E-10         1.3E-10  ICRP72    
+SN-127M 501271    6.3E-07         1.2E-06  Calculated
+SN-128  501280    1.5E-10         9.2E-11  ICRP72    
+SN-128M 501281    1.9E-08         3.0E-08  Calculated
+SN-129  501290    7.1E-07         1.2E-06  Calculated
+SN-129M 501291    2.5E-06         4.2E-06  Calculated
+SN-130  501300    1.5E-06         2.4E-06  Calculated
+SN-130M 501301    6.3E-07         1.1E-06  Calculated
+SN-131  501310    3.8E-07         5.6E-07  Calculated
+SN-131M 501311    6.2E-07         9.1E-07  Calculated
+SB-112  511120    4.4E-12         2.3E-12  Calculated
+SB-113  511130    1.5E-11         8.1E-12  Calculated
+SB-114  511140    1.5E-11         7.9E-12  Calculated
+SB-115  511150    2.4E-11         1.4E-11  ICRP72    
+SB-116  511160    2.6E-11         1.3E-11  ICRP72    
+SB-116M 511161    6.7E-11         4.9E-11  ICRP72    
+SB-117  511170    1.8E-11         1.7E-11  ICRP72    
+SB-118  511180    6.9E-12         3.6E-12  Calculated
+SB-118M 511181    2.1E-10         1.2E-10  ICRP72    
+SB-119  511190    8.0E-11         3.6E-11  ICRP72    
+SB-119M 511191    4.7E-14         2.4E-14  Calculated
+SB-120  511200    1.4E-11         7.3E-12  ICRP72    
+SB-120M 511201    1.2E-09         1.1E-09  ICRP72    
+SB-122  511220    1.7E-09         1.1E-09  ICRP72    
+SB-122M 511221    2.6E-12         1.6E-12  Calculated
+SB-124  511240    2.5E-09         8.6E-09  ICRP72    
+SB-124M 511241    1.0E-12         6.3E-13  Calculated
+SB-124N 511242    8.0E-12         5.9E-12  ICRP72    
+SB-125  511250    1.1E-09         1.2E-08  ICRP72    
+SB-126  511260    2.4E-09         3.2E-09  ICRP72    
+SB-126M 511261    3.6E-11         2.0E-11  ICRP72    
+SB-126N 511262    3.5E-13         1.9E-13  Calculated
+SB-127  511270    1.7E-09         1.9E-09  ICRP72    
+SB-128  511280    7.6E-10         4.2E-10  ICRP72    
+SB-128M 511281    3.3E-11         1.5E-11  ICRP72    
+SB-129  511290    4.2E-10         2.5E-10  ICRP72    
+SB-129M 511291    5.5E-11         2.9E-11  Calculated
+SB-130  511300    9.1E-11         5.3E-11  ICRP72    
+SB-130M 511301    2.5E-11         1.3E-11  Calculated
+SB-131  511310    1.0E-10         4.4E-11  ICRP72    
+SB-132  511320    1.2E-11         6.3E-12  Calculated
+SB-132M 511321    1.7E-11         9.0E-12  Calculated
+SB-133  511330    8.2E-12         4.3E-12  Calculated
+TE-113  521130    3.3E-09         6.1E-09  Calculated
+TE-114  521140    2.6E-08         4.9E-08  Calculated
+TE-115  521150    6.6E-09         1.3E-08  Calculated
+TE-115M 521151    7.5E-09         1.4E-08  Calculated
+TE-116  521160    1.7E-10         1.1E-10  ICRP72    
+TE-117  521170    4.6E-11         7.4E-11  NRPB-M    
+TE-117M 521171    1.8E-13         3.3E-13  Calculated
+TE-118  521180    2.7E-09         2.2E-09  NRPB-M    
+TE-119  521190    1.7E-10         1.7E-10  NRPB-M    
+TE-119M 521191    8.3E-10         6.3E-10  R245      
+TE-121  521210    4.3E-10         4.1E-10  ICRP72    
+TE-121M 521211    2.3E-09         5.7E-09  ICRP72    
+TE-123  521230    4.4E-09         3.9E-09  ICRP72    
+TE-123M 521231    1.4E-09         5.1E-09  ICRP72    
+TE-125M 521251    8.7E-10         4.2E-09  ICRP72    
+TE-127  521270    1.7E-10         1.4E-10  ICRP72    
+TE-127M 521271    2.3E-09         9.8E-09  ICRP72    
+TE-128  521280    9.0E-07         3.9E-06  Calculated
+TE-129  521290    6.3E-11         3.9E-11  ICRP72    
+TE-129M 521291    3.0E-09         7.9E-09  ICRP72    
+TE-130  521300    2.6E-06         1.1E-05  Calculated
+TE-131  521310    8.7E-11         2.8E-11  ICRP72    
+TE-131M 521311    1.9E-09         9.4E-10  ICRP72    
+TE-132  521320    3.8E-09         2.0E-09  ICRP72    
+TE-133  521330    7.2E-11         2.0E-11  ICRP72    
+TE-133M 521331    2.8E-10         8.7E-11  ICRP72    
+TE-134  521340    1.1E-10         6.8E-11  ICRP72    
+TE-135  521350    3.1E-10         5.8E-10  Calculated
+I -116  531160    1.7E-11         2.9E-12  Calculated
+I -117  531170    3.2E-10         5.4E-11  Calculated
+I -118  531180    4.8E-09         8.2E-10  Calculated
+I -118M 531181    3.6E-09         6.1E-10  Calculated
+I -119  531190    2.3E-09         3.8E-10  Calculated
+I -120  531200    3.4E-10         1.0E-10  ICRP72    
+I -120M 531201    2.1E-10         8.8E-11  ICRP72    
+I -121  531210    8.2E-11         2.7E-11  ICRP72    
+I -122  531220    6.5E-10         1.1E-10  Calculated
+I -123  531230    2.1E-10         7.4E-11  ICRP72    
+I -124  531240    1.3E-08         4.4E-09  ICRP72    
+I -125  531250    1.5E-08         5.1E-09  ICRP72    
+I -126  531260    2.9E-08         9.8E-09  ICRP72    
+I -128  531280    4.6E-11         2.0E-11  ICRP72    
+I -129  531290    1.1E-07         3.6E-08  ICRP72    
+I -130  531300    2.0E-09         6.7E-10  ICRP72    
+I -130M 531301    2.6E-10         4.8E-11  Calculated
+I -131  531310    2.2E-08         7.4E-09  ICRP72    
+I -132  531320    2.9E-10         1.1E-10  ICRP72    
+I -132M 531321    2.2E-10         8.7E-11  ICRP72    
+I -133  531330    4.3E-09         1.5E-09  ICRP72    
+I -133M 531331    2.2E-11         3.8E-12  Calculated
+I -134  531340    1.1E-10         5.5E-11  ICRP72    
+I -134M 531341    1.2E-10         2.4E-11  Calculated
+I -135  531350    9.3E-10         3.2E-10  ICRP72    
+I -136  531360    5.2E-10         8.9E-11  Calculated
+I -136M 531361    3.1E-10         5.2E-11  Calculated
+I -137  531370    2.0E-10         3.4E-11  Calculated
+XE-117  541170    1.4E-09         6.8E-10  Calculated
+XE-118  541180    2.4E-08         1.2E-08  Calculated
+XE-119  541190    1.7E-08         8.7E-09  Calculated
+XE-120  541200    1.5E-08         7.8E-09  Calculated
+XE-121  541210    5.4E-08         2.7E-08  Calculated
+XE-122  541220    1.8E-06         9.0E-07  Calculated
+XE-123  541230    7.1E-08         3.6E-08  Calculated
+XE-124  541240    1.4E-05         5.0E-04  Calculated
+XE-125  541250    2.2E-07         1.1E-07  Calculated
+XE-125M 541251    3.6E-10         1.8E-10  Calculated
+XE-127  541270    1.4E-06         5.7E-06  Calculated
+XE-127M 541271    2.7E-10         2.5E-10  Calculated
+XE-129M 541291    8.7E-07         1.0E-06  Calculated
+XE-131M 541311    6.5E-07         9.7E-07  Calculated
+XE-133  541330    5.7E-07         4.7E-07  Calculated
+XE-133M 541331    6.6E-07         4.5E-07  Calculated
+XE-134  541340    4.0E-06         1.4E-04  Calculated
+XE-134M 541341    6.6E-12         3.3E-12  Calculated
+XE-135  541350    2.1E-07         1.1E-07  Calculated
+XE-135M 541351    1.1E-08         5.7E-09  Calculated
+XE-136  541360    1.2E-05         4.3E-04  Calculated
+XE-137  541370    5.0E-09         2.5E-09  Calculated
+XE-138  541380    4.2E-08         2.0E-08  Calculated
+XE-139  541390    2.2E-09         1.1E-09  Calculated
+CS-122  551220    2.3E-12         1.1E-12  Calculated
+CS-122M 551221    3.3E-11         1.6E-11  Calculated
+CS-122N 551222    3.9E-14         1.9E-14  Calculated
+CS-123  551230    1.8E-11         9.0E-12  Calculated
+CS-123M 551231    9.1E-14         4.6E-14  Calculated
+CS-124  551240    1.7E-12         8.4E-13  Calculated
+CS-124M 551241    3.9E-13         1.9E-13  Calculated
+CS-125  551250    3.5E-11         2.3E-11  ICRP72    
+CS-125M 551251    1.6E-14         9.5E-15  Calculated
+CS-126  551260    4.3E-12         2.2E-12  Calculated
+CS-127  551270    2.4E-11         3.8E-11  ICRP72    
+CS-128  551280    6.9E-12         3.4E-12  Calculated
+CS-129  551290    6.0E-11         7.7E-11  ICRP72    
+CS-130  551300    2.8E-11         1.4E-11  ICRP72    
+CS-130M 551301    9.9E-16         5.0E-16  Calculated
+CS-131  551310    5.8E-11         4.7E-11  ICRP72    
+CS-132  551320    5.0E-10         3.0E-10  ICRP72    
+CS-134  551340    1.9E-08         2.0E-08  ICRP72    
+CS-134M 551341    2.0E-11         6.0E-11  ICRP72    
+CS-135  551350    2.0E-09         8.6E-09  ICRP72    
+CS-135M 551351    1.9E-11         1.6E-11  ICRP72    
+CS-136  551360    3.0E-09         2.8E-09  ICRP72    
+CS-136M 551361    4.5E-13         2.3E-13  Calculated
+CS-137  551370    1.3E-08         3.9E-08  ICRP72    
+CS-138  551380    9.2E-11         4.3E-11  ICRP72    
+CS-138M 551381    8.8E-12         4.2E-12  Calculated
+CS-139  551390    2.0E-11         9.9E-12  Calculated
+CS-140  551400    4.2E-12         2.1E-12  Calculated
+CS-141  551410    1.2E-12         6.1E-13  Calculated
+BA-123  561230    1.5E-07         9.9E-08  Calculated
+BA-124  561240    4.6E-07         3.0E-07  Calculated
+BA-125  561250    9.8E-08         7.0E-08  Calculated
+BA-126  561260    2.6E-10         1.1E-10  ICRP72    
+BA-127  561270    1.9E-07         1.4E-07  Calculated
+BA-127M 561271    5.1E-10         3.6E-10  Calculated
+BA-128  561280    2.7E-09         1.4E-09  ICRP72    
+BA-129  561290    9.9E-07         6.9E-07  Calculated
+BA-129M 561291    1.9E-06         1.3E-06  Calculated
+BA-131  561310    4.5E-10         8.7E-10  ICRP72    
+BA-131M 561311    4.9E-12         7.8E-12  ICRP72    
+BA-133  561330    1.5E-09         1.0E-08  ICRP72    
+BA-133M 561331    5.4E-10         4.6E-10  ICRP72    
+BA-135M 561351    4.3E-10         3.6E-10  ICRP72    
+BA-136M 561361    1.2E-10         7.5E-11  Calculated
+BA-137M 561371    1.9E-08         1.2E-08  Calculated
+BA-139  561390    1.2E-10         5.9E-11  ICRP72    
+BA-140  561400    2.6E-09         5.8E-09  ICRP72    
+BA-141  561410    7.0E-11         3.4E-11  ICRP72    
+BA-142  561420    3.5E-11         2.2E-11  ICRP72    
+BA-143  561430    2.2E-08         1.3E-08  Calculated
+LA-128  571280    1.7E-11         7.5E-12  Calculated
+LA-128M 571281    4.4E-12         1.9E-12  Calculated
+LA-129  571290    1.7E-11         7.7E-12  Calculated
+LA-129M 571291    1.5E-14         6.6E-15  Calculated
+LA-130  571300    2.0E-11         8.5E-12  Calculated
+LA-131  571310    3.5E-11         2.3E-11  ICRP72    
+LA-132  571320    3.9E-10         1.6E-10  ICRP72    
+LA-132M 571321    3.3E-11         1.4E-11  Calculated
+LA-133  571330    9.9E-12         1.1E-11  NRPB-M    
+LA-134  571340    6.5E-12         2.8E-12  Calculated
+LA-135  571350    3.0E-11         1.4E-11  ICRP72    
+LA-136  571360    4.8E-12         2.1E-12  Calculated
+LA-136M 571361    1.2E-15         5.1E-16  Calculated
+LA-137  571370    8.1E-11         8.7E-09  ICRP72    
+LA-138  571380    1.1E-09         1.5E-07  ICRP72    
+LA-140  571400    2.0E-09         1.1E-09  ICRP72    
+LA-141  571410    3.6E-10         1.5E-10  ICRP72    
+LA-142  571420    1.8E-10         8.9E-11  ICRP72    
+LA-143  571430    5.6E-11         2.1E-11  ICRP72    
+LA-144  571440    1.7E-12         7.5E-13  Calculated
+LA-145  571450    1.2E-12         4.7E-13  Calculated
+LA-146  571460    4.5E-13         2.0E-13  Calculated
+LA-146M 571461    7.2E-13         3.1E-13  Calculated
+LA-147  571470    2.4E-13         9.3E-14  Calculated
+CE-129  581290    2.0E-11         4.7E-11  Calculated
+CE-130  581300    8.8E-11         2.1E-10  Calculated
+CE-131  581310    1.6E-11         5.0E-11  Calculated
+CE-131M 581311    1.2E-11         3.4E-11  Calculated
+CE-132  581320    3.1E-10         2.2E-10  NRPB-M    
+CE-133  581330    1.0E-10         1.1E-10  NRPB-M    
+CE-133M 581331    5.3E-10         1.3E-09  Calculated
+CE-134  581340    2.5E-09         1.3E-09  ICRP72    
+CE-135  581350    7.9E-10         5.0E-10  ICRP72    
+CE-135M 581351    4.0E-13         5.1E-13  Calculated
+CE-136  581360    7.2E-09         4.0E-08  Calculated
+CE-137  581370    2.5E-11         1.0E-11  ICRP72    
+CE-137M 581371    5.4E-10         4.4E-10  ICRP72    
+CE-139  581390    2.6E-10         1.9E-09  ICRP72    
+CE-139M 581391    7.1E-13         1.7E-12  Calculated
+CE-141  581410    7.1E-10         3.8E-09  ICRP72    
+CE-142  581420    4.2E-09         2.4E-08  Calculated
+CE-143  581430    1.1E-09         8.3E-10  ICRP72    
+CE-144  581440    5.2E-09         5.3E-08  ICRP72    
+CE-145  581450    6.0E-12         1.2E-11  Calculated
+CE-146  581460    3.9E-11         9.3E-11  Calculated
+CE-147  581470    2.8E-12         5.6E-12  Calculated
+CE-148  581480    3.3E-12         7.9E-12  Calculated
+CE-149  581490    4.7E-13         1.2E-12  Calculated
+PR-134  591340    1.0E-10         7.5E-11  Calculated
+PR-134M 591341    8.2E-11         6.0E-11  Calculated
+PR-135  591350    8.7E-11         5.3E-11  Calculated
+PR-136  591360    3.3E-11         1.4E-11  ICRP72    
+PR-137  591370    4.0E-11         2.1E-11  ICRP72    
+PR-138  591380    4.6E-12         3.7E-12  Calculated
+PR-138M 591381    1.3E-10         7.4E-11  ICRP72    
+PR-139  591390    3.1E-11         2.0E-11  ICRP72    
+PR-140  591400    5.9E-12         4.8E-12  Calculated
+PR-142  591420    1.3E-09         5.5E-10  ICRP72    
+PR-142M 591421    1.7E-11         7.0E-12  ICRP72    
+PR-143  591430    1.2E-09         2.4E-09  ICRP72    
+PR-144  591440    5.0E-11         1.8E-11  ICRP72    
+PR-144M 591441    2.1E-11         7.7E-12  Calculated
+PR-145  591450    3.9E-10         1.7E-10  ICRP72    
+PR-146  591460    8.9E-11         7.2E-11  Calculated
+PR-147  591470    3.3E-11         1.8E-11  ICRP72    
+PR-148  591480    9.6E-12         7.8E-12  Calculated
+PR-148M 591481    8.6E-12         6.9E-12  Calculated
+PR-149  591490    1.3E-11         1.1E-11  Calculated
+PR-150  591500    4.6E-13         3.7E-13  Calculated
+PR-151  591510    3.0E-12         2.4E-12  Calculated
+ND-135  601350    3.4E-11         1.8E-11  Calculated
+ND-135M 601351    1.9E-11         1.0E-11  Calculated
+ND-136  601360    9.9E-11         5.4E-11  ICRP72    
+ND-137  601370    4.2E-11         2.4E-11  Calculated
+ND-137M 601371    3.7E-14         2.1E-14  Calculated
+ND-138  601380    6.4E-10         2.5E-10  ICRP72    
+ND-139  601390    2.0E-11         1.0E-11  ICRP72    
+ND-139M 601391    2.5E-10         1.5E-10  ICRP72    
+ND-140  601400    2.8E-09         2.0E-09  R245      
+ND-141  601410    8.3E-12         5.0E-12  ICRP72    
+ND-141M 601411    6.5E-13         3.9E-13  Calculated
+ND-144  601440    7.1E-08         1.0E-07  Calculated
+ND-147  601470    1.1E-09         2.4E-09  ICRP72    
+ND-148  601480    3.6E-09         5.0E-09  Calculated
+ND-149  601490    1.2E-10         8.9E-11  ICRP72    
+ND-150  601500    6.3E-09         8.8E-09  Calculated
+ND-151  601510    3.0E-11         1.7E-11  ICRP72    
+ND-152  601520    1.5E-11         9.0E-12  Calculated
+ND-153  601530    1.0E-12         6.5E-13  Calculated
+ND-154  601540    1.1E-12         6.5E-13  Calculated
+PM-135  611350    5.5E-12         4.7E-12  Calculated
+PM-135M 611351    4.3E-12         3.6E-12  Calculated
+PM-136  611360    7.8E-12         6.7E-12  Calculated
+PM-136M 611361    5.0E-12         4.4E-12  Calculated
+PM-137  611370    8.1E-12         7.2E-12  Calculated
+PM-137M 611371    1.0E-11         8.9E-12  Calculated
+PM-138  611380    8.6E-13         6.5E-13  Calculated
+PM-138M 611381    1.4E-11         1.0E-11  Calculated
+PM-139  611390    9.5E-12         8.1E-12  Calculated
+PM-139M 611391    7.3E-15         6.2E-15  Calculated
+PM-140  611400    4.5E-13         4.2E-13  Calculated
+PM-140M 611401    2.1E-11         2.0E-11  Calculated
+PM-141  611410    3.6E-11         1.5E-11  ICRP72    
+PM-142  611420    1.1E-12         1.0E-12  Calculated
+PM-143  611430    2.3E-10         1.5E-09  ICRP72    
+PM-144  611440    9.7E-10         8.2E-09  ICRP72    
+PM-145  611450    1.1E-10         3.6E-09  ICRP72    
+PM-146  611460    9.0E-10         2.1E-08  ICRP72    
+PM-147  611470    2.6E-10         5.0E-09  ICRP72    
+PM-148  611480    2.7E-09         2.2E-09  ICRP72    
+PM-148M 611481    1.7E-09         5.7E-09  ICRP72    
+PM-149  611490    9.9E-10         7.3E-10  ICRP72    
+PM-150  611500    2.6E-10         1.3E-10  ICRP72    
+PM-151  611510    7.3E-10         4.6E-10  ICRP72    
+PM-152  611520    4.9E-12         4.4E-12  Calculated
+PM-152M 611521    1.3E-11         1.2E-11  Calculated
+PM-152N 611522    3.1E-11         2.8E-11  Calculated
+PM-153  611530    3.8E-12         3.7E-12  Calculated
+PM-154  611540    3.4E-12         3.0E-12  Calculated
+PM-154M 611541    5.5E-12         5.0E-12  Calculated
+PM-155  611550    1.4E-12         1.2E-12  Calculated
+PM-156  611560    1.3E-12         1.2E-12  Calculated
+PM-157  611570    4.6E-13         4.1E-13  Calculated
+SM-136  621360    7.5E-12         4.4E-12  Calculated
+SM-137  621370    8.8E-12         5.3E-12  Calculated
+SM-137M 621371    3.9E-12         2.4E-12  Calculated
+SM-138  621380    3.1E-11         1.6E-11  Calculated
+SM-139  621390    1.8E-11         1.0E-11  Calculated
+SM-139M 621391    1.3E-12         7.6E-13  Calculated
+SM-140  621400    8.7E-11         5.5E-11  Calculated
+SM-141  621410    5.5E-11         2.4E-11  Calculated
+SM-141M 621411    1.3E-10         5.6E-11  Calculated
+SM-142  621420    1.9E-10         7.1E-11  ICRP72    
+SM-143  621430    1.1E-11         6.5E-12  Calculated
+SM-143M 621431    2.3E-12         1.4E-12  Calculated
+SM-145  621450    2.1E-10         1.6E-09  ICRP72    
+SM-146  621460    5.4E-08         1.1E-05  ICRP72    
+SM-147  621470    4.9E-08         9.6E-06  ICRP72    
+SM-148  621480    4.2E-08         8.5E-06  Calculated
+SM-149  621490    1.4E-07         2.0E-07  Calculated
+SM-151  621510    9.8E-11         4.0E-09  ICRP72    
+SM-153  621530    7.4E-10         6.3E-10  ICRP72    
+SM-155  621550    2.9E-11         1.7E-11  ICRP72    
+SM-156  621560    2.5E-10         2.2E-10  ICRP72    
+SM-157  621570    5.9E-12         3.6E-12  Calculated
+SM-158  621580    6.6E-12         4.1E-12  Calculated
+SM-159  621590    7.8E-13         4.5E-13  Calculated
+EU-138  631380    3.4E-11         1.5E-11  Calculated
+EU-139  631390    3.3E-11         1.6E-11  Calculated
+EU-140  631400    2.7E-12         1.4E-12  Calculated
+EU-141  631410    5.8E-11         2.4E-11  Calculated
+EU-141M 631411    3.9E-12         1.6E-12  Calculated
+EU-142  631420    2.8E-12         1.2E-12  Calculated
+EU-142M 631421    1.1E-10         4.6E-11  Calculated
+EU-143  631430    1.0E-10         5.1E-11  Calculated
+EU-144  631440    6.3E-12         3.1E-12  Calculated
+EU-145  631450    7.5E-10         5.5E-10  ICRP72    
+EU-146  631460    1.3E-09         8.0E-10  ICRP72    
+EU-147  631470    4.4E-10         1.1E-09  ICRP72    
+EU-148  631480    1.3E-09         2.6E-09  ICRP72    
+EU-149  631490    1.0E-10         2.9E-10  ICRP72    
+EU-150  631500    1.3E-09         5.3E-08  ICRP72    
+EU-150M 631501    3.8E-10         1.9E-10  ICRP72    
+EU-152  631520    1.4E-09         4.2E-08  ICRP72    
+EU-152M 631521    5.0E-10         2.2E-10  ICRP72    
+EU-152N 631522    9.9E-11         6.2E-11  NRPB-M    
+EU-154  631540    2.0E-09         5.3E-08  ICRP72    
+EU-154M 631541    1.4E-12         2.0E-12  NRPB-M    
+EU-155  631550    3.2E-10         6.9E-09  ICRP72    
+EU-156  631560    2.2E-09         3.4E-09  ICRP72    
+EU-157  631570    6.0E-10         2.8E-10  ICRP72    
+EU-158  631580    9.4E-11         4.7E-11  ICRP72    
+EU-159  631590    3.3E-10         1.4E-10  Calculated
+EU-160  631600    2.3E-11         1.1E-11  Calculated
+EU-161  631610    1.8E-11         8.7E-12  Calculated
+EU-162  631620    1.3E-11         6.3E-12  Calculated
+EU-163  631630    7.0E-12         3.4E-12  Calculated
+GD-139  641390    1.8E-12         2.9E-12  Calculated
+GD-139M 641391    1.5E-12         2.5E-12  Calculated
+GD-140  641400    4.3E-12         7.1E-12  Calculated
+GD-141  641410    3.3E-12         4.7E-12  Calculated
+GD-141M 641411    6.3E-12         9.1E-12  Calculated
+GD-142  641420    1.0E-11         1.4E-11  Calculated
+GD-143  641430    5.4E-12         8.7E-12  Calculated
+GD-143M 641431    1.6E-11         2.6E-11  Calculated
+GD-144  641440    3.3E-11         5.3E-11  Calculated
+GD-145  641450    4.4E-11         2.0E-11  ICRP72    
+GD-145M 641451    4.1E-12         3.7E-12  Calculated
+GD-146  641460    9.6E-10         6.4E-09  ICRP72    
+GD-147  641470    6.1E-10         4.0E-10  ICRP72    
+GD-148  641480    5.6E-08         2.6E-05  ICRP72    
+GD-149  641490    4.5E-10         7.3E-10  ICRP72    
+GD-150  641500    5.2E-08         8.3E-05  KENDALL   
+GD-151  641510    2.0E-10         8.6E-10  ICRP72    
+GD-152  641520    4.1E-08         1.9E-05  ICRP72    
+GD-153  641530    2.7E-10         2.1E-09  ICRP72    
+GD-159  641590    4.9E-10         2.7E-10  ICRP72    
+GD-160  641600    6.7E-09         2.5E-08  Calculated
+GD-161  641610    4.6E-12         7.5E-12  Calculated
+GD-162  641620    2.6E-11         4.2E-11  Calculated
+GD-163  641630    4.0E-12         6.4E-12  Calculated
+GD-164  641640    3.9E-12         6.2E-12  Calculated
+GD-165  641650    1.1E-12         1.7E-12  Calculated
+TB-144  651440    1.5E-10         1.8E-10  Calculated
+TB-144M 651441    7.2E-10         8.5E-10  Calculated
+TB-145  651450    1.9E-07         1.9E-07  Calculated
+TB-145M 651451    3.7E-09         3.4E-09  Calculated
+TB-146  651460    9.1E-10         1.1E-09  Calculated
+TB-146M 651461    3.5E-09         4.2E-09  Calculated
+TB-147  651470    1.6E-10         7.6E-11  ICRP72    
+TB-147M 651471    5.1E-09         5.6E-09  Calculated
+TB-148  651480    2.7E-11         4.1E-11  NRPB-M    
+TB-148M 651481    1.1E-08         1.4E-08  Calculated
+TB-149  651490    2.5E-10         4.9E-09  ICRP72    
+TB-149M 651491    8.4E-09         9.9E-09  Calculated
+TB-150  651500    2.5E-10         1.1E-10  ICRP72    
+TB-150M 651501    2.2E-08         2.6E-08  Calculated
+TB-151  651510    3.4E-10         2.3E-10  ICRP72    
+TB-151M 651511    5.2E-11         6.2E-11  Calculated
+TB-152  651520    5.8E-10         5.5E-10  NRPB-M    
+TB-152M 651521    5.9E-09         7.0E-09  Calculated
+TB-153  651530    2.5E-10         1.9E-10  ICRP72    
+TB-154  651540    6.5E-10         3.6E-10  ICRP72    
+TB-154M 651541    1.1E-06         1.3E-06  Calculated
+TB-154N 651542    8.7E-10         8.5E-10  NRPB-M    
+TB-155  651550    2.1E-10         2.2E-10  ICRP72    
+TB-156  651560    1.2E-09         1.2E-09  ICRP72    
+TB-156M 651561    1.7E-10         2.1E-10  ICRP72    
+TB-156N 651562    8.1E-11         9.6E-11  ICRP72    
+TB-157  651570    3.4E-11         1.2E-09  ICRP72    
+TB-158  651580    1.1E-09         4.6E-08  ICRP72    
+TB-158M 651581    3.1E-11         3.7E-11  Calculated
+TB-160  651600    1.6E-09         7.0E-09  ICRP72    
+TB-161  651610    7.2E-10         1.3E-09  ICRP72    
+TB-162  651620    2.0E-08         2.3E-08  Calculated
+TB-163  651630    3.5E-08         4.2E-08  Calculated
+TB-164  651640    1.1E-08         1.3E-08  Calculated
+TB-165  651650    6.7E-09         7.9E-09  Calculated
+TB-166  651660    2.3E-09         2.9E-09  Calculated
+TB-167  651670    2.0E-09         2.4E-09  Calculated
+TB-168  651680    1.4E-09         1.7E-09  Calculated
+DY-147  661470    4.8E-12         2.7E-12  Calculated
+DY-147M 661471    8.9E-12         5.0E-12  Calculated
+DY-148  661480    4.1E-12         2.3E-12  Calculated
+DY-149  661490    1.2E-11         6.7E-12  Calculated
+DY-150  661500    3.3E-10         1.9E-10  Calculated
+DY-151  661510    1.8E-10         9.9E-11  Calculated
+DY-152  661520    2.5E-10         7.3E-09  NRPB-M    
+DY-153  661530    1.4E-10         1.4E-10  NRPB-M    
+DY-154  661540    5.8E-08         2.3E-05  KENDALL   
+DY-155  661550    1.3E-10         7.7E-11  ICRP72    
+DY-156  661560    4.6E-08         6.0E-08  Calculated
+DY-157  661570    6.1E-11         3.0E-11  ICRP72    
+DY-159  661590    1.0E-10         3.7E-10  ICRP72    
+DY-165  661650    1.1E-10         6.0E-11  ICRP72    
+DY-165M 661651    1.2E-12         6.7E-13  Calculated
+DY-166  661660    1.6E-09         1.9E-09  ICRP72    
+DY-167  661670    1.4E-11         7.8E-12  Calculated
+DY-168  661680    3.8E-11         2.1E-11  Calculated
+DY-169  661690    3.5E-12         2.0E-12  Calculated
+DY-170  661700    3.1E-12         1.7E-12  Calculated
+DY-171  661710    9.4E-13         4.9E-13  Calculated
+HO-152  671520    1.0E-10         4.7E-10  Calculated
+HO-152M 671521    3.4E-11         1.5E-10  Calculated
+HO-153  671530    9.8E-12         1.1E-11  Calculated
+HO-153M 671531    5.8E-11         6.2E-11  Calculated
+HO-154  671540    4.0E-11         4.0E-11  Calculated
+HO-154M 671541    1.9E-11         1.9E-11  Calculated
+HO-155  671550    3.7E-11         2.0E-11  ICRP72    
+HO-156  671560    2.4E-10         2.4E-10  Calculated
+HO-156M 671561    1.1E-12         1.1E-12  Calculated
+HO-156N 671562    6.8E-11         6.8E-11  Calculated
+HO-157  671570    6.5E-12         4.2E-12  ICRP72    
+HO-158  671580    8.9E-11         8.9E-11  Calculated
+HO-158M 671581    2.2E-10         2.2E-10  Calculated
+HO-158N 671582    1.7E-10         1.7E-10  Calculated
+HO-159  671590    7.9E-12         6.1E-12  ICRP72    
+HO-159M 671591    1.1E-13         1.1E-13  Calculated
+HO-160  671600    1.3E-10         1.3E-10  Calculated
+HO-160M 671601    2.2E-10         2.2E-10  NRPB-M    
+HO-160N 671602    2.7E-13         2.7E-13  Calculated
+HO-161  671610    1.3E-11         6.0E-12  ICRP72    
+HO-161M 671611    7.8E-14         7.3E-14  Calculated
+HO-162  671620    3.3E-12         2.8E-12  ICRP72    
+HO-162M 671621    2.6E-11         2.1E-11  ICRP72    
+HO-163  671630    2.3E-11         5.3E-11  Calculated
+HO-163M 671631    1.6E-14         1.6E-14  Calculated
+HO-164  671640    9.5E-12         8.4E-12  ICRP72    
+HO-164M 671641    1.6E-11         1.2E-11  ICRP72    
+HO-166  671660    1.4E-09         6.5E-10  ICRP72    
+HO-166M 671661    2.0E-09         1.2E-07  ICRP72    
+HO-167  671670    8.3E-11         7.1E-11  ICRP72    
+HO-168  671680    1.4E-11         1.4E-11  Calculated
+HO-168M 671681    2.2E-15         2.2E-15  Calculated
+HO-169  671690    1.4E-11         1.4E-11  Calculated
+HO-170  671700    2.1E-11         2.1E-11  Calculated
+HO-170M 671701    4.2E-12         4.2E-12  Calculated
+HO-171  671710    6.9E-12         6.1E-12  Calculated
+HO-172  671720    4.3E-12         4.3E-12  Calculated
+HO-173  671730    2.2E-12         2.2E-12  Calculated
+ER-153  681530    4.4E-11         5.9E-11  Calculated
+ER-154  681540    9.1E-12         1.2E-11  Calculated
+ER-155  681550    1.6E-11         2.1E-11  Calculated
+ER-156  681560    6.8E-11         9.1E-11  Calculated
+ER-157  681570    1.3E-11         1.5E-11  Calculated
+ER-158  681580    3.2E-12         3.5E-12  NRPB-M    
+ER-159  681590    4.6E-11         6.0E-11  Calculated
+ER-160  681600    7.4E-10         6.2E-10  NRPB-M    
+ER-161  681610    8.0E-11         4.8E-11  ICRP72    
+ER-162  681620    7.0E-08         2.2E-07  Calculated
+ER-163  681630    2.4E-12         2.1E-12  NRPB-M    
+ER-165  681650    1.9E-11         7.9E-12  ICRP72    
+ER-167M 681671    1.1E-14         1.4E-14  Calculated
+ER-169  681690    3.7E-10         1.0E-09  ICRP72    
+ER-171  681710    3.6E-10         2.2E-10  ICRP72    
+ER-172  681720    1.0E-09         1.1E-09  ICRP72    
+ER-173  681730    2.9E-12         3.9E-12  Calculated
+ER-174  681740    1.5E-11         2.1E-11  Calculated
+ER-175  681750    4.0E-12         5.3E-12  Calculated
+TM-158  691580    1.6E-09         1.5E-09  Calculated
+TM-159  691590    4.2E-09         4.1E-09  Calculated
+TM-160  691600    4.0E-09         3.7E-09  Calculated
+TM-160M 691601    5.6E-10         5.2E-10  Calculated
+TM-161  691610    1.1E-08         9.8E-09  Calculated
+TM-161M 691611    1.5E-09         1.4E-09  Calculated
+TM-162  691620    2.9E-11         1.6E-11  ICRP72    
+TM-162M 691621    2.0E-11         1.9E-11  Calculated
+TM-163  691630    5.3E-11         5.9E-11  NRPB-M    
+TM-164  691640    3.2E-10         3.1E-10  Calculated
+TM-164M 691641    7.2E-11         7.0E-11  Calculated
+TM-165  691650    3.2E-10         2.8E-10  NRPB-M    
+TM-166  691660    2.8E-10         1.7E-10  ICRP72    
+TM-167  691670    5.6E-10         1.1E-09  ICRP72    
+TM-168  691680    9.6E-10         3.1E-09  NRPB-M    
+TM-170  691700    1.3E-09         7.0E-09  ICRP72    
+TM-171  691710    1.1E-10         1.4E-09  ICRP72    
+TM-172  691720    1.7E-09         1.1E-09  ICRP72    
+TM-173  691730    3.1E-10         1.8E-10  ICRP72    
+TM-174  691740    1.6E-09         1.5E-09  Calculated
+TM-175  691750    2.7E-11         1.8E-11  ICRP72    
+TM-176  691760    6.2E-10         6.0E-10  Calculated
+TM-177  691770    6.3E-10         5.6E-10  Calculated
+TM-178  691780    3.5E-10         2.9E-10  Calculated
+TM-179  691790    2.0E-10         1.9E-10  Calculated
+YB-159  701590    7.3E-12         8.5E-12  Calculated
+YB-160  701600    1.6E-11         1.8E-11  Calculated
+YB-161  701610    1.8E-11         2.0E-11  Calculated
+YB-162  701620    2.3E-11         1.4E-11  ICRP72    
+YB-163  701630    1.2E-11         1.4E-11  Calculated
+YB-164  701640    9.3E-11         1.1E-10  Calculated
+YB-165  701650    4.4E-12         5.2E-12  Calculated
+YB-166  701660    9.5E-10         7.7E-10  ICRP72    
+YB-167  701670    6.7E-12         6.9E-12  ICRP72    
+YB-168  701680    5.6E-08         1.5E-07  Calculated
+YB-169  701690    7.1E-10         3.0E-09  ICRP72    
+YB-169M 701691    2.9E-14         7.0E-14  Calculated
+YB-175  701750    4.4E-10         7.3E-10  ICRP72    
+YB-176M 701761    1.8E-13         2.2E-13  Calculated
+YB-177  701770    8.8E-11         6.9E-11  ICRP72    
+YB-177M 701771    1.1E-13         1.0E-13  Calculated
+YB-178  701780    1.2E-10         7.5E-11  ICRP72    
+YB-179  701790    1.1E-11         1.3E-11  Calculated
+YB-180  701800    8.0E-12         9.4E-12  Calculated
+YB-181  701810    3.0E-12         3.6E-12  Calculated
+LU-162  711620    1.2E-09         3.6E-09  Calculated
+LU-162M 711621    1.6E-09         4.8E-09  Calculated
+LU-162N 711622    2.0E-09         6.2E-09  Calculated
+LU-163  711630    4.5E-09         1.6E-08  Calculated
+LU-164  711640    1.2E-09         4.3E-09  Calculated
+LU-165  711650    4.0E-09         1.4E-08  Calculated
+LU-166  711660    1.3E-09         4.2E-09  Calculated
+LU-166M 711661    5.5E-10         1.8E-09  Calculated
+LU-166N 711662    1.1E-09         3.5E-09  Calculated
+LU-167  711670    2.1E-08         7.0E-08  Calculated
+LU-167M 711671    4.2E-10         1.4E-09  Calculated
+LU-168  711680    4.4E-09         1.5E-08  Calculated
+LU-168M 711681    2.8E-09         9.7E-09  Calculated
+LU-169  711690    4.6E-10         3.8E-10  ICRP72    
+LU-169M 711691    1.1E-11         3.7E-11  Calculated
+LU-170  711700    9.9E-10         6.6E-10  ICRP72    
+LU-170M 711701    1.6E-13         5.3E-13  Calculated
+LU-171  711710    6.7E-10         8.8E-10  ICRP72    
+LU-171M 711711    1.6E-11         5.5E-11  Calculated
+LU-172  711720    1.3E-09         1.6E-09  ICRP72    
+LU-172M 711721    2.7E-11         9.2E-11  Calculated
+LU-173  711730    2.6E-10         2.4E-09  ICRP72    
+LU-174  711740    2.7E-10         4.2E-09  ICRP72    
+LU-174M 711741    5.3E-10         4.2E-09  ICRP72    
+LU-176  711760    1.8E-09         7.0E-08  ICRP72    
+LU-176M 711761    1.7E-10         1.2E-10  ICRP72    
+LU-177  711770    5.3E-10         1.2E-09  ICRP72    
+LU-177M 711771    1.7E-09         1.6E-08  ICRP72    
+LU-177N 711772    4.3E-09         1.2E-08  Calculated
+LU-178  711780    4.7E-11         2.6E-11  ICRP72    
+LU-178M 711781    3.8E-11         3.3E-11  ICRP72    
+LU-179  711790    2.1E-10         1.2E-10  ICRP72    
+LU-180  711800    2.0E-09         6.9E-09  Calculated
+LU-180M 711801    5.9E-12         2.0E-11  Calculated
+LU-181  711810    4.1E-10         1.5E-09  Calculated
+LU-182  711820    7.6E-10         2.6E-09  Calculated
+LU-183  711830    6.7E-10         1.5E-09  Calculated
+LU-184  711840    3.8E-10         9.7E-10  Calculated
+HF-163  721630    2.6E-12         5.3E-12  Calculated
+HF-164  721640    4.0E-12         8.0E-12  Calculated
+HF-165  721650    3.6E-12         7.2E-12  Calculated
+HF-166  721660    1.1E-11         2.1E-11  Calculated
+HF-167  721670    3.8E-12         7.6E-12  Calculated
+HF-168  721680    4.6E-11         9.2E-11  Calculated
+HF-169  721690    2.7E-12         5.3E-12  Calculated
+HF-170  721700    4.8E-10         3.2E-10  ICRP72    
+HF-171  721710    7.8E-10         1.6E-09  Calculated
+HF-171M 721711    5.4E-13         1.1E-12  Calculated
+HF-172  721720    1.0E-09         3.2E-08  ICRP72    
+HF-173  721730    2.3E-10         1.6E-10  ICRP72    
+HF-174  721740    7.7E-08         3.6E-07  Calculated
+HF-175  721750    4.1E-10         1.2E-09  ICRP72    
+HF-177M 721771    1.2E-14         2.4E-14  Calculated
+HF-177N 721772    8.1E-11         9.0E-11  ICRP72    
+HF-178M 721781    3.9E-14         7.9E-14  Calculated
+HF-178N 721782    4.7E-09         2.6E-07  ICRP72    
+HF-179M 721791    6.0E-14         1.2E-13  Calculated
+HF-179N 721792    1.2E-09         3.8E-09  ICRP72    
+HF-180M 721801    1.7E-10         1.3E-10  ICRP72    
+HF-181  721810    1.1E-09         5.0E-09  ICRP72    
+HF-182  721820    3.0E-09         3.1E-07  ICRP72    
+HF-182M 721821    4.2E-11         4.6E-11  ICRP72    
+HF-183  721830    7.3E-11         5.7E-11  ICRP72    
+HF-184  721840    5.2E-10         3.3E-10  ICRP72    
+HF-184M 721841    1.2E-12         2.1E-12  Calculated
+HF-185  721850    6.1E-12         1.1E-11  Calculated
+HF-186  721860    6.1E-12         8.6E-12  Calculated
+HF-187  721870    1.3E-12         2.9E-12  Calculated
+TA-170  731700    2.5E-11         2.0E-11  Calculated
+TA-171  731710    9.8E-11         9.5E-11  Calculated
+TA-172  731720    5.3E-11         3.5E-11  ICRP72    
+TA-173  731730    1.9E-10         1.1E-10  ICRP72    
+TA-174  731740    5.7E-11         4.3E-11  ICRP72    
+TA-175  731750    2.1E-10         1.3E-10  ICRP72    
+TA-176  731760    3.1E-10         2.0E-10  ICRP72    
+TA-177  731770    1.1E-10         1.1E-10  ICRP72    
+TA-178  731780    1.4E-12         1.3E-12  Calculated
+TA-178M 731781    7.2E-11         6.8E-11  ICRP72    
+TA-179  731790    6.5E-11         5.6E-10  ICRP72    
+TA-180  731800    5.4E-11         4.4E-11  ICRP72    
+TA-180M 731801    8.4E-10         2.6E-08  ICRP72    
+TA-182  731820    1.5E-09         1.0E-08  ICRP72    
+TA-182M 731821    1.2E-16         3.6E-16  Calculated
+TA-182N 731822    1.2E-11         2.1E-11  ICRP72    
+TA-183  731830    1.3E-09         2.1E-09  ICRP72    
+TA-184  731840    6.8E-10         4.3E-10  ICRP72    
+TA-185  731850    6.8E-11         4.8E-11  ICRP72    
+TA-186  731860    3.3E-11         1.8E-11  ICRP72    
+TA-187  731870    5.0E-12         5.9E-12  Calculated
+TA-188  731880    1.1E-12         1.1E-12  Calculated
+TA-189  731890    2.4E-13         2.2E-13  Calculated
+TA-190  731900    3.3E-14         3.1E-14  Calculated
+W -171  741710    2.0E-11         2.4E-12  Calculated
+W -172  741720    1.8E-11         1.8E-12  Calculated
+W -173  741730    3.1E-11         3.2E-12  Calculated
+W -174  741740    6.7E-11         7.3E-12  Calculated
+W -175  741750    9.0E-11         1.0E-11  Calculated
+W -176  741760    1.0E-10         4.1E-11  ICRP72    
+W -177  741770    5.8E-11         2.4E-11  ICRP72    
+W -178  741780    2.2E-10         7.2E-11  ICRP72    
+W -179  741790    3.3E-12         9.2E-13  ICRP72    
+W -179M 741791    1.9E-12         3.2E-13  Calculated
+W -181  741810    7.6E-11         2.7E-11  ICRP72    
+W -183  741830    2.2E-08         3.5E-05  Calculated
+W -183M 741831    3.2E-14         3.8E-15  Calculated
+W -184  741840    1.2E-07         3.2E-08  Calculated
+W -185  741850    4.4E-10         1.2E-10  ICRP72    
+W -185M 741851    3.9E-13         4.8E-14  Calculated
+W -186  741860    1.1E-08         1.7E-05  Calculated
+W -187  741870    6.3E-10         1.9E-10  ICRP72    
+W -188  741880    2.1E-09         5.7E-10  ICRP72    
+W -189  741890    3.0E-11         3.5E-12  Calculated
+W -190  741900    9.4E-11         1.1E-11  Calculated
+W -191  741910    1.1E-12         1.4E-13  Calculated
+W -192  741920    6.2E-13         7.4E-14  Calculated
+W -193  741930    9.2E-12         1.2E-12  Calculated
+W -194  741940    2.5E-12         3.0E-13  Calculated
+RE-174  751740    3.4E-11         3.1E-11  Calculated
+RE-175  751750    9.6E-11         8.7E-11  Calculated
+RE-176  751760    4.6E-11         6.5E-11  Calculated
+RE-177  751770    5.7E-11         9.1E-11  Calculated
+RE-178  751780    2.5E-11         1.4E-11  ICRP72    
+RE-179  751790    7.6E-11         7.6E-11  Calculated
+RE-180  751800    1.0E-11         9.3E-12  Calculated
+RE-181  751810    4.2E-10         2.5E-10  ICRP72    
+RE-182  751820    1.4E-09         1.2E-09  ICRP72    
+RE-182M 751821    2.7E-10         2.0E-10  ICRP72    
+RE-183  751830    7.6E-10         1.8E-09  R245      
+RE-184  751840    1.0E-09         1.9E-09  ICRP72    
+RE-184M 751841    1.5E-09         6.5E-09  ICRP72    
+RE-186  751860    1.5E-09         1.1E-09  ICRP72    
+RE-186M 751861    2.2E-09         1.2E-08  ICRP72    
+RE-187  751870    5.1E-12         6.3E-12  ICRP72    
+RE-188  751880    1.4E-09         5.4E-10  ICRP72    
+RE-188M 751881    3.0E-11         1.3E-11  ICRP72    
+RE-189  751890    7.8E-10         4.3E-10  ICRP72    
+RE-190  751900    2.0E-11         1.9E-11  Calculated
+RE-190M 751901    4.1E-10         3.8E-10  NRPB-M    
+RE-191  751910    2.3E-11         2.5E-11  Calculated
+RE-192  751920    6.0E-13         5.6E-13  Calculated
+RE-193  751930    3.6E-12         3.7E-12  Calculated
+RE-194  751940    3.5E-13         3.3E-13  Calculated
+RE-195  751950    1.9E-12         1.7E-12  Calculated
+RE-196  751960    1.2E-12         1.1E-12  Calculated
+RE-197  751970    1.5E-12         1.4E-12  Calculated
+RE-198  751980    8.7E-13         8.1E-13  Calculated
+OS-175  761750    2.8E-11         8.2E-12  Calculated
+OS-176  761760    3.3E-11         1.3E-11  Calculated
+OS-177  761770    2.9E-11         1.1E-11  Calculated
+OS-178  761780    2.4E-11         6.2E-12  Calculated
+OS-179  761790    5.6E-11         1.7E-11  Calculated
+OS-180  761800    1.7E-11         1.5E-11  ICRP72    
+OS-181  761810    3.6E-12         9.7E-13  Calculated
+OS-181M 761811    8.9E-11         6.5E-11  ICRP72    
+OS-182  761820    5.6E-10         3.8E-10  ICRP72    
+OS-183  761830    2.0E-10         2.3E-10  NRPB-M    
+OS-183M 761831    1.9E-10         2.1E-10  NRPB-M    
+OS-184  761840    2.8E-08         4.5E-05  Calculated
+OS-185  761850    5.1E-10         1.6E-09  ICRP72    
+OS-186  761860    4.0E-07         2.8E-07  Calculated
+OS-189M 761891    1.8E-11         5.3E-12  ICRP72    
+OS-190M 761901    4.0E-11         1.2E-11  Calculated
+OS-191  761910    5.7E-10         1.9E-09  ICRP72    
+OS-191M 761911    9.6E-11         1.6E-10  ICRP72    
+OS-192M 761921    4.3E-13         1.3E-13  Calculated
+OS-193  761930    8.1E-10         5.2E-10  ICRP72    
+OS-194  761940    2.4E-09         8.5E-08  ICRP72    
+OS-195  761950    1.7E-11         4.6E-12  Calculated
+OS-196  761960    1.5E-10         4.5E-11  Calculated
+OS-197  761970    3.6E-13         1.1E-13  Calculated
+OS-198  761980    3.7E-12         1.1E-12  Calculated
+OS-199  761990    7.6E-12         2.5E-12  Calculated
+OS-200  762000    3.5E-12         1.0E-12  Calculated
+OS-201  762010    2.8E-12         8.2E-13  Calculated
+IR-178  771780    3.3E-12         3.4E-12  Calculated
+IR-179  771790    2.6E-11         2.8E-11  Calculated
+IR-180  771800    1.7E-11         2.2E-11  Calculated
+IR-181  771810    3.2E-11         3.4E-11  Calculated
+IR-182  771820    4.8E-11         2.4E-11  ICRP72    
+IR-183  771830    1.9E-10         2.7E-10  Calculated
+IR-184  771840    1.7E-10         1.2E-10  ICRP72    
+IR-185  771850    2.6E-10         1.9E-10  ICRP72    
+IR-186  771860    4.9E-10         3.2E-10  ICRP72    
+IR-186M 771861    6.1E-11         4.4E-11  ICRP72    
+IR-187  771870    1.2E-10         7.9E-11  ICRP72    
+IR-188  771880    6.3E-10         4.2E-10  ICRP72    
+IR-189  771890    2.4E-10         6.0E-10  ICRP72    
+IR-190  771900    1.2E-09         2.4E-09  ICRP72    
+IR-190M 771901    8.0E-12         1.0E-11  ICRP72    
+IR-190N 771902    1.2E-10         8.3E-11  ICRP72    
+IR-191M 771911    4.0E-14         4.3E-14  Calculated
+IR-191N 771912    5.4E-13         5.9E-13  Calculated
+IR-192  771920    1.4E-09         6.6E-09  ICRP72    
+IR-192M 771921    2.5E-13         3.4E-13  Calculated
+IR-192N 771922    3.1E-10         3.9E-08  ICRP72    
+IR-193M 771931    2.7E-10         1.3E-09  ICRP72    
+IR-194  771940    1.3E-09         5.6E-10  ICRP72    
+IR-194M 771941    2.1E-09         1.3E-08  ICRP72    
+IR-194N 771942    2.0E-08         5.1E-08  Calculated
+IR-195  771950    1.0E-10         7.1E-11  ICRP72    
+IR-195M 771951    2.1E-10         1.7E-10  ICRP72    
+IR-196  771960    3.4E-12         3.7E-12  Calculated
+IR-196M 771961    1.2E-10         1.6E-10  NRPB-M    
+IR-197  771970    2.0E-11         2.2E-11  Calculated
+IR-197M 771971    3.4E-11         4.5E-11  Calculated
+IR-198  771980    8.1E-13         8.8E-13  Calculated
+IR-199  771990    2.8E-12         3.6E-12  Calculated
+IR-200  772000    9.3E-13         9.8E-13  Calculated
+IR-201  772010    4.1E-12         4.4E-12  Calculated
+IR-202  772020    2.0E-12         2.4E-12  Calculated
+PT-181  781810    6.5E-12         1.3E-12  Calculated
+PT-182  781820    4.5E-12         4.8E-13  Calculated
+PT-183  781830    3.5E-11         7.4E-12  Calculated
+PT-183M 781831    2.2E-12         5.0E-13  Calculated
+PT-184  781840    4.9E-11         9.0E-12  Calculated
+PT-185  781850    3.6E-10         7.1E-11  Calculated
+PT-185M 781851    1.6E-10         3.0E-11  Calculated
+PT-186  781860    9.3E-11         3.3E-11  ICRP72    
+PT-187  781870    1.1E-10         2.1E-11  Calculated
+PT-188  781880    7.6E-10         4.2E-10  ICRP72    
+PT-189  781890    1.2E-10         3.8E-11  ICRP72    
+PT-190  781900    8.2E-09         2.3E-07  R245      
+PT-191  781910    3.4E-10         1.1E-10  ICRP72    
+PT-193  781930    3.1E-11         2.1E-11  ICRP72    
+PT-193M 781931    4.5E-10         1.2E-10  ICRP72    
+PT-195M 781951    6.3E-10         1.8E-10  ICRP72    
+PT-197  781970    4.0E-10         8.5E-11  ICRP72    
+PT-197M 781971    8.4E-11         2.4E-11  ICRP72    
+PT-199  781990    3.9E-11         1.2E-11  ICRP72    
+PT-199M 781991    4.1E-13         1.1E-13  Calculated
+PT-200  782000    1.2E-09         2.2E-10  ICRP72    
+PT-201  782010    7.3E-12         1.4E-12  Calculated
+PT-202  782020    4.7E-09         1.3E-09  Calculated
+PT-203  782030    2.4E-12         4.8E-13  Calculated
+AU-185  791850    6.1E-11         5.7E-11  Calculated
+AU-186  791860    6.6E-11         7.2E-11  Calculated
+AU-187  791870    5.3E-10         5.0E-10  Calculated
+AU-187M 791871    2.4E-12         2.3E-12  Calculated
+AU-188  791880    3.8E-11         3.7E-11  Calculated
+AU-189  791890    6.1E-11         6.3E-11  Calculated
+AU-189M 791891    1.3E-11         1.3E-11  Calculated
+AU-190  791900    1.9E-10         1.8E-10  Calculated
+AU-191  791910    6.6E-11         8.6E-11  NRPB-M    
+AU-191M 791911    1.3E-14         1.4E-14  Calculated
+AU-192  791920    1.7E-10         2.0E-10  NRPB-M    
+AU-192M 791921    4.1E-16         4.5E-16  Calculated
+AU-192N 791922    3.8E-15         4.0E-15  Calculated
+AU-193  791930    1.3E-10         1.2E-10  ICRP72    
+AU-193M 791931    4.0E-14         3.8E-14  Calculated
+AU-194  791940    4.2E-10         2.4E-10  ICRP72    
+AU-194M 791941    1.9E-15         1.1E-15  Calculated
+AU-194N 791942    3.0E-15         2.4E-15  Calculated
+AU-195  791950    2.5E-10         1.7E-09  ICRP72    
+AU-195M 791951    3.2E-13         3.1E-13  Calculated
+AU-196  791960    4.4E-10         3.7E-10  R245      
+AU-196M 791961    2.8E-14         2.6E-14  Calculated
+AU-196N 791962    4.5E-10         7.1E-10  NRPB-M    
+AU-197M 791971    1.1E-13         1.0E-13  Calculated
+AU-198  791980    1.0E-09         8.6E-10  ICRP72    
+AU-198M 791981    1.3E-09         2.0E-09  ICRP72    
+AU-199  791990    4.4E-10         7.9E-10  ICRP72    
+AU-200  792000    6.8E-11         3.5E-11  ICRP72    
+AU-200M 792001    1.1E-09         7.2E-10  ICRP72    
+AU-201  792010    2.4E-11         1.7E-11  ICRP72    
+AU-202  792020    1.3E-12         1.2E-12  Calculated
+AU-203  792030    1.5E-12         1.5E-12  Calculated
+AU-204  792040    3.7E-12         3.5E-12  Calculated
+AU-205  792050    3.0E-12         2.9E-12  Calculated
+AU-206  792060    2.9E-13         2.8E-13  Calculated
+HG-186  801860    9.7E-12         8.1E-12  Calculated
+HG-187  801870    3.1E-10         2.3E-10  Calculated
+HG-187M 801871    1.6E-10         1.2E-10  Calculated
+HG-188  801880    1.5E-11         1.1E-11  Calculated
+HG-189  801890    4.6E-10         3.4E-10  Calculated
+HG-189M 801891    5.5E-11         4.2E-11  Calculated
+HG-190  801900    9.8E-11         7.2E-11  Calculated
+HG-191  801910    1.6E-10         1.2E-10  Calculated
+HG-191M 801911    1.7E-10         1.3E-10  Calculated
+HG-192  801920    2.2E-10         2.2E-10  NRPB-M    
+HG-193  801930    8.2E-11         7.5E-11  ICRP72    
+HG-193M 801931    4.0E-10         2.6E-10  ICRP72    
+HG-194  801940    5.1E-08         1.4E-08  ICRP72    
+HG-195  801950    9.7E-11         7.3E-11  ICRP72    
+HG-195M 801951    5.6E-10         5.3E-10  ICRP72    
+HG-196  801960    4.7E-09         8.2E-09  Calculated
+HG-197  801970    2.3E-10         3.0E-10  ICRP72    
+HG-197M 801971    4.7E-10         5.3E-10  ICRP72    
+HG-199M 801991    3.1E-11         3.2E-11  ICRP72    
+HG-203  802030    1.9E-09         2.4E-09  ICRP72    
+HG-205  802050    5.5E-12         4.0E-12  Calculated
+HG-206  802060    1.7E-11         1.2E-11  Calculated
+HG-207  802070    2.7E-11         2.0E-11  Calculated
+HG-208  802080    5.2E-10         3.8E-10  Calculated
+HG-209  802090    8.5E-12         6.8E-12  Calculated
+TL-192  811920    2.8E-11         2.0E-11  Calculated
+TL-192M 811921    3.3E-11         2.3E-11  Calculated
+TL-193  811930    1.2E-11         8.6E-12  Calculated
+TL-193M 811931    1.6E-12         1.1E-12  Calculated
+TL-194  811940    8.1E-12         4.4E-12  ICRP72    
+TL-194M 811941    4.0E-11         1.9E-11  ICRP72    
+TL-195  811950    2.7E-11         1.5E-11  ICRP72    
+TL-195M 811951    4.2E-14         2.6E-14  Calculated
+TL-196  811960    4.9E-11         6.6E-11  NRPB-M    
+TL-196M 811961    1.7E-11         2.6E-11  NRPB-M    
+TL-197  811970    2.3E-11         1.4E-11  ICRP72    
+TL-197M 811971    4.8E-15         3.2E-15  Calculated
+TL-198  811980    7.3E-11         6.0E-11  ICRP72    
+TL-198M 811981    5.4E-11         3.7E-11  ICRP72    
+TL-199  811990    2.6E-11         1.9E-11  ICRP72    
+TL-200  812000    2.0E-10         1.3E-10  ICRP72    
+TL-201  812010    9.5E-11         4.4E-11  ICRP72    
+TL-202  812020    4.5E-10         1.9E-10  ICRP72    
+TL-204  812040    1.2E-09         3.9E-10  ICRP72    
+TL-206  812060    1.5E-12         1.0E-12  Calculated
+TL-206M 812061    7.9E-12         5.4E-12  Calculated
+TL-207  812070    1.6E-12         1.1E-12  Calculated
+TL-207M 812071    2.7E-14         1.8E-14  Calculated
+TL-208  812080    8.0E-12         5.5E-12  Calculated
+TL-209  812090    5.3E-12         4.2E-12  Calculated
+TL-210  812100    3.4E-12         3.5E-12  Calculated
+PB-193  821930    7.3E-12         4.7E-12  Calculated
+PB-193M 821931    8.7E-12         5.6E-12  Calculated
+PB-194  821940    6.1E-12         3.7E-12  Calculated
+PB-195  821950    4.6E-12         2.5E-12  Calculated
+PB-195M 821951    2.9E-11         2.7E-11  ICRP72    
+PB-196  821960    1.6E-11         1.5E-11  Calculated
+PB-197  821970    4.7E-12         2.9E-12  Calculated
+PB-197M 821971    2.9E-11         1.8E-11  Calculated
+PB-198  821980    1.0E-10         7.0E-11  ICRP72    
+PB-199  821990    5.4E-11         3.7E-11  ICRP72    
+PB-199M 821991    8.6E-12         5.8E-12  Calculated
+PB-200  822000    4.0E-10         3.5E-10  ICRP72    
+PB-201  822010    1.6E-10         1.2E-10  ICRP72    
+PB-201M 822011    5.1E-13         3.6E-13  Calculated
+PB-202  822020    8.8E-09         1.2E-08  ICRP72    
+PB-202M 822021    1.3E-10         1.0E-10  ICRP72    
+PB-203  822030    2.4E-10         2.2E-10  ICRP72    
+PB-203M 822031    3.8E-14         2.6E-14  Calculated
+PB-203N 822032    8.7E-15         5.7E-15  Calculated
+PB-204  822040    4.1E-08         6.0E-08  Calculated
+PB-204M 822041    5.1E-11         3.2E-11  Calculated
+PB-205  822050    2.8E-10         8.5E-10  ICRP72    
+PB-205M 822051    3.2E-17         2.0E-17  Calculated
+PB-207M 822071    7.5E-15         4.8E-15  Calculated
+PB-209  822090    5.7E-11         6.1E-11  ICRP72    
+PB-210  822100    6.9E-07         5.6E-06  ICRP72    
+PB-211  822110    1.8E-10         1.2E-08  ICRP72    
+PB-212  822120    6.0E-09         1.9E-07  ICRP72    
+PB-213  822130    4.8E-12         3.1E-12  Calculated
+PB-214  822140    1.4E-10         1.5E-08  ICRP72    
+PB-215  822150    3.5E-11         2.2E-10  Calculated
+BI-196  831960    2.1E-08         2.8E-06  Calculated
+BI-196M 831961    4.3E-11         5.7E-09  Calculated
+BI-196N 831962    1.7E-08         2.3E-06  Calculated
+BI-197  831970    3.2E-08         3.8E-06  Calculated
+BI-197M 831971    2.2E-07         2.6E-05  Calculated
+BI-198  831980    4.5E-08         5.5E-06  Calculated
+BI-198M 831981    4.9E-08         6.1E-06  Calculated
+BI-198N 831982    5.8E-10         7.1E-08  Calculated
+BI-199  831990    8.1E-08         1.0E-05  Calculated
+BI-199M 831991    8.7E-08         1.1E-05  Calculated
+BI-200  832000    5.1E-11         3.3E-11  ICRP72    
+BI-200M 832001    5.9E-08         7.9E-06  Calculated
+BI-200N 832002    2.0E-12         2.3E-10  Calculated
+BI-201  832010    1.2E-10         6.6E-11  ICRP72    
+BI-201M 832011    1.7E-07         2.1E-05  Calculated
+BI-202  832020    8.9E-11         5.5E-11  ICRP72    
+BI-203  832030    4.8E-10         2.6E-10  ICRP72    
+BI-203M 832031    3.8E-12         4.5E-10  Calculated
+BI-204  832040    1.0E-09         9.2E-10  NRPB-M    
+BI-205  832050    9.0E-10         9.3E-10  ICRP72    
+BI-206  832060    1.9E-09         1.7E-09  ICRP72    
+BI-207  832070    1.3E-09         5.6E-09  ICRP72    
+BI-208  832080    1.4E-09         4.0E-09  R245      
+BI-208M 832081    4.6E-14         5.5E-12  Calculated
+BI-209  832090    1.3E-04         3.6E-02  Calculated
+BI-210  832100    1.3E-09         9.3E-08  ICRP72    
+BI-210M 832101    1.5E-08         3.4E-06  ICRP72    
+BI-211  832110    2.0E-07         2.4E-05  Calculated
+BI-212  832120    2.6E-10         3.1E-08  ICRP72    
+BI-212M 832121    2.7E-06         3.2E-04  Calculated
+BI-212N 832122    1.5E-06         1.7E-04  Calculated
+BI-213  832130    2.0E-10         3.0E-08  ICRP72    
+BI-214  832140    1.1E-10         1.4E-08  ICRP72    
+BI-215  832150    8.4E-07         1.0E-03  Calculated
+BI-215M 832151    7.0E-08         8.4E-05  Calculated
+BI-216  832160    2.5E-07         2.7E-04  Calculated
+PO-202  842020    5.5E-10         8.5E-10  Calculated
+PO-203  842030    4.6E-11         3.6E-11  ICRP72    
+PO-203M 842031    2.7E-12         3.5E-12  Calculated
+PO-204  842040    1.0E-09         2.7E-08  NRPB-M    
+PO-205  842050    5.8E-11         6.9E-11  ICRP72    
+PO-206  842060    1.3E-07         1.1E-11  R245      
+PO-207  842070    1.1E-10         8.2E-11  ICRP72    
+PO-207M 842071    2.5E-13         3.8E-13  Calculated
+PO-208  842080    7.7E-07         2.4E-06  R245      
+PO-209  842090    7.7E-07         2.4E-06  R245      
+PO-210  842100    1.2E-06         4.3E-06  ICRP72    
+PO-211  842110    4.9E-12         7.6E-12  Calculated
+PO-211M 842111    2.4E-10         3.8E-10  Calculated
+PO-212  842120    3.3E-18         5.2E-18  Calculated
+PO-212M 842121    6.6E-10         1.0E-09  Calculated
+PO-213  842130    4.5E-17         7.0E-17  Calculated
+PO-214  842140    1.6E-15         2.5E-15  Calculated
+PO-215  842150    1.8E-14         2.9E-13  Calculated
+PO-216  842160    1.5E-12         2.2E-11  Calculated
+PO-217  842170    1.2E-11         1.9E-11  Calculated
+PO-218  842180    1.6E-09         4.8E-08  Calculated
+PO-219  842190    2.2E-09         2.1E-08  Calculated
+AT-205  852050    1.8E-10         1.7E-09  Calculated
+AT-206  852060    9.7E-11         5.5E-10  Calculated
+AT-207  852070    2.4E-10         2.3E-09  ICRP72    
+AT-208  852080    1.9E-10         2.0E-09  Calculated
+AT-209  852090    1.2E-09         1.2E-08  Calculated
+AT-210  852100    1.2E-09         1.7E-08  Calculated
+AT-211  852110    1.1E-08         1.1E-07  ICRP72    
+AT-212  852120    4.1E-13         4.1E-12  Calculated
+AT-212M 852121    1.6E-13         1.6E-12  Calculated
+AT-213  852130    2.0E-19         2.0E-18  Calculated
+AT-214  852140    8.5E-19         8.5E-18  Calculated
+AT-215  852150    2.5E-16         2.5E-15  Calculated
+AT-216  852160    4.0E-16         4.0E-15  Calculated
+AT-217  852170    3.9E-14         3.9E-13  Calculated
+AT-218  852180    1.7E-12         1.7E-11  Calculated
+AT-219  852190    1.3E-10         8.2E-09  Calculated
+AT-220  852200    5.6E-10         3.1E-08  Calculated
+AT-221  852210    3.1E-10         3.1E-09  Calculated
+AT-222  852220    8.3E-11         1.3E-08  Calculated
+RN-208  862080    1.3E-06         7.8E-07  Calculated
+RN-209  862090    5.5E-07         2.8E-07  Calculated
+RN-210  862100    1.2E-05         5.9E-06  Calculated
+RN-211  862110    4.2E-05         2.1E-05  Calculated
+RN-212  862120    2.1E-06         1.1E-06  Calculated
+RN-213  862130    4.8E-11         2.4E-11  Calculated
+RN-214  862140    5.8E-16         2.9E-16  Calculated
+RN-215  862150    8.8E-15         4.4E-15  Calculated
+RN-216  862160    1.8E-13         8.9E-14  Calculated
+RN-217  862170    2.1E-12         1.0E-12  Calculated
+RN-218  862180    1.2E-10         6.2E-11  Calculated
+RN-219  862190    1.4E-08         4.2E-08  Calculated
+RN-220  862200    1.9E-07         5.3E-07  Calculated
+RN-221  862210    4.6E-06         2.3E-06  Calculated
+RN-222  862220    6.9E-04         5.4E-03  Calculated
+RN-223  862230    2.4E-08         8.3E-09  Calculated
+RN-224  862240    1.4E-07         7.1E-08  Calculated
+RN-225  862250    9.8E-09         4.9E-09  Calculated
+FR-218  872180    1.4E-12         6.2E-12  Calculated
+FR-218M 872181    3.1E-11         1.4E-10  Calculated
+FR-219  872190    3.7E-11         1.6E-10  Calculated
+FR-220  872200    3.3E-08         1.5E-07  Calculated
+FR-221  872210    3.3E-07         1.5E-06  Calculated
+FR-222  872220    7.2E-10         1.4E-08  ICRP72    
+FR-223  872230    2.4E-09         8.9E-10  ICRP72    
+FR-224  872240    1.2E-09         5.4E-09  Calculated
+FR-225  872250    1.2E-09         5.5E-09  Calculated
+FR-226  872260    3.4E-10         1.5E-09  Calculated
+FR-227  872270    7.4E-10         3.3E-09  Calculated
+FR-228  872280    3.3E-10         1.5E-09  Calculated
+RA-220  882200    4.3E-11         1.6E-09  Calculated
+RA-221  882210    6.4E-08         2.3E-06  Calculated
+RA-222  882220    8.0E-08         2.9E-06  Calculated
+RA-223  882230    1.0E-07         8.7E-06  ICRP72    
+RA-224  882240    6.5E-08         3.4E-06  ICRP72    
+RA-225  882250    9.9E-08         7.7E-06  ICRP72    
+RA-226  882260    2.8E-07         9.5E-06  ICRP72    
+RA-227  882270    8.1E-11         4.6E-10  ICRP72    
+RA-228  882280    6.9E-07         1.6E-05  ICRP72    
+RA-229  882290    1.7E-09         6.2E-08  Calculated
+RA-230  882300    5.4E-08         2.0E-06  Calculated
+RA-231  882310    1.4E-09         4.9E-08  Calculated
+AC-222  892220    4.3E-10         4.7E-08  Calculated
+AC-222M 892221    6.6E-09         7.2E-07  Calculated
+AC-223  892230    1.6E-08         1.8E-06  Calculated
+AC-224  892240    7.0E-10         1.3E-07  ICRP72    
+AC-225  892250    2.4E-08         8.5E-06  ICRP72    
+AC-226  892260    1.0E-08         1.3E-06  ICRP72    
+AC-227  892270    1.1E-06         5.5E-04  ICRP72    
+AC-228  892280    4.3E-10         2.5E-08  ICRP72    
+AC-229  892290    6.7E-10         7.3E-08  Calculated
+AC-230  892300    3.7E-11         4.0E-09  Calculated
+AC-231  892310    1.0E-10         1.1E-08  Calculated
+AC-232  892320    5.4E-11         5.9E-09  Calculated
+AC-233  892330    5.9E-11         6.3E-09  Calculated
+AC-234  892340    2.8E-11         3.1E-09  Calculated
+TH-224  902240    1.9E-10         2.0E-10  Calculated
+TH-225  902250    7.9E-08         8.1E-08  Calculated
+TH-226  902260    3.5E-10         6.1E-08  ICRP72    
+TH-227  902270    8.8E-09         1.0E-05  ICRP72    
+TH-228  902280    7.2E-08         4.0E-05  ICRP72    
+TH-229  902290    4.9E-07         2.4E-04  ICRP72    
+TH-229M 902291    4.0E-13         2.1E-10  Calculated
+TH-230  902300    2.1E-07         1.0E-04  ICRP72    
+TH-231  902310    3.4E-10         3.3E-10  ICRP72    
+TH-232  902320    2.3E-07         1.1E-04  ICRP72    
+TH-233  902330    1.8E-10         1.8E-10  Calculated
+TH-234  902340    3.4E-09         7.7E-09  ICRP72    
+TH-235  902350    2.1E-10         2.1E-10  Calculated
+PA-226  912260    6.0E-10         1.4E-07  Calculated
+PA-227  912270    4.5E-10         8.0E-08  ICRP72    
+PA-228  912280    7.8E-10         7.5E-08  ICRP72    
+PA-229  912290    7.1E-10         2.0E-07  Calculated
+PA-230  912300    9.2E-10         7.6E-07  ICRP72    
+PA-231  912310    7.1E-07         1.4E-04  ICRP72    
+PA-232  912320    7.2E-10         1.0E-08  ICRP72    
+PA-233  912330    8.7E-10         3.9E-09  ICRP72    
+PA-234  912340    5.1E-10         4.0E-10  ICRP72    
+PA-234M 912341    7.2E-13         1.6E-10  Calculated
+PA-235  912350    8.4E-12         1.9E-09  Calculated
+PA-236  912360    1.1E-11         2.5E-09  Calculated
+PA-237  912370    7.6E-12         1.7E-09  Calculated
+PA-238  912380    4.5E-12         9.8E-10  Calculated
+U -228  922280    5.9E-08         1.5E-07  Calculated
+U -229  922290    6.7E-08         1.7E-07  Calculated
+U -230  922300    5.6E-08         1.6E-05  ICRP72    
+U -231  922310    2.8E-10         4.0E-10  ICRP72    
+U -232  922320    3.3E-07         3.7E-05  ICRP72    
+U -233  922330    5.1E-08         9.6E-06  ICRP72    
+U -234  922340    4.9E-08         9.4E-06  ICRP72    
+U -235  922350    4.7E-08         8.5E-06  ICRP72    
+U -235M 922351    1.7E-14         4.3E-14  Calculated
+U -236  922360    4.7E-08         8.7E-06  ICRP72    
+U -237  922370    7.6E-10         1.9E-09  ICRP72    
+U -238  922380    4.5E-08         8.0E-06  ICRP72    
+U -239  922390    2.7E-11         2.4E-11  ICRP72    
+U -240  922400    1.1E-09         5.8E-10  ICRP72    
+U -241  922410    7.6E-11         2.0E-10  Calculated
+U -242  922420    1.7E-10         4.3E-10  Calculated
+U -243  922430    8.0E-11         2.0E-10  Calculated
+U -244  922440    7.8E-11         1.9E-10  Calculated
+U -245  922450    7.3E-12         1.8E-11  Calculated
+NP-230  932300    1.0E-10         9.9E-09  Calculated
+NP-231  932310    2.1E-10         8.6E-09  Calculated
+NP-232  932320    9.7E-12         1.2E-10  ICRP72    
+NP-233  932330    2.2E-12         1.7E-12  ICRP72    
+NP-234  932340    8.1E-10         5.5E-10  ICRP72    
+NP-235  932350    5.3E-11         6.3E-10  ICRP72    
+NP-236  932360    1.7E-08         8.0E-06  ICRP72    
+NP-236M 932361    1.9E-10         9.0E-09  ICRP72    
+NP-237  932370    1.1E-07         5.0E-05  ICRP72    
+NP-238  932380    9.1E-10         3.5E-09  ICRP72    
+NP-239  932390    8.0E-10         1.0E-09  ICRP72    
+NP-240  932400    8.2E-11         9.0E-11  ICRP72    
+NP-240M 932401    8.5E-12         3.6E-10  Calculated
+NP-241  932410    7.4E-12         3.5E-10  Calculated
+NP-242  932420    2.8E-12         1.2E-10  Calculated
+NP-242M 932421    1.1E-11         4.7E-10  Calculated
+NP-243  932430    3.1E-12         1.3E-10  Calculated
+NP-244  932440    5.8E-12         2.5E-10  Calculated
+NP-245  932450    1.4E-12         5.8E-11  Calculated
+NP-246  932460    9.2E-13         4.0E-11  Calculated
+PU-232  942320    1.7E-08         2.0E-08  Calculated
+PU-233  942330    3.9E-10         4.5E-10  Calculated
+PU-234  942340    1.6E-10         2.4E-08  ICRP72    
+PU-235  942350    2.1E-12         1.5E-12  ICRP72    
+PU-236  942360    8.7E-08         4.0E-05  ICRP72    
+PU-237  942370    1.0E-10         3.9E-10  ICRP72    
+PU-237M 942371    2.2E-15         2.6E-15  Calculated
+PU-238  942380    2.3E-07         1.1E-04  ICRP72    
+PU-239  942390    2.5E-07         1.2E-04  ICRP72    
+PU-240  942400    2.5E-07         1.2E-04  ICRP72    
+PU-241  942410    4.8E-09         2.3E-06  ICRP72    
+PU-242  942420    2.4E-07         1.1E-04  ICRP72    
+PU-243  942430    8.5E-11         8.6E-11  ICRP72    
+PU-244  942440    2.4E-07         1.1E-04  ICRP72    
+PU-245  942450    7.2E-10         4.3E-10  ICRP72    
+PU-246  942460    3.3E-09         8.0E-09  ICRP72    
+PU-247  942470    1.9E-08         3.3E-08  Calculated
+AM-237  952370    1.8E-11         2.6E-11  ICRP72    
+AM-238  952380    3.2E-11         1.9E-10  ICRP72    
+AM-239  952390    2.4E-10         2.4E-10  ICRP72    
+AM-240  952400    5.8E-10         4.3E-10  ICRP72    
+AM-241  952410    2.0E-07         9.6E-05  ICRP72    
+AM-242  952420    3.0E-10         2.0E-08  ICRP72    
+AM-242M 952421    1.9E-07         9.2E-05  ICRP72    
+AM-243  952430    2.0E-07         9.6E-05  ICRP72    
+AM-244  952440    4.6E-10         3.7E-09  ICRP72    
+AM-244M 952441    2.9E-11         1.6E-10  ICRP72    
+AM-245  952450    6.2E-11         5.6E-11  ICRP72    
+AM-246  952460    5.8E-11         6.9E-11  ICRP72    
+AM-246M 952461    3.4E-11         2.3E-11  ICRP72    
+AM-247  952470    3.5E-11         1.7E-09  Calculated
+AM-248  952480    1.4E-11         6.6E-10  Calculated
+AM-249  952490    4.0E-12         1.7E-10  Calculated
+AM-250  952500    3.1E-11         1.5E-09  Calculated
+CM-238  962380    8.0E-11         4.9E-09  ICRP72    
+CM-239  962390    4.4E-10         1.7E-09  Calculated
+CM-240  962400    7.6E-09         3.5E-06  ICRP72    
+CM-241  962410    9.1E-10         3.7E-08  ICRP72    
+CM-242  962420    1.2E-08         5.9E-06  ICRP72    
+CM-243  962430    1.5E-07         6.9E-05  ICRP72    
+CM-244  962440    1.2E-07         5.7E-05  ICRP72    
+CM-245  962450    2.1E-07         9.9E-05  ICRP72    
+CM-246  962460    2.1E-07         9.8E-05  ICRP72    
+CM-247  962470    1.9E-07         9.0E-05  ICRP72    
+CM-248  962480    7.7E-07         3.6E-04  ICRP72    
+CM-249  962490    3.1E-11         4.0E-11  ICRP72    
+CM-250  962500    4.4E-06         2.1E-03  ICRP72    
+CM-251  962510    3.5E-11         1.5E-10  Calculated
+BK-243  972430    9.7E-10         1.8E-07  Calculated
+BK-244  972440    4.1E-08         3.1E-06  Calculated
+BK-245  972450    5.7E-10         2.1E-09  ICRP72    
+BK-246  972460    4.8E-10         3.3E-10  ICRP72    
+BK-247  972470    3.5E-07         6.9E-05  ICRP72    
+BK-248  972480    3.3E-06         5.4E-04  Calculated
+BK-248M 972481    2.7E-09         2.2E-07  Calculated
+BK-249  972490    9.7E-10         1.6E-07  ICRP72    
+BK-250  972500    1.4E-10         1.0E-09  ICRP72    
+BK-251  972510    3.8E-10         2.7E-08  Calculated
+BK-252  972520    9.7E-10         6.9E-08  Calculated
+BK-253  972530    1.0E-10         7.3E-09  Calculated
+BK-254  972540    1.9E-11         1.4E-09  Calculated
+CF-244  982440    7.0E-11         1.4E-08  ICRP72    
+CF-245  982450    8.8E-07         4.0E-05  Calculated
+CF-246  982460    3.3E-09         4.5E-07  ICRP72    
+CF-247  982470    4.8E-07         2.2E-05  Calculated
+CF-248  982480    2.8E-08         8.8E-06  ICRP72    
+CF-249  982490    3.5E-07         7.0E-05  ICRP72    
+CF-250  982500    1.6E-07         3.4E-05  ICRP72    
+CF-251  982510    3.6E-07         7.1E-05  ICRP72    
+CF-252  982520    9.0E-08         2.0E-05  ICRP72    
+CF-253  982530    1.4E-09         1.3E-06  ICRP72    
+CF-254  982540    4.0E-07         4.1E-05  ICRP72    
+CF-255  982550    1.2E-07         6.9E-06  Calculated
+ES-249  992490    2.8E-10         2.3E-08  Calculated
+ES-250  992500    1.7E-09         1.4E-07  Calculated
+ES-250M 992501    2.1E-11         6.3E-10  ICRP72    
+ES-251  992510    1.7E-10         2.1E-09  ICRP72    
+ES-252  992520    6.9E-07         1.4E-04  Calculated
+ES-253  992530    6.1E-09         2.7E-06  ICRP72    
+ES-254  992540    2.8E-08         8.6E-06  ICRP72    
+ES-254M 992541    4.2E-09         4.7E-07  ICRP72    
+ES-255  992550    4.0E-07         4.7E-05  Calculated
+ES-256  992560    1.1E-09         9.6E-08  Calculated
+ES-256M 992561    2.3E-08         1.9E-06  Calculated
+ES-257  992570    1.9E-08         6.6E-06  Calculated
+FM-250 1002500    1.6E-10         3.2E-08  Calculated
+FM-250M1002501    1.7E-13         3.5E-11  Calculated
+FM-251 1002510    3.4E-11         6.9E-09  Calculated
+FM-252 1002520    2.7E-09         3.2E-07  ICRP72    
+FM-253 1002530    9.1E-10         4.0E-07  ICRP72    
+FM-254 1002540    4.4E-10         6.1E-08  ICRP72    
+FM-255 1002550    2.5E-09         2.7E-07  ICRP72    
+FM-256 1002560    1.3E-10         2.7E-08  Calculated
+FM-257 1002570    1.5E-08         7.1E-06  ICRP72    
+FM-258 1002580    2.2E-08         4.5E-06  Calculated

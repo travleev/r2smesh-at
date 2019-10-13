@@ -1,0 +1,10 @@
+System Configuration: 
+Mac Pro
+2.7 GHz 12-Core Intel Xeon E5
+32 GB 1867 MHZ DDR3
+
+MacOS X Server Maverick 10.9.2
+ifort version 14.0.3
+
+F90FLAGS=-O -static-intel -std03 -unroll -fp-model source -diag-disable 8291,8577
+F77FLAGS= -O -fp-model source

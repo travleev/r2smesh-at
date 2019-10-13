@@ -1,0 +1,1918 @@
+Clearance values (Bq/kg).
+     1 H -  1    10010  -1.0E+00          STABLE  
+     2 H -  2    10020  -1.0E+00          STABLE  
+     3 H -  3    10030   3.0E+06          TECDOC-855
+     4 HE-  3    20030  -1.0E+00          STABLE  
+     5 HE-  4    20040  -1.0E+00          STABLE  
+     6 HE-  6    20060   6.2E+03          Calculated
+     7 LI-  5    30050   1.0E+30          Calculated
+     8 LI-  6    30060  -1.0E+00          STABLE  
+     9 LI-  7    30070  -1.0E+00          STABLE  
+    10 LI-  8    30080   1.5E+03          Calculated
+    11 LI-  9    30090   1.7E+03          Calculated
+    12 BE-  6    40060   1.0E+30          Calculated
+    13 BE-  7    40070   2.0E+04          Calculated
+    14 BE-  8    40080   4.8E+28          Calculated
+    15 BE-  9    40090  -1.0E+00          STABLE  
+    16 BE- 10    40100   4.0E+04          Calculated
+    17 BE- 11    40110   5.3E+02          Calculated
+    18 B -  8    50080   1.5E+08          Calculated
+    19 B -  9    50090   4.8E+29          Calculated
+    20 B - 10    50100  -1.0E+00          STABLE  
+    21 B - 11    50110  -1.0E+00          STABLE  
+    22 B - 12    50120   1.4E+03          Calculated
+    23 B - 13    50130   1.1E+03          Calculated
+    24 C -  9    60090   1.7E+02          Calculated
+    25 C - 10    60100   1.2E+03          Calculated
+    26 C - 11    60110   9.5E+02          Calculated
+    27 C - 12    60120  -1.0E+00          STABLE  
+    28 C - 13    60130  -1.0E+00          STABLE  
+    29 C - 14    60140   3.0E+05          TECDOC-855
+    30 C - 15    60150   2.6E+02          Calculated
+    31 N - 12    70120   5.4E+02          Calculated
+    32 N - 13    70130   9.3E+02          Calculated
+    33 N - 14    70140  -1.0E+00          STABLE  
+    34 N - 15    70150  -1.0E+00          STABLE  
+    35 N - 16    70160   2.0E+02          Calculated
+    36 N - 17    70170   4.7E+03          Calculated
+    37 N - 18    70180   2.0E+02          Calculated
+    38 O - 14    80140   2.9E+02          Calculated
+    39 O - 15    80150   9.1E+02          Calculated
+    40 O - 16    80160  -1.0E+00          STABLE  
+    41 O - 17    80170  -1.0E+00          STABLE  
+    42 O - 18    80180  -1.0E+00          STABLE  
+    43 O - 19    80190   8.5E+02          Calculated
+    44 O - 20    80200   8.7E+02          Calculated
+    45 F - 17    90170   9.1E+02          Calculated
+    46 F - 18    90180   9.9E+02          Calculated
+    47 F - 19    90190  -1.0E+00          STABLE  
+    48 F - 20    90200   5.3E+02          Calculated
+    49 F - 21    90210   1.7E+03          Calculated
+    50 F - 22    90220   1.7E+02          Calculated
+    51 F - 23    90230   3.4E+02          Calculated
+    52 NE- 18   100180   8.0E+02          Calculated
+    53 NE- 19   100190   8.9E+02          Calculated
+    54 NE- 20   100200  -1.0E+00          STABLE  
+    55 NE- 21   100210  -1.0E+00          STABLE  
+    56 NE- 22   100220  -1.0E+00          STABLE  
+    57 NE- 23   100230   2.8E+03          Calculated
+    58 NE- 24   100240   1.6E+03          Calculated
+    59 NE- 25   100250   1.5E+03          Calculated
+    60 NA- 20   110200   3.5E+02          Calculated
+    61 NA- 21   110210   8.7E+02          Calculated
+    62 NA- 22   110220   3.0E+02          TECDOC-855
+    63 NA- 23   110230  -1.0E+00          STABLE  
+    64 NA- 24   110240   3.0E+02          TECDOC-855
+    65 NA- 24M  110241   2.1E+03          Calculated
+    66 NA- 25   110250   1.7E+03          Calculated
+    67 NA- 26   110260   4.0E+02          Calculated
+    68 NA- 27   110270   6.9E+02          Calculated
+    69 NA- 28   110280   5.7E+02          Calculated
+    70 MG- 22   120220   5.4E+02          Calculated
+    71 MG- 23   120230   8.4E+02          Calculated
+    72 MG- 24   120240  -1.0E+00          STABLE  
+    73 MG- 25   120250  -1.0E+00          STABLE  
+    74 MG- 26   120260  -1.0E+00          STABLE  
+    75 MG- 27   120270   1.0E+03          Calculated
+    76 MG- 28   120280   7.1E+02          Calculated
+    77 MG- 29   120290   4.7E+02          Calculated
+    78 AL- 24   130240   1.0E+02          Calculated
+    79 AL- 24M  130241   1.7E+03          Calculated
+    80 AL- 25   130250   8.5E+02          Calculated
+    81 AL- 26   130260   3.7E+02          Calculated
+    82 AL- 26M  130261   8.6E+02          Calculated
+    83 AL- 27   130270  -1.0E+00          STABLE  
+    84 AL- 28   130280   5.2E+02          Calculated
+    85 AL- 29   130290   6.8E+02          Calculated
+    86 AL- 30   130300   2.7E+02          Calculated
+    87 AL- 31   130310   2.8E+02          Calculated
+    88 AL- 32   130320   1.2E+03          Calculated
+    89 SI- 26   140260   7.0E+02          Calculated
+    90 SI- 27   140270   8.3E+02          Calculated
+    91 SI- 28   140280  -1.0E+00          STABLE  
+    92 SI- 29   140290  -1.0E+00          STABLE  
+    93 SI- 30   140300  -1.0E+00          STABLE  
+    94 SI- 31   140310   1.6E+04          Calculated
+    95 SI- 32   140320   1.5E+05          Calculated
+    96 SI- 33   140330   4.0E+02          Calculated
+    97 SI- 34   140340   6.0E+02          Calculated
+    98 P - 28   150280   2.0E+02          Calculated
+    99 P - 29   150290   3.9E+02          Calculated
+   100 P - 30   150300   8.6E+02          Calculated
+   101 P - 31   150310  -1.0E+00          STABLE  
+   102 P - 32   150320   3.0E+05          TECDOC-855
+   103 P - 33   150330   1.3E+05          Calculated
+   104 P - 34   150340   1.7E+03          Calculated
+   105 P - 35   150350   5.9E+02          Calculated
+   106 P - 36   150360   1.5E+02          Calculated
+   107 S - 30   160300   5.5E+02          Calculated
+   108 S - 31   160310   8.1E+02          Calculated
+   109 S - 32   160320  -1.0E+00          STABLE  
+   110 S - 33   160330  -1.0E+00          STABLE  
+   111 S - 34   160340  -1.0E+00          STABLE  
+   112 S - 35   160350   3.0E+06          TECDOC-855
+   113 S - 36   160360  -1.0E+00          STABLE  
+   114 S - 37   160370   3.3E+02          Calculated
+   115 S - 38   160380   5.7E+02          Calculated
+   116 S - 39   160390   5.0E+02          Calculated
+   117 S - 40   160400   5.4E+02          Calculated
+   118 CL- 32   170320   2.1E+02          Calculated
+   119 CL- 33   170330   8.0E+02          Calculated
+   120 CL- 34   170340   8.1E+02          Calculated
+   121 CL- 34M  170341   4.9E+02          Calculated
+   122 CL- 35   170350  -1.0E+00          STABLE  
+   123 CL- 36   170360   3.0E+05          TECDOC-855
+   124 CL- 37   170370  -1.0E+00          STABLE  
+   125 CL- 38   170380   6.1E+02          Calculated
+   126 CL- 38M  170381   1.5E+03          Calculated
+   127 CL- 39   170390   6.5E+02          Calculated
+   128 CL- 40   170400   2.4E+02          Calculated
+   129 CL- 41   170410   4.9E+02          Calculated
+   130 CL- 42   170420   2.7E+02          Calculated
+   131 AR- 34   180340   7.5E+02          Calculated
+   132 AR- 35   180350   7.8E+02          Calculated
+   133 AR- 36   180360  -1.0E+00          STABLE  
+   134 AR- 37   180370   1.8E+06          Calculated
+   135 AR- 38   180380  -1.0E+00          STABLE  
+   136 AR- 39   180390   4.6E+04          Calculated
+   137 AR- 40   180400  -1.0E+00          STABLE  
+   138 AR- 41   180410   7.5E+02          Calculated
+   139 AR- 42   180420   4.3E+04          Calculated
+   140 AR- 43   180430   6.0E+02          Calculated
+   141 AR- 44   180440   5.2E+02          Calculated
+   142 AR- 45   180450   3.1E+02          Calculated
+   143 AR- 46   180460   4.7E+02          Calculated
+   144 K - 36   190360   1.7E+02          Calculated
+   145 K - 37   190370   7.7E+02          Calculated
+   146 K - 38   190380   3.0E+02          Calculated
+   147 K - 38M  190381   7.9E+02          Calculated
+   148 K - 39   190390  -1.0E+00          STABLE  
+   149 K - 40   190400   4.8E+03          Calculated
+   150 K - 41   190410  -1.0E+00          STABLE  
+   151 K - 42   190420   2.3E+03          Calculated
+   152 K - 43   190430   1.0E+03          Calculated
+   153 K - 44   190440   3.9E+02          Calculated
+   154 K - 45   190450   5.1E+02          Calculated
+   155 K - 46   190460   3.2E+02          Calculated
+   156 K - 47   190470   3.6E+02          Calculated
+   157 K - 48   190480   1.5E+02          Calculated
+   158 CA- 38   200380   6.2E+02          Calculated
+   159 CA- 39   200390   7.8E+02          Calculated
+   160 CA- 40   200400  -1.0E+00          STABLE  
+   161 CA- 41   200410   1.4E+06          Calculated
+   162 CA- 42   200420  -1.0E+00          STABLE  
+   163 CA- 43   200430  -1.0E+00          STABLE  
+   164 CA- 44   200440  -1.0E+00          STABLE  
+   165 CA- 45   200450   3.0E+06          TECDOC-855
+   166 CA- 46   200460  -1.0E+00          STABLE  
+   167 CA- 47   200470   9.1E+02          Calculated
+   168 CA- 48   200480  -1.0E+00          STABLE  
+   169 CA- 49   200490   3.1E+02          Calculated
+   170 SC- 40   210400   1.3E+02          Calculated
+   171 SC- 41   210410   7.8E+02          Calculated
+   172 SC- 42   210420   7.9E+02          Calculated
+   173 SC- 42M  210421   2.3E+02          Calculated
+   174 SC- 43   210430   9.8E+02          Calculated
+   175 SC- 44   210440   4.6E+02          Calculated
+   176 SC- 44M  210441   3.6E+03          Calculated
+   177 SC- 45   210450  -1.0E+00          STABLE  
+   178 SC- 45M  210451   6.8E+05          Calculated
+   179 SC- 46   210460   4.9E+02          Calculated
+   180 SC- 46M  210461   1.1E+04          Calculated
+   181 SC- 47   210470   8.0E+03          Calculated
+   182 SC- 48   210480   3.0E+02          Calculated
+   183 SC- 49   210490   1.2E+04          Calculated
+   184 SC- 50   210500   3.0E+02          Calculated
+   185 SC- 50M  210501   3.7E+03          Calculated
+   186 TI- 42   220420   6.1E+02          Calculated
+   187 TI- 43   220430   7.7E+02          Calculated
+   188 TI- 44   220440   7.2E+03          Calculated
+   189 TI- 45   220450   1.1E+03          Calculated
+   190 TI- 46   220460  -1.0E+00          STABLE  
+   191 TI- 47   220470  -1.0E+00          STABLE  
+   192 TI- 48   220480  -1.0E+00          STABLE  
+   193 TI- 49   220490  -1.0E+00          STABLE  
+   194 TI- 50   220500  -1.0E+00          STABLE  
+   195 TI- 51   220510   2.2E+03          Calculated
+   196 TI- 52   220520   4.9E+03          Calculated
+   197 TI- 53   220530   4.7E+02          Calculated
+   198 V - 44   230440   2.1E+02          Calculated
+   199 V - 45   230450   7.6E+02          Calculated
+   200 V - 46   230460   7.7E+02          Calculated
+   201 V - 47   230470   9.3E+02          Calculated
+   202 V - 48   230480   3.4E+02          Calculated
+   203 V - 49   230490   7.7E+05          Calculated
+   204 V - 50   230500   9.2E+02          Calculated
+   205 V - 51   230510  -1.0E+00          STABLE  
+   206 V - 52   230520   6.4E+02          Calculated
+   207 V - 53   230530   8.8E+02          Calculated
+   208 V - 54   230540   2.4E+02          Calculated
+   209 CR- 46   240460   7.5E+02          Calculated
+   210 CR- 47   240470   7.5E+02          Calculated
+   211 CR- 48   240480   2.3E+03          Calculated
+   212 CR- 49   240490   9.0E+02          Calculated
+   213 CR- 50   240500  -1.0E+00          STABLE  
+   214 CR- 51   240510   3.0E+04          TECDOC-855
+   215 CR- 52   240520  -1.0E+00          STABLE  
+   216 CR- 53   240530  -1.0E+00          STABLE  
+   217 CR- 54   240540  -1.0E+00          STABLE  
+   218 CR- 55   240550   8.8E+03          Calculated
+   219 CR- 56   240560   6.5E+03          Calculated
+   220 CR- 57   240570   1.6E+03          Calculated
+   221 CR- 58   240580   7.2E+02          Calculated
+   222 MN- 48   250480   2.2E+02          Calculated
+   223 MN- 49   250490   7.4E+02          Calculated
+   224 MN- 50   250500   7.5E+02          Calculated
+   225 MN- 50M  250501   2.0E+02          Calculated
+   226 MN- 51   250510   9.2E+02          Calculated
+   227 MN- 52   250520   2.9E+02          Calculated
+   228 MN- 52M  250521   3.9E+02          Calculated
+   229 MN- 53   250530   5.5E+05          Calculated
+   230 MN- 54   250540   3.0E+02          TECDOC-855
+   231 MN- 55   250550  -1.0E+00          STABLE  
+   232 MN- 56   250560   5.6E+02          Calculated
+   233 MN- 57   250570   5.4E+03          Calculated
+   234 MN- 58   250580   3.9E+02          Calculated
+   235 MN- 58M  250581   2.5E+03          Calculated
+   236 MN- 59   250590   1.3E+03          Calculated
+   237 MN- 60   250600   3.4E+02          Calculated
+   238 FE- 49   260490  -1.0E+00          STABLE  
+   239 FE- 50   260500   3.8E+02          Calculated
+   240 FE- 51   260510   7.3E+02          Calculated
+   241 FE- 52   260520   1.3E+03          Calculated
+   242 FE- 52M  260521   2.6E+02          Calculated
+   243 FE- 53   260530   7.7E+02          Calculated
+   244 FE- 53M  260531   3.3E+02          Calculated
+   245 FE- 54   260540  -1.0E+00          STABLE  
+   246 FE- 55   260550   3.0E+05          TECDOC-855
+   247 FE- 56   260560  -1.0E+00          STABLE  
+   248 FE- 57   260570  -1.0E+00          STABLE  
+   249 FE- 58   260580  -1.0E+00          STABLE  
+   250 FE- 59   260590   3.0E+03          TECDOC-855
+   251 FE- 60   260600   1.1E+05          Calculated
+   252 FE- 61   260610   6.7E+02          Calculated
+   253 FE- 62   260620   1.7E+03          Calculated
+   254 FE- 63   260630   1.7E+03          Calculated
+   255 FE- 64   260640   6.1E+02          Calculated
+   256 FE- 65   260650   4.0E+02          Calculated
+   257 CO- 54   270540   7.3E+02          Calculated
+   258 CO- 54M  270541   2.4E+02          Calculated
+   259 CO- 55   270550   4.9E+02          Calculated
+   260 CO- 56   270560   2.8E+02          Calculated
+   261 CO- 57   270570   3.0E+04          TECDOC-855
+   262 CO- 58   270580   3.0E+03          TECDOC-855
+   263 CO- 58M  270581   2.4E+05          Calculated
+   264 CO- 59   270590  -1.0E+00          STABLE  
+   265 CO- 60   270600   3.0E+02          TECDOC-855
+   266 CO- 60M  270601   8.0E+04          Calculated
+   267 CO- 61   270610   7.3E+03          Calculated
+   268 CO- 62   270620   5.7E+02          Calculated
+   269 CO- 62M  270621   3.6E+02          Calculated
+   270 CO- 63   270630   3.6E+03          Calculated
+   271 CO- 64   270640   1.9E+03          Calculated
+   272 CO- 65   270650   4.6E+02          Calculated
+   273 CO- 66   270660   3.3E+02          Calculated
+   274 NI- 55   280550   7.2E+02          Calculated
+   275 NI- 56   280560   5.8E+02          Calculated
+   276 NI- 57   280570   5.1E+02          Calculated
+   277 NI- 58   280580  -1.0E+00          STABLE  
+   278 NI- 59   280590   3.3E+05          Calculated
+   279 NI- 60   280600  -1.0E+00          STABLE  
+   280 NI- 61   280610  -1.0E+00          STABLE  
+   281 NI- 62   280620  -1.0E+00          STABLE  
+   282 NI- 63   280630   3.0E+06          TECDOC-855
+   283 NI- 64   280640  -1.0E+00          STABLE  
+   284 NI- 65   280650   1.6E+03          Calculated
+   285 NI- 66   280660   1.5E+05          Calculated
+   286 NI- 67   280670   4.9E+03          Calculated
+   287 NI- 68   280680   1.3E+03          Calculated
+   288 NI- 69   280690   3.4E+02          Calculated
+   289 NI- 70   280700   6.6E+02          Calculated
+   290 NI- 71   280710   3.9E+02          Calculated
+   291 CU- 56   290560   1.9E+02          Calculated
+   292 CU- 57   290570   7.0E+02          Calculated
+   293 CU- 58   290580   5.3E+02          Calculated
+   294 CU- 59   290590   6.3E+02          Calculated
+   295 CU- 60   290600   2.5E+02          Calculated
+   296 CU- 61   290610   1.2E+03          Calculated
+   297 CU- 62   290620   8.8E+02          Calculated
+   298 CU- 63   290630  -1.0E+00          STABLE  
+   299 CU- 64   290640   4.9E+03          Calculated
+   300 CU- 65   290650  -1.0E+00          STABLE  
+   301 CU- 66   290660   5.3E+03          Calculated
+   302 CU- 67   290670   7.6E+03          Calculated
+   303 CU- 68   290680   8.6E+02          Calculated
+   304 CU- 68M  290681   8.9E+02          Calculated
+   305 CU- 69   290690   3.1E+03          Calculated
+   306 CU- 70   290700   1.3E+03          Calculated
+   307 CU- 70M  290701   3.3E+02          Calculated
+   308 CU- 71   290710   7.2E+02          Calculated
+   309 CU- 72   290720   4.5E+02          Calculated
+   310 ZN- 58   300580   3.2E+02          Calculated
+   311 ZN- 59   300590   6.9E+02          Calculated
+   312 ZN- 60   300600   6.1E+02          Calculated
+   313 ZN- 61   300610   5.8E+02          Calculated
+   314 ZN- 62   300620   2.3E+03          Calculated
+   315 ZN- 63   300630   8.4E+02          Calculated
+   316 ZN- 64   300640  -1.0E+00          STABLE  
+   317 ZN- 65   300650   3.0E+02          TECDOC-855
+   318 ZN- 66   300660  -1.0E+00          STABLE  
+   319 ZN- 67   300670  -1.0E+00          STABLE  
+   320 ZN- 68   300680  -1.0E+00          STABLE  
+   321 ZN- 69   300690   3.1E+04          Calculated
+   322 ZN- 69M  300691   2.4E+03          Calculated
+   323 ZN- 70   300700  -1.0E+00          STABLE  
+   324 ZN- 71   300710   2.4E+03          Calculated
+   325 ZN- 71M  300711   6.1E+02          Calculated
+   326 ZN- 72   300720   6.1E+03          Calculated
+   327 ZN- 73   300730   3.3E+03          Calculated
+   328 ZN- 73M  300731   1.1E+03          Calculated
+   329 ZN- 74   300740   2.6E+03          Calculated
+   330 ZN- 75   300750   5.0E+02          Calculated
+   331 ZN- 76   300760   6.9E+02          Calculated
+   332 GA- 64   310640   2.8E+02          Calculated
+   333 GA- 65   310650   8.2E+02          Calculated
+   334 GA- 66   310660   3.9E+02          Calculated
+   335 GA- 67   310670   6.3E+03          Calculated
+   336 GA- 68   310680   9.8E+02          Calculated
+   337 GA- 69   310690  -1.0E+00          STABLE  
+   338 GA- 70   310700   1.4E+04          Calculated
+   339 GA- 71   310710  -1.0E+00          STABLE  
+   340 GA- 72   310720   3.6E+02          Calculated
+   341 GA- 73   310730   4.0E+03          Calculated
+   342 GA- 74   310740   3.2E+02          Calculated
+   343 GA- 74M  310741   2.2E+04          Calculated
+   344 GA- 75   310750   4.9E+03          Calculated
+   345 GA- 76   310760   3.3E+02          Calculated
+   346 GA- 77   310770   1.5E+03          Calculated
+   347 GE- 66   320660   1.4E+03          Calculated
+   348 GE- 67   320670   6.4E+02          Calculated
+   349 GE- 68   320680   2.2E+05          Calculated
+   350 GE- 69   320690   1.0E+03          Calculated
+   351 GE- 70   320700  -1.0E+00          STABLE  
+   352 GE- 71   320710   2.1E+05          Calculated
+   353 GE- 72   320720  -1.0E+00          STABLE  
+   354 GE- 73   320730  -1.0E+00          STABLE  
+   355 GE- 73M  320731   6.0E+04          Calculated
+   356 GE- 74   320740  -1.0E+00          STABLE  
+   357 GE- 75   320750   1.3E+04          Calculated
+   358 GE- 75M  320751   1.5E+04          Calculated
+   359 GE- 76   320760  -1.0E+00          STABLE  
+   360 GE- 77   320770   8.8E+02          Calculated
+   361 GE- 77M  320771   6.0E+03          Calculated
+   362 GE- 78   320780   3.3E+03          Calculated
+   363 GE- 79   320790   2.1E+03          Calculated
+   364 GE- 79M  320791   5.2E+02          Calculated
+   365 GE- 80   320800   1.9E+03          Calculated
+   366 GE- 81   320810   3.6E+02          Calculated
+   367 GE- 81M  320811   4.5E+02          Calculated
+   368 AS- 68   330680   2.5E+02          Calculated
+   369 AS- 69   330690   7.9E+02          Calculated
+   370 AS- 70   330700   2.3E+02          Calculated
+   371 AS- 71   330710   1.7E+03          Calculated
+   372 AS- 72   330720   5.3E+02          Calculated
+   373 AS- 73   330730   4.6E+04          Calculated
+   374 AS- 74   330740   1.3E+03          Calculated
+   375 AS- 75   330750  -1.0E+00          STABLE  
+   376 AS- 76   330760   1.9E+03          Calculated
+   377 AS- 77   330770   3.3E+04          Calculated
+   378 AS- 78   330780   6.8E+02          Calculated
+   379 AS- 79   330790   9.5E+03          Calculated
+   380 AS- 80   330800   9.7E+02          Calculated
+   381 AS- 81   330810   3.3E+03          Calculated
+   382 AS- 82   330820   1.5E+03          Calculated
+   383 AS- 82M  330821   3.2E+02          Calculated
+   384 SE- 70   340700   1.0E+03          Calculated
+   385 SE- 71   340710   7.2E+02          Calculated
+   386 SE- 72   340720   2.7E+04          Calculated
+   387 SE- 73   340730   8.5E+02          Calculated
+   388 SE- 73M  340731   3.6E+03          Calculated
+   389 SE- 74   340740  -1.0E+00          STABLE  
+   390 SE- 75   340750   2.6E+03          Calculated
+   391 SE- 76   340760  -1.0E+00          STABLE  
+   392 SE- 77   340770  -1.0E+00          STABLE  
+   393 SE- 77M  340771   1.1E+04          Calculated
+   394 SE- 78   340780  -1.0E+00          STABLE  
+   395 SE- 79   340790   1.9E+05          Calculated
+   396 SE- 79M  340791   4.5E+04          Calculated
+   397 SE- 80   340800  -1.0E+00          STABLE  
+   398 SE- 81   340810   1.4E+04          Calculated
+   399 SE- 81M  340811   3.8E+04          Calculated
+   400 SE- 82   340820   9.1E+02          Calculated
+   401 SE- 83   340830   4.0E+02          Calculated
+   402 SE- 83M  340831   9.2E+02          Calculated
+   403 SE- 84   340840   2.1E+03          Calculated
+   404 SE- 85   340850   3.9E+02          Calculated
+   405 BR- 72   350720   3.1E+02          Calculated
+   406 BR- 72M  350721   9.9E+03          Calculated
+   407 BR- 73   350730   6.1E+02          Calculated
+   408 BR- 74   350740   2.1E+02          Calculated
+   409 BR- 74M  350741   2.4E+02          Calculated
+   410 BR- 75   350750   8.0E+02          Calculated
+   411 BR- 76   350760   3.5E+02          Calculated
+   412 BR- 76M  350761   2.9E+04          Calculated
+   413 BR- 77   350770   3.1E+03          Calculated
+   414 BR- 77M  350771   6.9E+04          Calculated
+   415 BR- 78   350780   8.8E+02          Calculated
+   416 BR- 79   350790  -1.0E+00          STABLE  
+   417 BR- 79M  350791   6.2E+03          Calculated
+   418 BR- 80   350800   6.7E+03          Calculated
+   419 BR- 80M  350801   3.3E+04          Calculated
+   420 BR- 81   350810  -1.0E+00          STABLE  
+   421 BR- 82   350820   3.8E+02          Calculated
+   422 BR- 82M  350821   6.6E+04          Calculated
+   423 BR- 83   350830   2.5E+04          Calculated
+   424 BR- 84   350840   5.3E+02          Calculated
+   425 BR- 84M  350841   3.5E+02          Calculated
+   426 BR- 85   350850   5.8E+03          Calculated
+   427 BR- 86   350860   2.8E+02          Calculated
+   428 KR- 74   360740   8.2E+02          Calculated
+   429 KR- 75   360750   6.2E+02          Calculated
+   430 KR- 76   360760   2.3E+03          Calculated
+   431 KR- 77   360770   9.2E+02          Calculated
+   432 KR- 78   360780  -1.0E+00          STABLE  
+   433 KR- 79   360790   3.8E+03          Calculated
+   434 KR- 79M  360791   2.0E+04          Calculated
+   435 KR- 80   360800  -1.0E+00          STABLE  
+   436 KR- 81   360810   1.3E+05          Calculated
+   437 KR- 81M  360811   7.3E+03          Calculated
+   438 KR- 82   360820  -1.0E+00          STABLE  
+   439 KR- 83   360830  -1.0E+00          STABLE  
+   440 KR- 83M  360831   1.6E+05          Calculated
+   441 KR- 84   360840  -1.0E+00          STABLE  
+   442 KR- 85   360850   3.7E+04          Calculated
+   443 KR- 85M  360851   5.5E+03          Calculated
+   444 KR- 86   360860  -1.0E+00          STABLE  
+   445 KR- 87   360870   1.1E+03          Calculated
+   446 KR- 88   360880   5.0E+02          Calculated
+   447 KR- 89   360890   3.1E+02          Calculated
+   448 RB- 78   370780   2.3E+02          Calculated
+   449 RB- 78M  370781   3.0E+02          Calculated
+   450 RB- 79   370790   6.7E+02          Calculated
+   451 RB- 80   370800   7.2E+02          Calculated
+   452 RB- 81   370810   1.5E+03          Calculated
+   453 RB- 81M  370811   2.4E+04          Calculated
+   454 RB- 82   370820   8.1E+02          Calculated
+   455 RB- 82M  370821   3.4E+02          Calculated
+   456 RB- 83   370830   2.0E+03          Calculated
+   457 RB- 84   370840   1.1E+03          Calculated
+   458 RB- 84M  370841   2.6E+03          Calculated
+   459 RB- 85   370850  -1.0E+00          STABLE  
+   460 RB- 86   370860   6.1E+03          Calculated
+   461 RB- 86M  370861   1.8E+03          Calculated
+   462 RB- 87   370870   1.3E+05          Calculated
+   463 RB- 88   370880   1.2E+03          Calculated
+   464 RB- 89   370890   4.3E+02          Calculated
+   465 RB- 90   370900   4.2E+02          Calculated
+   466 RB- 90M  370901   2.6E+02          Calculated
+   467 SR- 80   380800   2.4E+03          Calculated
+   468 SR- 81   380810   6.2E+02          Calculated
+   469 SR- 82   380820   1.2E+05          Calculated
+   470 SR- 83   380830   1.3E+03          Calculated
+   471 SR- 83M  380831   4.3E+03          Calculated
+   472 SR- 84   380840  -1.0E+00          STABLE  
+   473 SR- 85   380850   1.9E+03          Calculated
+   474 SR- 85M  380851   4.6E+03          Calculated
+   475 SR- 86   380860  -1.0E+00          STABLE  
+   476 SR- 87   380870  -1.0E+00          STABLE  
+   477 SR- 87M  380871   3.1E+03          Calculated
+   478 SR- 88   380880  -1.0E+00          STABLE  
+   479 SR- 89   380890   3.0E+05          TECDOC-855
+   480 SR- 90   380900   3.0E+03          TECDOC-855
+   481 SR- 91   380910   1.3E+03          Calculated
+   482 SR- 92   380920   7.1E+02          Calculated
+   483 SR- 93   380930   5.4E+02          Calculated
+   484 SR- 94   380940   6.5E+02          Calculated
+   485 SR- 95   380950   6.5E+02          Calculated
+   486 SR- 96   380960   9.0E+02          Calculated
+   487 Y - 82   390820   6.4E+02          Calculated
+   488 Y - 83   390830   6.5E+02          Calculated
+   489 Y - 83M  390831   7.7E+02          Calculated
+   490 Y - 84   390840   6.6E+02          Calculated
+   491 Y - 84M  390841   2.4E+02          Calculated
+   492 Y - 85   390850   7.5E+02          Calculated
+   493 Y - 85M  390851   7.1E+02          Calculated
+   494 Y - 86   390860   2.8E+02          Calculated
+   495 Y - 86M  390861   4.5E+03          Calculated
+   496 Y - 87   390870   2.2E+03          Calculated
+   497 Y - 87M  390871   3.2E+03          Calculated
+   498 Y - 88   390880   3.7E+02          Calculated
+   499 Y - 89   390890  -1.0E+00          STABLE  
+   500 Y - 89M  390891   1.1E+03          Calculated
+   501 Y - 90   390900   3.0E+05          TECDOC-855
+   502 Y - 90M  390901   1.6E+03          Calculated
+   503 Y - 91   390910   1.5E+04          Calculated
+   504 Y - 91M  390911   1.9E+03          Calculated
+   505 Y - 92   390920   2.5E+03          Calculated
+   506 Y - 93   390930   4.8E+03          Calculated
+   507 Y - 93M  390931   1.5E+03          Calculated
+   508 Y - 94   390940   9.3E+02          Calculated
+   509 Y - 95   390950   8.4E+02          Calculated
+   510 Y - 96   390960   2.4E+03          Calculated
+   511 Y - 96M  390961   2.1E+02          Calculated
+   512 Y - 97   390970   5.4E+02          Calculated
+   513 Y - 97M  390971   5.0E+02          Calculated
+   514 ZR- 84   400840   9.8E+02          Calculated
+   515 ZR- 85   400850   6.1E+02          Calculated
+   516 ZR- 85M  400851   3.4E+03          Calculated
+   517 ZR- 86   400860   3.4E+03          Calculated
+   518 ZR- 87   400870   1.0E+03          Calculated
+   519 ZR- 87M  400871   4.1E+03          Calculated
+   520 ZR- 88   400880   2.5E+03          Calculated
+   521 ZR- 89   400890   3.8E+03          Calculated
+   522 ZR- 89M  400891   1.6E+03          Calculated
+   523 ZR- 90   400900  -1.0E+00          STABLE  
+   524 ZR- 90M  400901   4.3E+02          Calculated
+   525 ZR- 91   400910  -1.0E+00          STABLE  
+   526 ZR- 92   400920  -1.0E+00          STABLE  
+   527 ZR- 93   400930   5.2E+05          Calculated
+   528 ZR- 94   400940  -1.0E+00          STABLE  
+   529 ZR- 95   400950   1.3E+03          Calculated
+   530 ZR- 96   400960  -1.0E+00          STABLE  
+   531 ZR- 97   400970   3.8E+03          Calculated
+   532 ZR- 98   400980   1.1E+04          Calculated
+   533 ZR- 99   400990   9.2E+02          Calculated
+   534 NB- 86   410860   2.6E+02          Calculated
+   535 NB- 87   410870   6.4E+02          Calculated
+   536 NB- 87M  410871   7.3E+02          Calculated
+   537 NB- 88   410880   2.3E+02          Calculated
+   538 NB- 88M  410881   2.4E+02          Calculated
+   539 NB- 89   410890   6.7E+02          Calculated
+   540 NB- 89M  410891   5.0E+02          Calculated
+   541 NB- 90   410900   2.4E+02          Calculated
+   542 NB- 90M  410901   1.2E+04          Calculated
+   543 NB- 91   410910   7.6E+04          Calculated
+   544 NB- 91M  410911   2.1E+04          Calculated
+   545 NB- 92   410920   6.6E+02          Calculated
+   546 NB- 92M  410921   1.0E+03          Calculated
+   547 NB- 93   410930  -1.0E+00          STABLE  
+   548 NB- 93M  410931   2.1E+05          Calculated
+   549 NB- 94   410940   3.0E+02          TECDOC-855
+   550 NB- 94M  410941   6.3E+04          Calculated
+   551 NB- 95   410950   1.3E+03          Calculated
+   552 NB- 95M  410951   1.1E+04          Calculated
+   553 NB- 96   410960   4.1E+02          Calculated
+   554 NB- 97   410970   1.4E+03          Calculated
+   555 NB- 97M  410971   1.4E+03          Calculated
+   556 NB- 98   410980   3.6E+03          Calculated
+   557 NB- 98M  410981   3.6E+02          Calculated
+   558 NB- 99   410990   3.0E+03          Calculated
+   559 NB- 99M  410991   1.1E+03          Calculated
+   560 NB-100   411000   1.0E+03          Calculated
+   561 NB-100M  411001   4.4E+02          Calculated
+   562 MO- 88   420880   2.3E+03          Calculated
+   563 MO- 89   420890   7.2E+02          Calculated
+   564 MO- 90   420900   1.2E+03          Calculated
+   565 MO- 91   420910   8.9E+02          Calculated
+   566 MO- 91M  420911   6.9E+02          Calculated
+   567 MO- 92   420920  -1.0E+00          STABLE  
+   568 MO- 93   420930   8.7E+04          Calculated
+   569 MO- 93M  420931   4.3E+02          Calculated
+   570 MO- 94   420940  -1.0E+00          STABLE  
+   571 MO- 95   420950  -1.0E+00          STABLE  
+   572 MO- 96   420960  -1.0E+00          STABLE  
+   573 MO- 97   420970  -1.0E+00          STABLE  
+   574 MO- 98   420980  -1.0E+00          STABLE  
+   575 MO- 99   420990   5.4E+03          Calculated
+   576 MO-100   421000  -1.0E+00          STABLE  
+   577 MO-101   421010   6.6E+02          Calculated
+   578 MO-102   421020   1.8E+04          Calculated
+   579 MO-103   421030   1.3E+03          Calculated
+   580 MO-104   421040   3.8E+03          Calculated
+   581 MO-105   421050   4.0E+02          Calculated
+   582 TC- 92   430920   2.4E+02          Calculated
+   583 TC- 93   430930   7.5E+02          Calculated
+   584 TC- 93M  430931   1.2E+03          Calculated
+   585 TC- 94   430940   3.8E+02          Calculated
+   586 TC- 94M  430941   5.0E+02          Calculated
+   587 TC- 95   430950   1.3E+03          Calculated
+   588 TC- 95M  430951   1.4E+03          Calculated
+   589 TC- 96   430960   4.0E+02          Calculated
+   590 TC- 96M  430961   2.2E+04          Calculated
+   591 TC- 97   430970   8.2E+04          Calculated
+   592 TC- 97M  430971   5.5E+04          Calculated
+   593 TC- 98   430980   7.0E+02          Calculated
+   594 TC- 99   430990   3.0E+05          TECDOC-855
+   595 TC- 99M  430991   3.0E+04          TECDOC-855
+   596 TC-100   431000   4.7E+03          Calculated
+   597 TC-101   431010   2.6E+03          Calculated
+   598 TC-102   431020   3.6E+03          Calculated
+   599 TC-102M  431021   3.8E+02          Calculated
+   600 TC-103   431030   2.9E+03          Calculated
+   601 TC-104   431040   4.1E+02          Calculated
+   602 TC-105   431050   1.6E+03          Calculated
+   603 TC-106   431060   4.3E+02          Calculated
+   604 RU- 94   440940   1.9E+03          Calculated
+   605 RU- 95   440950   8.0E+02          Calculated
+   606 RU- 96   440960  -1.0E+00          STABLE  
+   607 RU- 97   440970   4.1E+03          Calculated
+   608 RU- 98   440980  -1.0E+00          STABLE  
+   609 RU- 99   440990  -1.0E+00          STABLE  
+   610 RU-100   441000  -1.0E+00          STABLE  
+   611 RU-101   441010  -1.0E+00          STABLE  
+   612 RU-102   441020  -1.0E+00          STABLE  
+   613 RU-103   441030   2.0E+03          Calculated
+   614 RU-104   441040  -1.0E+00          STABLE  
+   615 RU-105   441050   1.3E+03          Calculated
+   616 RU-106   441060   3.0E+03          TECDOC-855
+   617 RU-107   441070   2.2E+03          Calculated
+   618 RU-108   441080   1.1E+04          Calculated
+   619 RU-109   441090   4.5E+02          Calculated
+   620 RU-109M  441091   7.0E+02          Calculated
+   621 RU-110   441100   1.8E+03          Calculated
+   622 RU-111   441110   1.1E+03          Calculated
+   623 RH- 96   450960   2.5E+02          Calculated
+   624 RH- 96M  450961   7.8E+02          Calculated
+   625 RH- 97   450970   6.8E+02          Calculated
+   626 RH- 97M  450971   4.4E+02          Calculated
+   627 RH- 98   450980   5.4E+02          Calculated
+   628 RH- 98M  450981   4.1E+02          Calculated
+   629 RH- 99   450990   2.0E+03          Calculated
+   630 RH- 99M  450991   1.5E+03          Calculated
+   631 RH-100   451000   3.6E+02          Calculated
+   632 RH-100M  451001   2.1E+04          Calculated
+   633 RH-101   451010   3.3E+03          Calculated
+   634 RH-101M  451011   3.3E+03          Calculated
+   635 RH-102   451020   4.7E+02          Calculated
+   636 RH-102M  451021   2.0E+03          Calculated
+   637 RH-103   451030  -1.0E+00          STABLE  
+   638 RH-103M  451031   1.8E+05          Calculated
+   639 RH-104   451040   8.8E+03          Calculated
+   640 RH-104M  451041   1.8E+04          Calculated
+   641 RH-105   451050   1.1E+04          Calculated
+   642 RH-105M  451051   2.3E+04          Calculated
+   643 RH-106   451060   2.8E+03          Calculated
+   644 RH-106M  451061   3.6E+02          Calculated
+   645 RH-107   451070   2.8E+03          Calculated
+   646 RH-108   451080   4.2E+02          Calculated
+   647 RH-108M  451081   1.4E+03          Calculated
+   648 RH-109   451090   2.4E+03          Calculated
+   649 RH-110   451100   3.3E+03          Calculated
+   650 RH-110M  451101   4.3E+02          Calculated
+   651 RH-111   451110   2.8E+03          Calculated
+   652 RH-112   451120   3.5E+02          Calculated
+   653 PD- 98   460980   2.1E+03          Calculated
+   654 PD- 99   460990   7.7E+02          Calculated
+   655 PD-100   461000   9.2E+03          Calculated
+   656 PD-101   461010   2.8E+03          Calculated
+   657 PD-102   461020  -1.0E+00          STABLE  
+   658 PD-103   461030   6.6E+04          Calculated
+   659 PD-104   461040  -1.0E+00          STABLE  
+   660 PD-105   461050  -1.0E+00          STABLE  
+   661 PD-106   461060  -1.0E+00          STABLE  
+   662 PD-107   461070   1.1E+06          Calculated
+   663 PD-107M  461071   6.3E+03          Calculated
+   664 PD-108   461080  -1.0E+00          STABLE  
+   665 PD-109   461090   2.7E+04          Calculated
+   666 PD-109M  461091   8.4E+03          Calculated
+   667 PD-110   461100  -1.0E+00          STABLE  
+   668 PD-111   461110   7.8E+03          Calculated
+   669 PD-111M  461111   2.5E+03          Calculated
+   670 PD-112   461120   7.0E+04          Calculated
+   671 PD-113   461130   4.8E+03          Calculated
+   672 PD-113M  461131   1.0E+06          Calculated
+   673 PD-114   461140   1.2E+04          Calculated
+   674 PD-115   461150   6.3E+02          Calculated
+   675 AG-100   471000   2.8E+02          Calculated
+   676 AG-100M  471001   3.7E+02          Calculated
+   677 AG-101   471010   6.2E+02          Calculated
+   678 AG-101M  471011   6.6E+03          Calculated
+   679 AG-102   471020   2.9E+02          Calculated
+   680 AG-102M  471021   4.9E+02          Calculated
+   681 AG-103   471030   1.2E+03          Calculated
+   682 AG-103M  471031   2.1E+04          Calculated
+   683 AG-104   471040   3.7E+02          Calculated
+   684 AG-104M  471041   7.7E+02          Calculated
+   685 AG-105   471050   1.9E+03          Calculated
+   686 AG-105M  471051   2.7E+05          Calculated
+   687 AG-106   471060   1.3E+03          Calculated
+   688 AG-106M  471061   3.6E+02          Calculated
+   689 AG-107   471070  -1.0E+00          STABLE  
+   690 AG-107M  471071   4.9E+04          Calculated
+   691 AG-108   471080   1.2E+04          Calculated
+   692 AG-108M  471081   6.1E+02          Calculated
+   693 AG-109   471090  -1.0E+00          STABLE  
+   694 AG-109M  471091   5.3E+04          Calculated
+   695 AG-110   471100   6.6E+03          Calculated
+   696 AG-110M  471101   3.0E+02          TECDOC-855
+   697 AG-111   471110   1.6E+04          Calculated
+   698 AG-111M  471111   8.0E+04          Calculated
+   699 AG-112   471120   1.2E+03          Calculated
+   700 AG-113   471130   6.8E+03          Calculated
+   701 AG-113M  471131   7.3E+03          Calculated
+   702 AG-114   471140   2.1E+03          Calculated
+   703 AG-114M  471141   9.3E+03          Calculated
+   704 AG-115   471150   8.3E+02          Calculated
+   705 AG-115M  471151   1.9E+03          Calculated
+   706 AG-116   471160   4.4E+02          Calculated
+   707 AG-116M  471161   6.7E+02          Calculated
+   708 CD-102   481020   1.3E+03          Calculated
+   709 CD-103   481030   4.7E+02          Calculated
+   710 CD-104   481040   5.3E+03          Calculated
+   711 CD-105   481050   7.8E+02          Calculated
+   712 CD-106   481060  -1.0E+00          STABLE  
+   713 CD-107   481070   4.6E+04          Calculated
+   714 CD-108   481080  -1.0E+00          STABLE  
+   715 CD-109   481090   3.0E+05          TECDOC-855
+   716 CD-110   481100  -1.0E+00          STABLE  
+   717 CD-111   481110  -1.0E+00          STABLE  
+   718 CD-111M  481111   3.3E+03          Calculated
+   719 CD-112   481120  -1.0E+00          STABLE  
+   720 CD-113   481130   7.3E+04          Calculated
+   721 CD-113M  481131   5.4E+04          Calculated
+   722 CD-114   481140  -1.0E+00          STABLE  
+   723 CD-115   481150   4.4E+03          Calculated
+   724 CD-115M  481151   1.1E+04          Calculated
+   725 CD-116   481160  -1.0E+00          STABLE  
+   726 CD-117   481170   8.8E+02          Calculated
+   727 CD-117M  481171   4.9E+02          Calculated
+   728 CD-118   481180   4.1E+04          Calculated
+   729 CD-119   481190   5.7E+02          Calculated
+   730 CD-119M  481191   4.1E+02          Calculated
+   731 CD-120   481200   1.5E+04          Calculated
+   732 CD-121   481210   5.3E+02          Calculated
+   733 CD-121M  481211   4.3E+02          Calculated
+   734 CD-122   481220   1.2E+03          Calculated
+   735 CD-123   481230   3.4E+02          Calculated
+   736 CD-124   481240   3.1E+03          Calculated
+   737 CD-125   481250   3.0E+02          Calculated
+   738 IN-106   491060   2.7E+02          Calculated
+   739 IN-106M  491061   3.2E+02          Calculated
+   740 IN-107   491070   6.4E+02          Calculated
+   741 IN-107M  491071   1.6E+03          Calculated
+   742 IN-108   491080   3.1E+02          Calculated
+   743 IN-108M  491081   3.5E+02          Calculated
+   744 IN-109   491090   1.5E+03          Calculated
+   745 IN-109M  491091   1.6E+03          Calculated
+   746 IN-109N  491092   4.7E+02          Calculated
+   747 IN-110   491100   3.2E+02          Calculated
+   748 IN-110M  491101   6.2E+02          Calculated
+   749 IN-111   491110   3.0E+03          TECDOC-855
+   750 IN-111M  491111   2.1E+03          Calculated
+   751 IN-112   491120   3.2E+03          Calculated
+   752 IN-112M  491121   2.1E+04          Calculated
+   753 IN-113   491130  -1.0E+00          STABLE  
+   754 IN-113M  491131   3.7E+03          Calculated
+   755 IN-114   491140   1.2E+04          Calculated
+   756 IN-114M  491141   9.7E+03          Calculated
+   757 IN-115   491150   4.8E+04          Calculated
+   758 IN-115M  491151   5.6E+03          Calculated
+   759 IN-116   491160   7.1E+03          Calculated
+   760 IN-116M  491161   4.0E+02          Calculated
+   761 IN-116N  491162   1.3E+04          Calculated
+   762 IN-117   491170   1.4E+03          Calculated
+   763 IN-117M  491171   7.4E+03          Calculated
+   764 IN-118   491180   1.9E+03          Calculated
+   765 IN-118M  491181   3.6E+02          Calculated
+   766 IN-118N  491182   1.2E+04          Calculated
+   767 IN-119   491190   1.2E+03          Calculated
+   768 IN-119M  491191   8.6E+03          Calculated
+   769 IN-120   491200   1.8E+03          Calculated
+   770 IN-120M  491201   3.3E+02          Calculated
+   771 IN-120N  491202   3.4E+02          Calculated
+   772 IN-121   491210   9.7E+02          Calculated
+   773 IN-121M  491211   4.5E+03          Calculated
+   774 IN-122   491220   1.1E+03          Calculated
+   775 IN-122M  491221   3.1E+02          Calculated
+   776 IN-122N  491222   2.8E+02          Calculated
+   777 IN-123   491230   8.1E+02          Calculated
+   778 IN-123M  491231   3.7E+03          Calculated
+   779 IN-124   491240   3.4E+02          Calculated
+   780 IN-124M  491241   2.5E+02          Calculated
+   781 IN-125   491250   6.8E+02          Calculated
+   782 IN-125M  491251   2.4E+03          Calculated
+   783 IN-126   491260   3.3E+02          Calculated
+   784 IN-126M  491261   2.2E+02          Calculated
+   785 SN-108   501080   1.5E+03          Calculated
+   786 SN-109   501090   4.3E+02          Calculated
+   787 SN-110   501100   3.4E+03          Calculated
+   788 SN-111   501110   1.9E+03          Calculated
+   789 SN-112   501120  -1.0E+00          STABLE  
+   790 SN-113   501130   4.2E+04          Calculated
+   791 SN-113M  501131   4.9E+04          Calculated
+   792 SN-114   501140  -1.0E+00          STABLE  
+   793 SN-115   501150  -1.0E+00          STABLE  
+   794 SN-116   501160  -1.0E+00          STABLE  
+   795 SN-117   501170  -1.0E+00          STABLE  
+   796 SN-117M  501171   5.8E+03          Calculated
+   797 SN-118   501180  -1.0E+00          STABLE  
+   798 SN-119   501190  -1.0E+00          STABLE  
+   799 SN-119M  501191   5.2E+04          Calculated
+   800 SN-120   501200  -1.0E+00          STABLE  
+   801 SN-121   501210   8.7E+04          Calculated
+   802 SN-121M  501211   1.2E+05          Calculated
+   803 SN-122   501220  -1.0E+00          STABLE  
+   804 SN-123   501230   1.7E+04          Calculated
+   805 SN-123M  501231   5.3E+03          Calculated
+   806 SN-124   501240  -1.0E+00          STABLE  
+   807 SN-125   501250   2.5E+03          Calculated
+   808 SN-125M  501251   2.3E+03          Calculated
+   809 SN-126   501260   1.5E+04          Calculated
+   810 SN-127   501270   5.2E+02          Calculated
+   811 SN-127M  501271   1.5E+03          Calculated
+   812 SN-128   501280   1.6E+03          Calculated
+   813 SN-128M  501281   5.0E+02          Calculated
+   814 SN-129   501290   3.9E+02          Calculated
+   815 SN-129M  501291   4.0E+02          Calculated
+   816 SN-130   501300   4.1E+03          Calculated
+   817 SN-130M  501301   4.2E+02          Calculated
+   818 SN-131   501310   4.1E+02          Calculated
+   819 SN-131M  501311   4.0E+02          Calculated
+   820 SB-112   511120   3.3E+02          Calculated
+   821 SB-113   511130   7.3E+02          Calculated
+   822 SB-114   511140   3.5E+02          Calculated
+   823 SB-115   511150   1.1E+03          Calculated
+   824 SB-116   511160   4.4E+02          Calculated
+   825 SB-116M  511161   3.1E+02          Calculated
+   826 SB-117   511170   5.3E+03          Calculated
+   827 SB-118   511180   1.1E+03          Calculated
+   828 SB-118M  511181   3.9E+02          Calculated
+   829 SB-119   511190   3.8E+04          Calculated
+   830 SB-120   511200   2.0E+03          Calculated
+   831 SB-120M  511201   4.1E+02          Calculated
+   832 SB-121   511210  -1.0E+00          STABLE  
+   833 SB-122   511220   2.0E+03          Calculated
+   834 SB-122M  511221   1.3E+04          Calculated
+   835 SB-123   511230  -1.0E+00          STABLE  
+   836 SB-124   511240   3.0E+02          TECDOC-855
+   837 SB-124M  511241   2.2E+03          Calculated
+   838 SB-124N  511242   3.4E+05          Calculated
+   839 SB-125   511250   2.3E+03          Calculated
+   840 SB-126   511260   3.6E+02          Calculated
+   841 SB-126M  511261   6.1E+02          Calculated
+   842 SB-126N  511262   3.8E+05          Calculated
+   843 SB-127   511270   1.4E+03          Calculated
+   844 SB-128   511280   3.2E+02          Calculated
+   845 SB-128M  511281   4.8E+02          Calculated
+   846 SB-129   511290   7.1E+02          Calculated
+   847 SB-129M  511291   6.3E+02          Calculated
+   848 SB-130   511300   3.0E+02          Calculated
+   849 SB-130M  511301   3.9E+02          Calculated
+   850 SB-131   511310   5.6E+02          Calculated
+   851 SB-131M  511311   8.8E+02          Calculated
+   852 SB-132   511320   4.0E+02          Calculated
+   853 SB-132M  511321   3.8E+02          Calculated
+   854 TE-114   521140   9.3E+02          Calculated
+   855 TE-115   521150   4.7E+02          Calculated
+   856 TE-115M  521151   3.9E+02          Calculated
+   857 TE-116   521160   1.1E+04          Calculated
+   858 TE-117   521170   6.4E+02          Calculated
+   859 TE-117M  521171   3.7E+03          Calculated
+   860 TE-118   521180   4.9E+04          Calculated
+   861 TE-119   521190   1.3E+03          Calculated
+   862 TE-119M  521191   6.6E+02          Calculated
+   863 TE-120   521200  -1.0E+00          STABLE  
+   864 TE-121   521210   1.7E+03          Calculated
+   865 TE-121M  521211   4.4E+03          Calculated
+   866 TE-122   521220  -1.0E+00          STABLE  
+   867 TE-123   521230   2.2E+06          Calculated
+   868 TE-123M  521231   6.3E+03          Calculated
+   869 TE-124   521240  -1.0E+00          STABLE  
+   870 TE-125   521250  -1.0E+00          STABLE  
+   871 TE-125M  521251   2.1E+04          Calculated
+   872 TE-126   521260  -1.0E+00          STABLE  
+   873 TE-127   521270   3.7E+04          Calculated
+   874 TE-127M  521271   5.1E+04          Calculated
+   875 TE-128   521280  -1.0E+00          STABLE  
+   876 TE-129   521290   8.7E+03          Calculated
+   877 TE-129M  521291   1.6E+04          Calculated
+   878 TE-130   521300  -1.0E+00          STABLE  
+   879 TE-131   521310   2.0E+03          Calculated
+   880 TE-131M  521311   6.9E+02          Calculated
+   881 TE-132   521320   4.1E+03          Calculated
+   882 TE-133   521330   7.9E+02          Calculated
+   883 TE-133M  521331   5.1E+02          Calculated
+   884 TE-134   521340   1.1E+03          Calculated
+   885 TE-135   521350   1.4E+03          Calculated
+   886 I -118   531180   4.6E+02          Calculated
+   887 I -118M  531181   2.7E+02          Calculated
+   888 I -119   531190   1.1E+03          Calculated
+   889 I -120   531200   3.5E+02          Calculated
+   890 I -120M  531201   1.9E+02          Calculated
+   891 I -121   531210   2.3E+03          Calculated
+   892 I -122   531220   9.3E+02          Calculated
+   893 I -123   531230   3.0E+04          TECDOC-855
+   894 I -124   531240   9.1E+02          Calculated
+   895 I -125   531250   3.0E+04          TECDOC-855
+   896 I -126   531260   2.2E+03          Calculated
+   897 I -127   531270  -1.0E+00          STABLE  
+   898 I -128   531280   6.2E+03          Calculated
+   899 I -129   531290   3.0E+04          TECDOC-855
+   900 I -130   531300   4.6E+02          Calculated
+   901 I -130M  531301   7.2E+03          Calculated
+   902 I -131   531310   3.0E+03          TECDOC-855
+   903 I -132   531320   4.3E+02          Calculated
+   904 I -132M  531321   2.8E+03          Calculated
+   905 I -133   531330   1.5E+03          Calculated
+   906 I -133M  531331   6.3E+02          Calculated
+   907 I -134   531340   3.7E+02          Calculated
+   908 I -134M  531341   4.0E+03          Calculated
+   909 I -135   531350   6.1E+02          Calculated
+   910 I -136   531360   3.9E+02          Calculated
+   911 I -136M  531361   3.7E+02          Calculated
+   912 XE-120   541200   2.3E+03          Calculated
+   913 XE-121   541210   5.9E+02          Calculated
+   914 XE-122   541220   6.7E+03          Calculated
+   915 XE-123   541230   1.5E+03          Calculated
+   916 XE-124   541240  -1.0E+00          STABLE  
+   917 XE-125   541250   3.6E+03          Calculated
+   918 XE-125M  541251   7.7E+03          Calculated
+   919 XE-126   541260  -1.0E+00          STABLE  
+   920 XE-127   541270   3.5E+03          Calculated
+   921 XE-127M  541271   5.5E+03          Calculated
+   922 XE-128   541280  -1.0E+00          STABLE  
+   923 XE-129   541290  -1.0E+00          STABLE  
+   924 XE-129M  541291   1.4E+04          Calculated
+   925 XE-130   541300  -1.0E+00          STABLE  
+   926 XE-131   541310  -1.0E+00          STABLE  
+   927 XE-131M  541311   2.8E+04          Calculated
+   928 XE-132   541320  -1.0E+00          STABLE  
+   929 XE-133   541330   1.7E+04          Calculated
+   930 XE-133M  541331   1.7E+04          Calculated
+   931 XE-134   541340  -1.0E+00          STABLE  
+   932 XE-134M  541341   5.3E+02          Calculated
+   933 XE-135   541350   3.6E+03          Calculated
+   934 XE-135M  541351   2.3E+03          Calculated
+   935 XE-136   541360  -1.0E+00          STABLE  
+   936 XE-137   541370   2.6E+03          Calculated
+   937 XE-138   541380   8.4E+02          Calculated
+   938 XE-139   541390   9.1E+02          Calculated
+   939 CS-122   551220   6.7E+02          Calculated
+   940 CS-122M  551221   3.1E+02          Calculated
+   941 CS-122N  551222   2.7E+05          Calculated
+   942 CS-123   551230   9.9E+02          Calculated
+   943 CS-123M  551231   6.3E+03          Calculated
+   944 CS-124   551240   7.0E+02          Calculated
+   945 CS-124M  551241   3.2E+03          Calculated
+   946 CS-125   551250   1.3E+03          Calculated
+   947 CS-126   551260   7.8E+02          Calculated
+   948 CS-127   551270   2.5E+03          Calculated
+   949 CS-128   551280   1.0E+03          Calculated
+   950 CS-129   551290   3.5E+03          Calculated
+   951 CS-130   551300   1.8E+03          Calculated
+   952 CS-131   551310   4.2E+04          Calculated
+   953 CS-132   551320   1.4E+03          Calculated
+   954 CS-133   551330  -1.0E+00          STABLE  
+   955 CS-134   551340   3.0E+02          TECDOC-855
+   956 CS-134M  551341   2.6E+04          Calculated
+   957 CS-135   551350   1.5E+05          Calculated
+   958 CS-135M  551351   6.2E+02          Calculated
+   959 CS-136   551360   4.6E+02          Calculated
+   960 CS-136M  551361   1.5E+03          Calculated
+   961 CS-137   551370   3.0E+02          TECDOC-855
+   962 CS-138   551380   4.0E+02          Calculated
+   963 CS-138M  551381   2.2E+03          Calculated
+   964 CS-139   551390   2.2E+03          Calculated
+   965 CS-140   551400   5.6E+02          Calculated
+   966 BA-124   561240   2.4E+03          Calculated
+   967 BA-125   561250   2.1E+03          Calculated
+   968 BA-126   561260   1.8E+03          Calculated
+   969 BA-127   561270   1.3E+03          Calculated
+   970 BA-128   561280   1.5E+04          Calculated
+   971 BA-129   561290   2.1E+03          Calculated
+   972 BA-129M  561291   8.2E+02          Calculated
+   973 BA-130   561300  -1.0E+00          STABLE  
+   974 BA-131   561310   2.2E+03          Calculated
+   975 BA-131M  561311   1.1E+04          Calculated
+   976 BA-132   561320  -1.0E+00          STABLE  
+   977 BA-133   561330   2.5E+03          Calculated
+   978 BA-133M  561331   1.1E+04          Calculated
+   979 BA-134   561340  -1.0E+00          STABLE  
+   980 BA-135   561350  -1.0E+00          STABLE  
+   981 BA-135M  561351   1.3E+04          Calculated
+   982 BA-136   561360  -1.0E+00          STABLE  
+   983 BA-136M  561361   5.2E+02          Calculated
+   984 BA-137   561370  -1.0E+00          STABLE  
+   985 BA-137M  561371   1.7E+03          Calculated
+   986 BA-138   561380  -1.0E+00          STABLE  
+   987 BA-139   561390   7.4E+03          Calculated
+   988 BA-140   561400   4.7E+03          Calculated
+   989 BA-141   561410   9.5E+02          Calculated
+   990 BA-142   561420   1.2E+03          Calculated
+   991 BA-143   561430   1.0E+03          Calculated
+   992 LA-128   571280   3.2E+02          Calculated
+   993 LA-129   571290   9.3E+02          Calculated
+   994 LA-129M  571291   1.7E+04          Calculated
+   995 LA-130   571300   2.7E+02          Calculated
+   996 LA-131   571310   1.4E+03          Calculated
+   997 LA-132   571320   4.9E+02          Calculated
+   998 LA-132M  571321   2.0E+03          Calculated
+   999 LA-133   571330   6.5E+03          Calculated
+  1000 LA-134   571340   1.3E+03          Calculated
+  1001 LA-135   571350   2.8E+04          Calculated
+  1002 LA-136   571360   2.1E+03          Calculated
+  1003 LA-136M  571361   6.5E+03          Calculated
+  1004 LA-137   571370   3.8E+04          Calculated
+  1005 LA-138   571380   8.1E+02          Calculated
+  1006 LA-139   571390  -1.0E+00          STABLE  
+  1007 LA-140   571400   4.2E+02          Calculated
+  1008 LA-141   571410   7.1E+03          Calculated
+  1009 LA-142   571420   4.1E+02          Calculated
+  1010 LA-143   571430   3.9E+03          Calculated
+  1011 LA-144   571440   4.2E+02          Calculated
+  1012 CE-130   581300   1.6E+04          Calculated
+  1013 CE-131   581310   1.4E+03          Calculated
+  1014 CE-131M  581311   3.1E+03          Calculated
+  1015 CE-132   581320   3.6E+03          Calculated
+  1016 CE-133   581330   5.8E+02          Calculated
+  1017 CE-133M  581331   1.8E+03          Calculated
+  1018 CE-134   581340   3.4E+04          Calculated
+  1019 CE-135   581350   1.2E+03          Calculated
+  1020 CE-135M  581351   3.6E+03          Calculated
+  1021 CE-136   581360  -1.0E+00          STABLE  
+  1022 CE-137   581370   2.4E+04          Calculated
+  1023 CE-137M  581371   1.3E+04          Calculated
+  1024 CE-138   581380  -1.0E+00          STABLE  
+  1025 CE-139   581390   6.1E+03          Calculated
+  1026 CE-139M  581391   1.4E+03          Calculated
+  1027 CE-140   581400  -1.0E+00          STABLE  
+  1028 CE-141   581410   1.1E+04          Calculated
+  1029 CE-142   581420   2.6E+05          Calculated
+  1030 CE-143   581430   3.2E+03          Calculated
+  1031 CE-144   581440   3.0E+04          TECDOC-855
+  1032 CE-145   581450   1.5E+03          Calculated
+  1033 CE-146   581460   4.9E+03          Calculated
+  1034 CE-147   581470   3.3E+03          Calculated
+  1035 CE-148   581480   2.7E+03          Calculated
+  1036 CE-149   581490   3.7E+02          Calculated
+  1037 PR-134   591340   4.5E+02          Calculated
+  1038 PR-134M  591341   4.5E+02          Calculated
+  1039 PR-135   591350   1.1E+03          Calculated
+  1040 PR-136   591360   4.4E+02          Calculated
+  1041 PR-137   591370   2.6E+03          Calculated
+  1042 PR-138   591380   1.1E+03          Calculated
+  1043 PR-138M  591381   4.0E+02          Calculated
+  1044 PR-139   591390   7.2E+03          Calculated
+  1045 PR-140   591400   1.7E+03          Calculated
+  1046 PR-141   591410  -1.0E+00          STABLE  
+  1047 PR-142   591420   7.2E+03          Calculated
+  1048 PR-142M  591421   2.7E+05          Calculated
+  1049 PR-143   591430   3.2E+04          Calculated
+  1050 PR-144   591440   6.5E+03          Calculated
+  1051 PR-144M  591441   5.4E+04          Calculated
+  1052 PR-145   591450   1.1E+04          Calculated
+  1053 PR-146   591460   8.8E+02          Calculated
+  1054 PR-147   591470   1.1E+03          Calculated
+  1055 PR-148   591480   1.1E+03          Calculated
+  1056 PR-148M  591481   9.0E+02          Calculated
+  1057 PR-149   591490   1.9E+03          Calculated
+  1058 PR-150   591500   1.3E+03          Calculated
+  1059 ND-136   601360   3.3E+03          Calculated
+  1060 ND-137   601370   8.4E+02          Calculated
+  1061 ND-137M  601371   2.8E+03          Calculated
+  1062 ND-138   601380   2.1E+04          Calculated
+  1063 ND-139   601390   2.1E+03          Calculated
+  1064 ND-139M  601391   3.7E+02          Calculated
+  1065 ND-140   601400   3.5E+04          Calculated
+  1066 ND-141   601410   1.3E+04          Calculated
+  1067 ND-141M  601411   1.4E+03          Calculated
+  1068 ND-142   601420  -1.0E+00          STABLE  
+  1069 ND-143   601430  -1.0E+00          STABLE  
+  1070 ND-144   601440   2.9E+05          Calculated
+  1071 ND-145   601450  -1.0E+00          STABLE  
+  1072 ND-146   601460  -1.0E+00          STABLE  
+  1073 ND-147   601470   6.1E+03          Calculated
+  1074 ND-148   601480  -1.0E+00          STABLE  
+  1075 ND-149   601490   2.4E+03          Calculated
+  1076 ND-150   601500  -1.0E+00          STABLE  
+  1077 ND-151   601510   1.0E+03          Calculated
+  1078 ND-152   601520   5.1E+03          Calculated
+  1079 ND-153   601530   4.3E+03          Calculated
+  1080 PM-140   611400   8.0E+02          Calculated
+  1081 PM-140M  611401   3.2E+02          Calculated
+  1082 PM-141   611410   1.2E+03          Calculated
+  1083 PM-142   611420   9.9E+02          Calculated
+  1084 PM-143   611430   3.2E+03          Calculated
+  1085 PM-144   611440   6.4E+02          Calculated
+  1086 PM-145   611450   3.1E+04          Calculated
+  1087 PM-146   611460   1.3E+03          Calculated
+  1088 PM-147   611470   3.0E+06          TECDOC-855
+  1089 PM-148   611480   1.5E+03          Calculated
+  1090 PM-148M  611481   5.0E+02          Calculated
+  1091 PM-149   611490   2.0E+04          Calculated
+  1092 PM-150   611500   6.4E+02          Calculated
+  1093 PM-151   611510   2.8E+03          Calculated
+  1094 PM-152   611520   3.5E+03          Calculated
+  1095 PM-152M  611521   6.3E+02          Calculated
+  1096 PM-152N  611522   4.5E+02          Calculated
+  1097 PM-153   611530   8.2E+03          Calculated
+  1098 PM-154   611540   5.3E+02          Calculated
+  1099 PM-154M  611541   5.1E+02          Calculated
+  1100 PM-155   611550   2.4E+03          Calculated
+  1101 PM-156   611560   4.3E+02          Calculated
+  1102 SM-142   621420   1.0E+04          Calculated
+  1103 SM-143   621430   1.8E+03          Calculated
+  1104 SM-143M  621431   1.4E+03          Calculated
+  1105 SM-144   621440  -1.0E+00          STABLE  
+  1106 SM-145   621450   1.5E+04          Calculated
+  1107 SM-146   621460   1.8E+05          Calculated
+  1108 SM-147   621470   2.1E+05          Calculated
+  1109 SM-148   621480   2.4E+05          Calculated
+  1110 SM-149   621490   1.5E+05          Calculated
+  1111 SM-150   621500  -1.0E+00          STABLE  
+  1112 SM-151   621510   5.0E+05          Calculated
+  1113 SM-152   621520  -1.0E+00          STABLE  
+  1114 SM-153   621530   1.1E+04          Calculated
+  1115 SM-154   621540  -1.0E+00          STABLE  
+  1116 SM-155   621550   6.1E+03          Calculated
+  1117 SM-156   621560   6.9E+03          Calculated
+  1118 SM-157   621570   1.9E+03          Calculated
+  1119 SM-158   621580   2.6E+03          Calculated
+  1120 SM-159   621590   1.5E+03          Calculated
+  1121 EU-143   631430   8.1E+02          Calculated
+  1122 EU-144   631440   7.7E+02          Calculated
+  1123 EU-145   631450   7.4E+02          Calculated
+  1124 EU-146   631460   4.6E+02          Calculated
+  1125 EU-147   631470   2.0E+03          Calculated
+  1126 EU-148   631480   4.5E+02          Calculated
+  1127 EU-149   631490   1.5E+04          Calculated
+  1128 EU-150   631500   6.5E+02          Calculated
+  1129 EU-150M  631501   1.2E+04          Calculated
+  1130 EU-151   631510  -1.0E+00          STABLE  
+  1131 EU-152   631520   3.0E+02          TECDOC-855
+  1132 EU-152M  631521   2.8E+03          Calculated
+  1133 EU-152N  631522   1.2E+04          Calculated
+  1134 EU-153   631530  -1.0E+00          STABLE  
+  1135 EU-154   631540   7.9E+02          Calculated
+  1136 EU-154M  631541   1.2E+04          Calculated
+  1137 EU-155   631550   1.4E+04          Calculated
+  1138 EU-156   631560   7.5E+02          Calculated
+  1139 EU-157   631570   3.4E+03          Calculated
+  1140 EU-158   631580   8.5E+02          Calculated
+  1141 EU-159   631590   2.8E+03          Calculated
+  1142 EU-160   631600   5.1E+02          Calculated
+  1143 GD-145   641450   4.1E+02          Calculated
+  1144 GD-145M  641451   1.4E+03          Calculated
+  1145 GD-146   641460   3.7E+03          Calculated
+  1146 GD-147   641470   8.0E+02          Calculated
+  1147 GD-148   641480   7.7E+04          Calculated
+  1148 GD-149   641490   1.9E+03          Calculated
+  1149 GD-150   641500   2.4E+04          Calculated
+  1150 GD-151   641510   1.3E+04          Calculated
+  1151 GD-152   641520   1.1E+05          Calculated
+  1152 GD-153   641530   9.0E+03          Calculated
+  1153 GD-154   641540  -1.0E+00          STABLE  
+  1154 GD-155   641550  -1.0E+00          STABLE  
+  1155 GD-156   641560  -1.0E+00          STABLE  
+  1156 GD-157   641570  -1.0E+00          STABLE  
+  1157 GD-158   641580  -1.0E+00          STABLE  
+  1158 GD-159   641590   1.2E+04          Calculated
+  1159 GD-160   641600  -1.0E+00          STABLE  
+  1160 GD-161   641610   2.2E+03          Calculated
+  1161 GD-162   641620   2.2E+03          Calculated
+  1162 GD-163   641630   4.9E+02          Calculated
+  1163 GD-164   641640   9.9E+02          Calculated
+  1164 GD-165   641650   1.0E+03          Calculated
+  1165 TB-146   651460   6.8E+02          Calculated
+  1166 TB-146M  651461   2.7E+02          Calculated
+  1167 TB-147   651470   6.1E+02          Calculated
+  1168 TB-147M  651471   5.4E+02          Calculated
+  1169 TB-148   651480   4.1E+02          Calculated
+  1170 TB-148M  651481   3.4E+02          Calculated
+  1171 TB-149   651490   7.1E+02          Calculated
+  1172 TB-149M  651491   7.0E+02          Calculated
+  1173 TB-150   651500   4.9E+02          Calculated
+  1174 TB-150M  651501   4.2E+02          Calculated
+  1175 TB-151   651510   1.0E+03          Calculated
+  1176 TB-151M  651511   1.3E+04          Calculated
+  1177 TB-152   651520   7.1E+02          Calculated
+  1178 TB-152M  651521   1.3E+03          Calculated
+  1179 TB-153   651530   3.2E+03          Calculated
+  1180 TB-154   651540   4.5E+02          Calculated
+  1181 TB-154M  651541   7.7E+02          Calculated
+  1182 TB-154N  651542   4.8E+02          Calculated
+  1183 TB-155   651550   5.6E+03          Calculated
+  1184 TB-156   651560   5.1E+02          Calculated
+  1185 TB-156M  651561   2.5E+04          Calculated
+  1186 TB-156N  651562   7.6E+04          Calculated
+  1187 TB-157   651570   9.1E+04          Calculated
+  1188 TB-158   651580   1.2E+03          Calculated
+  1189 TB-158M  651581   3.1E+04          Calculated
+  1190 TB-159   651590  -1.0E+00          STABLE  
+  1191 TB-160   651600   8.7E+02          Calculated
+  1192 TB-161   651610   1.9E+04          Calculated
+  1193 TB-162   651620   8.6E+02          Calculated
+  1194 TB-163   651630   1.2E+03          Calculated
+  1195 TB-164   651640   4.3E+02          Calculated
+  1196 TB-165   651650   1.7E+03          Calculated
+  1197 TB-166   651660   4.1E+02          Calculated
+  1198 DY-148   661480   1.4E+03          Calculated
+  1199 DY-149   661490   4.2E+02          Calculated
+  1200 DY-150   661500   3.9E+03          Calculated
+  1201 DY-151   661510   7.4E+02          Calculated
+  1202 DY-152   661520   4.0E+03          Calculated
+  1203 DY-153   661530   1.4E+03          Calculated
+  1204 DY-154   661540   8.7E+04          Calculated
+  1205 DY-155   661550   1.6E+03          Calculated
+  1206 DY-156   661560  -1.0E+00          STABLE  
+  1207 DY-157   661570   2.8E+03          Calculated
+  1208 DY-158   661580  -1.0E+00          STABLE  
+  1209 DY-159   661590   2.1E+04          Calculated
+  1210 DY-160   661600  -1.0E+00          STABLE  
+  1211 DY-161   661610  -1.0E+00          STABLE  
+  1212 DY-162   661620  -1.0E+00          STABLE  
+  1213 DY-163   661630  -1.0E+00          STABLE  
+  1214 DY-164   661640  -1.0E+00          STABLE  
+  1215 DY-165   661650   1.4E+04          Calculated
+  1216 DY-165M  661651   3.3E+04          Calculated
+  1217 DY-166   661660   1.8E+04          Calculated
+  1218 DY-167   661670   1.7E+03          Calculated
+  1219 DY-168   661680   1.6E+03          Calculated
+  1220 DY-169   661690   9.6E+02          Calculated
+  1221 DY-170   661700   1.3E+03          Calculated
+  1222 DY-171   661710   6.3E+02          Calculated
+  1223 HO-153   671530   9.4E+02          Calculated
+  1224 HO-153M  671531   6.4E+02          Calculated
+  1225 HO-154   671540   8.7E+02          Calculated
+  1226 HO-154M  671541   5.0E+02          Calculated
+  1227 HO-155   671550   1.7E+03          Calculated
+  1228 HO-156   671560   7.1E+02          Calculated
+  1229 HO-157   671570   2.1E+03          Calculated
+  1230 HO-158   671580   6.5E+02          Calculated
+  1231 HO-158M  671581   8.0E+06          Calculated
+  1232 HO-158N  671582   3.7E+02          Calculated
+  1233 HO-159   671590   2.2E+03          Calculated
+  1234 HO-159M  671591   9.1E+03          Calculated
+  1235 HO-160   671600   5.8E+02          Calculated
+  1236 HO-160M  671601   1.5E+03          Calculated
+  1237 HO-160N  671602   8.7E+03          Calculated
+  1238 HO-161   671610   1.6E+04          Calculated
+  1239 HO-161M  671611   8.7E+03          Calculated
+  1240 HO-162   671620   6.4E+03          Calculated
+  1241 HO-162M  671621   1.7E+03          Calculated
+  1242 HO-163   671630   3.8E+06          Calculated
+  1243 HO-163M  671631   4.1E+03          Calculated
+  1244 HO-164   671640   2.1E+04          Calculated
+  1245 HO-164M  671641   1.7E+04          Calculated
+  1246 HO-165   671650  -1.0E+00          STABLE  
+  1247 HO-166   671660   1.0E+04          Calculated
+  1248 HO-166M  671661   5.8E+02          Calculated
+  1249 HO-167   671670   2.6E+03          Calculated
+  1250 HO-168   671680   1.1E+03          Calculated
+  1251 HO-169   671690   1.8E+03          Calculated
+  1252 HO-170   671700   5.2E+02          Calculated
+  1253 HO-170M  671701   1.2E+03          Calculated
+  1254 HO-171   671710   2.8E+03          Calculated
+  1255 HO-172   671720   2.8E+03          Calculated
+  1256 ER-156   681560   4.6E+04          Calculated
+  1257 ER-157   681570   3.2E+03          Calculated
+  1258 ER-158   681580   7.1E+03          Calculated
+  1259 ER-159   681590   1.1E+03          Calculated
+  1260 ER-160   681600   8.0E+04          Calculated
+  1261 ER-161   681610   1.1E+03          Calculated
+  1262 ER-162   681620  -1.0E+00          STABLE  
+  1263 ER-163   681630   2.5E+04          Calculated
+  1264 ER-164   681640  -1.0E+00          STABLE  
+  1265 ER-165   681650   2.6E+04          Calculated
+  1266 ER-166   681660  -1.0E+00          STABLE  
+  1267 ER-167   681670  -1.0E+00          STABLE  
+  1268 ER-167M  681671   7.9E+03          Calculated
+  1269 ER-168   681680  -1.0E+00          STABLE  
+  1270 ER-169   681690   9.7E+04          Calculated
+  1271 ER-170   681700  -1.0E+00          STABLE  
+  1272 ER-171   681710   2.4E+03          Calculated
+  1273 ER-172   681720   1.9E+03          Calculated
+  1274 ER-173   681730   1.1E+03          Calculated
+  1275 ER-174   681740   1.2E+03          Calculated
+  1276 ER-175   681750   6.7E+02          Calculated
+  1277 TM-160   691600   7.7E+02          Calculated
+  1278 TM-160M  691601   4.6E+03          Calculated
+  1279 TM-161   691610   1.0E+03          Calculated
+  1280 TM-162   691620   6.1E+02          Calculated
+  1281 TM-162M  691621   3.2E+03          Calculated
+  1282 TM-163   691630   7.7E+02          Calculated
+  1283 TM-164   691640   1.3E+03          Calculated
+  1284 TM-164M  691641   2.8E+03          Calculated
+  1285 TM-165   691650   1.8E+03          Calculated
+  1286 TM-166   691660   5.1E+02          Calculated
+  1287 TM-167   691670   6.3E+03          Calculated
+  1288 TM-168   691680   8.2E+02          Calculated
+  1289 TM-169   691690  -1.0E+00          STABLE  
+  1290 TM-170   691700   2.6E+04          Calculated
+  1291 TM-171   691710   3.2E+05          Calculated
+  1292 TM-172   691720   1.9E+03          Calculated
+  1293 TM-173   691730   2.4E+03          Calculated
+  1294 TM-174   691740   5.5E+02          Calculated
+  1295 TM-175   691750   8.3E+02          Calculated
+  1296 TM-176   691760   5.6E+02          Calculated
+  1297 YB-162   701620   4.3E+03          Calculated
+  1298 YB-163   701630   1.3E+03          Calculated
+  1299 YB-164   701640   7.4E+04          Calculated
+  1300 YB-165   701650   2.9E+03          Calculated
+  1301 YB-166   701660   1.1E+04          Calculated
+  1302 YB-167   701670   3.6E+03          Calculated
+  1303 YB-168   701680  -1.0E+00          STABLE  
+  1304 YB-169   701690   3.0E+03          Calculated
+  1305 YB-169M  701691   4.1E+05          Calculated
+  1306 YB-170   701700  -1.0E+00          STABLE  
+  1307 YB-171   701710  -1.0E+00          STABLE  
+  1308 YB-172   701720  -1.0E+00          STABLE  
+  1309 YB-173   701730  -1.0E+00          STABLE  
+  1310 YB-174   701740  -1.0E+00          STABLE  
+  1311 YB-175   701750   1.1E+04          Calculated
+  1312 YB-176   701760  -1.0E+00          STABLE  
+  1313 YB-176M  701761   1.1E+03          Calculated
+  1314 YB-177   701770   4.4E+03          Calculated
+  1315 YB-177M  701771   6.0E+03          Calculated
+  1316 YB-178   701780   1.6E+03          Calculated
+  1317 YB-179   701790   6.0E+02          Calculated
+  1318 YB-180   701800   1.2E+03          Calculated
+  1319 LU-166   711660   4.6E+02          Calculated
+  1320 LU-166M  711661   1.1E+03          Calculated
+  1321 LU-166N  711662   4.7E+02          Calculated
+  1322 LU-167   711670   9.7E+02          Calculated
+  1323 LU-168   711680   2.3E+02          Calculated
+  1324 LU-168M  711681   4.4E+02          Calculated
+  1325 LU-169   711690   8.2E+02          Calculated
+  1326 LU-169M  711691   2.8E+05          Calculated
+  1327 LU-170   711700   4.0E+02          Calculated
+  1328 LU-170M  711701   8.9E+04          Calculated
+  1329 LU-171   711710   1.5E+03          Calculated
+  1330 LU-171M  711711   1.1E+05          Calculated
+  1331 LU-172   711720   5.1E+02          Calculated
+  1332 LU-172M  711721   1.8E+05          Calculated
+  1333 LU-173   711730   5.7E+03          Calculated
+  1334 LU-174   711740   8.3E+03          Calculated
+  1335 LU-174M  711741   1.4E+04          Calculated
+  1336 LU-175   711750  -1.0E+00          STABLE  
+  1337 LU-176   711760   1.9E+03          Calculated
+  1338 LU-176M  711761   1.6E+04          Calculated
+  1339 LU-177   711770   1.9E+04          Calculated
+  1340 LU-177M  711771   5.7E+03          Calculated
+  1341 LU-178   711780   4.6E+03          Calculated
+  1342 LU-178M  711781   9.1E+02          Calculated
+  1343 LU-179   711790   1.3E+04          Calculated
+  1344 LU-180   711800   6.3E+02          Calculated
+  1345 LU-181   711810   1.8E+03          Calculated
+  1346 LU-182   711820   4.8E+02          Calculated
+  1347 HF-168   721680   2.3E+03          Calculated
+  1348 HF-169   721690   8.7E+02          Calculated
+  1349 HF-170   721700   2.0E+03          Calculated
+  1350 HF-171   721710   1.1E+03          Calculated
+  1351 HF-172   721720   8.3E+03          Calculated
+  1352 HF-173   721730   2.5E+03          Calculated
+  1353 HF-174   721740   2.6E+05          Calculated
+  1354 HF-175   721750   2.7E+03          Calculated
+  1355 HF-176   721760  -1.0E+00          STABLE  
+  1356 HF-177   721770  -1.0E+00          STABLE  
+  1357 HF-177M  721771   9.2E+02          Calculated
+  1358 HF-177N  721772   8.3E+02          Calculated
+  1359 HF-178   721780  -1.0E+00          STABLE  
+  1360 HF-178M  721781   9.8E+02          Calculated
+  1361 HF-178N  721782   8.1E+02          Calculated
+  1362 HF-179   721790  -1.0E+00          STABLE  
+  1363 HF-179M  721791   4.0E+03          Calculated
+  1364 HF-179N  721792   1.1E+03          Calculated
+  1365 HF-180   721800  -1.0E+00          STABLE  
+  1366 HF-180M  721801   9.9E+02          Calculated
+  1367 HF-181   721810   1.8E+03          Calculated
+  1368 HF-182   721820   4.6E+03          Calculated
+  1369 HF-182M  721821   1.0E+03          Calculated
+  1370 HF-183   721830   1.2E+03          Calculated
+  1371 HF-184   721840   3.4E+03          Calculated
+  1372 HF-185   721850   4.5E+02          Calculated
+  1373 HF-186   721860   1.9E+03          Calculated
+  1374 HF-187   721870   7.6E+02          Calculated
+  1375 TA-170   731700   8.6E+02          Calculated
+  1376 TA-171   731710   5.2E+02          Calculated
+  1377 TA-172   731720   5.3E+02          Calculated
+  1378 TA-173   731730   1.8E+03          Calculated
+  1379 TA-174   731740   1.1E+03          Calculated
+  1380 TA-175   731750   1.2E+03          Calculated
+  1381 TA-176   731760   4.7E+02          Calculated
+  1382 TA-177   731770   1.4E+04          Calculated
+  1383 TA-178   731780   8.1E+03          Calculated
+  1384 TA-178M  731781   8.6E+02          Calculated
+  1385 TA-179   731790   3.3E+04          Calculated
+  1386 TA-180   731800   1.9E+04          Calculated
+  1387 TA-180M  731801   1.7E+03          Calculated
+  1388 TA-181   731810  -1.0E+00          STABLE  
+  1389 TA-182   731820   7.7E+02          Calculated
+  1390 TA-182M  731821   3.0E+05          Calculated
+  1391 TA-182N  731822   3.6E+03          Calculated
+  1392 TA-183   731830   3.1E+03          Calculated
+  1393 TA-184   731840   5.9E+02          Calculated
+  1394 TA-185   731850   4.1E+03          Calculated
+  1395 TA-186   731860   6.9E+02          Calculated
+  1396 TA-187   731870   4.5E+02          Calculated
+  1397 TA-188   731880   4.5E+02          Calculated
+  1398 W -172   741720   1.2E+03          Calculated
+  1399 W -173   741730   6.0E+03          Calculated
+  1400 W -174   741740   1.6E+03          Calculated
+  1401 W -175   741750   9.1E+02          Calculated
+  1402 W -176   741760   6.2E+03          Calculated
+  1403 W -177   741770   1.1E+03          Calculated
+  1404 W -178   741780   5.0E+04          Calculated
+  1405 W -179   741790   1.8E+04          Calculated
+  1406 W -179M  741791   2.7E+04          Calculated
+  1407 W -180   741800  -1.0E+00          STABLE  
+  1408 W -181   741810   2.4E+04          Calculated
+  1409 W -182   741820  -1.0E+00          STABLE  
+  1410 W -183   741830  -1.0E+00          STABLE  
+  1411 W -183M  741831   7.0E+03          Calculated
+  1412 W -184   741840  -1.0E+00          STABLE  
+  1413 W -185   741850   7.9E+04          Calculated
+  1414 W -185M  741851   2.3E+04          Calculated
+  1415 W -186   741860  -1.0E+00          STABLE  
+  1416 W -187   741870   2.1E+03          Calculated
+  1417 W -188   741880   8.4E+04          Calculated
+  1418 W -189   741890   7.6E+02          Calculated
+  1419 W -190   741900   5.1E+03          Calculated
+  1420 W -191   741910   4.5E+02          Calculated
+  1421 W -192   741920   1.5E+03          Calculated
+  1422 W -193   741930   7.7E+02          Calculated
+  1423 RE-178   751780   5.8E+02          Calculated
+  1424 RE-179   751790   9.3E+02          Calculated
+  1425 RE-180   751800   8.5E+02          Calculated
+  1426 RE-181   751810   1.2E+03          Calculated
+  1427 RE-182   751820   5.5E+02          Calculated
+  1428 RE-182M  751821   8.2E+02          Calculated
+  1429 RE-183   751830   6.0E+03          Calculated
+  1430 RE-184   751840   1.1E+03          Calculated
+  1431 RE-184M  751841   2.5E+03          Calculated
+  1432 RE-185   751850  -1.0E+00          STABLE  
+  1433 RE-186   751860   1.9E+04          Calculated
+  1434 RE-186M  751861   1.5E+04          Calculated
+  1435 RE-187   751870   1.5E+07          Calculated
+  1436 RE-188   751880   7.4E+03          Calculated
+  1437 RE-188M  751881   1.2E+04          Calculated
+  1438 RE-189   751890   1.1E+04          Calculated
+  1439 RE-190   751900   7.0E+02          Calculated
+  1440 RE-190M  751901   1.1E+03          Calculated
+  1441 RE-191   751910   1.3E+04          Calculated
+  1442 RE-192   751920   3.1E+03          Calculated
+  1443 RE-193   751930   4.5E+02          Calculated
+  1444 RE-194   751940   4.5E+02          Calculated
+  1445 RE-195   751950   7.6E+02          Calculated
+  1446 OS-180   761800   1.5E+05          Calculated
+  1447 OS-181   761810   2.6E+03          Calculated
+  1448 OS-181M  761811   7.2E+02          Calculated
+  1449 OS-182   761820   2.1E+03          Calculated
+  1450 OS-183   761830   1.6E+03          Calculated
+  1451 OS-183M  761831   1.0E+03          Calculated
+  1452 OS-184   761840  -1.0E+00          STABLE  
+  1453 OS-185   761850   1.4E+03          Calculated
+  1454 OS-186   761860   5.0E+04          Calculated
+  1455 OS-187   761870  -1.0E+00          STABLE  
+  1456 OS-188   761880  -1.0E+00          STABLE  
+  1457 OS-189   761890  -1.0E+00          STABLE  
+  1458 OS-189M  761891   2.3E+05          Calculated
+  1459 OS-190   761900  -1.0E+00          STABLE  
+  1460 OS-190M  761901   6.2E+02          Calculated
+  1461 OS-191   761910   2.1E+04          Calculated
+  1462 OS-191M  761911   6.9E+04          Calculated
+  1463 OS-192   761920  -1.0E+00          STABLE  
+  1464 OS-192M  761921   5.3E+02          Calculated
+  1465 OS-193   761930   9.6E+03          Calculated
+  1466 OS-194   761940   1.8E+05          Calculated
+  1467 OS-195   761950   4.7E+03          Calculated
+  1468 OS-196   761960   8.3E+03          Calculated
+  1469 OS-197   761970   1.3E+03          Calculated
+  1470 OS-198   761980   2.5E+03          Calculated
+  1471 OS-199   761990   8.0E+02          Calculated
+  1472 IR-182   771820   1.2E+03          Calculated
+  1473 IR-183   771830   3.6E+02          Calculated
+  1474 IR-184   771840   5.7E+02          Calculated
+  1475 IR-185   771850   1.1E+03          Calculated
+  1476 IR-186   771860   6.1E+02          Calculated
+  1477 IR-186M  771861   6.9E+02          Calculated
+  1478 IR-187   771870   3.2E+03          Calculated
+  1479 IR-188   771880   4.8E+02          Calculated
+  1480 IR-189   771890   1.2E+04          Calculated
+  1481 IR-190   771900   6.7E+02          Calculated
+  1482 IR-190M  771901   2.1E+05          Calculated
+  1483 IR-190N  771902   1.6E+04          Calculated
+  1484 IR-191   771910  -1.0E+00          STABLE  
+  1485 IR-191M  771911   1.2E+04          Calculated
+  1486 IR-191N  771912   5.3E+02          Calculated
+  1487 IR-192   771920   3.0E+03          TECDOC-855
+  1488 IR-192M  771921   1.7E+05          Calculated
+  1489 IR-192N  771922   6.2E+03          Calculated
+  1490 IR-193   771930  -1.0E+00          STABLE  
+  1491 IR-193M  771931   1.0E+05          Calculated
+  1492 IR-194   771940   5.8E+03          Calculated
+  1493 IR-194M  771941   4.3E+02          Calculated
+  1494 IR-195   771950   1.0E+04          Calculated
+  1495 IR-195M  771951   2.3E+03          Calculated
+  1496 IR-196   771960   2.9E+03          Calculated
+  1497 IR-196M  771961   4.0E+02          Calculated
+  1498 IR-197   771970   3.4E+03          Calculated
+  1499 IR-197M  771971   1.4E+04          Calculated
+  1500 IR-198   771980   1.0E+03          Calculated
+  1501 IR-199   771990   1.3E+03          Calculated
+  1502 IR-200   772000   7.1E+02          Calculated
+  1503 PT-184   781840   5.5E+02          Calculated
+  1504 PT-185   781850   3.8E+02          Calculated
+  1505 PT-185M  781851   3.2E+02          Calculated
+  1506 PT-186   781860   1.5E+03          Calculated
+  1507 PT-187   781870   9.4E+02          Calculated
+  1508 PT-188   781880   4.9E+03          Calculated
+  1509 PT-189   781890   3.3E+03          Calculated
+  1510 PT-190   781900   2.4E+06          Calculated
+  1511 PT-191   781910   3.6E+03          Calculated
+  1512 PT-192   781920  -1.0E+00          STABLE  
+  1513 PT-193   781930   2.9E+04          Calculated
+  1514 PT-193M  781931   3.8E+04          Calculated
+  1515 PT-194   781940  -1.0E+00          STABLE  
+  1516 PT-195   781950  -1.0E+00          STABLE  
+  1517 PT-195M  781951   1.1E+04          Calculated
+  1518 PT-196   781960  -1.0E+00          STABLE  
+  1519 PT-197   781970   2.0E+04          Calculated
+  1520 PT-197M  781971   9.3E+03          Calculated
+  1521 PT-198   781980  -1.0E+00          STABLE  
+  1522 PT-199   781990   3.9E+03          Calculated
+  1523 PT-199M  781991   2.9E+03          Calculated
+  1524 PT-200   782000   1.2E+04          Calculated
+  1525 PT-201   782010   1.1E+03          Calculated
+  1526 PT-202   782020   5.6E+03          Calculated
+  1527 AU-187   791870   5.3E+02          Calculated
+  1528 AU-187M  791871   8.3E+03          Calculated
+  1529 AU-188   791880   4.9E+02          Calculated
+  1530 AU-189   791890   1.2E+03          Calculated
+  1531 AU-189M  791891   3.2E+03          Calculated
+  1532 AU-190   791900   5.0E+02          Calculated
+  1533 AU-191   791910   1.7E+03          Calculated
+  1534 AU-191M  791911   5.1E+03          Calculated
+  1535 AU-192   791920   5.2E+02          Calculated
+  1536 AU-192M  791921   2.3E+03          Calculated
+  1537 AU-193   791930   7.0E+03          Calculated
+  1538 AU-193M  791931   5.8E+03          Calculated
+  1539 AU-194   791940   9.8E+02          Calculated
+  1540 AU-194M  791941   3.1E+05          Calculated
+  1541 AU-194N  791942   8.3E+03          Calculated
+  1542 AU-195   791950   1.1E+04          Calculated
+  1543 AU-195M  791951   4.7E+03          Calculated
+  1544 AU-196   791960   2.1E+03          Calculated
+  1545 AU-196M  791961   9.4E+04          Calculated
+  1546 AU-196N  791962   3.6E+03          Calculated
+  1547 AU-197   791970  -1.0E+00          STABLE  
+  1548 AU-197M  791971   4.1E+03          Calculated
+  1549 AU-198   791980   3.0E+03          TECDOC-855
+  1550 AU-198M  791981   1.8E+03          Calculated
+  1551 AU-199   791990   9.0E+03          Calculated
+  1552 AU-200   792000   2.9E+03          Calculated
+  1553 AU-200M  792001   5.0E+02          Calculated
+  1554 AU-201   792010   1.3E+04          Calculated
+  1555 AU-202   792020   3.6E+03          Calculated
+  1556 AU-203   792030   7.1E+03          Calculated
+  1557 AU-204   792040   5.0E+02          Calculated
+  1558 HG-190   801900   4.7E+03          Calculated
+  1559 HG-191   801910   1.8E+03          Calculated
+  1560 HG-191M  801911   6.8E+02          Calculated
+  1561 HG-192   801920   3.9E+03          Calculated
+  1562 HG-193   801930   1.2E+03          Calculated
+  1563 HG-193M  801931   8.9E+02          Calculated
+  1564 HG-194   801940   3.9E+05          Calculated
+  1565 HG-195   801950   4.9E+03          Calculated
+  1566 HG-195M  801951   4.6E+03          Calculated
+  1567 HG-196   801960  -1.0E+00          STABLE  
+  1568 HG-197   801970   1.2E+04          Calculated
+  1569 HG-197M  801971   1.0E+04          Calculated
+  1570 HG-198   801980  -1.0E+00          STABLE  
+  1571 HG-199   801990  -1.0E+00          STABLE  
+  1572 HG-199M  801991   4.6E+03          Calculated
+  1573 HG-200   802000  -1.0E+00          STABLE  
+  1574 HG-201   802010  -1.0E+00          STABLE  
+  1575 HG-202   802020  -1.0E+00          STABLE  
+  1576 HG-203   802030   4.0E+03          Calculated
+  1577 HG-204   802040  -1.0E+00          STABLE  
+  1578 HG-205   802050   1.7E+04          Calculated
+  1579 HG-206   802060   6.7E+03          Calculated
+  1580 HG-207   802070   3.5E+02          Calculated
+  1581 HG-208   802080   8.6E+02          Calculated
+  1582 HG-209   802090   6.0E+02          Calculated
+  1583 TL-193   811930   1.8E+03          Calculated
+  1584 TL-193M  811931   2.7E+03          Calculated
+  1585 TL-194   811940   1.4E+03          Calculated
+  1586 TL-194M  811941   3.9E+02          Calculated
+  1587 TL-195   811950   8.4E+02          Calculated
+  1588 TL-195M  811951   2.7E+03          Calculated
+  1589 TL-196   811960   5.5E+02          Calculated
+  1590 TL-196M  811961   8.8E+02          Calculated
+  1591 TL-197   811970   2.4E+03          Calculated
+  1592 TL-197M  811971   2.2E+03          Calculated
+  1593 TL-198   811980   5.0E+02          Calculated
+  1594 TL-198M  811981   8.2E+02          Calculated
+  1595 TL-199   811990   3.9E+03          Calculated
+  1596 TL-200   812000   7.6E+02          Calculated
+  1597 TL-201   812010   3.0E+04          TECDOC-855
+  1598 TL-202   812020   2.1E+03          Calculated
+  1599 TL-203   812030  -1.0E+00          STABLE  
+  1600 TL-204   812040   4.1E+04          Calculated
+  1601 TL-205   812050  -1.0E+00          STABLE  
+  1602 TL-206   812060   1.8E+04          Calculated
+  1603 TL-206M  812061   4.0E+02          Calculated
+  1604 TL-207   812070   1.9E+04          Calculated
+  1605 TL-207M  812071   8.5E+02          Calculated
+  1606 TL-208   812080   2.9E+02          Calculated
+  1607 TL-209   812090   4.6E+02          Calculated
+  1608 TL-210   812100   3.5E+02          Calculated
+  1609 PB-195   821950   3.4E+03          Calculated
+  1610 PB-195M  821951   5.8E+02          Calculated
+  1611 PB-196   821960   1.1E+03          Calculated
+  1612 PB-197   821970   5.9E+02          Calculated
+  1613 PB-197M  821971   8.4E+02          Calculated
+  1614 PB-198   821980   2.3E+03          Calculated
+  1615 PB-199   821990   8.7E+02          Calculated
+  1616 PB-199M  821991   5.7E+03          Calculated
+  1617 PB-200   822000   4.6E+03          Calculated
+  1618 PB-201   822010   1.3E+03          Calculated
+  1619 PB-201M  822011   2.5E+03          Calculated
+  1620 PB-202   822020   1.4E+04          Calculated
+  1621 PB-202M  822021   5.0E+02          Calculated
+  1622 PB-203   822030   3.1E+03          Calculated
+  1623 PB-203M  822031   1.5E+03          Calculated
+  1624 PB-203N  822032   5.2E+02          Calculated
+  1625 PB-204   822040   1.1E+05          Calculated
+  1626 PB-204M  822041   4.8E+02          Calculated
+  1627 PB-205   822050   1.7E+04          Calculated
+  1628 PB-206   822060  -1.0E+00          STABLE  
+  1629 PB-207   822070  -1.0E+00          STABLE  
+  1630 PB-207M  822071   6.1E+02          Calculated
+  1631 PB-208   822080  -1.0E+00          STABLE  
+  1632 PB-209   822090   5.1E+04          Calculated
+  1633 PB-210   822100   3.0E+02          TECDOC-855
+  1634 PB-211   822110   8.8E+03          Calculated
+  1635 PB-212   822120   6.2E+03          Calculated
+  1636 PB-213   822130   1.3E+03          Calculated
+  1637 PB-214   822140   3.6E+03          Calculated
+  1638 BI-200   832000   4.1E+02          Calculated
+  1639 BI-200M  832001   6.4E+02          Calculated
+  1640 BI-201   832010   5.3E+02          Calculated
+  1641 BI-201M  832011   7.0E+09          Calculated
+  1642 BI-202   832020   3.6E+02          Calculated
+  1643 BI-203   832030   4.2E+02          Calculated
+  1644 BI-203M  832031   1.1E+03          Calculated
+  1645 BI-204   832040   3.1E+02          Calculated
+  1646 BI-205   832050   5.9E+02          Calculated
+  1647 BI-206   832060   3.0E+02          Calculated
+  1648 BI-207   832070   6.4E+02          Calculated
+  1649 BI-207M  832071   5.3E+02          Calculated
+  1650 BI-208   832080   3.8E+02          Calculated
+  1651 BI-208M  832081   6.6E+02          Calculated
+  1652 BI-209   832090  -1.0E+00          STABLE  
+  1653 BI-210   832100   2.5E+04          Calculated
+  1654 BI-210M  832101   3.8E+03          Calculated
+  1655 BI-211   832110   2.1E+04          Calculated
+  1656 BI-212   832120   6.3E+03          Calculated
+  1657 BI-212M  832121   1.5E+05          Calculated
+  1658 BI-212N  832122   7.6E+03          Calculated
+  1659 BI-213   832130   5.8E+03          Calculated
+  1660 BI-214   832140   6.2E+02          Calculated
+  1661 BI-215   832150   1.2E+03          Calculated
+  1662 PO-202   842020   1.2E+03          Calculated
+  1663 PO-203   842030   6.1E+02          Calculated
+  1664 PO-203M  842031   6.2E+02          Calculated
+  1665 PO-204   842040   8.6E+02          Calculated
+  1666 PO-205   842050   6.3E+02          Calculated
+  1667 PO-206   842060   8.3E+02          Calculated
+  1668 PO-207   842070   7.7E+02          Calculated
+  1669 PO-207M  842071   9.0E+02          Calculated
+  1670 PO-208   842080   2.6E+04          Calculated
+  1671 PO-209   842090   2.6E+04          Calculated
+  1672 PO-210   842100   3.0E+03          TECDOC-855
+  1673 PO-211   842110   1.3E+05          Calculated
+  1674 PO-211M  842111   6.7E+02          Calculated
+  1675 PO-212   842120   6.0E+15          Calculated
+  1676 PO-212M  842121   8.8E+02          Calculated
+  1677 PO-212N  842122   1.1E+04          Calculated
+  1678 PO-213   842130   4.3E+07          Calculated
+  1679 PO-214   842140   1.2E+07          Calculated
+  1680 PO-215   842150   4.6E+06          Calculated
+  1681 PO-216   842160   6.9E+07          Calculated
+  1682 PO-217   842170   2.1E+08          Calculated
+  1683 PO-218   842180   1.4E+07          Calculated
+  1684 PO-219   842190   1.4E+03          Calculated
+  1685 AT-205   852050   9.1E+02          Calculated
+  1686 AT-206   852060   4.0E+02          Calculated
+  1687 AT-207   852070   5.0E+02          Calculated
+  1688 AT-208   852080   3.3E+02          Calculated
+  1689 AT-209   852090   4.4E+02          Calculated
+  1690 AT-210   852100   3.4E+02          Calculated
+  1691 AT-211   852110   2.5E+04          Calculated
+  1692 AT-212   852120   4.7E+10          Calculated
+  1693 AT-212M  852121   8.3E+04          Calculated
+  1694 AT-213   852130   1.1E+17          Calculated
+  1695 AT-214   852140   2.3E+16          Calculated
+  1696 AT-215   852150   5.3E+06          Calculated
+  1697 AT-216   852160   1.5E+13          Calculated
+  1698 AT-217   852170   3.2E+06          Calculated
+  1699 AT-218   852180   8.2E+04          Calculated
+  1700 AT-219   852190   5.4E+05          Calculated
+  1701 AT-220   852200   8.6E+02          Calculated
+  1702 AT-221   852210   1.4E+03          Calculated
+  1703 AT-222   852220   7.0E+02          Calculated
+  1704 RN-208   862080   1.9E+03          Calculated
+  1705 RN-209   862090   9.2E+02          Calculated
+  1706 RN-210   862100   1.6E+04          Calculated
+  1707 RN-211   862110   5.2E+02          Calculated
+  1708 RN-212   862120   4.1E+06          Calculated
+  1709 RN-213   862130   1.9E+11          Calculated
+  1710 RN-214   862140   1.5E+16          Calculated
+  1711 RN-215   862150   1.0E+15          Calculated
+  1712 RN-216   862160   4.9E+13          Calculated
+  1713 RN-217   862170   6.2E+06          Calculated
+  1714 RN-218   862180   1.3E+06          Calculated
+  1715 RN-219   862190   1.8E+04          Calculated
+  1716 RN-220   862200   1.4E+06          Calculated
+  1717 RN-221   862210   7.9E+03          Calculated
+  1718 RN-222   862220   1.3E+04          Calculated
+  1719 RN-223   862230   2.5E+03          Calculated
+  1720 RN-224   862240   3.9E+03          Calculated
+  1721 RN-225   862250   1.1E+03          Calculated
+  1722 FR-218   872180   1.4E+10          Calculated
+  1723 FR-219   872190   5.2E+08          Calculated
+  1724 FR-220   872200   1.1E+05          Calculated
+  1725 FR-221   872210   3.3E+04          Calculated
+  1726 FR-222   872220   1.3E+03          Calculated
+  1727 FR-223   872230   1.0E+04          Calculated
+  1728 FR-224   872240   1.6E+03          Calculated
+  1729 FR-225   872250   1.5E+03          Calculated
+  1730 FR-226   872260   1.7E+03          Calculated
+  1731 FR-227   872270   1.1E+03          Calculated
+  1732 FR-228   872280   9.3E+02          Calculated
+  1733 RA-220   882200   2.2E+05          Calculated
+  1734 RA-221   882210   2.3E+04          Calculated
+  1735 RA-222   882220   1.1E+05          Calculated
+  1736 RA-223   882230   7.1E+03          Calculated
+  1737 RA-224   882240   9.7E+04          Calculated
+  1738 RA-225   882250   4.1E+04          Calculated
+  1739 RA-226   882260   3.0E+02          TECDOC-855
+  1740 RA-227   882270   4.9E+03          Calculated
+  1741 RA-228   882280   3.0E+02          TECDOC-855
+  1742 RA-229   882290   1.5E+03          Calculated
+  1743 RA-230   882300   3.0E+03          Calculated
+  1744 RA-231   882310   1.0E+03          Calculated
+  1745 AC-222   892220   3.4E+07          Calculated
+  1746 AC-222M  892221   2.2E+06          Calculated
+  1747 AC-223   892230   2.5E+05          Calculated
+  1748 AC-224   892240   3.6E+03          Calculated
+  1749 AC-225   892250   5.0E+04          Calculated
+  1750 AC-226   892260   4.1E+03          Calculated
+  1751 AC-227   892270   3.6E+03          Calculated
+  1752 AC-228   892280   9.9E+02          Calculated
+  1753 AC-229   892290   2.1E+03          Calculated
+  1754 AC-230   892300   1.6E+03          Calculated
+  1755 AC-231   892310   8.8E+02          Calculated
+  1756 AC-232   892320   7.4E+02          Calculated
+  1757 AC-233   892330   2.0E+03          Calculated
+  1758 AC-234   892340   6.3E+02          Calculated
+  1759 TH-224   902240   2.9E+04          Calculated
+  1760 TH-225   902250   7.9E+03          Calculated
+  1761 TH-226   902260   3.6E+04          Calculated
+  1762 TH-227   902270   8.7E+03          Calculated
+  1763 TH-228   902280   3.0E+02          TECDOC-855
+  1764 TH-229   902290   8.3E+03          Calculated
+  1765 TH-230   902300   3.0E+02          TECDOC-855
+  1766 TH-231   902310   2.4E+04          Calculated
+  1767 TH-232   902320   3.0E+02          TECDOC-855
+  1768 TH-233   902330   1.3E+04          Calculated
+  1769 TH-234   902340   6.7E+04          Calculated
+  1770 TH-235   902350   1.4E+03          Calculated
+  1771 PA-226   912260   9.2E+06          Calculated
+  1772 PA-227   912270   6.9E+04          Calculated
+  1773 PA-228   912280   8.5E+02          Calculated
+  1774 PA-229   912290   1.1E+03          Calculated
+  1775 PA-230   912300   1.4E+03          Calculated
+  1776 PA-231   912310   1.4E+04          Calculated
+  1777 PA-232   912320   1.0E+03          Calculated
+  1778 PA-233   912330   4.2E+03          Calculated
+  1779 PA-234   912340   6.8E+02          Calculated
+  1780 PA-234M  912341   9.9E+03          Calculated
+  1781 PA-235   912350   1.8E+04          Calculated
+  1782 PA-236   912360   1.8E+03          Calculated
+  1783 PA-237   912370   1.5E+03          Calculated
+  1784 PA-238   912380   4.9E+02          Calculated
+  1785 U -228   922280   1.2E+05          Calculated
+  1786 U -229   922290   3.0E+05          Calculated
+  1787 U -230   922300   1.3E+05          Calculated
+  1788 U -231   922310   9.9E+03          Calculated
+  1789 U -232   922320   3.0E+02          TECDOC-855
+  1790 U -233   922330   2.1E+05          Calculated
+  1791 U -234   922340   3.0E+02          TECDOC-855
+  1792 U -235   922350   3.0E+02          TECDOC-855
+  1793 U -235M  922351   1.3E+08          Calculated
+  1794 U -236   922360   2.3E+05          Calculated
+  1795 U -237   922370   6.1E+03          Calculated
+  1796 U -238   922380   3.0E+02          TECDOC-855
+  1797 U -239   922390   1.1E+04          Calculated
+  1798 U -240   922400   4.2E+04          Calculated
+  1799 U -241   922410   1.2E+03          Calculated
+  1800 U -242   922420   2.5E+04          Calculated
+  1801 U -243   922430   9.2E+02          Calculated
+  1802 U -244   922440   1.5E+03          Calculated
+  1803 U -245   922450   7.5E+02          Calculated
+  1804 NP-230   932300   1.7E+08          Calculated
+  1805 NP-231   932310   8.2E+02          Calculated
+  1806 NP-232   932320   8.1E+02          Calculated
+  1807 NP-233   932330   7.9E+03          Calculated
+  1808 NP-234   932340   9.1E+02          Calculated
+  1809 NP-235   932350   1.3E+05          Calculated
+  1810 NP-236   932360   5.7E+03          Calculated
+  1811 NP-236M  932361   1.7E+04          Calculated
+  1812 NP-237   932370   3.0E+02          TECDOC-855
+  1813 NP-238   932380   1.5E+03          Calculated
+  1814 NP-239   932390   4.8E+03          Calculated
+  1815 NP-240   932400   7.7E+02          Calculated
+  1816 NP-240M  932401   2.5E+03          Calculated
+  1817 NP-241   932410   1.3E+04          Calculated
+  1818 NP-242   932420   1.0E+03          Calculated
+  1819 NP-242M  932421   2.9E+03          Calculated
+  1820 NP-243   932430   1.3E+03          Calculated
+  1821 NP-244   932440   7.1E+02          Calculated
+  1822 NP-245   932450   1.0E+03          Calculated
+  1823 NP-246   932460   6.0E+02          Calculated
+  1824 PU-232   942320   2.2E+03          Calculated
+  1825 PU-233   942330   3.0E+02          Calculated
+  1826 PU-234   942340   8.3E+07          Calculated
+  1827 PU-235   942350   9.9E+03          Calculated
+  1828 PU-236   942360   5.0E+04          Calculated
+  1829 PU-237   942370   1.8E+04          Calculated
+  1830 PU-237M  942371   4.4E+04          Calculated
+  1831 PU-238   942380   1.8E+04          Calculated
+  1832 PU-239   942390   3.0E+02          TECDOC-855
+  1833 PU-240   942400   3.0E+02          TECDOC-855
+  1834 PU-241   942410   3.0E+04          TECDOC-855
+  1835 PU-242   942420   1.8E+04          Calculated
+  1836 PU-243   942430   2.4E+04          Calculated
+  1837 PU-244   942440   1.8E+04          Calculated
+  1838 PU-245   942450   2.3E+03          Calculated
+  1839 PU-246   942460   7.4E+03          Calculated
+  1840 PU-247   942470   1.2E+03          Calculated
+  1841 AM-237   952370   2.4E+03          Calculated
+  1842 AM-238   952380   1.1E+03          Calculated
+  1843 AM-239   952390   3.6E+03          Calculated
+  1844 AM-240   952400   9.6E+02          Calculated
+  1845 AM-241   952410   3.0E+02          TECDOC-855
+  1846 AM-242   952420   2.8E+04          Calculated
+  1847 AM-242M  952421   2.2E+04          Calculated
+  1848 AM-243   952430   1.7E+04          Calculated
+  1849 AM-244   952440   1.1E+03          Calculated
+  1850 AM-244M  952441   1.6E+04          Calculated
+  1851 AM-245   952450   1.8E+04          Calculated
+  1852 AM-246   952460   1.2E+03          Calculated
+  1853 AM-246M  952461   9.4E+02          Calculated
+  1854 AM-247   952470   4.2E+03          Calculated
+  1855 AM-248   952480   8.5E+02          Calculated
+  1856 AM-249   952490   1.0E+03          Calculated
+  1857 AM-250   952500   6.6E+02          Calculated
+  1858 CM-238   962380   2.5E+08          Calculated
+  1859 CM-239   962390   8.2E+02          Calculated
+  1860 CM-240   962400   5.7E+05          Calculated
+  1861 CM-241   962410   2.0E+03          Calculated
+  1862 CM-242   962420   3.4E+05          Calculated
+  1863 CM-243   962430   6.8E+03          Calculated
+  1864 CM-244   962440   3.0E+02          TECDOC-855
+  1865 CM-245   962450   9.8E+03          Calculated
+  1866 CM-246   962460   2.0E+04          Calculated
+  1867 CM-247   962470   3.3E+03          Calculated
+  1868 CM-248   962480   1.7E+03          Calculated
+  1869 CM-249   962490   2.1E+04          Calculated
+  1870 CM-250   962500   2.0E+02          Calculated
+  1871 CM-251   962510   6.5E+03          Calculated
+  1872 BK-243   972430   5.7E+03          Calculated
+  1873 BK-244   972440   4.5E+02          Calculated
+  1874 BK-245   972450   3.2E+03          Calculated
+  1875 BK-246   972460   1.0E+03          Calculated
+  1876 BK-247   972470   8.7E+03          Calculated
+  1877 BK-248   972480   3.7E+03          Calculated
+  1878 BK-248M  972481   1.2E+04          Calculated
+  1879 BK-249   972490   3.0E+05          Calculated
+  1880 BK-250   972500   1.1E+03          Calculated
+  1881 BK-251   972510   2.4E+03          Calculated
+  1882 BK-252   972520   9.1E+02          Calculated
+  1883 BK-253   972530   1.7E+04          Calculated
+  1884 BK-254   972540   8.0E+02          Calculated
+  1885 CF-244   982440   1.4E+08          Calculated
+  1886 CF-245   982450   1.9E+06          Calculated
+  1887 CF-246   982460   3.2E+05          Calculated
+  1888 CF-247   982470   3.2E+02          Calculated
+  1889 CF-248   982480   2.3E+05          Calculated
+  1890 CF-249   982490   3.0E+03          Calculated
+  1891 CF-250   982500   5.9E+04          Calculated
+  1892 CF-251   982510   7.2E+03          Calculated
+  1893 CF-252   982520   4.6E+03          Calculated
+  1894 CF-253   982530   1.2E+05          Calculated
+  1895 CF-254   982540   4.9E+04          Calculated
+  1896 CF-255   982550   3.4E+03          Calculated
+  1897 ES-249   992490   3.3E+03          Calculated
+  1898 ES-250   992500   8.0E+02          Calculated
+  1899 ES-250M  992501   6.8E+03          Calculated
+  1900 ES-251   992510   1.2E+08          Calculated
+  1901 ES-252   992520   1.4E+03          Calculated
+  1902 ES-253   992530   6.5E+05          Calculated
+  1903 ES-254   992540   5.9E+02          Calculated
+  1904 ES-254M  992541   2.0E+03          Calculated
+  1905 ES-255   992550   4.0E+04          Calculated
+  1906 ES-256   992560   1.6E+03          Calculated
+  1907 ES-256M  992561   5.7E+03          Calculated
+  1908 ES-257   992570   3.0E+03          Calculated
+  1909 FM-250  1002500   6.8E+07          Calculated
+  1910 FM-251  1002510   6.0E+03          Calculated
+  1911 FM-252  1002520   6.3E+06          Calculated
+  1912 FM-253  1002530   1.1E+04          Calculated
+  1913 FM-254  1002540   3.3E+05          Calculated
+  1914 FM-255  1002550   3.3E+04          Calculated
+  1915 FM-256  1002560   5.0E+05          Calculated
+  1916 FM-257  1002570   6.7E+03          Calculated
+  1917 FM-258  1002580   4.9E+05          Calculated

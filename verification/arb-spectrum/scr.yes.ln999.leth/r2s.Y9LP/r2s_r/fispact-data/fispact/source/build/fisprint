@@ -1,0 +1,26 @@
+#! /bin/csh -f
+
+# this script prints set of argument files to postscript printer
+# that is set to default for a2ps. 
+
+# the sed filter converts fortran carriage controls 0 to lf and 1 to ff
+# and to remove leading space character
+ 
+
+# To set default printer to hp, say, set
+# contents of file  ~/.a2ps/a2psrc to  
+# Options:  -Php
+
+
+if ( $#argv == 0 ) then        # At least 1 argument must be present.
+   echo 'Usage: fisprint <file list>'
+   exit(0)
+endif
+
+foreach i ($argv)
+sed -e 's/^ //' -e 's/^1/\cL/' -e 's/^0/\cJ/' <$i|       \
+a2ps --prol=fixed --columns=1 --rows=1 -l 150 -L 60 -M a4 \
+--center-title=$i --footer="Fispact-II output" 
+# alternative to -Pclj to send to files
+# -o $i.ps
+end

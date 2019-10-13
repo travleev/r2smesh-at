@@ -1,0 +1,9 @@
+The ENDF/B pre-processing codes PREPRO can be used to view the data, on -screen
+and/or hardcopy on virtually any computer.
+
+https://www-nds.iaea.org/public/endf/prepro/
+
+Once installed just type
+
+complot or evalplot
+comhard or evalhard

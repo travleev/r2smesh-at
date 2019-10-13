@@ -1,0 +1,81 @@
+ MONITOR 1
+ GETXS 0
+ GETDECAY 0
+ FISPACT
+ * Inventory calculations for XXX
+  load cross-sections
+  load decay data
+  collapse fission yields
+  run reset cross-section
+ TAB4 10
+ DENSITY 1.000000
+ FUEL 2
+ Fe054 5.3497874E+23
+ Fe056 2.6748937E+23
+ UNCERTAINTY 0
+ SPECTRUM
+  load initial values
+  run output inventory
+ FLUX 1.0000000E+19
+ TIME 2
+  fill rate equation matrix for cooling
+  fill rate equation matrix for irradiation
+  initialise dominant analysis
+  test for gas, kerma and dpa data
+ YEARS
+ SPECTRUM
+  run irradiation init
+  run irradiation step
+  run output inventory
+ FLUX 0.0000000E+00
+ ZERO
+ TIME 0
+ SPECTRUM
+  run cooling step
+  run output inventory
+ TIME 1
+ DAYS
+ SPECTRUM
+  run cooling step
+  run output inventory
+ TIME 11
+ DAYS
+ SPECTRUM
+  run cooling step
+  run output inventory
+ TIME 18
+ DAYS
+ SPECTRUM
+  run cooling step
+  run output inventory
+ TIME 30
+ DAYS
+ SPECTRUM
+  run cooling step
+  run output inventory
+ TIME 122.625
+ DAYS
+ SPECTRUM
+  run cooling step
+  run output inventory
+ TIME 0.5
+ YEARS
+ SPECTRUM
+  run cooling step
+  run output inventory
+ TIME 1
+ YEARS
+ SPECTRUM
+  run cooling step
+  run output inventory
+ TIME 8
+ YEARS
+ SPECTRUM
+  run cooling step
+  run output inventory
+ END
+ * END of irradiation scenario for arb-flux test
+  run output summary
+  run closedown
+  deallocate and closedown
+ inventory:cpu time = 0.514     secs.   No errors/warnings

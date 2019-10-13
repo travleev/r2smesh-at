@@ -1,0 +1,12 @@
+System Configuration: 
+VAIO vgn-sz
+Intel(R) T2500 @2GHz
+VnWare Workstation 7.1.4 build-385536
+Memory 742Mb
+
+g95: GCC 4.0.3 (g95 0.92) June 24 2009
+Linux ubuntu 2.6.38-10-generic i686
+ubuntu 11.04 Natty Narwhal
+
+F90FLAGS = -O -ffloat-store  -ffree-form -ftr15581 -std=f2003
+F77FLAGS = -O -Wno=155 -ffloat-store

@@ -1,0 +1,48 @@
+The subdirectories of this directory contain FISPACT-II executables
+compiled under different operating systems (Linux, Unix, Mac-OSX and
+Windows) using alternative fortran compilers (g95, gfortran, ifort,
+oracle and pgfortran) for different word lengths, i586 (32-bit) and
+X86 (64-bit).
+
+`-----CentOS-X86
+|      `-----gfortran
+`-----Mac-OSX-Maverick-X86
+|      `-----gfortran
+|      `-----ifort
+`-----OpenSUSE-11.3-i586
+|      `-----gfortran
+|      `-----ifort
+`-----OpenSUSE-12.2-X86
+|      `-----g95
+|      `-----gfortran
+|      `-----ifort
+|      `-----oracle
+`-----SL-6.4-X86
+|      `-----pgfortran
+`-----Ubuntu-11.04-i586
+|      `-----g95
+`-----Ubuntu-12.04-X86
+|      `-----gfortran
+`-----Unix-Sparc
+|      `-----oracle
+`-----Unix-X86
+|      `-----oracle
+`-----Windows7-X86
+|      `-----g95
+|      `-----gfortran
+|      `-----ifort
+`-----WindowsXP-i586
+|      `-----g95
+|      `-----gfortran
+|      `-----ifort
+
+Select the version that is most appropriate for your use and copy it
+to your ~/bin directory (on Linux, Unix or Mac) or add it to your PATH
+environment variable on Windows.
+
+In each of the bottom level directories is a README file that lists
+the computer, operating system, compiler and compiler options used to
+build the executable (fispact or fispact.exe) and (compress_xs_endf or
+compress_xs_endf.exe) in that directory. Note that the Windows g95 and
+intel executables are statically linked and so do not need the cygwin
+dll, but the gfortran executables do.

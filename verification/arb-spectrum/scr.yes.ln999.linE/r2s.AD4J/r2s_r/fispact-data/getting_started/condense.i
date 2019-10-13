@@ -1,0 +1,8 @@
+<< -----condense decay data----- >>
+NOHEADER
+SPEK
+GETDECAY 1
+FISPACT
+* DEC_99.00X/100_99/EEF121M.GP)
+END
+* END OF RUN

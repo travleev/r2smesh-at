@@ -1,0 +1,13 @@
+System Configuration: 
+VAIO vgn-sz
+Intel(R) T2500 @2GHz
+VnWare Workstation 7.1.4 build-385536
+Memory 742Mb
+
+gfortran: GNU Fortran(SuSe Linux) 4.5.0.20100604
+Linux 2.6.34.12-desktop i686
+System:  openSUSE 11.3 (i586)
+KDE:  4.4.4 (KDE 4.4.4) "release 2"
+
+F90FLAGS = -O  -static -ffree-form  -ffloat-store -fno-sign-zero -std=f2003
+F77FLAGS = -O  -ffloat-store -fno-sign-zero 

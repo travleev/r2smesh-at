@@ -1,0 +1,13 @@
+System Configuration: 
+VAIO vgn-sz
+Intel(R) T2500 @2GHz
+VnWare Workstation 7.1.4 build-385536
+Memory 742Mb
+
+ifort: (IFORT) 12.0.0 20101116
+Linux 2.6.34.12-desktop i686
+System:  openSUSE 11.3 (i586)
+KDE:  4.4.4 (KDE 4.4.4) "release 2"
+
+F90FLAGS = -O -std03 -unroll -fp-model precise
+F77FLAGS = -O  -fp-model precise

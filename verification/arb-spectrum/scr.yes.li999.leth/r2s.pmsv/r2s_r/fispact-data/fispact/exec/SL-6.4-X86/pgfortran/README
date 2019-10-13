@@ -1,0 +1,10 @@
+System Configuration: 
+VirtualBox on MacPro
+2.7 GHz 12-Core Intel Xeon E5
+Memory 32GB 1867 MHZ DDR3
+
+pgfortran 13.4-0 64-bit target on x86-64 Linux -tp core2 
+Scientific Linux SL6.4 2.6.32-358.11.1.el6.x86_64 
+
+F90FLAGS = -fast -Mipa=fast,inline  -Mbackslash -Bstatic_pg
+F77FLAGS = -fast -Mipa=fast,inline

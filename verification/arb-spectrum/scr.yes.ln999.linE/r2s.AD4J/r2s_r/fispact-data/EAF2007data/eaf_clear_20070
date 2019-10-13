@@ -1,0 +1,2232 @@
+Clearance values (Bq/kg).
+     1 H -  1    10010  -1.0E+00          STABLE  
+     2 H -  2    10020  -1.0E+00          STABLE  
+     3 H -  3    10030   1.0E+05          IAEA-G-1.7
+     4 HE-  3    20030  -1.0E+00          STABLE  
+     5 HE-  4    20040  -1.0E+00          STABLE  
+     6 HE-  6    20060   6.2E+03          Calculated
+     7 LI-  5    30050   1.0E+30          Calculated
+     8 LI-  6    30060  -1.0E+00          STABLE  
+     9 LI-  7    30070  -1.0E+00          STABLE  
+    10 LI-  8    30080   1.5E+03          Calculated
+    11 LI-  9    30090   1.7E+03          Calculated
+    12 BE-  6    40060   1.0E+30          Calculated
+    13 BE-  7    40070   1.0E+04          IAEA-G-1.7
+    14 BE-  8    40080   4.9E+28          Calculated
+    15 BE-  9    40090  -1.0E+00          STABLE  
+    16 BE- 10    40100   4.0E+04          Calculated
+    17 BE- 11    40110   5.3E+02          Calculated
+    18 BE- 12    40120   1.8E+03          Calculated
+    19 BE- 13    40130   8.7E+20          Calculated
+    20 B -  8    50080   2.0E+02          Calculated
+    21 B -  9    50090   1.6E+29          Calculated
+    22 B - 10    50100  -1.0E+00          STABLE  
+    23 B - 11    50110  -1.0E+00          STABLE  
+    24 B - 12    50120   1.4E+03          Calculated
+    25 B - 13    50130   1.1E+03          Calculated
+    26 B - 14    50140   1.5E+02          Calculated
+    27 B - 15    50150   2.0E+02          Calculated
+    28 C -  9    60090   1.9E+02          Calculated
+    29 C - 10    60100   5.5E+02          Calculated
+    30 C - 11    60110   9.5E+02          Calculated
+    31 C - 12    60120  -1.0E+00          STABLE  
+    32 C - 13    60130  -1.0E+00          STABLE  
+    33 C - 14    60140   1.0E+03          IAEA-G-1.7
+    34 C - 15    60150   2.6E+02          Calculated
+    35 C - 16    60160   6.5E+02          Calculated
+    36 C - 17    60170   2.5E+02          Calculated
+    37 N - 11    70110   1.0E+30          Calculated
+    38 N - 12    70120   5.1E+02          Calculated
+    39 N - 13    70130   9.4E+02          Calculated
+    40 N - 14    70140  -1.0E+00          STABLE  
+    41 N - 15    70150  -1.0E+00          STABLE  
+    42 N - 16    70160   2.0E+02          Calculated
+    43 N - 17    70170   4.7E+03          Calculated
+    44 N - 18    70180   2.0E+02          Calculated
+    45 N - 19    70190   3.0E+02          Calculated
+    46 N - 20    70200   2.2E+02          Calculated
+    47 O - 14    80140   2.9E+02          Calculated
+    48 O - 15    80150   9.1E+02          Calculated
+    49 O - 16    80160  -1.0E+00          STABLE  
+    50 O - 17    80170  -1.0E+00          STABLE  
+    51 O - 18    80180  -1.0E+00          STABLE  
+    52 O - 19    80190   8.5E+02          Calculated
+    53 O - 20    80200   8.5E+02          Calculated
+    54 O - 21    80210   3.1E+02          Calculated
+    55 O - 22    80220   5.2E+02          Calculated
+    56 F - 15    90150   1.0E+30          Calculated
+    57 F - 16    90160   1.0E+30          Calculated
+    58 F - 17    90170   9.1E+02          Calculated
+    59 F - 18    90180   1.0E+04          IAEA-G-1.7
+    60 F - 19    90190  -1.0E+00          STABLE  
+    61 F - 20    90200   5.3E+02          Calculated
+    62 F - 21    90210   1.3E+03          Calculated
+    63 F - 22    90220   1.7E+02          Calculated
+    64 F - 23    90230   3.9E+02          Calculated
+    65 F - 24    90240   3.9E+02          Calculated
+    66 NE- 17   100170   2.6E+02          Calculated
+    67 NE- 18   100180   8.0E+02          Calculated
+    68 NE- 19   100190   9.0E+02          Calculated
+    69 NE- 20   100200  -1.0E+00          STABLE  
+    70 NE- 21   100210  -1.0E+00          STABLE  
+    71 NE- 22   100220  -1.0E+00          STABLE  
+    72 NE- 23   100230   2.8E+03          Calculated
+    73 NE- 24   100240   1.6E+03          Calculated
+    74 NE- 25   100250   1.5E+03          Calculated
+    75 NE- 26   100260   1.6E+09          Calculated
+    76 NE- 27   100270   2.2E+02          Calculated
+    77 NA- 20   110200   3.5E+02          Calculated
+    78 NA- 21   110210   8.7E+02          Calculated
+    79 NA- 22   110220   1.0E+02          IAEA-G-1.7
+    80 NA- 23   110230  -1.0E+00          STABLE  
+    81 NA- 24   110240   1.0E+03          IAEA-G-1.7
+    82 NA- 24M  110241   2.1E+03          Calculated
+    83 NA- 25   110250   1.7E+03          Calculated
+    84 NA- 26   110260   4.0E+02          Calculated
+    85 NA- 27   110270   6.5E+02          Calculated
+    86 NA- 28   110280   5.7E+02          Calculated
+    87 NA- 29   110290   2.3E+02          Calculated
+    88 NA- 30   110300   1.9E+02          Calculated
+    89 MG- 21   120210   5.1E+02          Calculated
+    90 MG- 22   120220   5.4E+02          Calculated
+    91 MG- 23   120230   8.4E+02          Calculated
+    92 MG- 24   120240  -1.0E+00          STABLE  
+    93 MG- 25   120250  -1.0E+00          STABLE  
+    94 MG- 26   120260  -1.0E+00          STABLE  
+    95 MG- 27   120270   1.0E+03          Calculated
+    96 MG- 28   120280   7.1E+02          Calculated
+    97 MG- 29   120290   4.7E+02          Calculated
+    98 MG- 30   120300   3.9E+02          Calculated
+    99 MG- 31   120310   2.4E+02          Calculated
+   100 AL- 23   130230   2.4E+02          Calculated
+   101 AL- 24   130240   1.0E+02          Calculated
+   102 AL- 24M  130241   1.7E+03          Calculated
+   103 AL- 25   130250   8.5E+02          Calculated
+   104 AL- 26   130260   3.7E+02          Calculated
+   105 AL- 26M  130261   8.6E+02          Calculated
+   106 AL- 27   130270  -1.0E+00          STABLE  
+   107 AL- 28   130280   5.2E+02          Calculated
+   108 AL- 29   130290   6.8E+02          Calculated
+   109 AL- 30   130300   2.7E+02          Calculated
+   110 AL- 31   130310   9.5E+02          Calculated
+   111 AL- 32   130320   8.8E+02          Calculated
+   112 AL- 33   130330   2.4E+02          Calculated
+   113 AL- 34   130340   1.7E+02          Calculated
+   114 SI- 25   140250   8.0E+02          Calculated
+   115 SI- 26   140260   7.1E+02          Calculated
+   116 SI- 27   140270   8.3E+02          Calculated
+   117 SI- 28   140280  -1.0E+00          STABLE  
+   118 SI- 29   140290  -1.0E+00          STABLE  
+   119 SI- 30   140300  -1.0E+00          STABLE  
+   120 SI- 31   140310   1.0E+06          IAEA-G-1.7
+   121 SI- 32   140320   1.5E+05          Calculated
+   122 SI- 33   140330   4.0E+02          Calculated
+   123 SI- 34   140340   6.0E+02          Calculated
+   124 SI- 35   140350   2.1E+02          Calculated
+   125 SI- 36   140360   5.1E+02          Calculated
+   126 P - 28   150280   1.9E+02          Calculated
+   127 P - 29   150290   3.9E+02          Calculated
+   128 P - 30   150300   8.6E+02          Calculated
+   129 P - 31   150310  -1.0E+00          STABLE  
+   130 P - 32   150320   1.0E+06          IAEA-G-1.7
+   131 P - 33   150330   1.0E+06          IAEA-G-1.7
+   132 P - 34   150340   1.7E+03          Calculated
+   133 P - 35   150350   5.9E+02          Calculated
+   134 P - 36   150360   1.5E+02          Calculated
+   135 P - 37   150370   3.4E+02          Calculated
+   136 P - 38   150380   3.1E+02          Calculated
+   137 P - 39   150390   3.1E+02          Calculated
+   138 P - 40   150400   2.1E+02          Calculated
+   139 S - 29   160290   2.0E+02          Calculated
+   140 S - 30   160300   5.5E+02          Calculated
+   141 S - 31   160310   8.1E+02          Calculated
+   142 S - 32   160320  -1.0E+00          STABLE  
+   143 S - 33   160330  -1.0E+00          STABLE  
+   144 S - 34   160340  -1.0E+00          STABLE  
+   145 S - 35   160350   1.0E+05          IAEA-G-1.7
+   146 S - 36   160360  -1.0E+00          STABLE  
+   147 S - 37   160370   3.3E+02          Calculated
+   148 S - 38   160380   5.7E+02          Calculated
+   149 S - 39   160390   5.0E+02          Calculated
+   150 S - 40   160400   6.2E+02          Calculated
+   151 S - 41   160410   3.3E+02          Calculated
+   152 CL- 32   170320   2.1E+02          Calculated
+   153 CL- 33   170330   8.0E+02          Calculated
+   154 CL- 34   170340   8.1E+02          Calculated
+   155 CL- 34M  170341   4.9E+02          Calculated
+   156 CL- 35   170350  -1.0E+00          STABLE  
+   157 CL- 36   170360   1.0E+03          IAEA-G-1.7
+   158 CL- 37   170370  -1.0E+00          STABLE  
+   159 CL- 38   170380   1.0E+04          IAEA-G-1.7
+   160 CL- 38M  170381   1.5E+03          Calculated
+   161 CL- 39   170390   6.5E+02          Calculated
+   162 CL- 40   170400   2.4E+02          Calculated
+   163 CL- 41   170410   4.7E+02          Calculated
+   164 CL- 42   170420   2.9E+02          Calculated
+   165 CL- 43   170430   3.5E+02          Calculated
+   166 CL- 44   170440   2.3E+02          Calculated
+   167 CL- 45   170450   2.8E+02          Calculated
+   168 AR- 33   180330   5.7E+02          Calculated
+   169 AR- 34   180340   7.5E+02          Calculated
+   170 AR- 35   180350   7.8E+02          Calculated
+   171 AR- 36   180360  -1.0E+00          STABLE  
+   172 AR- 37   180370   2.0E+06          Calculated
+   173 AR- 38   180380  -1.0E+00          STABLE  
+   174 AR- 39   180390   1.9E+04          Calculated
+   175 AR- 40   180400  -1.0E+00          STABLE  
+   176 AR- 41   180410   7.5E+02          Calculated
+   177 AR- 42   180420   5.0E+03          Calculated
+   178 AR- 43   180430   6.1E+02          Calculated
+   179 AR- 44   180440   5.2E+02          Calculated
+   180 AR- 45   180450   3.1E+02          Calculated
+   181 AR- 46   180460   4.7E+02          Calculated
+   182 AR- 47   180470   2.8E+02          Calculated
+   183 K - 36   190360   1.7E+02          Calculated
+   184 K - 37   190370   7.7E+02          Calculated
+   185 K - 38   190380   3.0E+02          Calculated
+   186 K - 38M  190381   7.9E+02          Calculated
+   187 K - 39   190390  -1.0E+00          STABLE  
+   188 K - 40   190400   1.0E+04          IAEA-G-1.7
+   189 K - 41   190410  -1.0E+00          STABLE  
+   190 K - 42   190420   1.0E+04          IAEA-G-1.7
+   191 K - 43   190430   1.0E+03          Calculated
+   192 K - 44   190440   3.9E+02          Calculated
+   193 K - 45   190450   5.2E+02          Calculated
+   194 K - 46   190460   3.5E+02          Calculated
+   195 K - 47   190470   3.6E+02          Calculated
+   196 K - 48   190480   1.5E+02          Calculated
+   197 CA- 37   200370   6.8E+02          Calculated
+   198 CA- 38   200380   6.2E+02          Calculated
+   199 CA- 39   200390   7.8E+02          Calculated
+   200 CA- 40   200400  -1.0E+00          STABLE  
+   201 CA- 41   200410   1.4E+06          Calculated
+   202 CA- 42   200420  -1.0E+00          STABLE  
+   203 CA- 43   200430  -1.0E+00          STABLE  
+   204 CA- 44   200440  -1.0E+00          STABLE  
+   205 CA- 45   200450   1.0E+05          IAEA-G-1.7
+   206 CA- 46   200460  -1.0E+00          STABLE  
+   207 CA- 47   200470   1.0E+04          IAEA-G-1.7
+   208 CA- 48   200480   3.8E+03          Calculated
+   209 CA- 49   200490   3.1E+02          Calculated
+   210 SC- 40   210400   1.3E+02          Calculated
+   211 SC- 41   210410   7.8E+02          Calculated
+   212 SC- 42   210420   7.9E+02          Calculated
+   213 SC- 42M  210421   2.3E+02          Calculated
+   214 SC- 43   210430   9.7E+02          Calculated
+   215 SC- 44   210440   4.6E+02          Calculated
+   216 SC- 44M  210441   3.6E+03          Calculated
+   217 SC- 45   210450  -1.0E+00          STABLE  
+   218 SC- 45M  210451   6.8E+05          Calculated
+   219 SC- 46   210460   1.0E+02          IAEA-G-1.7
+   220 SC- 46M  210461   1.1E+04          Calculated
+   221 SC- 47   210470   1.0E+05          IAEA-G-1.7
+   222 SC- 48   210480   1.0E+03          IAEA-G-1.7
+   223 SC- 49   210490   1.2E+04          Calculated
+   224 SC- 50   210500   3.0E+02          Calculated
+   225 SC- 50M  210501   3.7E+03          Calculated
+   226 SC- 51   210510   3.9E+02          Calculated
+   227 SC- 52   210520   3.1E+02          Calculated
+   228 TI- 41   220410   6.9E+02          Calculated
+   229 TI- 42   220420   6.1E+02          Calculated
+   230 TI- 43   220430   6.8E+02          Calculated
+   231 TI- 44   220440   7.2E+03          Calculated
+   232 TI- 45   220450   1.1E+03          Calculated
+   233 TI- 46   220460  -1.0E+00          STABLE  
+   234 TI- 47   220470  -1.0E+00          STABLE  
+   235 TI- 48   220480  -1.0E+00          STABLE  
+   236 TI- 49   220490  -1.0E+00          STABLE  
+   237 TI- 50   220500  -1.0E+00          STABLE  
+   238 TI- 51   220510   2.2E+03          Calculated
+   239 TI- 52   220520   4.9E+03          Calculated
+   240 TI- 53   220530   4.7E+02          Calculated
+   241 TI- 54   220540   6.3E+02          Calculated
+   242 TI- 55   220550   3.6E+02          Calculated
+   243 V - 44   230440   2.0E+02          Calculated
+   244 V - 45   230450   7.6E+02          Calculated
+   245 V - 46   230460   7.7E+02          Calculated
+   246 V - 47   230470   9.3E+02          Calculated
+   247 V - 48   230480   1.0E+03          IAEA-G-1.7
+   248 V - 49   230490   7.7E+05          Calculated
+   249 V - 50   230500   7.0E+02          Calculated
+   250 V - 51   230510  -1.0E+00          STABLE  
+   251 V - 52   230520   6.4E+02          Calculated
+   252 V - 53   230530   8.8E+02          Calculated
+   253 V - 54   230540   2.4E+02          Calculated
+   254 V - 55   230550   1.1E+03          Calculated
+   255 V - 56   230560   3.0E+02          Calculated
+   256 V - 57   230570   3.3E+02          Calculated
+   257 V - 58   230580   5.6E+02          Calculated
+   258 CR- 46   240460   7.5E+02          Calculated
+   259 CR- 47   240470   7.5E+02          Calculated
+   260 CR- 48   240480   2.3E+03          Calculated
+   261 CR- 49   240490   9.0E+02          Calculated
+   262 CR- 50   240500   8.6E+03          Calculated
+   263 CR- 51   240510   1.0E+05          IAEA-G-1.7
+   264 CR- 52   240520  -1.0E+00          STABLE  
+   265 CR- 53   240530  -1.0E+00          STABLE  
+   266 CR- 54   240540  -1.0E+00          STABLE  
+   267 CR- 55   240550   8.8E+03          Calculated
+   268 CR- 56   240560   6.6E+03          Calculated
+   269 CR- 57   240570   1.5E+03          Calculated
+   270 CR- 58   240580   6.7E+02          Calculated
+   271 CR- 59   240590   3.6E+02          Calculated
+   272 MN- 48   250480   2.0E+02          Calculated
+   273 MN- 49   250490   7.1E+02          Calculated
+   274 MN- 50   250500   7.5E+02          Calculated
+   275 MN- 50M  250501   2.0E+02          Calculated
+   276 MN- 51   250510   1.0E+04          IAEA-G-1.7
+   277 MN- 52   250520   1.0E+03          IAEA-G-1.7
+   278 MN- 52M  250521   1.0E+04          IAEA-G-1.7
+   279 MN- 53   250530   1.0E+05          IAEA-G-1.7
+   280 MN- 54   250540   1.0E+02          IAEA-G-1.7
+   281 MN- 55   250550  -1.0E+00          STABLE  
+   282 MN- 56   250560   1.0E+04          IAEA-G-1.7
+   283 MN- 57   250570   4.8E+03          Calculated
+   284 MN- 58   250580   3.9E+02          Calculated
+   285 MN- 58M  250581   2.5E+03          Calculated
+   286 MN- 59   250590   1.3E+03          Calculated
+   287 MN- 60   250600   2.6E+03          Calculated
+   288 MN- 60M  250601   3.4E+02          Calculated
+   289 MN- 61   250610   2.2E+03          Calculated
+   290 MN- 62   250620   4.0E+02          Calculated
+   291 MN- 63   250630   3.0E+02          Calculated
+   292 MN- 64   250640   2.2E+02          Calculated
+   293 FE- 49   260490  -1.0E+00          STABLE  
+   294 FE- 50   260500   3.3E+02          Calculated
+   295 FE- 51   260510   7.2E+02          Calculated
+   296 FE- 52   260520   1.0E+04          IAEA-G-1.7
+   297 FE- 52M  260521   2.0E+02          Calculated
+   298 FE- 53   260530   7.7E+02          Calculated
+   299 FE- 53M  260531   3.3E+02          Calculated
+   300 FE- 54   260540  -1.0E+00          STABLE  
+   301 FE- 55   260550   1.0E+06          IAEA-G-1.7
+   302 FE- 56   260560  -1.0E+00          STABLE  
+   303 FE- 57   260570  -1.0E+00          STABLE  
+   304 FE- 58   260580  -1.0E+00          STABLE  
+   305 FE- 59   260590   1.0E+03          IAEA-G-1.7
+   306 FE- 60   260600   1.1E+05          Calculated
+   307 FE- 61   260610   6.7E+02          Calculated
+   308 FE- 62   260620   1.7E+03          Calculated
+   309 FE- 63   260630   1.7E+03          Calculated
+   310 FE- 64   260640   4.4E+03          Calculated
+   311 FE- 65   260650   3.3E+02          Calculated
+   312 CO- 52   270520   2.5E+02          Calculated
+   313 CO- 53   270530   7.0E+02          Calculated
+   314 CO- 54   270540   7.3E+02          Calculated
+   315 CO- 54M  270541   2.4E+02          Calculated
+   316 CO- 55   270550   1.0E+04          IAEA-G-1.7
+   317 CO- 56   270560   1.0E+02          IAEA-G-1.7
+   318 CO- 57   270570   1.0E+03          IAEA-G-1.7
+   319 CO- 58   270580   1.0E+03          IAEA-G-1.7
+   320 CO- 58M  270581   1.0E+07          IAEA-G-1.7
+   321 CO- 59   270590  -1.0E+00          STABLE  
+   322 CO- 60   270600   1.0E+02          IAEA-G-1.7
+   323 CO- 60M  270601   1.0E+06          IAEA-G-1.7
+   324 CO- 61   270610   1.0E+05          IAEA-G-1.7
+   325 CO- 62   270620   5.7E+02          Calculated
+   326 CO- 62M  270621   1.0E+04          IAEA-G-1.7
+   327 CO- 63   270630   3.3E+03          Calculated
+   328 CO- 64   270640   2.0E+03          Calculated
+   329 CO- 65   270650   2.6E+03          Calculated
+   330 CO- 66   270660   3.2E+02          Calculated
+   331 CO- 67   270670   1.0E+03          Calculated
+   332 CO- 68   270680   2.6E+02          Calculated
+   333 CO- 68M  270681   4.3E+02          Calculated
+   334 CO- 69   270690   2.7E+02          Calculated
+   335 NI- 53   280530   1.6E+03          Calculated
+   336 NI- 54   280540   3.1E+02          Calculated
+   337 NI- 55   280550   7.3E+02          Calculated
+   338 NI- 56   280560   5.8E+02          Calculated
+   339 NI- 57   280570   5.1E+02          Calculated
+   340 NI- 58   280580   5.2E+03          Calculated
+   341 NI- 59   280590   1.0E+05          IAEA-G-1.7
+   342 NI- 60   280600  -1.0E+00          STABLE  
+   343 NI- 61   280610  -1.0E+00          STABLE  
+   344 NI- 62   280620  -1.0E+00          STABLE  
+   345 NI- 63   280630   1.0E+05          IAEA-G-1.7
+   346 NI- 64   280640  -1.0E+00          STABLE  
+   347 NI- 65   280650   1.0E+04          IAEA-G-1.7
+   348 NI- 66   280660   1.5E+05          Calculated
+   349 NI- 67   280670   4.9E+03          Calculated
+   350 NI- 68   280680   1.3E+03          Calculated
+   351 NI- 69   280690   3.6E+02          Calculated
+   352 NI- 69M  280691   4.5E+02          Calculated
+   353 NI- 70   280700   7.6E+02          Calculated
+   354 NI- 71   280710   3.6E+02          Calculated
+   355 CU- 56   290560   1.8E+02          Calculated
+   356 CU- 57   290570   6.7E+02          Calculated
+   357 CU- 58   290580   5.3E+02          Calculated
+   358 CU- 59   290590   6.3E+02          Calculated
+   359 CU- 60   290600   2.5E+02          Calculated
+   360 CU- 61   290610   1.2E+03          Calculated
+   361 CU- 62   290620   8.8E+02          Calculated
+   362 CU- 63   290630  -1.0E+00          STABLE  
+   363 CU- 64   290640   1.0E+05          IAEA-G-1.7
+   364 CU- 65   290650  -1.0E+00          STABLE  
+   365 CU- 66   290660   5.3E+03          Calculated
+   366 CU- 67   290670   7.6E+03          Calculated
+   367 CU- 68   290680   8.6E+02          Calculated
+   368 CU- 68M  290681   8.9E+02          Calculated
+   369 CU- 69   290690   1.6E+03          Calculated
+   370 CU- 70   290700   1.3E+03          Calculated
+   371 CU- 70M  290701   7.8E+02          Calculated
+   372 CU- 70N  290702   4.2E+02          Calculated
+   373 CU- 71   290710   7.2E+02          Calculated
+   374 CU- 72   290720   5.7E+02          Calculated
+   375 CU- 73   290730   3.3E+03          Calculated
+   376 CU- 74   290740   2.8E+02          Calculated
+   377 CU- 75   290750   3.3E+02          Calculated
+   378 ZN- 58   300580   3.0E+02          Calculated
+   379 ZN- 59   300590   7.0E+02          Calculated
+   380 ZN- 60   300600   6.2E+02          Calculated
+   381 ZN- 61   300610   5.8E+02          Calculated
+   382 ZN- 62   300620   2.2E+03          Calculated
+   383 ZN- 63   300630   8.4E+02          Calculated
+   384 ZN- 64   300640   2.2E+03          Calculated
+   385 ZN- 65   300650   1.0E+02          IAEA-G-1.7
+   386 ZN- 66   300660  -1.0E+00          STABLE  
+   387 ZN- 67   300670  -1.0E+00          STABLE  
+   388 ZN- 68   300680  -1.0E+00          STABLE  
+   389 ZN- 69   300690   1.0E+06          IAEA-G-1.7
+   390 ZN- 69M  300691   1.0E+04          IAEA-G-1.7
+   391 ZN- 70   300700  -1.0E+00          STABLE  
+   392 ZN- 71   300710   2.4E+03          Calculated
+   393 ZN- 71M  300711   6.2E+02          Calculated
+   394 ZN- 72   300720   6.1E+03          Calculated
+   395 ZN- 73   300730   3.5E+03          Calculated
+   396 ZN- 73M  300731   5.1E+03          Calculated
+   397 ZN- 73N  300732   1.2E+03          Calculated
+   398 ZN- 74   300740   2.6E+03          Calculated
+   399 ZN- 75   300750   5.2E+02          Calculated
+   400 ZN- 76   300760   1.5E+03          Calculated
+   401 GA- 63   310630   6.4E+02          Calculated
+   402 GA- 64   310640   2.8E+02          Calculated
+   403 GA- 65   310650   8.0E+02          Calculated
+   404 GA- 66   310660   3.9E+02          Calculated
+   405 GA- 67   310670   6.1E+03          Calculated
+   406 GA- 68   310680   9.8E+02          Calculated
+   407 GA- 69   310690  -1.0E+00          STABLE  
+   408 GA- 70   310700   1.4E+04          Calculated
+   409 GA- 71   310710  -1.0E+00          STABLE  
+   410 GA- 72   310720   1.0E+04          IAEA-G-1.7
+   411 GA- 72M  310721   8.4E+03          Calculated
+   412 GA- 73   310730   2.6E+03          Calculated
+   413 GA- 74   310740   3.2E+02          Calculated
+   414 GA- 74M  310741   2.2E+04          Calculated
+   415 GA- 75   310750   4.9E+03          Calculated
+   416 GA- 76   310760   3.5E+02          Calculated
+   417 GA- 77   310770   1.5E+03          Calculated
+   418 GA- 78   310780   3.6E+02          Calculated
+   419 GA- 79   310790   4.8E+02          Calculated
+   420 GE- 64   320640   7.6E+02          Calculated
+   421 GE- 65   320650   5.1E+02          Calculated
+   422 GE- 66   320660   1.5E+03          Calculated
+   423 GE- 67   320670   6.6E+02          Calculated
+   424 GE- 68   320680   2.2E+05          Calculated
+   425 GE- 69   320690   1.0E+03          Calculated
+   426 GE- 70   320700  -1.0E+00          STABLE  
+   427 GE- 71   320710   1.0E+07          IAEA-G-1.7
+   428 GE- 72   320720  -1.0E+00          STABLE  
+   429 GE- 73   320730  -1.0E+00          STABLE  
+   430 GE- 73M  320731   6.1E+04          Calculated
+   431 GE- 74   320740  -1.0E+00          STABLE  
+   432 GE- 75   320750   1.3E+04          Calculated
+   433 GE- 75M  320751   1.5E+04          Calculated
+   434 GE- 76   320760   4.9E+03          Calculated
+   435 GE- 77   320770   8.8E+02          Calculated
+   436 GE- 77M  320771   5.9E+03          Calculated
+   437 GE- 78   320780   3.3E+03          Calculated
+   438 GE- 79   320790   2.3E+03          Calculated
+   439 GE- 79M  320791   7.5E+02          Calculated
+   440 GE- 80   320800   2.3E+03          Calculated
+   441 GE- 81   320810   3.6E+02          Calculated
+   442 GE- 81M  320811   5.7E+02          Calculated
+   443 AS- 67   330670   6.0E+02          Calculated
+   444 AS- 68   330680   2.6E+02          Calculated
+   445 AS- 69   330690   8.0E+02          Calculated
+   446 AS- 70   330700   2.5E+02          Calculated
+   447 AS- 71   330710   1.7E+03          Calculated
+   448 AS- 72   330720   5.3E+02          Calculated
+   449 AS- 73   330730   1.0E+06          IAEA-G-1.7
+   450 AS- 74   330740   1.0E+04          IAEA-G-1.7
+   451 AS- 75   330750  -1.0E+00          STABLE  
+   452 AS- 76   330760   1.0E+04          IAEA-G-1.7
+   453 AS- 77   330770   1.0E+06          IAEA-G-1.7
+   454 AS- 78   330780   7.0E+02          Calculated
+   455 AS- 79   330790   8.5E+03          Calculated
+   456 AS- 80   330800   1.3E+03          Calculated
+   457 AS- 81   330810   2.6E+03          Calculated
+   458 AS- 82   330820   1.5E+03          Calculated
+   459 AS- 82M  330821   3.2E+02          Calculated
+   460 AS- 83   330830   4.6E+02          Calculated
+   461 AS- 84   330840   1.8E+02          Calculated
+   462 AS- 84M  330841   2.8E+02          Calculated
+   463 SE- 68   340680   5.8E+02          Calculated
+   464 SE- 69   340690   4.8E+02          Calculated
+   465 SE- 70   340700   9.6E+02          Calculated
+   466 SE- 71   340710   5.8E+02          Calculated
+   467 SE- 72   340720   2.7E+04          Calculated
+   468 SE- 73   340730   8.9E+02          Calculated
+   469 SE- 73M  340731   3.6E+03          Calculated
+   470 SE- 74   340740  -1.0E+00          STABLE  
+   471 SE- 75   340750   1.0E+03          IAEA-G-1.7
+   472 SE- 76   340760  -1.0E+00          STABLE  
+   473 SE- 77   340770  -1.0E+00          STABLE  
+   474 SE- 77M  340771   1.0E+04          Calculated
+   475 SE- 78   340780  -1.0E+00          STABLE  
+   476 SE- 79   340790   1.8E+05          Calculated
+   477 SE- 79M  340791   4.5E+04          Calculated
+   478 SE- 80   340800  -1.0E+00          STABLE  
+   479 SE- 81   340810   1.4E+04          Calculated
+   480 SE- 81M  340811   3.7E+04          Calculated
+   481 SE- 82   340820   1.3E+02          Calculated
+   482 SE- 83   340830   4.0E+02          Calculated
+   483 SE- 83M  340831   9.1E+02          Calculated
+   484 SE- 84   340840   2.2E+03          Calculated
+   485 SE- 85   340850   3.9E+02          Calculated
+   486 BR- 71   350710   1.1E+03          Calculated
+   487 BR- 72   350720   3.1E+02          Calculated
+   488 BR- 72M  350721   1.8E+04          Calculated
+   489 BR- 73   350730   6.4E+02          Calculated
+   490 BR- 74   350740   2.2E+02          Calculated
+   491 BR- 74M  350741   2.6E+02          Calculated
+   492 BR- 75   350750   8.0E+02          Calculated
+   493 BR- 76   350760   3.6E+02          Calculated
+   494 BR- 76M  350761   2.9E+04          Calculated
+   495 BR- 77   350770   3.1E+03          Calculated
+   496 BR- 77M  350771   3.6E+04          Calculated
+   497 BR- 78   350780   8.8E+02          Calculated
+   498 BR- 79   350790  -1.0E+00          STABLE  
+   499 BR- 79M  350791   6.1E+03          Calculated
+   500 BR- 80   350800   6.7E+03          Calculated
+   501 BR- 80M  350801   3.3E+04          Calculated
+   502 BR- 81   350810  -1.0E+00          STABLE  
+   503 BR- 82   350820   1.0E+03          IAEA-G-1.7
+   504 BR- 82M  350821   6.6E+04          Calculated
+   505 BR- 83   350830   2.5E+04          Calculated
+   506 BR- 84   350840   5.3E+02          Calculated
+   507 BR- 84M  350841   3.5E+02          Calculated
+   508 BR- 85   350850   6.0E+03          Calculated
+   509 BR- 86   350860   2.9E+02          Calculated
+   510 BR- 87   350870   3.1E+02          Calculated
+   511 BR- 88   350880   3.0E+02          Calculated
+   512 KR- 72   360720   6.9E+02          Calculated
+   513 KR- 73   360730   5.7E+02          Calculated
+   514 KR- 74   360740   8.4E+02          Calculated
+   515 KR- 75   360750   7.0E+02          Calculated
+   516 KR- 76   360760   2.3E+03          Calculated
+   517 KR- 77   360770   9.0E+02          Calculated
+   518 KR- 78   360780   1.4E+03          Calculated
+   519 KR- 79   360790   3.8E+03          Calculated
+   520 KR- 79M  360791   2.0E+04          Calculated
+   521 KR- 80   360800  -1.0E+00          STABLE  
+   522 KR- 81   360810   1.3E+05          Calculated
+   523 KR- 81M  360811   7.3E+03          Calculated
+   524 KR- 82   360820  -1.0E+00          STABLE  
+   525 KR- 83   360830  -1.0E+00          STABLE  
+   526 KR- 83M  360831   1.5E+05          Calculated
+   527 KR- 84   360840  -1.0E+00          STABLE  
+   528 KR- 85   360850   1.8E+04          Calculated
+   529 KR- 85M  360851   5.5E+03          Calculated
+   530 KR- 86   360860  -1.0E+00          STABLE  
+   531 KR- 87   360870   1.1E+03          Calculated
+   532 KR- 88   360880   5.0E+02          Calculated
+   533 KR- 89   360890   5.1E+02          Calculated
+   534 KR- 90   360900   7.3E+02          Calculated
+   535 RB- 77   370770   5.9E+02          Calculated
+   536 RB- 78   370780   2.4E+02          Calculated
+   537 RB- 78M  370781   3.0E+02          Calculated
+   538 RB- 79   370790   6.7E+02          Calculated
+   539 RB- 80   370800   7.2E+02          Calculated
+   540 RB- 81   370810   1.5E+03          Calculated
+   541 RB- 81M  370811   2.8E+04          Calculated
+   542 RB- 82   370820   8.0E+02          Calculated
+   543 RB- 82M  370821   3.4E+02          Calculated
+   544 RB- 83   370830   2.0E+03          Calculated
+   545 RB- 84   370840   1.1E+03          Calculated
+   546 RB- 84M  370841   2.6E+03          Calculated
+   547 RB- 85   370850  -1.0E+00          STABLE  
+   548 RB- 86   370860   1.0E+05          IAEA-G-1.7
+   549 RB- 86M  370861   1.8E+03          Calculated
+   550 RB- 87   370870   1.0E+03          IAEA-G-1.7
+   551 RB- 88   370880   1.1E+03          Calculated
+   552 RB- 89   370890   4.3E+02          Calculated
+   553 RB- 90   370900   4.6E+02          Calculated
+   554 RB- 90M  370901   3.0E+02          Calculated
+   555 RB- 91   370910   4.1E+02          Calculated
+   556 RB- 92   370920   4.9E+02          Calculated
+   557 RB- 93   370930   3.6E+02          Calculated
+   558 RB- 94   370940   3.3E+02          Calculated
+   559 SR- 78   380780   7.2E+02          Calculated
+   560 SR- 79   380790   7.2E+02          Calculated
+   561 SR- 80   380800   2.0E+03          Calculated
+   562 SR- 81   380810   6.8E+02          Calculated
+   563 SR- 82   380820   1.2E+05          Calculated
+   564 SR- 83   380830   1.3E+03          Calculated
+   565 SR- 83M  380831   4.3E+03          Calculated
+   566 SR- 84   380840  -1.0E+00          STABLE  
+   567 SR- 85   380850   1.0E+03          IAEA-G-1.7
+   568 SR- 85M  380851   1.0E+05          IAEA-G-1.7
+   569 SR- 86   380860  -1.0E+00          STABLE  
+   570 SR- 87   380870  -1.0E+00          STABLE  
+   571 SR- 87M  380871   1.0E+05          IAEA-G-1.7
+   572 SR- 88   380880  -1.0E+00          STABLE  
+   573 SR- 89   380890   1.0E+06          IAEA-G-1.7
+   574 SR- 90   380900   1.0E+03          IAEA-G-1.7
+   575 SR- 91   380910   1.0E+04          IAEA-G-1.7
+   576 SR- 92   380920   1.0E+04          IAEA-G-1.7
+   577 SR- 93   380930   4.4E+02          Calculated
+   578 SR- 94   380940   6.6E+02          Calculated
+   579 SR- 95   380950   7.5E+02          Calculated
+   580 SR- 96   380960   8.9E+02          Calculated
+   581 Y - 81   390810   7.3E+02          Calculated
+   582 Y - 82   390820   6.4E+02          Calculated
+   583 Y - 83   390830   6.5E+02          Calculated
+   584 Y - 83M  390831   7.7E+02          Calculated
+   585 Y - 84   390840   6.6E+02          Calculated
+   586 Y - 84M  390841   2.4E+02          Calculated
+   587 Y - 85   390850   7.5E+02          Calculated
+   588 Y - 85M  390851   7.1E+02          Calculated
+   589 Y - 86   390860   2.8E+02          Calculated
+   590 Y - 86M  390861   4.5E+03          Calculated
+   591 Y - 87   390870   2.2E+03          Calculated
+   592 Y - 87M  390871   3.2E+03          Calculated
+   593 Y - 88   390880   3.7E+02          Calculated
+   594 Y - 89   390890  -1.0E+00          STABLE  
+   595 Y - 89M  390891   1.1E+03          Calculated
+   596 Y - 90   390900   1.0E+06          IAEA-G-1.7
+   597 Y - 90M  390901   1.6E+03          Calculated
+   598 Y - 91   390910   1.0E+05          IAEA-G-1.7
+   599 Y - 91M  390911   1.0E+05          IAEA-G-1.7
+   600 Y - 92   390920   1.0E+05          IAEA-G-1.7
+   601 Y - 93   390930   1.0E+05          IAEA-G-1.7
+   602 Y - 93M  390931   1.5E+03          Calculated
+   603 Y - 94   390940   1.1E+03          Calculated
+   604 Y - 95   390950   8.1E+02          Calculated
+   605 Y - 96   390960   2.5E+03          Calculated
+   606 Y - 96M  390961   2.1E+02          Calculated
+   607 Y - 97   390970   4.9E+02          Calculated
+   608 Y - 97M  390971   4.3E+02          Calculated
+   609 Y - 97N  390972   3.5E+02          Calculated
+   610 Y - 98   390980   3.5E+02          Calculated
+   611 Y - 98M  390981   2.8E+02          Calculated
+   612 ZR- 82   400820   6.8E+02          Calculated
+   613 ZR- 83   400830   7.2E+02          Calculated
+   614 ZR- 84   400840   9.8E+02          Calculated
+   615 ZR- 85   400850   6.3E+02          Calculated
+   616 ZR- 85M  400851   3.4E+03          Calculated
+   617 ZR- 86   400860   3.4E+03          Calculated
+   618 ZR- 87   400870   9.8E+02          Calculated
+   619 ZR- 87M  400871   4.0E+03          Calculated
+   620 ZR- 88   400880   2.5E+03          Calculated
+   621 ZR- 89   400890   3.8E+03          Calculated
+   622 ZR- 89M  400891   1.6E+03          Calculated
+   623 ZR- 90   400900  -1.0E+00          STABLE  
+   624 ZR- 90M  400901   4.3E+02          Calculated
+   625 ZR- 91   400910  -1.0E+00          STABLE  
+   626 ZR- 92   400920  -1.0E+00          STABLE  
+   627 ZR- 93   400930   1.0E+04          IAEA-G-1.7
+   628 ZR- 94   400940   8.7E+03          Calculated
+   629 ZR- 95   400950   1.0E+03          IAEA-G-1.7
+   630 ZR- 96   400960   3.0E+03          Calculated
+   631 ZR- 97   400970   1.0E+04          IAEA-G-1.7
+   632 ZR- 98   400980   1.1E+04          Calculated
+   633 ZR- 99   400990   1.0E+03          Calculated
+   634 NB- 86   410860   2.6E+02          Calculated
+   635 NB- 86M  410861   3.3E+02          Calculated
+   636 NB- 87   410870   7.2E+02          Calculated
+   637 NB- 87M  410871   5.2E+02          Calculated
+   638 NB- 88   410880   2.3E+02          Calculated
+   639 NB- 88M  410881   2.4E+02          Calculated
+   640 NB- 89   410890   6.8E+02          Calculated
+   641 NB- 89M  410891   5.1E+02          Calculated
+   642 NB- 90   410900   2.4E+02          Calculated
+   643 NB- 90M  410901   1.2E+04          Calculated
+   644 NB- 91   410910   7.6E+04          Calculated
+   645 NB- 91M  410911   2.1E+04          Calculated
+   646 NB- 92   410920   6.6E+02          Calculated
+   647 NB- 92M  410921   1.0E+03          Calculated
+   648 NB- 93   410930  -1.0E+00          STABLE  
+   649 NB- 93M  410931   1.0E+04          IAEA-G-1.7
+   650 NB- 94   410940   1.0E+02          IAEA-G-1.7
+   651 NB- 94M  410941   6.3E+04          Calculated
+   652 NB- 95   410950   1.0E+03          IAEA-G-1.7
+   653 NB- 95M  410951   1.1E+04          Calculated
+   654 NB- 96   410960   4.0E+02          Calculated
+   655 NB- 97   410970   1.0E+04          IAEA-G-1.7
+   656 NB- 97M  410971   1.4E+03          Calculated
+   657 NB- 98   410980   1.0E+04          IAEA-G-1.7
+   658 NB- 98M  410981   3.5E+02          Calculated
+   659 NB- 99   410990   3.1E+03          Calculated
+   660 NB- 99M  410991   1.3E+03          Calculated
+   661 NB-100   411000   1.0E+03          Calculated
+   662 NB-100M  411001   4.4E+02          Calculated
+   663 NB-101   411010   2.3E+03          Calculated
+   664 NB-102   411020   3.8E+02          Calculated
+   665 NB-102M  411021   4.3E+02          Calculated
+   666 NB-103   411030   1.0E+03          Calculated
+   667 NB-104   411040   3.4E+02          Calculated
+   668 NB-104M  411041   3.3E+02          Calculated
+   669 MO- 88   420880   2.3E+03          Calculated
+   670 MO- 89   420890   7.0E+02          Calculated
+   671 MO- 90   420900   1.0E+04          IAEA-G-1.7
+   672 MO- 91   420910   8.9E+02          Calculated
+   673 MO- 91M  420911   6.9E+02          Calculated
+   674 MO- 92   420920   6.1E+03          Calculated
+   675 MO- 93   420930   1.0E+04          IAEA-G-1.7
+   676 MO- 93M  420931   4.3E+02          Calculated
+   677 MO- 94   420940  -1.0E+00          STABLE  
+   678 MO- 95   420950  -1.0E+00          STABLE  
+   679 MO- 96   420960  -1.0E+00          STABLE  
+   680 MO- 97   420970  -1.0E+00          STABLE  
+   681 MO- 98   420980   8.9E+04          Calculated
+   682 MO- 99   420990   1.0E+04          IAEA-G-1.7
+   683 MO-100   421000   3.3E+03          Calculated
+   684 MO-101   421010   1.0E+04          IAEA-G-1.7
+   685 MO-102   421020   1.9E+04          Calculated
+   686 MO-103   421030   1.3E+03          Calculated
+   687 MO-104   421040   3.8E+03          Calculated
+   688 MO-105   421050   1.3E+03          Calculated
+   689 TC- 90   430900   4.8E+02          Calculated
+   690 TC- 90M  430901   2.9E+02          Calculated
+   691 TC- 91   430910   4.1E+02          Calculated
+   692 TC- 91M  430911   6.0E+02          Calculated
+   693 TC- 92   430920   2.4E+02          Calculated
+   694 TC- 93   430930   6.4E+02          Calculated
+   695 TC- 93M  430931   1.2E+03          Calculated
+   696 TC- 94   430940   3.8E+02          Calculated
+   697 TC- 94M  430941   5.0E+02          Calculated
+   698 TC- 95   430950   1.3E+03          Calculated
+   699 TC- 95M  430951   1.4E+03          Calculated
+   700 TC- 96   430960   1.0E+03          IAEA-G-1.7
+   701 TC- 96M  430961   1.0E+06          IAEA-G-1.7
+   702 TC- 97   430970   1.0E+04          IAEA-G-1.7
+   703 TC- 97M  430971   1.0E+05          IAEA-G-1.7
+   704 TC- 98   430980   7.0E+02          Calculated
+   705 TC- 99   430990   1.0E+03          IAEA-G-1.7
+   706 TC- 99M  430991   1.0E+05          IAEA-G-1.7
+   707 TC-100   431000   4.7E+03          Calculated
+   708 TC-101   431010   2.6E+03          Calculated
+   709 TC-102   431020   3.6E+03          Calculated
+   710 TC-102M  431021   3.9E+02          Calculated
+   711 TC-103   431030   2.9E+03          Calculated
+   712 TC-104   431040   4.9E+02          Calculated
+   713 TC-105   431050   1.3E+03          Calculated
+   714 TC-106   431060   4.2E+02          Calculated
+   715 TC-107   431070   1.4E+03          Calculated
+   716 TC-108   431080   5.8E+02          Calculated
+   717 TC-109   431090   4.3E+02          Calculated
+   718 RU- 92   440920   4.6E+02          Calculated
+   719 RU- 93   440930   7.3E+02          Calculated
+   720 RU- 93M  440931   4.7E+02          Calculated
+   721 RU- 94   440940   1.9E+03          Calculated
+   722 RU- 95   440950   8.0E+02          Calculated
+   723 RU- 96   440960   3.7E+03          Calculated
+   724 RU- 97   440970   1.0E+04          IAEA-G-1.7
+   725 RU- 98   440980  -1.0E+00          STABLE  
+   726 RU- 99   440990  -1.0E+00          STABLE  
+   727 RU-100   441000  -1.0E+00          STABLE  
+   728 RU-101   441010  -1.0E+00          STABLE  
+   729 RU-102   441020  -1.0E+00          STABLE  
+   730 RU-103   441030   1.0E+03          IAEA-G-1.7
+   731 RU-104   441040  -1.0E+00          STABLE  
+   732 RU-105   441050   1.0E+04          IAEA-G-1.7
+   733 RU-106   441060   1.0E+02          IAEA-G-1.7
+   734 RU-107   441070   2.2E+03          Calculated
+   735 RU-108   441080   1.1E+04          Calculated
+   736 RU-109   441090   5.7E+02          Calculated
+   737 RU-110   441100   6.6E+03          Calculated
+   738 RU-111   441110   4.8E+02          Calculated
+   739 RH- 95   450950   3.9E+02          Calculated
+   740 RH- 95M  450951   1.1E+03          Calculated
+   741 RH- 96   450960   2.5E+02          Calculated
+   742 RH- 96M  450961   7.8E+02          Calculated
+   743 RH- 97   450970   7.1E+02          Calculated
+   744 RH- 97M  450971   4.7E+02          Calculated
+   745 RH- 98   450980   5.2E+02          Calculated
+   746 RH- 98M  450981   4.1E+02          Calculated
+   747 RH- 99   450990   2.0E+03          Calculated
+   748 RH- 99M  450991   1.5E+03          Calculated
+   749 RH-100   451000   3.6E+02          Calculated
+   750 RH-100M  451001   2.1E+04          Calculated
+   751 RH-101   451010   3.4E+03          Calculated
+   752 RH-101M  451011   3.3E+03          Calculated
+   753 RH-102   451020   4.7E+02          Calculated
+   754 RH-102M  451021   2.0E+03          Calculated
+   755 RH-103   451030  -1.0E+00          STABLE  
+   756 RH-103M  451031   1.0E+07          IAEA-G-1.7
+   757 RH-104   451040   8.8E+03          Calculated
+   758 RH-104M  451041   1.8E+04          Calculated
+   759 RH-105   451050   1.0E+05          IAEA-G-1.7
+   760 RH-105M  451051   2.3E+04          Calculated
+   761 RH-106   451060   2.9E+03          Calculated
+   762 RH-106M  451061   3.6E+02          Calculated
+   763 RH-107   451070   2.8E+03          Calculated
+   764 RH-108   451080   2.0E+03          Calculated
+   765 RH-108M  451081   3.6E+02          Calculated
+   766 RH-109   451090   2.5E+03          Calculated
+   767 RH-110   451100   3.7E+02          Calculated
+   768 RH-110M  451101   1.8E+03          Calculated
+   769 RH-111   451110   2.0E+03          Calculated
+   770 RH-112   451120   2.1E+03          Calculated
+   771 RH-112M  451121   4.1E+02          Calculated
+   772 RH-113   451130   5.4E+02          Calculated
+   773 RH-114   451140   1.7E+03          Calculated
+   774 RH-114M  451141   3.7E+02          Calculated
+   775 PD- 96   460960   6.9E+02          Calculated
+   776 PD- 97   460970   4.4E+02          Calculated
+   777 PD- 98   460980   2.4E+03          Calculated
+   778 PD- 99   460990   7.7E+02          Calculated
+   779 PD-100   461000   7.9E+03          Calculated
+   780 PD-101   461010   2.8E+03          Calculated
+   781 PD-102   461020  -1.0E+00          STABLE  
+   782 PD-103   461030   1.0E+06          IAEA-G-1.7
+   783 PD-104   461040  -1.0E+00          STABLE  
+   784 PD-105   461050  -1.0E+00          STABLE  
+   785 PD-106   461060  -1.0E+00          STABLE  
+   786 PD-107   461070   1.1E+06          Calculated
+   787 PD-107M  461071   6.3E+03          Calculated
+   788 PD-108   461080  -1.0E+00          STABLE  
+   789 PD-109   461090   1.0E+05          IAEA-G-1.7
+   790 PD-109M  461091   8.4E+03          Calculated
+   791 PD-110   461100   5.0E+03          Calculated
+   792 PD-111   461110   7.7E+03          Calculated
+   793 PD-111M  461111   2.5E+03          Calculated
+   794 PD-112   461120   7.0E+04          Calculated
+   795 PD-113   461130   3.8E+03          Calculated
+   796 PD-113M  461131   3.7E+04          Calculated
+   797 PD-114   461140   1.3E+04          Calculated
+   798 PD-115   461150   6.0E+02          Calculated
+   799 PD-115M  461151   6.4E+02          Calculated
+   800 PD-116   461160   3.9E+03          Calculated
+   801 PD-117   461170   4.8E+02          Calculated
+   802 PD-118   461180   1.7E+03          Calculated
+   803 AG-100   471000   2.8E+02          Calculated
+   804 AG-100M  471001   3.7E+02          Calculated
+   805 AG-101   471010   6.1E+02          Calculated
+   806 AG-101M  471011   6.0E+03          Calculated
+   807 AG-102   471020   3.2E+02          Calculated
+   808 AG-102M  471021   4.9E+02          Calculated
+   809 AG-103   471030   1.2E+03          Calculated
+   810 AG-103M  471031   2.1E+04          Calculated
+   811 AG-104   471040   3.7E+02          Calculated
+   812 AG-104M  471041   7.7E+02          Calculated
+   813 AG-105   471050   1.0E+03          IAEA-G-1.7
+   814 AG-105M  471051   2.7E+05          Calculated
+   815 AG-106   471060   1.3E+03          Calculated
+   816 AG-106M  471061   3.6E+02          Calculated
+   817 AG-107   471070  -1.0E+00          STABLE  
+   818 AG-107M  471071   4.8E+04          Calculated
+   819 AG-108   471080   1.2E+04          Calculated
+   820 AG-108M  471081   6.1E+02          Calculated
+   821 AG-109   471090  -1.0E+00          STABLE  
+   822 AG-109M  471091   5.3E+04          Calculated
+   823 AG-110   471100   6.7E+03          Calculated
+   824 AG-110M  471101   1.0E+02          IAEA-G-1.7
+   825 AG-111   471110   1.0E+05          IAEA-G-1.7
+   826 AG-111M  471111   8.0E+04          Calculated
+   827 AG-112   471120   1.2E+03          Calculated
+   828 AG-113   471130   6.8E+03          Calculated
+   829 AG-113M  471131   4.3E+03          Calculated
+   830 AG-114   471140   2.1E+03          Calculated
+   831 AG-114M  471141   9.3E+03          Calculated
+   832 AG-115   471150   1.8E+03          Calculated
+   833 AG-115M  471151   1.9E+03          Calculated
+   834 AG-116   471160   4.4E+02          Calculated
+   835 AG-116M  471161   5.4E+02          Calculated
+   836 AG-117   471170   8.2E+02          Calculated
+   837 AG-117M  471171   1.3E+03          Calculated
+   838 AG-118   471180   8.7E+02          Calculated
+   839 AG-118M  471181   6.2E+02          Calculated
+   840 AG-119   471190   6.6E+02          Calculated
+   841 AG-119M  471191   5.2E+02          Calculated
+   842 AG-120   471200   7.7E+02          Calculated
+   843 AG-121   471210   7.2E+02          Calculated
+   844 AG-122   471220   7.0E+02          Calculated
+   845 AG-122M  471221   2.8E+02          Calculated
+   846 CD-102   481020   1.2E+03          Calculated
+   847 CD-103   481030   4.7E+02          Calculated
+   848 CD-104   481040   5.3E+03          Calculated
+   849 CD-105   481050   7.8E+02          Calculated
+   850 CD-106   481060   3.6E+03          Calculated
+   851 CD-107   481070   4.6E+04          Calculated
+   852 CD-108   481080   3.7E+04          Calculated
+   853 CD-109   481090   1.0E+03          IAEA-G-1.7
+   854 CD-110   481100  -1.0E+00          STABLE  
+   855 CD-111   481110  -1.0E+00          STABLE  
+   856 CD-111M  481111   3.4E+03          Calculated
+   857 CD-112   481120  -1.0E+00          STABLE  
+   858 CD-113   481130   1.0E+03          IAEA-G-1.7
+   859 CD-113M  481131   5.4E+04          Calculated
+   860 CD-114   481140   1.9E+04          Calculated
+   861 CD-115   481150   1.0E+04          IAEA-G-1.7
+   862 CD-115M  481151   1.0E+05          IAEA-G-1.7
+   863 CD-116   481160   3.6E+03          Calculated
+   864 CD-117   481170   8.9E+02          Calculated
+   865 CD-117M  481171   4.9E+02          Calculated
+   866 CD-118   481180   6.2E+04          Calculated
+   867 CD-119   481190   6.4E+02          Calculated
+   868 CD-119M  481191   4.5E+02          Calculated
+   869 CD-120   481200   1.4E+04          Calculated
+   870 CD-121   481210   5.4E+02          Calculated
+   871 CD-121M  481211   4.5E+02          Calculated
+   872 CD-122   481220   8.0E+03          Calculated
+   873 CD-123   481230   4.9E+02          Calculated
+   874 CD-123M  481231   4.0E+02          Calculated
+   875 CD-124   481240   3.1E+03          Calculated
+   876 CD-125   481250   4.8E+02          Calculated
+   877 IN-106   491060   2.7E+02          Calculated
+   878 IN-106M  491061   3.2E+02          Calculated
+   879 IN-107   491070   6.5E+02          Calculated
+   880 IN-107M  491071   1.6E+03          Calculated
+   881 IN-108   491080   3.1E+02          Calculated
+   882 IN-108M  491081   3.5E+02          Calculated
+   883 IN-109   491090   1.6E+03          Calculated
+   884 IN-109M  491091   1.6E+03          Calculated
+   885 IN-109N  491092   4.8E+02          Calculated
+   886 IN-110   491100   3.2E+02          Calculated
+   887 IN-110M  491101   6.1E+02          Calculated
+   888 IN-111   491110   1.0E+04          IAEA-G-1.7
+   889 IN-111M  491111   2.1E+03          Calculated
+   890 IN-112   491120   3.2E+03          Calculated
+   891 IN-112M  491121   2.1E+04          Calculated
+   892 IN-113   491130  -1.0E+00          STABLE  
+   893 IN-113M  491131   1.0E+05          IAEA-G-1.7
+   894 IN-114   491140   1.2E+04          Calculated
+   895 IN-114M  491141   1.0E+04          IAEA-G-1.7
+   896 IN-115   491150   1.0E+03          IAEA-G-1.7
+   897 IN-115M  491151   1.0E+05          IAEA-G-1.7
+   898 IN-116   491160   7.1E+03          Calculated
+   899 IN-116M  491161   4.0E+02          Calculated
+   900 IN-116N  491162   1.3E+04          Calculated
+   901 IN-117   491170   1.4E+03          Calculated
+   902 IN-117M  491171   7.4E+03          Calculated
+   903 IN-118   491180   3.8E+03          Calculated
+   904 IN-118M  491181   3.5E+02          Calculated
+   905 IN-118N  491182   1.2E+04          Calculated
+   906 IN-119   491190   1.2E+03          Calculated
+   907 IN-119M  491191   8.6E+03          Calculated
+   908 IN-120   491200   2.1E+03          Calculated
+   909 IN-120M  491201   3.4E+02          Calculated
+   910 IN-120N  491202   3.4E+02          Calculated
+   911 IN-121   491210   9.8E+02          Calculated
+   912 IN-121M  491211   4.6E+03          Calculated
+   913 IN-122   491220   1.1E+03          Calculated
+   914 IN-122M  491221   2.8E+02          Calculated
+   915 IN-122N  491222   2.8E+02          Calculated
+   916 IN-123   491230   8.4E+02          Calculated
+   917 IN-123M  491231   3.8E+03          Calculated
+   918 IN-124   491240   3.5E+02          Calculated
+   919 IN-124M  491241   2.7E+02          Calculated
+   920 IN-125   491250   7.2E+02          Calculated
+   921 IN-125M  491251   2.4E+03          Calculated
+   922 IN-126   491260   3.3E+02          Calculated
+   923 IN-126M  491261   2.2E+02          Calculated
+   924 IN-127   491270   7.3E+02          Calculated
+   925 IN-127M  491271   1.3E+03          Calculated
+   926 IN-128   491280   3.0E+02          Calculated
+   927 IN-128M  491281   4.0E+03          Calculated
+   928 IN-128N  491282   3.8E+02          Calculated
+   929 SN-107   501070   5.3E+02          Calculated
+   930 SN-108   501080   1.5E+03          Calculated
+   931 SN-109   501090   4.3E+02          Calculated
+   932 SN-110   501100   3.4E+03          Calculated
+   933 SN-111   501110   1.9E+03          Calculated
+   934 SN-112   501120  -1.0E+00          STABLE  
+   935 SN-113   501130   1.0E+03          IAEA-G-1.7
+   936 SN-113M  501131   4.9E+04          Calculated
+   937 SN-114   501140  -1.0E+00          STABLE  
+   938 SN-115   501150  -1.0E+00          STABLE  
+   939 SN-116   501160  -1.0E+00          STABLE  
+   940 SN-117   501170  -1.0E+00          STABLE  
+   941 SN-117M  501171   5.8E+03          Calculated
+   942 SN-118   501180  -1.0E+00          STABLE  
+   943 SN-119   501190  -1.0E+00          STABLE  
+   944 SN-119M  501191   5.2E+04          Calculated
+   945 SN-120   501200  -1.0E+00          STABLE  
+   946 SN-121   501210   8.7E+04          Calculated
+   947 SN-121M  501211   1.2E+05          Calculated
+   948 SN-122   501220  -1.0E+00          STABLE  
+   949 SN-123   501230   1.7E+04          Calculated
+   950 SN-123M  501231   5.3E+03          Calculated
+   951 SN-124   501240   3.5E+01          Calculated
+   952 SN-125   501250   1.0E+04          IAEA-G-1.7
+   953 SN-125M  501251   2.3E+03          Calculated
+   954 SN-126   501260   1.5E+04          Calculated
+   955 SN-127   501270   5.2E+02          Calculated
+   956 SN-127M  501271   1.5E+03          Calculated
+   957 SN-128   501280   1.6E+03          Calculated
+   958 SN-128M  501281   5.0E+02          Calculated
+   959 SN-129   501290   6.9E+02          Calculated
+   960 SN-129M  501291   5.6E+02          Calculated
+   961 SN-130   501300   1.0E+03          Calculated
+   962 SN-130M  501301   1.1E+03          Calculated
+   963 SN-131   501310   4.1E+02          Calculated
+   964 SN-131M  501311   4.0E+02          Calculated
+   965 SB-112   511120   3.4E+02          Calculated
+   966 SB-113   511130   7.3E+02          Calculated
+   967 SB-114   511140   3.6E+02          Calculated
+   968 SB-115   511150   1.1E+03          Calculated
+   969 SB-116   511160   4.3E+02          Calculated
+   970 SB-116M  511161   3.1E+02          Calculated
+   971 SB-117   511170   5.3E+03          Calculated
+   972 SB-118   511180   1.1E+03          Calculated
+   973 SB-118M  511181   3.8E+02          Calculated
+   974 SB-119   511190   3.8E+04          Calculated
+   975 SB-119M  511191   3.5E+02          Calculated
+   976 SB-120   511200   2.0E+03          Calculated
+   977 SB-120M  511201   4.1E+02          Calculated
+   978 SB-121   511210  -1.0E+00          STABLE  
+   979 SB-122   511220   1.0E+04          IAEA-G-1.7
+   980 SB-122M  511221   1.3E+04          Calculated
+   981 SB-123   511230  -1.0E+00          STABLE  
+   982 SB-124   511240   1.0E+03          IAEA-G-1.7
+   983 SB-124M  511241   2.2E+03          Calculated
+   984 SB-124N  511242   3.4E+05          Calculated
+   985 SB-125   511250   1.0E+02          IAEA-G-1.7
+   986 SB-126   511260   3.6E+02          Calculated
+   987 SB-126M  511261   6.1E+02          Calculated
+   988 SB-126N  511262   3.8E+05          Calculated
+   989 SB-127   511270   1.4E+03          Calculated
+   990 SB-128   511280   3.2E+02          Calculated
+   991 SB-128M  511281   5.1E+02          Calculated
+   992 SB-129   511290   7.1E+02          Calculated
+   993 SB-129M  511291   6.3E+02          Calculated
+   994 SB-130   511300   3.1E+02          Calculated
+   995 SB-130M  511301   3.9E+02          Calculated
+   996 SB-131   511310   5.6E+02          Calculated
+   997 SB-132   511320   3.8E+02          Calculated
+   998 SB-132M  511321   3.9E+02          Calculated
+   999 SB-133   511330   4.4E+02          Calculated
+  1000 TE-113   521130   4.9E+02          Calculated
+  1001 TE-114   521140   9.1E+02          Calculated
+  1002 TE-115   521150   4.8E+02          Calculated
+  1003 TE-115M  521151   4.7E+02          Calculated
+  1004 TE-116   521160   8.4E+03          Calculated
+  1005 TE-117   521170   6.4E+02          Calculated
+  1006 TE-117M  521171   3.7E+03          Calculated
+  1007 TE-118   521180   4.9E+04          Calculated
+  1008 TE-119   521190   1.3E+03          Calculated
+  1009 TE-119M  521191   6.7E+02          Calculated
+  1010 TE-120   521200  -1.0E+00          STABLE  
+  1011 TE-121   521210   1.7E+03          Calculated
+  1012 TE-121M  521211   4.4E+03          Calculated
+  1013 TE-122   521220  -1.0E+00          STABLE  
+  1014 TE-123   521230   1.0E+03          IAEA-G-1.7
+  1015 TE-123M  521231   1.0E+03          IAEA-G-1.7
+  1016 TE-124   521240  -1.0E+00          STABLE  
+  1017 TE-125   521250  -1.0E+00          STABLE  
+  1018 TE-125M  521251   1.0E+06          IAEA-G-1.7
+  1019 TE-126   521260  -1.0E+00          STABLE  
+  1020 TE-127   521270   1.0E+06          IAEA-G-1.7
+  1021 TE-127M  521271   1.0E+04          IAEA-G-1.7
+  1022 TE-128   521280   1.0E+03          IAEA-G-1.7
+  1023 TE-129   521290   1.0E+05          IAEA-G-1.7
+  1024 TE-129M  521291   1.0E+04          IAEA-G-1.7
+  1025 TE-130   521300   1.0E+03          IAEA-G-1.7
+  1026 TE-131   521310   1.0E+05          IAEA-G-1.7
+  1027 TE-131M  521311   1.0E+04          IAEA-G-1.7
+  1028 TE-132   521320   1.0E+03          IAEA-G-1.7
+  1029 TE-133   521330   1.0E+04          IAEA-G-1.7
+  1030 TE-133M  521331   1.0E+04          IAEA-G-1.7
+  1031 TE-134   521340   1.0E+04          IAEA-G-1.7
+  1032 TE-135   521350   1.6E+03          Calculated
+  1033 I -116   531160   7.4E+02          Calculated
+  1034 I -117   531170   9.4E+02          Calculated
+  1035 I -118   531180   4.6E+02          Calculated
+  1036 I -118M  531181   2.6E+02          Calculated
+  1037 I -119   531190   1.1E+03          Calculated
+  1038 I -120   531200   4.5E+02          Calculated
+  1039 I -120M  531201   1.9E+02          Calculated
+  1040 I -121   531210   2.5E+03          Calculated
+  1041 I -122   531220   9.3E+02          Calculated
+  1042 I -123   531230   1.0E+05          IAEA-G-1.7
+  1043 I -124   531240   8.8E+02          Calculated
+  1044 I -125   531250   1.0E+05          IAEA-G-1.7
+  1045 I -126   531260   1.0E+04          IAEA-G-1.7
+  1046 I -127   531270  -1.0E+00          STABLE  
+  1047 I -128   531280   6.2E+03          Calculated
+  1048 I -129   531290   1.0E+01          IAEA-G-1.7
+  1049 I -130   531300   1.0E+04          IAEA-G-1.7
+  1050 I -130M  531301   7.2E+03          Calculated
+  1051 I -131   531310   1.0E+04          IAEA-G-1.7
+  1052 I -132   531320   1.0E+04          IAEA-G-1.7
+  1053 I -132M  531321   2.8E+03          Calculated
+  1054 I -133   531330   1.0E+04          IAEA-G-1.7
+  1055 I -133M  531331   6.3E+02          Calculated
+  1056 I -134   531340   1.0E+04          IAEA-G-1.7
+  1057 I -134M  531341   4.0E+03          Calculated
+  1058 I -135   531350   1.0E+04          IAEA-G-1.7
+  1059 I -136   531360   3.9E+02          Calculated
+  1060 I -136M  531361   3.7E+02          Calculated
+  1061 I -137   531370   7.1E+02          Calculated
+  1062 XE-117   541170   3.4E+03          Calculated
+  1063 XE-118   541180   1.5E+03          Calculated
+  1064 XE-119   541190   6.8E+02          Calculated
+  1065 XE-120   541200   2.3E+03          Calculated
+  1066 XE-121   541210   6.9E+02          Calculated
+  1067 XE-122   541220   1.1E+04          Calculated
+  1068 XE-123   541230   1.5E+03          Calculated
+  1069 XE-124   541240   1.4E+03          Calculated
+  1070 XE-125   541250   3.6E+03          Calculated
+  1071 XE-125M  541251   7.7E+03          Calculated
+  1072 XE-126   541260  -1.0E+00          STABLE  
+  1073 XE-127   541270   3.5E+03          Calculated
+  1074 XE-127M  541271   5.5E+03          Calculated
+  1075 XE-128   541280  -1.0E+00          STABLE  
+  1076 XE-129   541290  -1.0E+00          STABLE  
+  1077 XE-129M  541291   1.4E+04          Calculated
+  1078 XE-130   541300  -1.0E+00          STABLE  
+  1079 XE-131   541310  -1.0E+00          STABLE  
+  1080 XE-131M  541311   2.9E+04          Calculated
+  1081 XE-132   541320  -1.0E+00          STABLE  
+  1082 XE-133   541330   1.7E+04          Calculated
+  1083 XE-133M  541331   1.7E+04          Calculated
+  1084 XE-134   541340   5.0E+03          Calculated
+  1085 XE-134M  541341   5.2E+02          Calculated
+  1086 XE-135   541350   3.6E+03          Calculated
+  1087 XE-135M  541351   2.3E+03          Calculated
+  1088 XE-136   541360   1.7E+03          Calculated
+  1089 XE-137   541370   2.8E+03          Calculated
+  1090 XE-138   541380   8.4E+02          Calculated
+  1091 XE-139   541390   8.7E+02          Calculated
+  1092 CS-122   551220   6.5E+02          Calculated
+  1093 CS-122M  551221   3.1E+02          Calculated
+  1094 CS-122N  551222   2.7E+05          Calculated
+  1095 CS-123   551230   8.6E+02          Calculated
+  1096 CS-123M  551231   1.8E+04          Calculated
+  1097 CS-124   551240   7.7E+02          Calculated
+  1098 CS-124M  551241   3.2E+03          Calculated
+  1099 CS-125   551250   1.4E+03          Calculated
+  1100 CS-125M  551251   3.8E+03          Calculated
+  1101 CS-126   551260   7.9E+02          Calculated
+  1102 CS-127   551270   2.3E+03          Calculated
+  1103 CS-128   551280   1.0E+03          Calculated
+  1104 CS-129   551290   1.0E+04          IAEA-G-1.7
+  1105 CS-130   551300   1.8E+03          Calculated
+  1106 CS-130M  551301   6.1E+03          Calculated
+  1107 CS-131   551310   1.0E+06          IAEA-G-1.7
+  1108 CS-132   551320   1.0E+04          IAEA-G-1.7
+  1109 CS-133   551330  -1.0E+00          STABLE  
+  1110 CS-134   551340   1.0E+02          IAEA-G-1.7
+  1111 CS-134M  551341   1.0E+06          IAEA-G-1.7
+  1112 CS-135   551350   1.0E+05          IAEA-G-1.7
+  1113 CS-135M  551351   6.2E+02          Calculated
+  1114 CS-136   551360   1.0E+03          IAEA-G-1.7
+  1115 CS-136M  551361   1.5E+03          Calculated
+  1116 CS-137   551370   1.0E+02          IAEA-G-1.7
+  1117 CS-138   551380   1.0E+04          IAEA-G-1.7
+  1118 CS-138M  551381   2.2E+03          Calculated
+  1119 CS-139   551390   2.0E+03          Calculated
+  1120 CS-140   551400   5.3E+02          Calculated
+  1121 CS-141   551410   1.0E+03          Calculated
+  1122 BA-123   561230   1.8E+03          Calculated
+  1123 BA-124   561240   1.8E+03          Calculated
+  1124 BA-125   561250   2.1E+03          Calculated
+  1125 BA-126   561260   1.8E+03          Calculated
+  1126 BA-127   561270   1.3E+03          Calculated
+  1127 BA-127M  561271   1.2E+04          Calculated
+  1128 BA-128   561280   1.5E+04          Calculated
+  1129 BA-129   561290   2.1E+03          Calculated
+  1130 BA-129M  561291   8.2E+02          Calculated
+  1131 BA-130   561300  -1.0E+00          STABLE  
+  1132 BA-131   561310   1.0E+04          IAEA-G-1.7
+  1133 BA-131M  561311   1.1E+04          Calculated
+  1134 BA-132   561320  -1.0E+00          STABLE  
+  1135 BA-133   561330   2.5E+03          Calculated
+  1136 BA-133M  561331   1.1E+04          Calculated
+  1137 BA-134   561340  -1.0E+00          STABLE  
+  1138 BA-135   561350  -1.0E+00          STABLE  
+  1139 BA-135M  561351   1.2E+04          Calculated
+  1140 BA-136   561360  -1.0E+00          STABLE  
+  1141 BA-136M  561361   5.2E+02          Calculated
+  1142 BA-137   561370  -1.0E+00          STABLE  
+  1143 BA-137M  561371   1.7E+03          Calculated
+  1144 BA-138   561380  -1.0E+00          STABLE  
+  1145 BA-139   561390   7.4E+03          Calculated
+  1146 BA-140   561400   1.0E+03          IAEA-G-1.7
+  1147 BA-141   561410   1.0E+03          Calculated
+  1148 BA-142   561420   9.2E+02          Calculated
+  1149 BA-143   561430   8.1E+02          Calculated
+  1150 LA-128   571280   3.2E+02          Calculated
+  1151 LA-128M  571281   4.0E+02          Calculated
+  1152 LA-129   571290   1.0E+03          Calculated
+  1153 LA-129M  571291   1.7E+04          Calculated
+  1154 LA-130   571300   4.3E+02          Calculated
+  1155 LA-131   571310   1.5E+03          Calculated
+  1156 LA-132   571320   5.0E+02          Calculated
+  1157 LA-132M  571321   2.0E+03          Calculated
+  1158 LA-133   571330   7.6E+03          Calculated
+  1159 LA-134   571340   1.3E+03          Calculated
+  1160 LA-135   571350   2.8E+04          Calculated
+  1161 LA-136   571360   2.2E+03          Calculated
+  1162 LA-136M  571361   6.5E+03          Calculated
+  1163 LA-137   571370   3.8E+04          Calculated
+  1164 LA-138   571380   1.0E+03          IAEA-G-1.7
+  1165 LA-139   571390  -1.0E+00          STABLE  
+  1166 LA-140   571400   1.0E+03          IAEA-G-1.7
+  1167 LA-141   571410   8.1E+03          Calculated
+  1168 LA-142   571420   4.1E+02          Calculated
+  1169 LA-143   571430   2.7E+03          Calculated
+  1170 LA-144   571440   4.1E+02          Calculated
+  1171 LA-145   571450   1.3E+03          Calculated
+  1172 LA-146   571460   7.0E+02          Calculated
+  1173 LA-146M  571461   6.5E+02          Calculated
+  1174 LA-147   571470   2.6E+03          Calculated
+  1175 CE-129   581290   5.5E+02          Calculated
+  1176 CE-130   581300   2.0E+03          Calculated
+  1177 CE-131   581310   1.4E+03          Calculated
+  1178 CE-131M  581311   3.1E+03          Calculated
+  1179 CE-132   581320   3.7E+03          Calculated
+  1180 CE-133   581330   2.0E+03          Calculated
+  1181 CE-133M  581331   6.0E+02          Calculated
+  1182 CE-134   581340   3.5E+04          Calculated
+  1183 CE-135   581350   1.2E+03          Calculated
+  1184 CE-135M  581351   3.3E+03          Calculated
+  1185 CE-136   581360   4.1E+03          Calculated
+  1186 CE-137   581370   2.5E+04          Calculated
+  1187 CE-137M  581371   1.3E+04          Calculated
+  1188 CE-138   581380  -1.0E+00          STABLE  
+  1189 CE-139   581390   1.0E+03          IAEA-G-1.7
+  1190 CE-139M  581391   1.4E+03          Calculated
+  1191 CE-140   581400  -1.0E+00          STABLE  
+  1192 CE-141   581410   1.0E+05          IAEA-G-1.7
+  1193 CE-142   581420   7.1E+03          Calculated
+  1194 CE-143   581430   1.0E+04          IAEA-G-1.7
+  1195 CE-144   581440   1.0E+04          IAEA-G-1.7
+  1196 CE-145   581450   1.5E+03          Calculated
+  1197 CE-146   581460   2.9E+03          Calculated
+  1198 CE-147   581470   3.3E+03          Calculated
+  1199 CE-148   581480   2.7E+03          Calculated
+  1200 CE-149   581490   3.8E+03          Calculated
+  1201 PR-134   591340   4.6E+02          Calculated
+  1202 PR-134M  591341   4.5E+02          Calculated
+  1203 PR-135   591350   1.1E+03          Calculated
+  1204 PR-136   591360   4.7E+02          Calculated
+  1205 PR-137   591370   2.6E+03          Calculated
+  1206 PR-138   591380   1.1E+03          Calculated
+  1207 PR-138M  591381   4.1E+02          Calculated
+  1208 PR-139   591390   7.5E+03          Calculated
+  1209 PR-140   591400   1.7E+03          Calculated
+  1210 PR-141   591410  -1.0E+00          STABLE  
+  1211 PR-142   591420   1.0E+05          IAEA-G-1.7
+  1212 PR-142M  591421   2.7E+05          Calculated
+  1213 PR-143   591430   1.0E+06          IAEA-G-1.7
+  1214 PR-144   591440   6.5E+03          Calculated
+  1215 PR-144M  591441   5.4E+04          Calculated
+  1216 PR-145   591450   1.2E+04          Calculated
+  1217 PR-146   591460   8.9E+02          Calculated
+  1218 PR-147   591470   1.1E+03          Calculated
+  1219 PR-148   591480   9.0E+02          Calculated
+  1220 PR-148M  591481   9.0E+02          Calculated
+  1221 PR-149   591490   2.3E+03          Calculated
+  1222 PR-150   591500   1.3E+03          Calculated
+  1223 PR-151   591510   1.2E+03          Calculated
+  1224 ND-135   601350   7.3E+02          Calculated
+  1225 ND-135M  601351   5.7E+02          Calculated
+  1226 ND-136   601360   3.5E+03          Calculated
+  1227 ND-137   601370   8.4E+02          Calculated
+  1228 ND-137M  601371   2.6E+03          Calculated
+  1229 ND-138   601380   2.3E+04          Calculated
+  1230 ND-139   601390   2.3E+03          Calculated
+  1231 ND-139M  601391   3.7E+02          Calculated
+  1232 ND-140   601400   3.5E+04          Calculated
+  1233 ND-141   601410   1.3E+04          Calculated
+  1234 ND-141M  601411   1.2E+03          Calculated
+  1235 ND-142   601420  -1.0E+00          STABLE  
+  1236 ND-143   601430  -1.0E+00          STABLE  
+  1237 ND-144   601440   1.0E+03          IAEA-G-1.7
+  1238 ND-145   601450  -1.0E+00          STABLE  
+  1239 ND-146   601460  -1.0E+00          STABLE  
+  1240 ND-147   601470   1.0E+05          IAEA-G-1.7
+  1241 ND-148   601480   5.2E+03          Calculated
+  1242 ND-149   601490   1.0E+05          IAEA-G-1.7
+  1243 ND-150   601500   3.0E+03          Calculated
+  1244 ND-151   601510   1.1E+03          Calculated
+  1245 ND-152   601520   5.1E+03          Calculated
+  1246 ND-153   601530   8.2E+02          Calculated
+  1247 ND-154   601540   1.8E+03          Calculated
+  1248 PM-135   611350   3.5E+02          Calculated
+  1249 PM-135M  611351   4.3E+02          Calculated
+  1250 PM-136   611360   3.8E+02          Calculated
+  1251 PM-136M  611361   3.3E+02          Calculated
+  1252 PM-137   611370   5.2E+02          Calculated
+  1253 PM-137M  611371   5.1E+02          Calculated
+  1254 PM-138   611380   8.2E+02          Calculated
+  1255 PM-138M  611381   4.1E+02          Calculated
+  1256 PM-139   611390   9.6E+02          Calculated
+  1257 PM-139M  611391   1.0E+04          Calculated
+  1258 PM-140   611400   8.4E+02          Calculated
+  1259 PM-140M  611401   3.3E+02          Calculated
+  1260 PM-141   611410   1.2E+03          Calculated
+  1261 PM-142   611420   9.9E+02          Calculated
+  1262 PM-143   611430   3.2E+03          Calculated
+  1263 PM-144   611440   6.4E+02          Calculated
+  1264 PM-145   611450   3.1E+04          Calculated
+  1265 PM-146   611460   1.3E+03          Calculated
+  1266 PM-147   611470   1.0E+06          IAEA-G-1.7
+  1267 PM-148   611480   1.5E+03          Calculated
+  1268 PM-148M  611481   5.0E+02          Calculated
+  1269 PM-149   611490   1.0E+06          IAEA-G-1.7
+  1270 PM-150   611500   6.6E+02          Calculated
+  1271 PM-151   611510   2.8E+03          Calculated
+  1272 PM-152   611520   2.4E+03          Calculated
+  1273 PM-152M  611521   6.4E+02          Calculated
+  1274 PM-152N  611522   4.5E+02          Calculated
+  1275 PM-153   611530   7.0E+03          Calculated
+  1276 PM-154   611540   5.3E+02          Calculated
+  1277 PM-154M  611541   5.1E+02          Calculated
+  1278 PM-155   611550   1.5E+03          Calculated
+  1279 PM-156   611560   5.3E+02          Calculated
+  1280 PM-157   611570   6.3E+02          Calculated
+  1281 SM-136   621360   9.9E+02          Calculated
+  1282 SM-137   621370   4.7E+02          Calculated
+  1283 SM-137M  621371   4.4E+02          Calculated
+  1284 SM-138   621380   8.0E+02          Calculated
+  1285 SM-139   621390   6.4E+02          Calculated
+  1286 SM-139M  621391   3.6E+03          Calculated
+  1287 SM-140   621400   1.6E+03          Calculated
+  1288 SM-141   621410   6.9E+02          Calculated
+  1289 SM-141M  621411   5.1E+02          Calculated
+  1290 SM-142   621420   1.1E+04          Calculated
+  1291 SM-143   621430   1.8E+03          Calculated
+  1292 SM-143M  621431   1.4E+03          Calculated
+  1293 SM-144   621440  -1.0E+00          STABLE  
+  1294 SM-145   621450   1.5E+04          Calculated
+  1295 SM-146   621460   1.8E+05          Calculated
+  1296 SM-147   621470   1.0E+03          IAEA-G-1.7
+  1297 SM-148   621480   1.0E+03          IAEA-G-1.7
+  1298 SM-149   621490   1.5E+05          Calculated
+  1299 SM-150   621500  -1.0E+00          STABLE  
+  1300 SM-151   621510   1.0E+06          IAEA-G-1.7
+  1301 SM-152   621520  -1.0E+00          STABLE  
+  1302 SM-153   621530   1.0E+05          IAEA-G-1.7
+  1303 SM-154   621540  -1.0E+00          STABLE  
+  1304 SM-155   621550   6.3E+03          Calculated
+  1305 SM-156   621560   7.3E+03          Calculated
+  1306 SM-157   621570   1.9E+03          Calculated
+  1307 SM-158   621580   2.6E+03          Calculated
+  1308 SM-159   621590   1.8E+03          Calculated
+  1309 EU-138   631380   3.0E+02          Calculated
+  1310 EU-139   631390   5.4E+02          Calculated
+  1311 EU-140   631400   6.3E+02          Calculated
+  1312 EU-141   631410   8.0E+02          Calculated
+  1313 EU-141M  631411   1.3E+03          Calculated
+  1314 EU-142   631420   6.8E+02          Calculated
+  1315 EU-142M  631421   2.8E+02          Calculated
+  1316 EU-143   631430   8.1E+02          Calculated
+  1317 EU-144   631440   7.7E+02          Calculated
+  1318 EU-145   631450   7.8E+02          Calculated
+  1319 EU-146   631460   4.2E+02          Calculated
+  1320 EU-147   631470   2.3E+03          Calculated
+  1321 EU-148   631480   4.5E+02          Calculated
+  1322 EU-149   631490   1.5E+04          Calculated
+  1323 EU-150   631500   6.5E+02          Calculated
+  1324 EU-150M  631501   1.2E+04          Calculated
+  1325 EU-151   631510  -1.0E+00          STABLE  
+  1326 EU-152   631520   1.0E+02          IAEA-G-1.7
+  1327 EU-152M  631521   1.0E+05          IAEA-G-1.7
+  1328 EU-152N  631522   1.2E+04          Calculated
+  1329 EU-153   631530  -1.0E+00          STABLE  
+  1330 EU-154   631540   1.0E+02          IAEA-G-1.7
+  1331 EU-154M  631541   1.2E+04          Calculated
+  1332 EU-155   631550   1.0E+03          IAEA-G-1.7
+  1333 EU-156   631560   7.8E+02          Calculated
+  1334 EU-157   631570   3.0E+03          Calculated
+  1335 EU-158   631580   7.4E+02          Calculated
+  1336 EU-159   631590   2.6E+03          Calculated
+  1337 EU-160   631600   6.0E+02          Calculated
+  1338 EU-161   631610   7.3E+02          Calculated
+  1339 EU-162   631620   4.8E+02          Calculated
+  1340 EU-163   631630   5.6E+02          Calculated
+  1341 GD-139   641390   3.5E+02          Calculated
+  1342 GD-139M  641391   3.4E+02          Calculated
+  1343 GD-140   641400   5.2E+02          Calculated
+  1344 GD-141   641410   6.5E+02          Calculated
+  1345 GD-141M  641411   4.3E+02          Calculated
+  1346 GD-142   641420   2.1E+03          Calculated
+  1347 GD-143   641430   7.1E+02          Calculated
+  1348 GD-143M  641431   4.5E+02          Calculated
+  1349 GD-144   641440   7.4E+02          Calculated
+  1350 GD-145   641450   4.1E+02          Calculated
+  1351 GD-145M  641451   1.4E+03          Calculated
+  1352 GD-146   641460   3.8E+03          Calculated
+  1353 GD-147   641470   8.0E+02          Calculated
+  1354 GD-148   641480   7.7E+04          Calculated
+  1355 GD-149   641490   1.9E+03          Calculated
+  1356 GD-150   641500   2.4E+04          Calculated
+  1357 GD-151   641510   1.3E+04          Calculated
+  1358 GD-152   641520   1.0E+03          IAEA-G-1.7
+  1359 GD-153   641530   1.0E+04          IAEA-G-1.7
+  1360 GD-154   641540  -1.0E+00          STABLE  
+  1361 GD-155   641550  -1.0E+00          STABLE  
+  1362 GD-156   641560  -1.0E+00          STABLE  
+  1363 GD-157   641570  -1.0E+00          STABLE  
+  1364 GD-158   641580  -1.0E+00          STABLE  
+  1365 GD-159   641590   1.0E+05          IAEA-G-1.7
+  1366 GD-160   641600   5.8E+03          Calculated
+  1367 GD-161   641610   2.2E+03          Calculated
+  1368 GD-162   641620   2.2E+03          Calculated
+  1369 GD-163   641630   1.7E+03          Calculated
+  1370 GD-164   641640   1.2E+03          Calculated
+  1371 GD-165   641650   6.5E+02          Calculated
+  1372 TB-144   651440   3.5E+03          Calculated
+  1373 TB-144M  651441   1.5E+03          Calculated
+  1374 TB-145   651450   3.9E+02          Calculated
+  1375 TB-145M  651451   4.2E+02          Calculated
+  1376 TB-146   651460   6.0E+02          Calculated
+  1377 TB-146M  651461   2.4E+02          Calculated
+  1378 TB-147   651470   5.1E+02          Calculated
+  1379 TB-147M  651471   6.4E+02          Calculated
+  1380 TB-148   651480   4.4E+02          Calculated
+  1381 TB-148M  651481   3.4E+02          Calculated
+  1382 TB-149   651490   7.3E+02          Calculated
+  1383 TB-149M  651491   9.2E+02          Calculated
+  1384 TB-150   651500   4.9E+02          Calculated
+  1385 TB-150M  651501   4.2E+02          Calculated
+  1386 TB-151   651510   1.0E+03          Calculated
+  1387 TB-151M  651511   1.3E+04          Calculated
+  1388 TB-152   651520   7.1E+02          Calculated
+  1389 TB-152M  651521   1.3E+03          Calculated
+  1390 TB-153   651530   3.1E+03          Calculated
+  1391 TB-154   651540   4.5E+02          Calculated
+  1392 TB-154M  651541   7.7E+02          Calculated
+  1393 TB-154N  651542   4.8E+02          Calculated
+  1394 TB-155   651550   5.5E+03          Calculated
+  1395 TB-156   651560   5.1E+02          Calculated
+  1396 TB-156M  651561   2.5E+04          Calculated
+  1397 TB-156N  651562   7.6E+04          Calculated
+  1398 TB-157   651570   9.1E+04          Calculated
+  1399 TB-158   651580   1.2E+03          Calculated
+  1400 TB-158M  651581   3.0E+04          Calculated
+  1401 TB-159   651590  -1.0E+00          STABLE  
+  1402 TB-160   651600   1.0E+03          IAEA-G-1.7
+  1403 TB-161   651610   1.9E+04          Calculated
+  1404 TB-162   651620   8.6E+02          Calculated
+  1405 TB-163   651630   1.2E+03          Calculated
+  1406 TB-164   651640   4.3E+02          Calculated
+  1407 TB-165   651650   1.4E+03          Calculated
+  1408 TB-166   651660   5.6E+02          Calculated
+  1409 TB-167   651670   6.7E+02          Calculated
+  1410 TB-168   651680   4.5E+02          Calculated
+  1411 DY-147   661470   4.2E+02          Calculated
+  1412 DY-147M  661471   7.0E+02          Calculated
+  1413 DY-148   661480   1.4E+03          Calculated
+  1414 DY-149   661490   6.2E+02          Calculated
+  1415 DY-150   661500   3.9E+03          Calculated
+  1416 DY-151   661510   7.4E+02          Calculated
+  1417 DY-152   661520   3.5E+03          Calculated
+  1418 DY-153   661530   1.4E+03          Calculated
+  1419 DY-154   661540   8.7E+04          Calculated
+  1420 DY-155   661550   1.6E+03          Calculated
+  1421 DY-156   661560   9.9E+03          Calculated
+  1422 DY-157   661570   2.8E+03          Calculated
+  1423 DY-158   661580  -1.0E+00          STABLE  
+  1424 DY-159   661590   2.1E+04          Calculated
+  1425 DY-160   661600  -1.0E+00          STABLE  
+  1426 DY-161   661610  -1.0E+00          STABLE  
+  1427 DY-162   661620  -1.0E+00          STABLE  
+  1428 DY-163   661630  -1.0E+00          STABLE  
+  1429 DY-164   661640  -1.0E+00          STABLE  
+  1430 DY-165   661650   1.0E+06          IAEA-G-1.7
+  1431 DY-165M  661651   3.3E+04          Calculated
+  1432 DY-166   661660   1.0E+05          IAEA-G-1.7
+  1433 DY-167   661670   1.7E+03          Calculated
+  1434 DY-168   661680   1.8E+03          Calculated
+  1435 DY-169   661690   8.5E+02          Calculated
+  1436 DY-170   661700   1.1E+03          Calculated
+  1437 DY-171   661710   6.2E+02          Calculated
+  1438 HO-152   671520   5.9E+02          Calculated
+  1439 HO-152M  671521   2.9E+02          Calculated
+  1440 HO-153   671530   1.0E+03          Calculated
+  1441 HO-153M  671531   6.4E+02          Calculated
+  1442 HO-154   671540   8.7E+02          Calculated
+  1443 HO-154M  671541   5.0E+02          Calculated
+  1444 HO-155   671550   2.1E+03          Calculated
+  1445 HO-156   671560   7.1E+02          Calculated
+  1446 HO-156M  671561   1.0E+03          Calculated
+  1447 HO-156N  671562   6.8E+02          Calculated
+  1448 HO-157   671570   2.1E+03          Calculated
+  1449 HO-158   671580   6.5E+02          Calculated
+  1450 HO-158M  671581   8.0E+06          Calculated
+  1451 HO-158N  671582   3.7E+02          Calculated
+  1452 HO-159   671590   2.6E+03          Calculated
+  1453 HO-159M  671591   9.1E+03          Calculated
+  1454 HO-160   671600   5.8E+02          Calculated
+  1455 HO-160M  671601   1.5E+03          Calculated
+  1456 HO-160N  671602   8.7E+03          Calculated
+  1457 HO-161   671610   1.6E+04          Calculated
+  1458 HO-161M  671611   8.7E+03          Calculated
+  1459 HO-162   671620   5.9E+03          Calculated
+  1460 HO-162M  671621   1.7E+03          Calculated
+  1461 HO-163   671630   3.8E+06          Calculated
+  1462 HO-163M  671631   4.1E+03          Calculated
+  1463 HO-164   671640   2.1E+04          Calculated
+  1464 HO-164M  671641   1.7E+04          Calculated
+  1465 HO-165   671650  -1.0E+00          STABLE  
+  1466 HO-166   671660   1.0E+05          IAEA-G-1.7
+  1467 HO-166M  671661   6.1E+02          Calculated
+  1468 HO-167   671670   2.6E+03          Calculated
+  1469 HO-168   671680   1.1E+03          Calculated
+  1470 HO-168M  671681   1.6E+04          Calculated
+  1471 HO-169   671690   1.8E+03          Calculated
+  1472 HO-170   671700   5.2E+02          Calculated
+  1473 HO-170M  671701   1.2E+03          Calculated
+  1474 HO-171   671710   8.5E+02          Calculated
+  1475 HO-172   671720   5.4E+02          Calculated
+  1476 HO-173   671730   6.0E+02          Calculated
+  1477 ER-153   681530   3.1E+03          Calculated
+  1478 ER-154   681540   1.3E+04          Calculated
+  1479 ER-155   681550   5.7E+02          Calculated
+  1480 ER-156   681560   1.6E+04          Calculated
+  1481 ER-157   681570   3.2E+03          Calculated
+  1482 ER-158   681580   7.1E+03          Calculated
+  1483 ER-159   681590   1.3E+03          Calculated
+  1484 ER-160   681600   2.7E+04          Calculated
+  1485 ER-161   681610   1.1E+03          Calculated
+  1486 ER-162   681620   1.1E+04          Calculated
+  1487 ER-163   681630   2.5E+04          Calculated
+  1488 ER-164   681640  -1.0E+00          STABLE  
+  1489 ER-165   681650   2.6E+04          Calculated
+  1490 ER-166   681660  -1.0E+00          STABLE  
+  1491 ER-167   681670  -1.0E+00          STABLE  
+  1492 ER-167M  681671   9.3E+03          Calculated
+  1493 ER-168   681680  -1.0E+00          STABLE  
+  1494 ER-169   681690   1.0E+06          IAEA-G-1.7
+  1495 ER-170   681700  -1.0E+00          STABLE  
+  1496 ER-171   681710   1.0E+05          IAEA-G-1.7
+  1497 ER-172   681720   1.9E+03          Calculated
+  1498 ER-173   681730   1.1E+03          Calculated
+  1499 ER-174   681740   1.4E+03          Calculated
+  1500 ER-175   681750   7.4E+02          Calculated
+  1501 TM-158   691580   5.8E+02          Calculated
+  1502 TM-159   691590   6.8E+02          Calculated
+  1503 TM-160   691600   7.7E+02          Calculated
+  1504 TM-160M  691601   2.6E+03          Calculated
+  1505 TM-161   691610   1.0E+03          Calculated
+  1506 TM-161M  691611   1.6E+03          Calculated
+  1507 TM-162   691620   6.1E+02          Calculated
+  1508 TM-162M  691621   3.2E+03          Calculated
+  1509 TM-163   691630   7.7E+02          Calculated
+  1510 TM-164   691640   1.3E+03          Calculated
+  1511 TM-164M  691641   3.3E+03          Calculated
+  1512 TM-165   691650   1.8E+03          Calculated
+  1513 TM-166   691660   5.1E+02          Calculated
+  1514 TM-167   691670   1.9E+04          Calculated
+  1515 TM-168   691680   8.0E+02          Calculated
+  1516 TM-169   691690  -1.0E+00          STABLE  
+  1517 TM-170   691700   1.0E+05          IAEA-G-1.7
+  1518 TM-171   691710   1.0E+06          IAEA-G-1.7
+  1519 TM-172   691720   1.9E+03          Calculated
+  1520 TM-173   691730   2.4E+03          Calculated
+  1521 TM-174   691740   5.5E+02          Calculated
+  1522 TM-175   691750   8.3E+02          Calculated
+  1523 TM-176   691760   5.6E+02          Calculated
+  1524 TM-177   691770   8.6E+02          Calculated
+  1525 TM-178   691780   4.9E+02          Calculated
+  1526 TM-179   691790   5.7E+02          Calculated
+  1527 YB-159   701590   1.6E+03          Calculated
+  1528 YB-160   701600   3.6E+03          Calculated
+  1529 YB-161   701610   9.2E+02          Calculated
+  1530 YB-162   701620   4.2E+03          Calculated
+  1531 YB-163   701630   1.3E+03          Calculated
+  1532 YB-164   701640   1.9E+04          Calculated
+  1533 YB-165   701650   2.9E+03          Calculated
+  1534 YB-166   701660   1.1E+04          Calculated
+  1535 YB-167   701670   3.6E+03          Calculated
+  1536 YB-168   701680   1.4E+04          Calculated
+  1537 YB-169   701690   3.1E+03          Calculated
+  1538 YB-169M  701691   4.1E+05          Calculated
+  1539 YB-170   701700  -1.0E+00          STABLE  
+  1540 YB-171   701710  -1.0E+00          STABLE  
+  1541 YB-172   701720  -1.0E+00          STABLE  
+  1542 YB-173   701730  -1.0E+00          STABLE  
+  1543 YB-174   701740  -1.0E+00          STABLE  
+  1544 YB-175   701750   1.0E+05          IAEA-G-1.7
+  1545 YB-176   701760  -1.0E+00          STABLE  
+  1546 YB-176M  701761   1.1E+03          Calculated
+  1547 YB-177   701770   4.1E+03          Calculated
+  1548 YB-177M  701771   6.0E+03          Calculated
+  1549 YB-178   701780   1.6E+03          Calculated
+  1550 YB-179   701790   1.1E+03          Calculated
+  1551 YB-180   701800   1.2E+03          Calculated
+  1552 YB-181   701810   7.0E+02          Calculated
+  1553 LU-162   711620   6.2E+02          Calculated
+  1554 LU-162M  711621   3.8E+02          Calculated
+  1555 LU-162N  711622   3.7E+02          Calculated
+  1556 LU-163   711630   2.3E+02          Calculated
+  1557 LU-164   711640   1.1E+03          Calculated
+  1558 LU-165   711650   7.5E+02          Calculated
+  1559 LU-166   711660   4.6E+02          Calculated
+  1560 LU-166M  711661   1.1E+03          Calculated
+  1561 LU-166N  711662   4.7E+02          Calculated
+  1562 LU-167   711670   9.7E+02          Calculated
+  1563 LU-167M  711671   1.8E+03          Calculated
+  1564 LU-168   711680   2.3E+02          Calculated
+  1565 LU-168M  711681   4.4E+02          Calculated
+  1566 LU-169   711690   8.2E+02          Calculated
+  1567 LU-169M  711691   2.8E+05          Calculated
+  1568 LU-170   711700   4.0E+02          Calculated
+  1569 LU-170M  711701   8.9E+04          Calculated
+  1570 LU-171   711710   1.5E+03          Calculated
+  1571 LU-171M  711711   1.1E+05          Calculated
+  1572 LU-172   711720   5.1E+02          Calculated
+  1573 LU-172M  711721   1.8E+05          Calculated
+  1574 LU-173   711730   5.7E+03          Calculated
+  1575 LU-174   711740   8.3E+03          Calculated
+  1576 LU-174M  711741   1.4E+04          Calculated
+  1577 LU-175   711750  -1.0E+00          STABLE  
+  1578 LU-176   711760   1.0E+03          IAEA-G-1.7
+  1579 LU-176M  711761   1.6E+04          Calculated
+  1580 LU-177   711770   1.0E+05          IAEA-G-1.7
+  1581 LU-177M  711771   5.7E+03          Calculated
+  1582 LU-177N  711772   5.7E+02          Calculated
+  1583 LU-178   711780   5.0E+03          Calculated
+  1584 LU-178M  711781   9.1E+02          Calculated
+  1585 LU-179   711790   1.3E+04          Calculated
+  1586 LU-180   711800   6.6E+02          Calculated
+  1587 LU-180M  711801   1.7E+03          Calculated
+  1588 LU-181   711810   1.8E+03          Calculated
+  1589 LU-182   711820   4.8E+02          Calculated
+  1590 LU-183   711830   1.3E+03          Calculated
+  1591 LU-184   711840   6.1E+02          Calculated
+  1592 HF-163   721630   1.3E+03          Calculated
+  1593 HF-164   721640   9.7E+02          Calculated
+  1594 HF-165   721650   1.8E+03          Calculated
+  1595 HF-166   721660   3.5E+03          Calculated
+  1596 HF-167   721670   1.3E+03          Calculated
+  1597 HF-168   721680   1.8E+03          Calculated
+  1598 HF-169   721690   8.7E+02          Calculated
+  1599 HF-170   721700   2.0E+03          Calculated
+  1600 HF-171   721710   1.1E+03          Calculated
+  1601 HF-171M  721711   4.6E+04          Calculated
+  1602 HF-172   721720   8.6E+03          Calculated
+  1603 HF-173   721730   2.5E+03          Calculated
+  1604 HF-174   721740   1.0E+03          IAEA-G-1.7
+  1605 HF-175   721750   2.7E+03          Calculated
+  1606 HF-176   721760  -1.0E+00          STABLE  
+  1607 HF-177   721770  -1.0E+00          STABLE  
+  1608 HF-177M  721771   9.2E+02          Calculated
+  1609 HF-177N  721772   8.3E+02          Calculated
+  1610 HF-178   721780  -1.0E+00          STABLE  
+  1611 HF-178M  721781   9.8E+02          Calculated
+  1612 HF-178N  721782   8.1E+02          Calculated
+  1613 HF-179   721790  -1.0E+00          STABLE  
+  1614 HF-179M  721791   3.9E+03          Calculated
+  1615 HF-179N  721792   1.1E+03          Calculated
+  1616 HF-180   721800  -1.0E+00          STABLE  
+  1617 HF-180M  721801   9.9E+02          Calculated
+  1618 HF-181   721810   1.0E+03          IAEA-G-1.7
+  1619 HF-182   721820   4.1E+03          Calculated
+  1620 HF-182M  721821   1.1E+03          Calculated
+  1621 HF-183   721830   1.3E+03          Calculated
+  1622 HF-184   721840   3.5E+03          Calculated
+  1623 HF-184M  721841   1.0E+03          Calculated
+  1624 HF-185   721850   9.0E+02          Calculated
+  1625 HF-186   721860   1.3E+03          Calculated
+  1626 HF-187   721870   7.2E+02          Calculated
+  1627 TA-170   731700   8.2E+02          Calculated
+  1628 TA-171   731710   5.2E+02          Calculated
+  1629 TA-172   731720   5.6E+02          Calculated
+  1630 TA-173   731730   2.4E+03          Calculated
+  1631 TA-174   731740   1.1E+03          Calculated
+  1632 TA-175   731750   1.2E+03          Calculated
+  1633 TA-176   731760   4.7E+02          Calculated
+  1634 TA-177   731770   1.4E+04          Calculated
+  1635 TA-178   731780   8.2E+03          Calculated
+  1636 TA-178M  731781   8.6E+02          Calculated
+  1637 TA-179   731790   3.3E+04          Calculated
+  1638 TA-180   731800   1.9E+04          Calculated
+  1639 TA-180M  731801   1.0E+03          IAEA-G-1.7
+  1640 TA-181   731810  -1.0E+00          STABLE  
+  1641 TA-182   731820   1.0E+02          IAEA-G-1.7
+  1642 TA-182M  731821   3.0E+05          Calculated
+  1643 TA-182N  731822   3.6E+03          Calculated
+  1644 TA-183   731830   3.1E+03          Calculated
+  1645 TA-184   731840   6.2E+02          Calculated
+  1646 TA-185   731850   4.7E+03          Calculated
+  1647 TA-186   731860   7.1E+02          Calculated
+  1648 TA-187   731870   8.7E+02          Calculated
+  1649 TA-188   731880   5.6E+02          Calculated
+  1650 TA-189   731890   7.5E+02          Calculated
+  1651 TA-190   731900   4.8E+02          Calculated
+  1652 W -171   741710   5.9E+02          Calculated
+  1653 W -172   741720   1.2E+03          Calculated
+  1654 W -173   741730   7.4E+02          Calculated
+  1655 W -174   741740   1.6E+03          Calculated
+  1656 W -175   741750   9.8E+02          Calculated
+  1657 W -176   741760   5.6E+03          Calculated
+  1658 W -177   741770   1.2E+03          Calculated
+  1659 W -178   741780   5.0E+04          Calculated
+  1660 W -179   741790   1.8E+04          Calculated
+  1661 W -179M  741791   2.7E+04          Calculated
+  1662 W -180   741800  -1.0E+00          STABLE  
+  1663 W -181   741810   1.0E+04          IAEA-G-1.7
+  1664 W -182   741820  -1.0E+00          STABLE  
+  1665 W -183   741830   5.7E+04          Calculated
+  1666 W -183M  741831   7.0E+03          Calculated
+  1667 W -184   741840   1.7E+05          Calculated
+  1668 W -185   741850   1.0E+06          IAEA-G-1.7
+  1669 W -185M  741851   2.3E+04          Calculated
+  1670 W -186   741860   4.1E+04          Calculated
+  1671 W -187   741870   1.0E+04          IAEA-G-1.7
+  1672 W -188   741880   8.4E+04          Calculated
+  1673 W -189   741890   7.6E+02          Calculated
+  1674 W -190   741900   5.1E+03          Calculated
+  1675 W -191   741910   8.4E+02          Calculated
+  1676 W -192   741920   1.3E+03          Calculated
+  1677 W -193   741930   7.7E+02          Calculated
+  1678 W -194   741940   8.9E+02          Calculated
+  1679 RE-174   751740   1.4E+03          Calculated
+  1680 RE-175   751750   6.3E+02          Calculated
+  1681 RE-176   751760   8.6E+02          Calculated
+  1682 RE-177   751770   1.7E+03          Calculated
+  1683 RE-178   751780   7.8E+02          Calculated
+  1684 RE-179   751790   9.3E+02          Calculated
+  1685 RE-180   751800   8.6E+02          Calculated
+  1686 RE-181   751810   1.3E+03          Calculated
+  1687 RE-182   751820   5.5E+02          Calculated
+  1688 RE-182M  751821   8.2E+02          Calculated
+  1689 RE-183   751830   6.1E+03          Calculated
+  1690 RE-184   751840   1.1E+03          Calculated
+  1691 RE-184M  751841   2.5E+03          Calculated
+  1692 RE-185   751850  -1.0E+00          STABLE  
+  1693 RE-186   751860   1.0E+06          IAEA-G-1.7
+  1694 RE-186M  751861   1.5E+04          Calculated
+  1695 RE-187   751870   1.0E+03          IAEA-G-1.7
+  1696 RE-188   751880   1.0E+05          IAEA-G-1.7
+  1697 RE-188M  751881   1.2E+04          Calculated
+  1698 RE-189   751890   1.1E+04          Calculated
+  1699 RE-190   751900   7.1E+02          Calculated
+  1700 RE-190M  751901   1.1E+03          Calculated
+  1701 RE-191   751910   1.3E+04          Calculated
+  1702 RE-192   751920   3.1E+03          Calculated
+  1703 RE-193   751930   8.8E+02          Calculated
+  1704 RE-194   751940   5.6E+02          Calculated
+  1705 RE-195   751950   7.6E+02          Calculated
+  1706 RE-196   751960   4.8E+02          Calculated
+  1707 RE-197   751970   6.2E+02          Calculated
+  1708 RE-198   751980   4.3E+02          Calculated
+  1709 OS-175   761750   5.3E+02          Calculated
+  1710 OS-176   761760   9.4E+02          Calculated
+  1711 OS-177   761770   6.3E+02          Calculated
+  1712 OS-178   761780   1.3E+03          Calculated
+  1713 OS-179   761790   7.6E+02          Calculated
+  1714 OS-180   761800   7.2E+03          Calculated
+  1715 OS-181   761810   2.6E+03          Calculated
+  1716 OS-181M  761811   7.2E+02          Calculated
+  1717 OS-182   761820   2.3E+03          Calculated
+  1718 OS-183   761830   1.6E+03          Calculated
+  1719 OS-183M  761831   1.0E+03          Calculated
+  1720 OS-184   761840   1.4E+04          Calculated
+  1721 OS-185   761850   1.0E+03          IAEA-G-1.7
+  1722 OS-186   761860   1.0E+03          IAEA-G-1.7
+  1723 OS-187   761870  -1.0E+00          STABLE  
+  1724 OS-188   761880  -1.0E+00          STABLE  
+  1725 OS-189   761890  -1.0E+00          STABLE  
+  1726 OS-189M  761891   2.3E+05          Calculated
+  1727 OS-190   761900  -1.0E+00          STABLE  
+  1728 OS-190M  761901   6.2E+02          Calculated
+  1729 OS-191   761910   1.0E+05          IAEA-G-1.7
+  1730 OS-191M  761911   1.0E+06          IAEA-G-1.7
+  1731 OS-192   761920  -1.0E+00          STABLE  
+  1732 OS-192M  761921   5.6E+02          Calculated
+  1733 OS-193   761930   1.0E+05          IAEA-G-1.7
+  1734 OS-194   761940   1.8E+05          Calculated
+  1735 OS-195   761950   4.7E+03          Calculated
+  1736 OS-196   761960   8.7E+03          Calculated
+  1737 OS-197   761970   1.3E+03          Calculated
+  1738 OS-198   761980   2.5E+03          Calculated
+  1739 OS-199   761990   8.0E+02          Calculated
+  1740 OS-200   762000   1.0E+03          Calculated
+  1741 OS-201   762010   6.4E+02          Calculated
+  1742 IR-178   771780   6.2E+02          Calculated
+  1743 IR-179   771790   5.5E+02          Calculated
+  1744 IR-180   771800   5.4E+02          Calculated
+  1745 IR-181   771810   7.3E+02          Calculated
+  1746 IR-182   771820   1.2E+03          Calculated
+  1747 IR-183   771830   1.1E+03          Calculated
+  1748 IR-184   771840   5.7E+02          Calculated
+  1749 IR-185   771850   1.1E+03          Calculated
+  1750 IR-186   771860   6.1E+02          Calculated
+  1751 IR-186M  771861   6.9E+02          Calculated
+  1752 IR-187   771870   3.2E+03          Calculated
+  1753 IR-188   771880   4.8E+02          Calculated
+  1754 IR-189   771890   1.2E+04          Calculated
+  1755 IR-190   771900   1.0E+03          IAEA-G-1.7
+  1756 IR-190M  771901   2.1E+05          Calculated
+  1757 IR-190N  771902   1.6E+04          Calculated
+  1758 IR-191   771910  -1.0E+00          STABLE  
+  1759 IR-191M  771911   1.2E+04          Calculated
+  1760 IR-191N  771912   5.3E+02          Calculated
+  1761 IR-192   771920   1.0E+03          IAEA-G-1.7
+  1762 IR-192M  771921   1.3E+05          Calculated
+  1763 IR-192N  771922   5.1E+04          Calculated
+  1764 IR-193   771930  -1.0E+00          STABLE  
+  1765 IR-193M  771931   1.0E+05          Calculated
+  1766 IR-194   771940   1.0E+05          IAEA-G-1.7
+  1767 IR-194M  771941   6.8E+03          Calculated
+  1768 IR-194N  771942   4.3E+02          Calculated
+  1769 IR-195   771950   1.0E+04          Calculated
+  1770 IR-195M  771951   2.6E+03          Calculated
+  1771 IR-196   771960   2.9E+03          Calculated
+  1772 IR-196M  771961   4.0E+02          Calculated
+  1773 IR-197   771970   3.4E+03          Calculated
+  1774 IR-197M  771971   1.4E+04          Calculated
+  1775 IR-198   771980   1.0E+03          Calculated
+  1776 IR-199   771990   9.1E+02          Calculated
+  1777 IR-200   772000   7.1E+02          Calculated
+  1778 IR-201   772010   7.2E+02          Calculated
+  1779 IR-202   772020   5.0E+02          Calculated
+  1780 PT-181   781810   5.4E+02          Calculated
+  1781 PT-182   781820   5.5E+03          Calculated
+  1782 PT-183   781830   6.2E+02          Calculated
+  1783 PT-183M  781831   8.5E+02          Calculated
+  1784 PT-184   781840   5.5E+02          Calculated
+  1785 PT-185   781850   3.8E+02          Calculated
+  1786 PT-185M  781851   3.2E+02          Calculated
+  1787 PT-186   781860   1.5E+03          Calculated
+  1788 PT-187   781870   2.2E+03          Calculated
+  1789 PT-188   781880   4.7E+03          Calculated
+  1790 PT-189   781890   2.1E+03          Calculated
+  1791 PT-190   781900   1.0E+03          IAEA-G-1.7
+  1792 PT-191   781910   1.0E+04          IAEA-G-1.7
+  1793 PT-192   781920  -1.0E+00          STABLE  
+  1794 PT-193   781930   2.9E+04          Calculated
+  1795 PT-193M  781931   1.0E+06          IAEA-G-1.7
+  1796 PT-194   781940  -1.0E+00          STABLE  
+  1797 PT-195   781950  -1.0E+00          STABLE  
+  1798 PT-195M  781951   1.1E+04          Calculated
+  1799 PT-196   781960  -1.0E+00          STABLE  
+  1800 PT-197   781970   1.0E+06          IAEA-G-1.7
+  1801 PT-197M  781971   1.0E+05          IAEA-G-1.7
+  1802 PT-198   781980  -1.0E+00          STABLE  
+  1803 PT-199   781990   3.9E+03          Calculated
+  1804 PT-199M  781991   2.9E+03          Calculated
+  1805 PT-200   782000   1.2E+04          Calculated
+  1806 PT-201   782010   1.0E+03          Calculated
+  1807 PT-202   782020   1.5E+04          Calculated
+  1808 PT-203   782030   9.8E+02          Calculated
+  1809 AU-185   791850   5.8E+02          Calculated
+  1810 AU-186   791860   6.5E+02          Calculated
+  1811 AU-187   791870   5.3E+02          Calculated
+  1812 AU-187M  791871   8.3E+03          Calculated
+  1813 AU-188   791880   4.9E+02          Calculated
+  1814 AU-189   791890   1.2E+03          Calculated
+  1815 AU-189M  791891   3.2E+03          Calculated
+  1816 AU-190   791900   4.7E+02          Calculated
+  1817 AU-191   791910   1.8E+03          Calculated
+  1818 AU-191M  791911   5.1E+03          Calculated
+  1819 AU-192   791920   5.8E+02          Calculated
+  1820 AU-192M  791921   4.7E+04          Calculated
+  1821 AU-192N  791922   6.6E+03          Calculated
+  1822 AU-193   791930   6.1E+03          Calculated
+  1823 AU-193M  791931   5.8E+03          Calculated
+  1824 AU-194   791940   9.7E+02          Calculated
+  1825 AU-194M  791941   3.1E+05          Calculated
+  1826 AU-194N  791942   8.3E+03          Calculated
+  1827 AU-195   791950   1.1E+04          Calculated
+  1828 AU-195M  791951   4.7E+03          Calculated
+  1829 AU-196   791960   2.1E+03          Calculated
+  1830 AU-196M  791961   9.4E+04          Calculated
+  1831 AU-196N  791962   3.8E+03          Calculated
+  1832 AU-197   791970  -1.0E+00          STABLE  
+  1833 AU-197M  791971   4.1E+03          Calculated
+  1834 AU-198   791980   1.0E+04          IAEA-G-1.7
+  1835 AU-198M  791981   1.8E+03          Calculated
+  1836 AU-199   791990   1.0E+05          IAEA-G-1.7
+  1837 AU-200   792000   2.9E+03          Calculated
+  1838 AU-200M  792001   5.0E+02          Calculated
+  1839 AU-201   792010   1.3E+04          Calculated
+  1840 AU-202   792020   3.5E+03          Calculated
+  1841 AU-203   792030   6.9E+03          Calculated
+  1842 AU-204   792040   5.0E+02          Calculated
+  1843 AU-205   792050   7.7E+02          Calculated
+  1844 AU-206   792060   4.1E+02          Calculated
+  1845 HG-186   801860   2.3E+03          Calculated
+  1846 HG-187   801870   2.5E+02          Calculated
+  1847 HG-187M  801871   5.7E+02          Calculated
+  1848 HG-188   801880   5.7E+03          Calculated
+  1849 HG-189   801890   3.1E+02          Calculated
+  1850 HG-189M  801891   7.1E+02          Calculated
+  1851 HG-190   801900   4.7E+03          Calculated
+  1852 HG-191   801910   1.8E+03          Calculated
+  1853 HG-191M  801911   6.8E+02          Calculated
+  1854 HG-192   801920   3.6E+03          Calculated
+  1855 HG-193   801930   1.2E+03          Calculated
+  1856 HG-193M  801931   8.9E+02          Calculated
+  1857 HG-194   801940   1.4E+05          Calculated
+  1858 HG-195   801950   4.9E+03          Calculated
+  1859 HG-195M  801951   4.6E+03          Calculated
+  1860 HG-196   801960   1.2E+04          Calculated
+  1861 HG-197   801970   1.0E+05          IAEA-G-1.7
+  1862 HG-197M  801971   1.0E+05          IAEA-G-1.7
+  1863 HG-198   801980  -1.0E+00          STABLE  
+  1864 HG-199   801990  -1.0E+00          STABLE  
+  1865 HG-199M  801991   4.6E+03          Calculated
+  1866 HG-200   802000  -1.0E+00          STABLE  
+  1867 HG-201   802010  -1.0E+00          STABLE  
+  1868 HG-202   802020  -1.0E+00          STABLE  
+  1869 HG-203   802030   1.0E+04          IAEA-G-1.7
+  1870 HG-204   802040  -1.0E+00          STABLE  
+  1871 HG-205   802050   1.7E+04          Calculated
+  1872 HG-206   802060   1.0E+03          IAEA-G-1.7
+  1873 HG-207   802070   3.5E+02          Calculated
+  1874 HG-208   802080   7.5E+02          Calculated
+  1875 HG-209   802090   5.2E+02          Calculated
+  1876 TL-192   811920   4.4E+02          Calculated
+  1877 TL-192M  811921   4.3E+02          Calculated
+  1878 TL-193   811930   1.8E+03          Calculated
+  1879 TL-193M  811931   2.7E+03          Calculated
+  1880 TL-194   811940   1.4E+03          Calculated
+  1881 TL-194M  811941   3.9E+02          Calculated
+  1882 TL-195   811950   8.4E+02          Calculated
+  1883 TL-195M  811951   2.7E+03          Calculated
+  1884 TL-196   811960   6.6E+02          Calculated
+  1885 TL-196M  811961   8.8E+02          Calculated
+  1886 TL-197   811970   2.2E+03          Calculated
+  1887 TL-197M  811971   2.2E+03          Calculated
+  1888 TL-198   811980   5.0E+02          Calculated
+  1889 TL-198M  811981   8.4E+02          Calculated
+  1890 TL-199   811990   3.9E+03          Calculated
+  1891 TL-200   812000   1.0E+04          IAEA-G-1.7
+  1892 TL-201   812010   1.0E+05          IAEA-G-1.7
+  1893 TL-202   812020   1.0E+04          IAEA-G-1.7
+  1894 TL-203   812030  -1.0E+00          STABLE  
+  1895 TL-204   812040   1.0E+03          IAEA-G-1.7
+  1896 TL-205   812050  -1.0E+00          STABLE  
+  1897 TL-206   812060   1.0E+03          IAEA-G-1.7
+  1898 TL-206M  812061   4.0E+02          Calculated
+  1899 TL-207   812070   1.9E+04          Calculated
+  1900 TL-207M  812071   8.5E+02          Calculated
+  1901 TL-208   812080   1.0E+03          IAEA-G-1.7
+  1902 TL-209   812090   4.6E+02          Calculated
+  1903 TL-210   812100   1.0E+03          IAEA-G-1.7
+  1904 PB-193   821930   5.3E+02          Calculated
+  1905 PB-193M  821931   5.2E+02          Calculated
+  1906 PB-194   821940   9.6E+02          Calculated
+  1907 PB-195   821950   3.4E+03          Calculated
+  1908 PB-195M  821951   5.8E+02          Calculated
+  1909 PB-196   821960   2.0E+03          Calculated
+  1910 PB-197   821970   7.0E+02          Calculated
+  1911 PB-197M  821971   8.4E+02          Calculated
+  1912 PB-198   821980   2.3E+03          Calculated
+  1913 PB-199   821990   1.0E+03          Calculated
+  1914 PB-199M  821991   5.7E+03          Calculated
+  1915 PB-200   822000   4.6E+03          Calculated
+  1916 PB-201   822010   1.3E+03          Calculated
+  1917 PB-201M  822011   2.5E+03          Calculated
+  1918 PB-202   822020   1.4E+04          Calculated
+  1919 PB-202M  822021   5.0E+02          Calculated
+  1920 PB-203   822030   1.0E+04          IAEA-G-1.7
+  1921 PB-203M  822031   1.5E+03          Calculated
+  1922 PB-203N  822032   5.2E+02          Calculated
+  1923 PB-204   822040   1.0E+03          IAEA-G-1.7
+  1924 PB-204M  822041   4.8E+02          Calculated
+  1925 PB-205   822050   1.7E+04          Calculated
+  1926 PB-205M  822051   9.9E+02          Calculated
+  1927 PB-206   822060  -1.0E+00          STABLE  
+  1928 PB-207   822070  -1.0E+00          STABLE  
+  1929 PB-207M  822071   6.6E+02          Calculated
+  1930 PB-208   822080  -1.0E+00          STABLE  
+  1931 PB-209   822090   1.0E+03          IAEA-G-1.7
+  1932 PB-210   822100   1.0E+03          IAEA-G-1.7
+  1933 PB-211   822110   8.8E+03          Calculated
+  1934 PB-212   822120   1.0E+03          IAEA-G-1.7
+  1935 PB-213   822130   1.3E+03          Calculated
+  1936 PB-214   822140   1.0E+03          IAEA-G-1.7
+  1937 PB-215   822150   9.6E+02          Calculated
+  1938 BI-196   831960   3.7E+02          Calculated
+  1939 BI-196M  831961   6.8E+02          Calculated
+  1940 BI-196N  831962   4.8E+02          Calculated
+  1941 BI-197   831970   5.8E+02          Calculated
+  1942 BI-197M  831971   1.1E+03          Calculated
+  1943 BI-198   831980   4.2E+02          Calculated
+  1944 BI-198M  831981   4.7E+02          Calculated
+  1945 BI-198N  831982   8.3E+03          Calculated
+  1946 BI-199   831990   7.3E+02          Calculated
+  1947 BI-199M  831991   5.4E+02          Calculated
+  1948 BI-200   832000   4.1E+02          Calculated
+  1949 BI-200M  832001   6.4E+02          Calculated
+  1950 BI-200N  832002   2.3E+03          Calculated
+  1951 BI-201   832010   5.3E+02          Calculated
+  1952 BI-201M  832011   6.5E+02          Calculated
+  1953 BI-202   832020   4.0E+02          Calculated
+  1954 BI-203   832030   4.2E+02          Calculated
+  1955 BI-203M  832031   1.1E+03          Calculated
+  1956 BI-204   832040   3.3E+02          Calculated
+  1957 BI-205   832050   6.7E+02          Calculated
+  1958 BI-206   832060   1.0E+03          IAEA-G-1.7
+  1959 BI-207   832070   1.0E+02          IAEA-G-1.7
+  1960 BI-208   832080   3.8E+02          Calculated
+  1961 BI-208M  832081   6.6E+02          Calculated
+  1962 BI-209   832090   5.6E+01          Calculated
+  1963 BI-210   832100   1.0E+03          IAEA-G-1.7
+  1964 BI-210M  832101   3.8E+03          Calculated
+  1965 BI-211   832110   1.0E+03          IAEA-G-1.7
+  1966 BI-212   832120   1.0E+03          IAEA-G-1.7
+  1967 BI-212M  832121   6.3E+03          Calculated
+  1968 BI-212N  832122   7.6E+03          Calculated
+  1969 BI-213   832130   5.8E+03          Calculated
+  1970 BI-214   832140   1.0E+03          IAEA-G-1.7
+  1971 BI-215   832150   1.0E+03          IAEA-G-1.7
+  1972 BI-215M  832151   7.6E+02          Calculated
+  1973 BI-216   832160   6.7E+02          Calculated
+  1974 PO-202   842020   1.2E+03          Calculated
+  1975 PO-203   842030   1.0E+04          IAEA-G-1.7
+  1976 PO-203M  842031   2.5E+03          Calculated
+  1977 PO-204   842040   8.6E+02          Calculated
+  1978 PO-205   842050   1.0E+04          IAEA-G-1.7
+  1979 PO-206   842060   8.4E+02          Calculated
+  1980 PO-207   842070   1.0E+04          IAEA-G-1.7
+  1981 PO-207M  842071   9.1E+02          Calculated
+  1982 PO-208   842080   2.6E+04          Calculated
+  1983 PO-209   842090   2.6E+04          Calculated
+  1984 PO-210   842100   1.0E+03          IAEA-G-1.7
+  1985 PO-211   842110   1.0E+03          IAEA-G-1.7
+  1986 PO-211M  842111   6.7E+02          Calculated
+  1987 PO-212   842120   1.0E+03          IAEA-G-1.7
+  1988 PO-212M  842121   1.1E+04          Calculated
+  1989 PO-213   842130   4.3E+07          Calculated
+  1990 PO-214   842140   1.0E+03          IAEA-G-1.7
+  1991 PO-215   842150   1.0E+03          IAEA-G-1.7
+  1992 PO-216   842160   1.0E+03          IAEA-G-1.7
+  1993 PO-217   842170   3.6E+04          Calculated
+  1994 PO-218   842180   1.0E+03          IAEA-G-1.7
+  1995 PO-219   842190   2.3E+03          Calculated
+  1996 AT-205   852050   9.1E+02          Calculated
+  1997 AT-206   852060   4.3E+02          Calculated
+  1998 AT-207   852070   5.0E+02          Calculated
+  1999 AT-208   852080   3.3E+02          Calculated
+  2000 AT-209   852090   4.4E+02          Calculated
+  2001 AT-210   852100   3.4E+02          Calculated
+  2002 AT-211   852110   1.0E+06          IAEA-G-1.7
+  2003 AT-212   852120   4.8E+10          Calculated
+  2004 AT-212M  852121   1.3E+05          Calculated
+  2005 AT-213   852130   1.0E+17          Calculated
+  2006 AT-214   852140   2.4E+16          Calculated
+  2007 AT-215   852150   1.0E+03          IAEA-G-1.7
+  2008 AT-216   852160   4.9E+13          Calculated
+  2009 AT-217   852170   3.2E+06          Calculated
+  2010 AT-218   852180   1.0E+03          IAEA-G-1.7
+  2011 AT-219   852190   1.0E+03          IAEA-G-1.7
+  2012 AT-220   852200   2.0E+03          Calculated
+  2013 AT-221   852210   1.2E+03          Calculated
+  2014 AT-222   852220   6.2E+02          Calculated
+  2015 RN-208   862080   1.9E+03          Calculated
+  2016 RN-209   862090   1.0E+03          Calculated
+  2017 RN-210   862100   1.6E+03          Calculated
+  2018 RN-211   862110   4.8E+02          Calculated
+  2019 RN-212   862120   9.4E+03          Calculated
+  2020 RN-213   862130   4.2E+08          Calculated
+  2021 RN-214   862140   3.4E+13          Calculated
+  2022 RN-215   862150   2.3E+12          Calculated
+  2023 RN-216   862160   1.1E+11          Calculated
+  2024 RN-217   862170   6.2E+06          Calculated
+  2025 RN-218   862180   1.0E+03          IAEA-G-1.7
+  2026 RN-219   862190   1.0E+03          IAEA-G-1.7
+  2027 RN-220   862200   1.0E+03          IAEA-G-1.7
+  2028 RN-221   862210   4.3E+03          Calculated
+  2029 RN-222   862220   1.0E+03          IAEA-G-1.7
+  2030 RN-223   862230   2.5E+03          Calculated
+  2031 RN-224   862240   3.9E+03          Calculated
+  2032 RN-225   862250   1.0E+03          Calculated
+  2033 FR-218   872180   1.4E+10          Calculated
+  2034 FR-218M  872181   6.4E+08          Calculated
+  2035 FR-219   872190   2.8E+05          Calculated
+  2036 FR-220   872200   9.1E+04          Calculated
+  2037 FR-221   872210   3.3E+04          Calculated
+  2038 FR-222   872220   4.0E+03          Calculated
+  2039 FR-223   872230   1.0E+03          IAEA-G-1.7
+  2040 FR-224   872240   1.6E+03          Calculated
+  2041 FR-225   872250   1.5E+03          Calculated
+  2042 FR-226   872260   1.8E+03          Calculated
+  2043 FR-227   872270   2.0E+03          Calculated
+  2044 FR-228   872280   1.2E+03          Calculated
+  2045 RA-220   882200   2.2E+05          Calculated
+  2046 RA-221   882210   2.3E+04          Calculated
+  2047 RA-222   882220   1.1E+05          Calculated
+  2048 RA-223   882230   1.0E+03          IAEA-G-1.7
+  2049 RA-224   882240   1.0E+03          IAEA-G-1.7
+  2050 RA-225   882250   1.0E+04          IAEA-G-1.7
+  2051 RA-226   882260   1.0E+03          IAEA-G-1.7
+  2052 RA-227   882270   1.0E+05          IAEA-G-1.7
+  2053 RA-228   882280   1.0E+03          IAEA-G-1.7
+  2054 RA-229   882290   1.6E+04          Calculated
+  2055 RA-230   882300   3.0E+03          Calculated
+  2056 RA-231   882310   1.1E+03          Calculated
+  2057 AC-222   892220   4.3E+07          Calculated
+  2058 AC-222M  892221   2.8E+06          Calculated
+  2059 AC-223   892230   2.5E+05          Calculated
+  2060 AC-224   892240   4.3E+03          Calculated
+  2061 AC-225   892250   5.0E+04          Calculated
+  2062 AC-226   892260   4.1E+03          Calculated
+  2063 AC-227   892270   1.0E+03          IAEA-G-1.7
+  2064 AC-228   892280   1.0E+03          IAEA-G-1.7
+  2065 AC-229   892290   2.1E+03          Calculated
+  2066 AC-230   892300   1.7E+03          Calculated
+  2067 AC-231   892310   2.1E+03          Calculated
+  2068 AC-232   892320   8.0E+02          Calculated
+  2069 AC-233   892330   1.7E+03          Calculated
+  2070 AC-234   892340   6.1E+02          Calculated
+  2071 TH-224   902240   4.1E+04          Calculated
+  2072 TH-225   902250   6.5E+03          Calculated
+  2073 TH-226   902260   1.0E+06          IAEA-G-1.7
+  2074 TH-227   902270   1.0E+03          IAEA-G-1.7
+  2075 TH-228   902280   1.0E+03          IAEA-G-1.7
+  2076 TH-229   902290   1.0E+02          IAEA-G-1.7
+  2077 TH-229M  902291   2.9E+08          Calculated
+  2078 TH-230   902300   1.0E+03          IAEA-G-1.7
+  2079 TH-231   902310   1.0E+03          IAEA-G-1.7
+  2080 TH-232   902320   1.0E+03          IAEA-G-1.7
+  2081 TH-233   902330   1.3E+04          Calculated
+  2082 TH-234   902340   1.0E+03          IAEA-G-1.7
+  2083 TH-235   902350   1.4E+03          Calculated
+  2084 PA-226   912260   3.7E+03          Calculated
+  2085 PA-227   912270   6.9E+04          Calculated
+  2086 PA-228   912280   7.5E+02          Calculated
+  2087 PA-229   912290   1.5E+04          Calculated
+  2088 PA-230   912300   1.0E+04          IAEA-G-1.7
+  2089 PA-231   912310   1.0E+03          IAEA-G-1.7
+  2090 PA-232   912320   1.0E+03          Calculated
+  2091 PA-233   912330   1.0E+04          IAEA-G-1.7
+  2092 PA-234   912340   1.0E+03          IAEA-G-1.7
+  2093 PA-234M  912341   1.0E+03          IAEA-G-1.7
+  2094 PA-235   912350   1.8E+04          Calculated
+  2095 PA-236   912360   1.1E+03          Calculated
+  2096 PA-237   912370   1.5E+03          Calculated
+  2097 PA-238   912380   4.9E+02          Calculated
+  2098 U -228   922280   1.3E+05          Calculated
+  2099 U -229   922290   2.6E+03          Calculated
+  2100 U -230   922300   1.0E+04          IAEA-G-1.7
+  2101 U -231   922310   1.0E+05          IAEA-G-1.7
+  2102 U -232   922320   1.0E+02          IAEA-G-1.7
+  2103 U -233   922330   1.0E+03          IAEA-G-1.7
+  2104 U -234   922340   1.0E+03          IAEA-G-1.7
+  2105 U -235   922350   1.0E+03          IAEA-G-1.7
+  2106 U -235M  922351   1.3E+08          Calculated
+  2107 U -236   922360   1.0E+04          IAEA-G-1.7
+  2108 U -237   922370   1.0E+05          IAEA-G-1.7
+  2109 U -238   922380   1.0E+03          IAEA-G-1.7
+  2110 U -239   922390   1.0E+05          IAEA-G-1.7
+  2111 U -240   922400   1.0E+05          IAEA-G-1.7
+  2112 U -241   922410   1.4E+03          Calculated
+  2113 U -242   922420   2.5E+04          Calculated
+  2114 U -243   922430   9.2E+02          Calculated
+  2115 U -244   922440   1.5E+03          Calculated
+  2116 U -245   922450   7.5E+02          Calculated
+  2117 NP-230   932300   7.8E+02          Calculated
+  2118 NP-231   932310   8.2E+02          Calculated
+  2119 NP-232   932320   8.4E+02          Calculated
+  2120 NP-233   932330   1.2E+04          Calculated
+  2121 NP-234   932340   9.0E+02          Calculated
+  2122 NP-235   932350   1.3E+05          Calculated
+  2123 NP-236   932360   5.7E+03          Calculated
+  2124 NP-236M  932361   1.7E+04          Calculated
+  2125 NP-237   932370   1.0E+03          IAEA-G-1.7
+  2126 NP-238   932380   1.5E+03          Calculated
+  2127 NP-239   932390   1.0E+05          IAEA-G-1.7
+  2128 NP-240   932400   1.0E+04          IAEA-G-1.7
+  2129 NP-240M  932401   2.5E+03          Calculated
+  2130 NP-241   932410   1.3E+04          Calculated
+  2131 NP-242   932420   3.0E+03          Calculated
+  2132 NP-242M  932421   1.0E+03          Calculated
+  2133 NP-243   932430   1.3E+03          Calculated
+  2134 NP-244   932440   8.0E+02          Calculated
+  2135 NP-245   932450   1.0E+03          Calculated
+  2136 NP-246   932460   6.0E+02          Calculated
+  2137 PU-232   942320   1.1E+04          Calculated
+  2138 PU-233   942330   3.0E+02          Calculated
+  2139 PU-234   942340   1.0E+05          IAEA-G-1.7
+  2140 PU-235   942350   1.0E+05          IAEA-G-1.7
+  2141 PU-236   942360   1.0E+03          IAEA-G-1.7
+  2142 PU-237   942370   1.0E+05          IAEA-G-1.7
+  2143 PU-237M  942371   6.9E+03          Calculated
+  2144 PU-238   942380   1.0E+02          IAEA-G-1.7
+  2145 PU-239   942390   1.0E+02          IAEA-G-1.7
+  2146 PU-240   942400   1.0E+02          IAEA-G-1.7
+  2147 PU-241   942410   1.0E+04          IAEA-G-1.7
+  2148 PU-242   942420   1.0E+02          IAEA-G-1.7
+  2149 PU-243   942430   1.0E+06          IAEA-G-1.7
+  2150 PU-244   942440   1.0E+02          IAEA-G-1.7
+  2151 PU-245   942450   2.3E+03          Calculated
+  2152 PU-246   942460   7.4E+03          Calculated
+  2153 PU-247   942470   1.5E+03          Calculated
+  2154 AM-237   952370   2.4E+03          Calculated
+  2155 AM-238   952380   1.1E+03          Calculated
+  2156 AM-239   952390   3.6E+03          Calculated
+  2157 AM-240   952400   9.6E+02          Calculated
+  2158 AM-241   952410   1.0E+02          IAEA-G-1.7
+  2159 AM-242   952420   1.0E+06          IAEA-G-1.7
+  2160 AM-242M  952421   1.0E+02          IAEA-G-1.7
+  2161 AM-243   952430   1.0E+02          IAEA-G-1.7
+  2162 AM-244   952440   1.1E+03          Calculated
+  2163 AM-244M  952441   1.6E+04          Calculated
+  2164 AM-245   952450   1.8E+04          Calculated
+  2165 AM-246   952460   1.2E+03          Calculated
+  2166 AM-246M  952461   9.4E+02          Calculated
+  2167 AM-247   952470   5.4E+03          Calculated
+  2168 AM-248   952480   8.6E+02          Calculated
+  2169 AM-249   952490   1.2E+03          Calculated
+  2170 AM-250   952500   6.6E+02          Calculated
+  2171 CM-238   962380   1.1E+04          Calculated
+  2172 CM-239   962390   8.2E+02          Calculated
+  2173 CM-240   962400   5.7E+05          Calculated
+  2174 CM-241   962410   2.0E+03          Calculated
+  2175 CM-242   962420   1.0E+04          IAEA-G-1.7
+  2176 CM-243   962430   1.0E+03          IAEA-G-1.7
+  2177 CM-244   962440   1.0E+03          IAEA-G-1.7
+  2178 CM-245   962450   1.0E+02          IAEA-G-1.7
+  2179 CM-246   962460   1.0E+02          IAEA-G-1.7
+  2180 CM-247   962470   1.0E+02          IAEA-G-1.7
+  2181 CM-248   962480   1.0E+02          IAEA-G-1.7
+  2182 CM-249   962490   2.1E+04          Calculated
+  2183 CM-250   962500   2.0E+02          Calculated
+  2184 CM-251   962510   6.4E+03          Calculated
+  2185 BK-243   972430   5.7E+03          Calculated
+  2186 BK-244   972440   4.5E+02          Calculated
+  2187 BK-245   972450   4.2E+03          Calculated
+  2188 BK-246   972460   1.2E+03          Calculated
+  2189 BK-247   972470   6.8E+03          Calculated
+  2190 BK-248   972480   3.7E+03          Calculated
+  2191 BK-248M  972481   1.4E+04          Calculated
+  2192 BK-249   972490   1.0E+05          IAEA-G-1.7
+  2193 BK-250   972500   1.1E+03          Calculated
+  2194 BK-251   972510   2.5E+03          Calculated
+  2195 BK-252   972520   2.2E+03          Calculated
+  2196 BK-253   972530   1.7E+03          Calculated
+  2197 BK-254   972540   8.9E+02          Calculated
+  2198 CF-244   982440   1.4E+08          Calculated
+  2199 CF-245   982450   2.7E+03          Calculated
+  2200 CF-246   982460   1.0E+06          IAEA-G-1.7
+  2201 CF-247   982470   3.2E+02          Calculated
+  2202 CF-248   982480   1.0E+03          IAEA-G-1.7
+  2203 CF-249   982490   1.0E+02          IAEA-G-1.7
+  2204 CF-250   982500   1.0E+03          IAEA-G-1.7
+  2205 CF-251   982510   1.0E+02          IAEA-G-1.7
+  2206 CF-252   982520   1.0E+03          IAEA-G-1.7
+  2207 CF-253   982530   1.0E+05          IAEA-G-1.7
+  2208 CF-254   982540   1.0E+03          IAEA-G-1.7
+  2209 CF-255   982550   3.8E+03          Calculated
+  2210 ES-249   992490   2.4E+03          Calculated
+  2211 ES-250   992500   8.0E+02          Calculated
+  2212 ES-250M  992501   1.9E+03          Calculated
+  2213 ES-251   992510   2.5E+04          Calculated
+  2214 ES-252   992520   4.8E+03          Calculated
+  2215 ES-253   992530   1.0E+05          IAEA-G-1.7
+  2216 ES-254   992540   1.0E+02          IAEA-G-1.7
+  2217 ES-254M  992541   1.0E+04          IAEA-G-1.7
+  2218 ES-255   992550   4.2E+04          Calculated
+  2219 ES-256   992560   1.6E+03          Calculated
+  2220 ES-256M  992561   1.2E+04          Calculated
+  2221 ES-257   992570   3.4E+03          Calculated
+  2222 FM-250  1002500   1.5E+05          Calculated
+  2223 FM-250M 1002501   8.3E+02          Calculated
+  2224 FM-251  1002510   6.0E+03          Calculated
+  2225 FM-252  1002520   2.2E+06          Calculated
+  2226 FM-253  1002530   1.1E+04          Calculated
+  2227 FM-254  1002540   1.0E+07          IAEA-G-1.7
+  2228 FM-255  1002550   1.0E+05          IAEA-G-1.7
+  2229 FM-256  1002560   7.3E+07          Calculated
+  2230 FM-257  1002570   8.0E+03          Calculated
+  2231 FM-258  1002580   4.5E+05          Calculated

@@ -22,10 +22,10 @@ module fispactdriver
            'Md', 'No', 'Lr', 'Rf', 'Db', 'Sg', 'Bh', 'Hs', 'Mt', 'Ds', & 
            'Rg', 'Cn' /)
 
-
     private
     public:: f_name, f_get_name, run_condense, run_collapse, run_collapse_clean, run_inventory, &
              read_tab4, write_cgi, check_cgi, run_inventory2
+    
     contains
     function f_get_name(z, a) result(s)
         ! Return FISPACT name of nuclide za
@@ -304,12 +304,31 @@ module fispactdriver
 
     subroutine run_condense()
         implicit none
-        integer:: ist
+        integer:: ist, nn, l
+        character (len=:), allocatable:: fname
+
+        ! Number of energy groups
+        nn = size(vc(:, 1, 1, 1, 1))
 
         ! Condense does not require any case-specific into. Simply
         ! call the script
         call pr_run1(r2s_condense_s1, ist)
         call pr_run1(r2s_condense_s2, ist)
+
+        ! When arb-flux is used, one needs to put energy groups. This is done only
+        ! once for the whole mesh, therefore can be done here.
+        fname = 'cond/arb_flux_energy'
+        call report_file_name('Writing neutron energy groups to', fname)
+        open(pr_scw, file=fname)
+        write(pr_scw, *) (ec(l) * 1e6, l = nn, 1, -1)          ! arb_flux contains N+1 entries (N number of groups), the highest first, in eV. 
+        close(pr_scw)
+
+        ! Part of collapse input with GRPCONVERT keyword
+        fname = 'cond/grpconvert'
+        call report_file_name('Writing grpconvert keyword to', fname)
+        open(pr_scw, file=fname)
+        write(pr_scw, *) 'GRPCONVERT ', nn-1, ' 175'   ! the use of 175 groups fusion XS is currently hardcoded
+        close(pr_scw)
 
     end subroutine run_condense
 
@@ -318,25 +337,18 @@ module fispactdriver
         implicit none
         integer, intent(in):: i, j, k  ! indices of the coarse mesh where spectrum is collapsed
         ! local vars
-        integer:: ist, n, l
+        integer:: ist, l, nn
         character (len=:), allocatable:: fname
 
-        n = size(vc(:, i, j, k, 1))
+        ! Number of energy groups
+        nn = size(vc(:, 1, 1, 1, 1))
         ! standard spectrum filename
         fname = r2s_scratch // ijk2str('/r2s_w/arb_flux', ".", (/i, j, k/))
         call report_file_name('Writing spectrum to', fname)
         open(pr_scw, file=fname)
-        write(pr_scw, *) (ec(l) * 1e6, l = n, 1, -1)          ! arb_flux contains N+1 entries (N number of groups), the highest first, in eV. 
-        write(pr_scw, *) (vc(l, i, j, k, 1), l = n-1, 1, -1)  ! vc contains also the total value, which is not needed here
+        write(pr_scw, *) (vc(l, i, j, k, 1), l = nn-1, 1, -1)  ! vc contains also the total value, which is not needed here
         write(pr_scw, *) 1.0          ! First wall loading. Does not matter (?)
         write(pr_scw, *) 'Spectrum for ', i, j, k, ' written' 
-        close(pr_scw)
-
-        ! Part of collapse input with GRPCONVERT keyword
-        fname = r2s_scratch // ijk2str('/r2s_w/grpconvert', ".", (/i, j, k/))
-        call report_file_name('Writing spectrum to', fname)
-        open(pr_scw, file=fname)
-        write(pr_scw, *) 'GRPCONVERT ', n-1, ' 175'   ! the use of 175 groups fusion XS is currently hardcoded
         close(pr_scw)
 
         ! Prepare the script command:

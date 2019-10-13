@@ -1,0 +1,11 @@
+System Configuration: 
+Mesh Computers desktop PC
+Intel(R) Core(TM) i7 CPU 860 @ 2.80GHz (8 Cores)
+Memory 7.8GB
+
+g95: G95 (GCC 4.1.2 (g95 0.93) June 16 2010)
+Windows 7 Home Premium SP1 64-bit
+
+F90FLAGS=-O2 -ftrace=full  -ffree-form -ftr15581 -std=f2003
+F77FLAGS=-O3 -ftrace=full 
+

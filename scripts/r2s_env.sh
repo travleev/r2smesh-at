@@ -172,6 +172,13 @@ export r2s_scratch=`realpath $r2s_scratch`
 export r2s_continue=yes  # "yes" is case sensitive. 
 # export r2s_continue=no   # any other value means "no".
 
+# Whether to perform group conversion. By default it is performed, which should be also
+# ok when the neutron flux is already given in proper (i.e. 175 FISPACT) group structure.
+# However, in this case the group conversion can be avoided to e.g. save CPU time. In this
+# case, set r2s_grpconvert to "no".
+export r2s_grpconvert="yes"
+# export r2s_grpconvert="no"
+
 # Folder with the problem data.
 # This variable is used only here to provide common part to other variables.
 export r2s_input=$(realpath ./input)

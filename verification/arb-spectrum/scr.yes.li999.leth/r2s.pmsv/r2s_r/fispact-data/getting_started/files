@@ -1,0 +1,34 @@
+# gamma attenuation data
+absorp  ../EAF2007data/eaf_abs_20070
+
+# index of nuclides to be included
+ind_nuc  ../EAF2010data/eaf_index_20100
+
+# Library cross section and uncertainty data
+# neutron induced GAM-II (100 group) library
+crossec  ../EAF2010data/eaf_n_gxs_100_fus_20100
+crossunc  ../EAF2010data/eaf_un_20100
+
+# fluxes
+fluxes  EEF_first_wall_fluxes
+
+# collapsed cross section data (in and out)
+collapxi  collapsed_cross_section_data
+collapxo  collapsed_cross_section_data
+
+# Library decay data
+decay  ../EAF2010data/eaf_dec_20100.001
+
+# Library fission  data
+asscfy  ../EAF2010data/eaf_n_asscfy_20100
+fissyld  ../EAF2007data/eaf_n_fis_20070
+
+# condensed decay and fission data (in and out)
+arrayx  condensed_decay_and_fission_data
+
+
+# Library regulatory data
+hazards  ../EAF2010data/eaf_haz_20100
+clear  ../EAF2010data/eaf_clear_20100
+a2data  ../EAF2010data/eaf_a2_20100
+

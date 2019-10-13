@@ -1,0 +1,36 @@
+!begin rubric
+!******************************************************************************
+!*                          COMMERCIAL IN CONFIDENCE                          *
+!*                         UK Atomic Energy Authority                         *
+!*                                   and                                      *
+!*                         Culham Electromagnetics Ltd                        *
+!*                                                                            *
+!*                                 FISPACT-II                                 *
+!*                                                                            *
+!******************************************************************************
+!*                                                                            *
+!* This is an unpublished work created in 2009-13, any copyright in which     *
+!* vests in the UK Atomic Energy Authority, Culham Centre for Fusion Energy   *
+!* (CCFE) and in Culham Electromagnetics Limited (CEM). All rights reserved.  *
+!*                                                                            *
+!* The information contained in this software is proprietary to CCFE and CEM. *
+!* Unless stated otherwise it is made available in confidence; it must not be *
+!* used or disclosed without the express written consent of CCFE and CEM.     *
+!* This document may not be copied in whole or in part in any form without    *
+!* the express written consent of CCFE and CEM.                               *
+!*                                                                            *
+!* Authors: James Eastwood and Guy Morgan                                     *
+!* James.Eastwood@CulhamEM.co.uk, Guy.Morgan@CulhamEM.co.uk,                  *
+!* Copyright (c) 2009-13, CCFE and Culham Electromagnetics Ltd.               *
+!******************************************************************************
+!
+!--------------------------------------------------------------------------
+!! *Revision Information*
+!!
+!!     - $Date: 2013/05/01 15:51:01 $
+!!     - $Name: Release-2-20-01 $
+!!     - $RCSfile: rubric.txt,v $
+!!     - $Revision: 1.7 $
+!!
+!--------------------------------------------------------------------------
+!end rubric
