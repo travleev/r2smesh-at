@@ -1,8 +1,22 @@
 Prerequisites
 ======================
-The r2smesh system provided in this repository organizes the data flow from MCNP5 neutron transport calculations to the inventory calculations with FISPACT-II and further to the MCNP5 gamma transport calculations. MCNP and FISPACT neither distributed here nor required during at compile time of the r2smesh code. The user shall obtain MCNP and FISPACT separately. However, some modifications to the MCNP code are necessary to provide all data for the inventory calculations, and to properly sample the decay gamma source. The MCNP code modifications are provided in this repository as the patch files. Therefore, the use of the r2smesh system assumes that the user has the source code of MCNP. 
+The r2smesh system provided in this repository organizes the data flow from
+MCNP5 neutron transport calculations to the inventory calculations with
+FISPACT-II and further to the MCNP5 gamma transport calculations. MCNP and
+FISPACT neither distributed here nor required during compilation of the
+r2smesh code. The user shall obtain MCNP and FISPACT separately. However, some
+modifications to the MCNP code are necessary to provide all data for the
+inventory calculations, and to properly sample the decay gamma source. The MCNP
+code modifications are provided in this repository as the patch files.
+Therefore, the use of the r2smesh system assumes that the user has the source
+code of MCNP. 
 
-The central part of r2smesh is the activation driver -- a fortran program that prepares FISPACT-II input files based on the neutron flux and material distribution, and starts different steps of the inventory calculations in parallel via MPI. The activation driver requires Intel Fortran and Intel MPI implementation. Several shell scripts for pre- and postprocessing were written for and tested with the Bash shell. 
+The central part of r2smesh is the activation driver -- a fortran program that
+prepares FISPACT-II input files based on the neutron flux and material
+distribution, and starts different steps of the inventory calculations in
+parallel via MPI. The activation driver requires Intel Fortran and Intel MPI
+implementation. Several shell scripts for pre- and postprocessing were written
+for and tested with the Bash shell. 
 
 The r2smesh system was developed and tested only under the linux OS.
 
@@ -34,7 +48,7 @@ INSTALLATION INSTRUCTIONS
 3. Set environment variables (optional). 
    
    It suffices when the ``fispact-II`` executable is found in ``$PATH``. 
-   Otherwise, its location can be set explisitly with the ``$FISPACT`` environment  variable. 
+   Otherwise, its location can be set explicitly with the ``$FISPACT`` environment  variable. 
    Location of the decay data used by FISPACT-II for activation
    calculations can be set with the ``$FISPACT_DATA`` environment variable. If
    this variable is undefined, the default data path, guessed from the location
@@ -45,7 +59,7 @@ INSTALLATION INSTRUCTIONS
    the ``$R2S_SCRATCH`` environmental variable. By default, a subfolder
    ``scratch`` is created within the problem workspace. This is suitable for
    debugging and small problems; for massively parallel runs of the activation
-   driver consider using the node's local filesystem.
+   driver consider using the node's local file system.
 
 
 
@@ -91,14 +105,16 @@ INSTALLATION INSTRUCTIONS
 
    When the activation driver completes, the ``out`` folder contains several
    ``cgi.*.*.*`` files, containing decay gamma source information (intensities
-   and spectra) for fine mesh elements at each irradiation step. One ``cgi.*`` file corresponds to one
-   coarse mesh element. The ``cgi.*`` files can have different number of lines
-   (different sizes) since only fine mesh elements with non-zero decay gamma
-   intensity are mentioned. 
+   and spectra) for fine mesh elements at each irradiation step. One ``cgi.*``
+   file corresponds to one coarse mesh element. The ``cgi.*`` files can have
+   different number of lines (different sizes) since only fine mesh elements
+   with non-zero decay gamma intensity are mentioned. 
 
-   To prepare a decay gamma source for particular irradiation step, the separate ``cgi.*`` files 
-   must be processed with the `<scripts/form_dgs.sh>`_ script, which takes the name of the folder where ``cgi.*`` files are located and 
-   a list of irradiation step numbers, for whose the decay gamma source files must be prepared. ::
+   To prepare a decay gamma source for particular irradiation step, the
+   separate ``cgi.*`` files must be processed with the `<scripts/form_dgs.sh>`_
+   script, which takes the name of the folder where ``cgi.*`` files are located
+   and a list of irradiation step numbers, for whose the decay gamma source
+   files must be prepared. ::
 
       > scripts/form_dgs.sh out 45 46 47
 
@@ -110,9 +126,14 @@ INSTALLATION INSTRUCTIONS
    
 5. Apply MCNP patches 
 
-   The files describing material spatial distribution and isotopic compositions (these are the input files for the activation driver; their default names are ``input/fine_mesh_content`` and ``input/mat_table``) can be prepared with the version of MCNP5 modified with `<mcnp-mod/kit-materials.patch.5>`_. 
+   The files describing material spatial distribution and isotopic compositions
+   (these are the input files for the activation driver; their default names
+   are ``input/fine_mesh_content`` and ``input/mat_table``) can be prepared
+   with the version of MCNP5 modified with `<mcnp-mod/kit-materials.patch.5>`_. 
    
-   The ``dgs.NN`` files contain spatial and spectral distribution of the decay gamma source. They can be read directly to MCNP5 with the custom source subroutine provided in the `<mcnp-mod/kit-gamma.patch.5>`_ patch. 
+   The ``dgs.NN`` files contain spatial and spectral distribution of the decay
+   gamma source. They can be read directly to MCNP5 with the custom source
+   subroutine provided in the `<mcnp-mod/kit-gamma.patch.5>`_ patch. 
    
    TODO: describe how to apply the patches.
 
