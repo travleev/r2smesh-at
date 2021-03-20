@@ -22,3 +22,7 @@ The TODO list
   starts compilation with make. In case make does not find any new source file,
   it does not perform compilation. These two steps results in deleting the
   existing mcnp executable without generating a new one.  
+
+
+* When started on a single node (without mpi, e.g. on a local machine or a login node), all
+  files under $FISPACT_DATA are copied. This potentially can lead to disk space problems.

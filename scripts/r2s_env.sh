@@ -39,11 +39,12 @@ if [ -v R2S_ROOT ]; then
 else    
     # This situation is bad, but exiting the script will not help 
     # (on Marconi it will close the ssh connection, when this script
-    # is sourced). Therefore, siply warn the user.
-    echo "WARNING: R2S_ROOT variable is undefined. Check if it is guessed correctly"
+    # is sourced). Therefore, warn the user.
     r2s_root=`dirname $BASH_SOURCE`/..
     r2s_root=`realpath $r2s_root`
     export r2s_root
+    echo "WARNING: R2S_ROOT variable is undefined. Check if it is guessed correctly: "
+    echo "         R2S_ROOT set to $r2s_root"
 fi
 
 # Path to the activation driver executable
@@ -89,7 +90,7 @@ export r2s_natab=$r2s_root/files/natural.txt
 if [ -v FISPACT ]; then
     r2s_fispact_exe=$FISPACT
 else    
-    r2s_fispact_exe=`which fispact-II`
+    r2s_fispact_exe=`which fispact`  # FISPACT-II standard distribution contains precompiled exe named "fispact". Use this naem also here.
 fi
 export r2s_fispact_exe
 
@@ -106,6 +107,8 @@ if [ -v FISPACT_DATA ]; then
 else
     # FISPACT_DATA not set. Try to guess from the realpath to fispact-II executable
     r2s_fispact_data=$(dirname `realpath $r2s_fispact_exe`)
+    echo "WARNING: FISPACT_DATA variable is undefined. Check if it is guessed correctly: "
+    echo "         FISPACT_DATA set to $r2s_fispact_data"
 fi
 export r2s_fispact_data
 
