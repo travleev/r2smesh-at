@@ -71,10 +71,21 @@ case $host in
         module load compiler/intel/17.0 mpi/impi/2017
         export FOPT="-shared-intel" 
         ;;
+    local*)
+        # local machine. Assume Intel compiler is installed and setvars.sh is sourced
+        export CONFIG="mpi plot intel"
+        export MPI_ROOT=/opt/intel/oneapi/mpi/latest
+        export MPIFC=mpif90
+        export MPICC=mpicc
+        export FC=ifort
+        export FOPT="-shared-intel"
+        export FOPT="-shared-intel"
+        ;;
     *)
         # unknown cluster. 
         export CONFIG=""
         ;;
+
 esac;
 
 
@@ -83,7 +94,7 @@ if [[ -n $CONFIG ]]; then
     rm -f -v ../bin/mcnp?.mpi  # -f for ingnoring nonexisting files
 
     # Store current module configuration to log
-    module list 2>&1 | tee $log
+    module list 2>&1 || true | tee $log
     # run make
     make  build "$@"  2>&1 | tee -a $log
 

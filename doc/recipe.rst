@@ -14,7 +14,7 @@ the working place. The following files are required::
 
     input/meshtal.fine            # meshtal with neutron flux intensities
     input/meshtal.coarse          # meshtal with neutron spectra
-    input/fine_mesh_content       # material allocatiaon in the mesh
+    input/fine_mesh_content       # material allocation in the mesh
     input/mat_table               # Material compositions
     input/cmi_table               # Cell and material indices, names and densities.
     input/inventory_input_footer  # Irradiation scenario in fispact format.
